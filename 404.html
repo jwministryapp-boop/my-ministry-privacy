@@ -1,0 +1,266 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>404 — JW Ministry (Ministry Planner)</title>
+  <meta name="robots" content="noindex, follow" />
+  <link rel="icon" type="image/png" href="https://jwministryapp-boop.github.io/my-ministry-privacy/assets/logo.png" />
+  <style>
+    :root {
+      --accent: #6C418F;
+      --accent-dark: #532E72;
+      --accent-soft: rgba(108, 65, 143, 0.12);
+      --bg: #F6F5F9;
+      --card: #FFFFFF;
+      --text: #1B1924;
+      --muted: #646075;
+      --border: rgba(108, 65, 143, 0.16);
+      --shadow: 0 18px 46px rgba(32, 18, 48, 0.10);
+    }
+    @media (prefers-color-scheme: dark) {
+      :root {
+        --bg: #0D0C12;
+        --card: #181622;
+        --text: #F5F3FA;
+        --muted: #A39EB5;
+        --border: rgba(154, 107, 194, 0.22);
+        --accent-soft: rgba(138, 90, 178, 0.18);
+        --shadow: 0 20px 50px rgba(0, 0, 0, 0.45);
+      }
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "SF Pro Display", "SF Pro Text", "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      padding: 24px;
+      -webkit-font-smoothing: antialiased;
+    }
+    .card-404 {
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: 26px;
+      padding: 44px 36px;
+      max-width: 520px;
+      width: 100%;
+      text-align: center;
+      box-shadow: var(--shadow);
+    }
+    .app-icon-wrap {
+      position: relative;
+      width: 76px;
+      height: 76px;
+      margin: 0 auto 20px;
+    }
+    .app-icon-wrap img {
+      width: 76px;
+      height: 76px;
+      border-radius: 18px;
+      object-fit: cover;
+      display: block;
+      box-shadow: 0 8px 22px rgba(108, 65, 143, 0.32);
+    }
+    .code-pill {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      background: var(--accent-soft);
+      color: var(--accent);
+      font-weight: 800;
+      font-size: 0.82rem;
+      letter-spacing: 0.04em;
+      text-transform: uppercase;
+      padding: 6px 14px;
+      border-radius: 999px;
+      margin-bottom: 14px;
+    }
+    h1 {
+      font-size: clamp(1.55rem, 4vw, 2rem);
+      line-height: 1.2;
+      margin-bottom: 12px;
+      letter-spacing: -0.015em;
+    }
+    p.desc {
+      color: var(--muted);
+      font-size: 0.98rem;
+      line-height: 1.6;
+      margin-bottom: 28px;
+    }
+    .btn-col {
+      display: flex;
+      flex-direction: column;
+      gap: 12px;
+    }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      gap: 8px;
+      padding: 14px 22px;
+      border-radius: 14px;
+      font-weight: 700;
+      font-size: 0.98rem;
+      text-decoration: none;
+      transition: transform 0.15s ease, box-shadow 0.2s ease;
+    }
+    .btn:hover { transform: translateY(-2px); }
+    .btn-primary {
+      background: var(--accent);
+      color: #fff;
+      box-shadow: 0 10px 24px rgba(108, 65, 143, 0.30);
+    }
+    .btn-secondary {
+      background: transparent;
+      color: var(--text);
+      border: 1.5px solid var(--border);
+    }
+    .lang-links {
+      margin-top: 26px;
+      padding-top: 20px;
+      border-top: 1px solid var(--border);
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      gap: 8px;
+    }
+    .lang-chip {
+      font-size: 0.8rem;
+      font-weight: 600;
+      color: var(--muted);
+      text-decoration: none;
+      padding: 5px 11px;
+      border-radius: 999px;
+      border: 1px solid var(--border);
+      transition: all 0.18s;
+    }
+    .lang-chip:hover {
+      background: var(--accent);
+      color: #fff;
+      border-color: var(--accent);
+    }
+  </style>
+</head>
+<body>
+
+  <main class="card-404">
+    <div class="app-icon-wrap">
+      <img id="logo-404" src="https://jwministryapp-boop.github.io/my-ministry-privacy/assets/logo.png" onerror="this.src='./assets/logo.png'" alt="JW Ministry" width="76" height="76" />
+    </div>
+    <div class="code-pill" id="t-badge">404 • Страница не найдена</div>
+    <h1 id="t-title">Похоже, этот адрес не существует</h1>
+    <p class="desc" id="t-desc">
+      Возможно, ссылка устарела или в адресе была допущена опечатка. Вы можете вернуться на главную страницу JW Ministry или сразу открыть приложение в App Store.
+    </p>
+
+    <div class="btn-col">
+      <a id="home-btn" href="https://jwministryapp-boop.github.io/my-ministry-privacy/" class="btn btn-primary">
+        На главную страницу
+      </a>
+      <a id="store-btn" href="https://apps.apple.com/us/app/jw-ministry/id6756040136" target="_blank" rel="noopener" class="btn btn-secondary">
+         Открыть в App Store
+      </a>
+    </div>
+
+    <div class="lang-links" id="lang-links">
+      <a class="lang-chip" data-lang="en" href="https://jwministryapp-boop.github.io/my-ministry-privacy/en/">🇺🇸 English</a>
+      <a class="lang-chip" data-lang="ru" href="https://jwministryapp-boop.github.io/my-ministry-privacy/ru/">🇷🇺 Русский</a>
+      <a class="lang-chip" data-lang="es" href="https://jwministryapp-boop.github.io/my-ministry-privacy/es/">🇪🇸 Español</a>
+      <a class="lang-chip" data-lang="de" href="https://jwministryapp-boop.github.io/my-ministry-privacy/de/">🇩🇪 Deutsch</a>
+      <a class="lang-chip" data-lang="pt" href="https://jwministryapp-boop.github.io/my-ministry-privacy/pt/">🇧🇷 Português</a>
+      <a class="lang-chip" data-lang="fr" href="https://jwministryapp-boop.github.io/my-ministry-privacy/fr/">🇫🇷 Français</a>
+    </div>
+  </main>
+
+  <script>
+    (function() {
+      var COPY = {
+        ru: {
+          badge: "404 • Страница не найдена",
+          title: "Похоже, этот адрес не существует",
+          desc: "Возможно, ссылка устарела или в адресе была допущена опечатка. Перейдите на главную страницу JW Ministry или откройте приложение в App Store.",
+          home: "Перейти на главную",
+          store: " Скачать в App Store",
+          sub: "ru/"
+        },
+        en: {
+          badge: "404 • Page Not Found",
+          title: "This page could not be found",
+          desc: "The link you followed may be outdated or mistyped. Return to the JW Ministry home page or download the app on the App Store.",
+          home: "Back to Home Page",
+          store: " Download on the App Store",
+          sub: "en/"
+        },
+        es: {
+          badge: "404 • Página no encontrada",
+          title: "No pudimos encontrar esta página",
+          desc: "Es posible que el enlace haya cambiado o contenga un error. Vuelve a la página principal de JW Ministry o abre la App Store.",
+          home: "Ir a la página principal",
+          store: " Descargar en App Store",
+          sub: "es/"
+        },
+        de: {
+          badge: "404 • Seite nicht gefunden",
+          title: "Diese Seite existiert leider nicht",
+          desc: "Der Link ist möglicherweise veraltet oder fehlerhaft. Kehre zur Startseite von JW Ministry zurück oder öffne den App Store.",
+          home: "Zur Startseite",
+          store: " Im App Store laden",
+          sub: "de/"
+        },
+        pt: {
+          badge: "404 • Página não encontrada",
+          title: "Não encontramos este endereço",
+          desc: "O link pode estar desatualizado ou incorreto. Volte para a página inicial do JW Ministry ou baixe na App Store.",
+          home: "Voltar para o início",
+          store: " Baixar na App Store",
+          sub: "pt/"
+        },
+        fr: {
+          badge: "404 • Page introuvable",
+          title: "Cette page n'existe pas",
+          desc: "Le lien suivi est peut-être obsolète ou erroné. Retournez à l'accueil de JW Ministry ou ouvrez l'App Store.",
+          home: "Retour à l'accueil",
+          store: " Télécharger sur l'App Store",
+          sub: "fr/"
+        }
+      };
+
+      var baseUrl = "https://jwministryapp-boop.github.io/my-ministry-privacy/";
+      if (window.location.protocol === "file:") {
+        baseUrl = "./";
+      }
+
+      var path = (window.location.pathname || "").toLowerCase();
+      var nav = (navigator.language || "en").toLowerCase();
+      var code = "en";
+
+      if (path.indexOf("/ru/") !== -1 || nav.startsWith("ru") || nav.startsWith("uk") || nav.startsWith("be")) code = "ru";
+      else if (path.indexOf("/es/") !== -1 || nav.startsWith("es")) code = "es";
+      else if (path.indexOf("/de/") !== -1 || nav.startsWith("de")) code = "de";
+      else if (path.indexOf("/pt/") !== -1 || nav.startsWith("pt")) code = "pt";
+      else if (path.indexOf("/fr/") !== -1 || nav.startsWith("fr")) code = "fr";
+
+      var t = COPY[code] || COPY.en;
+      document.documentElement.lang = code;
+      document.getElementById("t-badge").innerText = t.badge;
+      document.getElementById("t-title").innerText = t.title;
+      document.getElementById("t-desc").innerText = t.desc;
+      document.getElementById("home-btn").innerText = t.home;
+      document.getElementById("home-btn").href = baseUrl + (baseUrl === "./" ? t.sub + "index.html" : t.sub);
+      document.getElementById("store-btn").innerText = t.store;
+
+      if (baseUrl === "./") {
+        document.querySelectorAll(".lang-chip").forEach(function(a) {
+          var l = a.getAttribute("data-lang");
+          a.href = "./" + l + "/index.html";
+        });
+      }
+    })();
+  </script>
+</body>
+</html>
