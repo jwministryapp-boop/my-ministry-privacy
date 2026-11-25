@@ -247,5 +247,9 @@
       "❌ Не обновляются",
       "✅ Нативный SwiftUI (35+ языков)"
     ]
-  ]
+  ],
+  "filter_all": "📱 iPhone (8)",
+  "filter_light": "☀️ Светлая тема (6)",
+  "filter_dark": "🌙 Тёмная OLED (2)",
+  "filter_ipad": "💻 iPad"
 }

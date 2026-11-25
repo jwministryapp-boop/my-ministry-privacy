@@ -239,5 +239,9 @@
       "❌ Abandonnées",
       "✅ Architecture native SwiftUI"
     ]
-  ]
+  ],
+  "filter_all": "📱 iPhone (8)",
+  "filter_light": "☀️ Mode Clair (6)",
+  "filter_dark": "🌙 Mode Sombre OLED (2)",
+  "filter_ipad": "💻 iPad"
 }

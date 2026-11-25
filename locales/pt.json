@@ -239,5 +239,9 @@
       "❌ Desatualizados",
       "✅ Nativo em SwiftUI"
     ]
-  ]
+  ],
+  "filter_all": "📱 iPhone (8)",
+  "filter_light": "☀️ Modo Claro (6)",
+  "filter_dark": "🌙 Modo Escuro OLED (2)",
+  "filter_ipad": "💻 iPad"
 }

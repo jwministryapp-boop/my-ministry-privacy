@@ -58,13 +58,16 @@ def render(code, d, is_root=False):
     ipad_btn_html = ""
     ipad_shots_html = []
     if IPAD_FILES:
-        ipad_btn_html = f'<button class="filter-btn" onclick="filterScreenshots(\'ipad\', this)">💻 iPad ({len(IPAD_FILES)})</button>'
+        ipad_lbl = d.get("filter_ipad", "💻 iPad")
+        ipad_btn_html = f'<button class="filter-btn" onclick="filterScreenshots(\'ipad\', this)">{ipad_lbl} ({len(IPAD_FILES)})</button>'
+        shot_lookup = {fn: (st, sd) for fn, st, sd in d["shots"]}
         for idx, ifile in enumerate(IPAD_FILES, 1):
             isrc = f"{prefix}/screenshots/iPad/{quote(ifile)}"
             schema_shots.append(f"{base_url}/screenshots/iPad/{quote(ifile)}")
+            ititle, idesc = shot_lookup.get(ifile, (f"iPad — #{idx}", "JW Ministry — iPadOS"))
             ipad_shots_html.append(f"""<article class="shot-card ipad-card" data-theme-shot="ipad">
-              <div class="ipad-frame"><img src="{isrc}" alt="JW Ministry on iPad — Screen {idx}" loading="lazy" /></div>
-              <div class="shot-meta"><h3>iPadOS — #{idx}</h3><p>JW Ministry (Ministry Planner) — iPad</p></div>
+              <div class="ipad-frame"><img src="{isrc}" alt="{ititle} — iPad" loading="lazy" /></div>
+              <div class="shot-meta"><h3>iPad • {ititle}</h3><p>{idesc}</p></div>
             </article>""")
 
     feats_html = [f'<div class="feat-card"><div class="feat-icon">{ic}</div><h3>{ft}</h3><p>{fd}</p></div>' for ic, ft, fd in d["features"]]

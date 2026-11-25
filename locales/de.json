@@ -239,5 +239,9 @@
       "❌ Veraltet",
       "✅ Modernes SwiftUI-Design"
     ]
-  ]
+  ],
+  "filter_all": "📱 iPhone (8)",
+  "filter_light": "☀️ Heller Modus (6)",
+  "filter_dark": "🌙 Dunkelmodus OLED (2)",
+  "filter_ipad": "💻 iPad"
 }
