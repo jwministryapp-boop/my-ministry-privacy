@@ -4,9 +4,9 @@
   "og_locale": "pt_BR",
   "name": "Português",
   "flag": "🇧🇷",
-  "title": "JW Ministry (Ministry Planner) — App de Serviço de Campo, Relatório de Pioneiro, Territórios e Estudos Bíblicos no iPhone e iPad",
-  "description": "Baixe o JW Ministry (Ministry Planner) para iOS e iPadOS: cronômetro de pregação com Dynamic Island, relatório mensal de campo, controle de horas de pioneiro regular (50 h / 600 h no ano de serviço) e auxiliar (15 e 30 h), territórios de casa em casa e estudos bíblicos.",
-  "keywords": "aplicativo serviço de campo JW iPhone, app relatório de pregação, horas pioneiro regular 50 horas, ano de serviço 600 horas setembro agosto, pioneiro auxiliar 15 30 horas, territórios de casa em casa não em casa, lembrete de revisitas, estudos bíblicos Seja Feliz para Sempre, alternativa ServicePlanner MyTime iOS, JW Ministry, Ministry Planner",
+  "title": "JW Ministry (Ministry Planner) — App de Serviço de Campo para Testemunhas de Jeová: Relatório, Programação de Pioneiro e Territórios",
+  "description": "Aplicativo de serviço de campo para as Testemunhas de Jeová (JW) no iPhone e iPad. Novo relatório de serviço de campo JW, programação e horas de pioneiro regular (50 h) e pioneiro auxiliar (15 e 30 h), ano de serviço, territórios pessoais e estudos bíblicos.",
+  "keywords": "relatório de serviço de campo testemunhas de jeová, pioneiros testemunhas de jeová, app relatório de campo jw, relatorio serviço de campo jw, novo relatório de campo jw, pioneiro regular jw, programação pioneiro regular jw, horas pioneiro regular jw, programação pioneiro auxiliar jw, pioneiro auxiliar 15 horas jw, pioneiro auxiliar 30 horas jw, ano de serviço jw, territórios casa em casa",
   "nav_screens": "Telas do App",
   "nav_features": "Recursos",
   "nav_languages": "35+ Idiomas",
@@ -15,7 +15,7 @@
   "nav_faq": "Perguntas",
   "badge": "Disponível para iPhone e iPad • Versão 1.8 • 35+ Idiomas",
   "hero_title": "Seu companheiro completo para o serviço de campo e pioneirismo",
-  "hero_sub": "O JW Ministry (Ministry Planner) reúne tudo em um app privado para iOS: cronômetro de ministério com Live Activities, acompanhamento de estudantes da Bíblia, relatórios por ano de serviço, metas de horas de pioneiro e cartões de territórios.",
+  "hero_sub": "O JW Ministry (Ministry Planner) é o aplicativo completo para o serviço de campo das Testemunhas de Jeová no iPhone e iPad: cronômetro de pregação, novo relatório de campo, programação de pioneiro regular e auxiliar e controle de territórios.",
   "cta_appstore": "Baixar na App Store",
   "cta_donate": "Apoiar o desenvolvedor",
   "stat_1_val": "35+",
@@ -123,6 +123,10 @@
   "faq_title": "Perguntas Frequentes",
   "faqs": [
     [
+      "Como montar minha programação de pioneiro regular ou pioneiro auxiliar no aplicativo?",
+      "Na aba Calendário você pode planejar seus dias de pregação para cumprir sua programação de pioneiro regular (50 horas mensais) ou pioneiro auxiliar (15 ou 30 horas), acompanhando em tempo real as horas planejadas e as horas já realizadas no mês."
+    ],
+    [
       "Onde ficam salvos meus relatórios e territórios?",
       "Exclusivamente na memória do seu iPhone ou iPad. Nenhum dado é enviado para servidores externos."
     ],
@@ -150,8 +154,8 @@
   "footer_privacy": "Política de Privacidade",
   "footer_issues": "Suporte no GitHub",
   "footer_contact": "Falar com o Desenvolvedor",
-  "seo_sec_title": "Feito para cada modalidade do seu ministério de campo",
-  "seo_sec_sub": "Veja como o JW Ministry ajuda publicadores, pioneiros auxiliares, regulares e especiais durante todo o ano de serviço.",
+  "seo_sec_title": "Criado para o Serviço de Campo e Pioneiros das Testemunhas de Jeová",
+  "seo_sec_sub": "Controle seu relatório de serviço de campo, programação de pioneiro regular ou auxiliar e territórios pessoais durante todo o ano de serviço.",
   "seo_pillars": [
     [
       "🎯 Pioneiros Regulares e Especiais (50, 90 e 100 horas / Ano de Serviço)",
@@ -172,13 +176,13 @@
   ],
   "seo_tags_title": "Buscas populares sobre o serviço de campo:",
   "seo_tags": [
-    "aplicativo serviço de campo JW iPhone",
-    "relatório mensal de pregação iOS",
-    "controle de horas pioneiro regular 50 h",
-    "ano de serviço 600 horas setembro a agosto",
-    "pioneiro auxiliar 15 e 30 horas",
-    "territórios de casa em casa e prédios",
-    "lembrete de revisitas e estudos bíblicos",
-    "alternativa ao ServicePlanner no iPhone"
+    "relatório de serviço de campo testemunhas de jeová",
+    "pioneiros testemunhas de jeová app",
+    "app relatório de campo jw",
+    "novo relatório de campo jw",
+    "programação pioneiro regular jw 50 horas",
+    "programação pioneiro auxiliar jw 15 e 30 horas",
+    "horas pioneiro regular jw ano de serviço",
+    "controle de territórios pessoais e revisitas"
   ]
 }

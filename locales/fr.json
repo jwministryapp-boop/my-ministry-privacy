@@ -4,9 +4,9 @@
   "og_locale": "fr_FR",
   "name": "Français",
   "flag": "🇫🇷",
-  "title": "JW Ministry (Ministry Planner) — Application de Prédication, Rapport de Pionnier, Territoires & Cours Bibliques sur iPhone et iPad",
-  "description": "Téléchargez JW Ministry (Ministry Planner) pour iOS et iPadOS : chronomètre de prédication avec Dynamic Island, rapport mensuel du service du champ, suivi d'heures pionnier permanent (50 h / 600 h année de service) et auxiliaire (15 et 30 h), territoires de maison en maison et cours bibliques.",
-  "keywords": "application prédication JW iPhone, rapport de service du champ iOS, heures pionnier permanent 50 heures, année de service 600 heures septembre août, pionnier auxiliaire 15 30 heures, gestion territoires maison en maison absents, rappel nouvelles visites, suivi cours bibliques Vivez pour toujours, alternative ServicePlanner MyTime iOS, JW Ministry, Ministry Planner",
+  "title": "JW Ministry (Ministry Planner) — Application de Prédication pour les Témoins de Jéhovah : Rapport, Pionniers & Territoires (iPhone / iPad)",
+  "description": "Application de prédication et de service du champ pour les Témoins de Jéhovah (JW) sur iOS et iPadOS. Rapport de prédication JW, suivi des heures de pionnier permanent (50 h) et pionnier auxiliaire (15 et 30 h), année de service, territoires personnels et cours bibliques.",
+  "keywords": "temoin de jehovah predication, pionnier témoins de jéhovah, rapport de prédication jw, pionnier permanent jw, pionnier auxiliaire permanent jw, pionnier auxiliaire jw 15 30 heures, application prédication jw iphone, année de service témoins de jéhovah, territoires personnels porte à porte",
   "nav_screens": "Captures",
   "nav_features": "Fonctionnalités",
   "nav_languages": "35+ Langues",
@@ -15,7 +15,7 @@
   "nav_faq": "FAQ",
   "badge": "Disponible sur iPhone & iPad • Version 1.8 • 35+ Langues",
   "hero_title": "Votre compagnon complet pour la prédication et le service de pionnier",
-  "hero_sub": "JW Ministry (Ministry Planner) réunit tout dans une application iOS privée : chronomètre de ministère avec Live Activities, suivi des cours bibliques, rapports par année de service, objectifs de pionnier et fiches de territoires.",
+  "hero_sub": "JW Ministry (Ministry Planner) est l'application complète pour la prédication et le service de pionnier des Témoins de Jéhovah sur iPhone et iPad : chronomètre en direct, rapport de prédication, programme de pionnier permanent ou auxiliaire et fiches de territoires.",
   "cta_appstore": "Télécharger sur l'App Store",
   "cta_donate": "Soutenir le développeur",
   "stat_1_val": "35+",
@@ -123,6 +123,10 @@
   "faq_title": "Questions fréquentes",
   "faqs": [
     [
+      "L'application prend-elle en charge le service de pionnier permanent et de pionnier auxiliaire ?",
+      "Oui, vous pouvez sélectionner votre rôle de Proclamateur, Pionnier auxiliaire (15 h ou 30 h), Pionnier permanent (50 h) ou Pionnier spécial (90 / 100 h) et suivre votre programme mensuel ainsi que votre objectif sur toute l'année de service."
+    ],
+    [
       "Où sont stockés mes rapports et notes de territoires ?",
       "Uniquement dans la mémoire interne de votre iPhone ou iPad. Aucune donnée n'est transmise à des serveurs externes."
     ],
@@ -150,8 +154,8 @@
   "footer_privacy": "Política de confidentialité",
   "footer_issues": "Support GitHub",
   "footer_contact": "Contacter le développeur",
-  "seo_sec_title": "Conçu pour chaque aspect de votre ministère du champ",
-  "seo_sec_sub": "Comment JW Ministry accompagne les proclamateurs, pionniers auxiliaires, permanents et spéciaux tout au long de l'année de service.",
+  "seo_sec_title": "Conçu pour la prédication et les pionniers des Témoins de Jéhovah",
+  "seo_sec_sub": "Gérez votre rapport de prédication JW, vos objectifs de pionnier permanent ou auxiliaire et vos territoires tout au long de l'année de service.",
   "seo_pillars": [
     [
       "🎯 Pionniers Permanents et Spéciaux (50, 90 et 100 h / Année de service)",
@@ -172,13 +176,13 @@
   ],
   "seo_tags_title": "Recherches fréquentes autour du ministère :",
   "seo_tags": [
-    "application prédication JW iPhone",
-    "rapport mensuel de service du champ",
-    "compteur d'heures pionnier permanent 50 h",
-    "année de service 600 heures septembre–août",
-    "pionnier auxiliaire 15 et 30 heures",
-    "gestion territoires porte-à-porte et absents",
-    "rappel de nouvelles visites et cours bibliques",
-    "alternative ServicePlanner et MyTime iOS"
+    "temoin de jehovah predication application",
+    "pionnier témoins de jéhovah heures",
+    "rapport de prédication jw mensuel",
+    "pionnier permanent jw 50 heures",
+    "pionnier auxiliaire permanent jw",
+    "pionnier auxiliaire jw 15 et 30 heures",
+    "année de service témoins de jéhovah",
+    "territoires personnels et nouvelles visites"
   ]
 }

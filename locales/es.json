@@ -4,9 +4,9 @@
   "og_locale": "es_ES",
   "name": "Español",
   "flag": "🇪🇸",
-  "title": "JW Ministry (Ministry Planner) — App para el Servicio del Campo, Informe de Precursor, Territorios y Estudios Bíblicos en iPhone y iPad",
-  "description": "Descarga JW Ministry (Ministry Planner) para iOS y iPadOS: temporizador de predicación con Dynamic Island, informe mensual del servicio del campo, control de horas para precursor regular (50 h / 600 h año de servicio) y auxiliar (15 y 30 h), territorios de casa en casa y cursos bíblicos.",
-  "keywords": "app servicio del campo JW iPhone, aplicación informe de predicación, horas precursor regular 50 horas, año de servicio 600 horas septiembre agosto, precursor auxiliar 15 30 horas, app territorios casa en casa no en casa, recordatorio de revisitas, control cursos bíblicos Disfrute de la vida para siempre, alternativa ServicePlanner MyTime iOS, JW Ministry, Ministry Planner",
+  "title": "JW Ministry (Ministry Planner) — App de Predicación para Testigos de Jehová: Informe, Horario de Precursor y Territorios (iPhone / iPad)",
+  "description": "Aplicación de servicio del campo para los Testigos de Jehová (JW) en iOS y iPadOS. Nuevo informe de predicación JW 2026, horario y horas de precursor regular (50 h) y precursor auxiliar (15 y 30 h), año de servicio, control de territorios personales y cursos bíblicos.",
+  "keywords": "testigos de jehova predicacion, precursores regulares testigos de jehova, año de servicio testigos de jehova, informe de predicación jw 2026, nuevo informe de predicación jw, precursor regular jw horas, horario precursor regular jw, horario precursor auxiliar jw, precursor auxiliar 15 horas jw, precursor auxiliar 30 horas jw, territorios personales jw, programa territorios jw, registro y control de territorios jw",
   "nav_screens": "Capturas",
   "nav_features": "Funciones",
   "nav_languages": "35+ Idiomas",
@@ -15,7 +15,7 @@
   "nav_faq": "Preguntas",
   "badge": "Disponible para iPhone y iPad • Versión 1.8 • 35+ Idiomas",
   "hero_title": "Tu compañero completo para el servicio del campo y el precursorado",
-  "hero_sub": "JW Ministry (Ministry Planner) reúne todo en una app privada para iOS: temporizador de ministerio con Live Activities, seguimiento de estudiantes de la Biblia, informes por año de servicio, metas de horas de precursor y tarjetas de territorios.",
+  "hero_sub": "JW Ministry (Ministry Planner) es la aplicación completa para el servicio del campo de los Testigos de Jehová en iPhone y iPad: temporizador de predicación, nuevo informe mensual, horario de precursor regular y auxiliar, y registro de territorios personales.",
   "cta_appstore": "Descargar en App Store",
   "cta_donate": "Apoyar al desarrollador",
   "stat_1_val": "35+",
@@ -123,6 +123,10 @@
   "faq_title": "Preguntas frecuentes",
   "faqs": [
     [
+      "¿Cómo ayuda JW Ministry a organizar el horario de precursor regular o auxiliar?",
+      "En la pestaña Calendario puedes armar tu horario de precursor regular (50 horas al mes / 600 al año de servicio) o tu horario de precursor auxiliar de 15 o 30 horas, viendo en todo momento cuántas horas tienes planeadas en el mes y cuántas te faltan para cumplir tu meta."
+    ],
+    [
       "¿Dónde se guardan mis informes y notas de territorios?",
       "Únicamente en la memoria interna de tu iPhone o iPad. No se envía ningún dato a servidores externos."
     ],
@@ -150,8 +154,8 @@
   "footer_privacy": "Política de privacidad",
   "footer_issues": "Soporte en GitHub",
   "footer_contact": "Contactar al desarrollador",
-  "seo_sec_title": "Diseñada para cada faceta de tu ministerio del campo",
-  "seo_sec_sub": "Cómo JW Ministry ayuda a publicadores, precursores auxiliares, precursores regulares y especiales durante todo el año de servicio.",
+  "seo_sec_title": "Diseñada para la predicación y los precursores de los Testigos de Jehová",
+  "seo_sec_sub": "Control de horas, horario de precursor y registro de territorios personales durante todo el año de servicio 2025–2026 y 2026–2027.",
   "seo_pillars": [
     [
       "🎯 Precursores Regulares y Especiales (50, 90 y 100 horas / Año de servicio)",
@@ -172,14 +176,15 @@
   ],
   "seo_tags_title": "Búsquedas frecuentes sobre el ministerio:",
   "seo_tags": [
-    "app servicio del campo JW iPhone",
-    "informe mensual de predicación iOS",
-    "control de horas precursor regular 50 h",
-    "calculadora año de servicio septiembre–agosto",
-    "precursor auxiliar 15 y 30 horas",
-    "gestión de territorios de casa en casa",
-    "registro de no en casa y edificios",
-    "recordatorios de revisitas y estudios bíblicos",
-    "alternativa a ServicePlanner y MyTime en iOS"
+    "testigos de jehova predicacion app",
+    "precursores regulares testigos de jehova",
+    "nuevo informe de predicación jw 2026",
+    "horario precursor regular jw 50 horas",
+    "horario precursor auxiliar jw 15 y 30 horas",
+    "año de servicio testigos de jehova 2026–2027",
+    "territorios personales jw app",
+    "registro y control de territorios jw",
+    "programa territorios jw casa en casa",
+    "cursos bíblicos y revisitas jw"
   ]
 }

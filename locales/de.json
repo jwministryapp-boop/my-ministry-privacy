@@ -4,9 +4,9 @@
   "og_locale": "de_DE",
   "name": "Deutsch",
   "flag": "🇩🇪",
-  "title": "JW Ministry (Ministry Planner) — Predigtdienst-App, Pionier-Stundenplaner, Gebiete & Bibelstudien für iPhone & iPad",
-  "description": "JW Ministry (Ministry Planner) für iOS & iPadOS: Predigtdienst-Timer mit Dynamic Island, Monatsbericht, Stundenplaner für allgemeine Pioniere (50 Std. / 600 Std. Dienstjahr) und Hilfspioniere (15 & 30 Std.), Gebietskarten für den Haus-zu-Haus-Dienst und Bibelstudien-Verwaltung.",
-  "keywords": "Predigtdienst App iPhone, Predigtdienstbericht iOS, allgemeiner Pionier 50 Stunden Planer, Dienstjahr 600 Stunden September August, Hilfspionier 15 30 Stunden, Gebietsbearbeitung Haus zu Haus Notizen, Nicht zu Hause Liste, Rückbesuche Erinnerung, Bibelstudien Glücklich für immer, ServicePlanner Alternative iOS, JW Ministry, Ministry Planner",
+  "title": "JW Ministry (Ministry Planner) — Predigtdienst-App für Zeugen Jehovas: Predigtdienstbericht, Pionierdienst & Gebiete (iPhone / iPad)",
+  "description": "Predigtdienst-App für Zeugen Jehovas (JW) auf iOS & iPadOS. Predigtdienstbericht, Stundenplaner für Pionierdienst (Allgemeiner Pionier 50 Std., Hilfspionier 15 & 30 Std.), Dienstjahr Jehovas Zeugen, persönliche Gebietsbearbeitung und Bibelstudien.",
+  "keywords": "zeugen jehovas predigtdienst, predigtdienstbericht zeugen jehovas, zeugen jehovas pionierdienst, zeugen jehovas pionier, hilfspionier zeugen jehovas, allgemeiner pionier 50 stunden, dienstjahr jehovas zeugen, jw predigtdienst app iphone, gebietsbearbeitung haus zu haus, rückbesuche bibelstudien app",
   "nav_screens": "Screenshots",
   "nav_features": "Funktionen",
   "nav_languages": "35+ Sprachen",
@@ -15,7 +15,7 @@
   "nav_faq": "FAQ",
   "badge": "Für iPhone & iPad • Version 1.8 • 35+ Sprachen",
   "hero_title": "Dein kompletter Begleiter für Predigtdienst & Pionierdienst",
-  "hero_sub": "JW Ministry (Ministry Planner) vereint alles in einer privaten iOS-App: präziser Dienst-Timer mit Live Activities, Übersicht deiner Bibelstudien, Dienstjahresberichte, Pionier-Stundenziele und detaillierte Gebietskarten.",
+  "hero_sub": "JW Ministry (Ministry Planner) ist dein persönlicher Begleiter für den Predigtdienst und Pionierdienst der Zeugen Jehovas auf iPhone und iPad: präziser Timer, Monatsbericht, Dienstjahresübersicht, Pionier-Stundenziele und Gebietskarten.",
   "cta_appstore": "Im App Store laden",
   "cta_donate": "Entwickler unterstützen",
   "stat_1_val": "35+",
@@ -123,6 +123,10 @@
   "faq_title": "Häufig gestellte Fragen",
   "faqs": [
     [
+      "Unterstützt die App alle Stundenvorgaben für den Pionierdienst der Zeugen Jehovas?",
+      "Ja, du kannst in den Einstellungen zwischen Verkündiger, Hilfspionier (15 oder 30 Stunden), Allgemeiner Pionier (50 Stunden) und Sonderpionier (90 / 100 Stunden) wählen oder ein eigenes Monatsziel für das Dienstjahr festlegen."
+    ],
+    [
       "Wo werden meine Berichte und Gebietsnotizen gespeichert?",
       "Ausschließlich lokal auf deinem iPhone oder iPad. Es gibt keine externen Server."
     ],
@@ -150,8 +154,8 @@
   "footer_privacy": "Datenschutzerklärung",
   "footer_issues": "GitHub Support",
   "footer_contact": "Kontakt",
-  "seo_sec_title": "Entwickelt für jeden Bereich deines Predigtdienstes",
-  "seo_sec_sub": "Wie JW Ministry Verkündiger, Hilfspioniere, allgemeine Pioniere und Sonderpioniere durch das gesamte Dienstjahr begleitet.",
+  "seo_sec_title": "Optimiert für den Predigtdienst und Pionierdienst der Zeugen Jehovas",
+  "seo_sec_sub": "Alle Funktionen für Verkündiger, Hilfspioniere und allgemeine Pioniere im Dienstjahr.",
   "seo_pillars": [
     [
       "🎯 Allgemeine Pioniere & Sonderpioniere (50, 90 & 100 Stunden / Dienstjahr)",
@@ -172,13 +176,13 @@
   ],
   "seo_tags_title": "Häufige Suchanfragen rund um den Predigtdienst:",
   "seo_tags": [
-    "Predigtdienst App iPhone & iPad",
-    "Predigtdienstbericht Monatsübersicht",
-    "Allgemeiner Pionier 50 Stunden Tracker",
-    "Dienstjahr 600 Stunden Rechner Sept–Aug",
-    "Hilfspionier 15 und 30 Stunden",
-    "Gebiete Haus zu Haus & Nicht zu Hause Notizen",
-    "Rückbesuche & Bibelstudien verwalten",
-    "ServicePlanner Alternative für iOS"
+    "zeugen jehovas predigtdienst app",
+    "predigtdienstbericht zeugen jehovas",
+    "zeugen jehovas pionierdienst planer",
+    "hilfspionier zeugen jehovas 15 & 30 std",
+    "allgemeiner pionier 50 stunden",
+    "dienstjahr jehovas zeugen 2026",
+    "jw predigtdienst app iPhone & iPad",
+    "persönliche gebiete & rückbesuche"
   ]
 }
