@@ -109,6 +109,13 @@
             <div class="stat-box"><div class="stat-val">{{STAT_2_VAL}}</div><div class="stat-lbl">{{STAT_2_LBL}}</div></div>
             <div class="stat-box"><div class="stat-val">{{STAT_3_VAL}}</div><div class="stat-lbl">{{STAT_3_LBL}}</div></div>
             <div class="stat-box"><div class="stat-val">{{STAT_4_VAL}}</div><div class="stat-lbl">{{STAT_4_LBL}}</div></div>
+            <a href="{{APP_STORE_URL}}" target="_blank" rel="noopener" class="stat-box stat-qr-box" title="{{QR_SCAN_SUB}}">
+              <img src="https://api.qrserver.com/v1/create-qr-code/?size=140x140&data={{APP_STORE_URL_ENCODED}}" alt="QR Code App Store JW Ministry" width="46" height="46" loading="lazy" />
+              <div class="stat-qr-text">
+                <div class="stat-qr-title">QR App Store</div>
+                <div class="stat-lbl">{{QR_SCAN_TITLE}}</div>
+              </div>
+            </a>
           </div>
         </div>
 
