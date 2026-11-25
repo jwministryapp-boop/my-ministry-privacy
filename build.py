@@ -95,6 +95,7 @@ def render(code, d, is_root=False):
     comp_table_html = f'<table class="comp-table"><thead><tr>{th_cells}</tr></thead><tbody>{"".join(tr_list)}</tbody></table>'
 
     faqs_html = [f'<details class="faq-item"><summary>{q}</summary><p>{a}</p></details>' for q, a in d["faqs"]]
+    wn_items_html = [f"<li>{item}</li>" for item in d.get("wn_items", [])]
 
     schema = [
         {
@@ -115,6 +116,23 @@ def render(code, d, is_root=False):
             "@context": "https://schema.org",
             "@type": "FAQPage",
             "mainEntity": [{"@type": "Question", "name": q, "acceptedAnswer": {"@type": "Answer", "text": a}} for q, a in d["faqs"]]
+        },
+        {
+            "@context": "https://schema.org",
+            "@type": "HowTo",
+            "name": d.get("howto_name", "How to Track Field Service Hours"),
+            "step": [
+                {"@type": "HowToStep", "position": idx, "name": st_name, "text": st_txt}
+                for idx, (st_name, st_txt) in enumerate(d.get("howto_steps", []), 1)
+            ]
+        },
+        {
+            "@context": "https://schema.org",
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+                {"@type": "ListItem", "position": 1, "name": "JW Ministry", "item": f"{base_url}/"},
+                {"@type": "ListItem", "position": 2, "name": d["name"], "item": canonical}
+            ]
         }
     ]
 
@@ -142,6 +160,7 @@ def render(code, d, is_root=False):
         "{{SEO_TAGS_CLOUD}}": "\n            ".join(seo_tags_html),
         "{{LANG_BADGES}}": "\n            ".join(badges_html),
         "{{FAQ_LIST}}": "\n          ".join(faqs_html),
+        "{{WN_LIST_ITEMS}}": "\n            ".join(wn_items_html),
         "{{APP_STORE_ID}}": CFG["app_store_id"],
         "{{APP_STORE_URL}}": CFG["app_store_url"],
         "{{APP_STORE_URL_ENCODED}}": quote(CFG["app_store_url"], safe=""),
@@ -171,3 +190,27 @@ for code, data in LANGS.items():
         f.write(render(code, data, is_root=False))
 
 print(f"✅ Сборка V2 завершена! Найдено скриншотов iPad: {len(IPAD_FILES)}; подключено интерактивных языковых папок: {len(CFG['lang_folder_map'])}.")
+
+
+# Генерируем расширенный sitemap.xml с поддержкой Google Images (xmlns:image) и hreflang
+base_url = CFG["base_url"]
+url_blocks = []
+page_entries = [("", LANGS["en"])] + [(c, LANGS[c]) for c in CFG["supported_langs"]]
+for sub, ldata in page_entries:
+    loc = f"{base_url}/" if sub == "" else f"{base_url}/{sub}/"
+    sfolder = quote(ldata["shot_folder"])
+    img_tags = []
+    for fn, stitle, _ in ldata["shots"]:
+        img_url = f"{base_url}/screenshots/{sfolder}/{fn}"
+        safe_title = stitle.replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
+        img_tags.append(f"    <image:image>\n      <image:loc>{img_url}</image:loc>\n      <image:title>{safe_title} — JW Ministry</image:title>\n    </image:image>")
+    imgs_joined = "\n".join(img_tags)
+    prio = "1.0" if sub == "" else "0.95"
+    url_blocks.append(f"  <url>\n    <loc>{loc}</loc>\n    <changefreq>weekly</changefreq>\n    <priority>{prio}</priority>\n{imgs_joined}\n  </url>")
+
+url_blocks.append(f"  <url>\n    <loc>{base_url}/privacy-policy.html</loc>\n    <changefreq>monthly</changefreq>\n    <priority>0.5</priority>\n  </url>")
+
+sitemap_content = '<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">\n' + "\n".join(url_blocks) + "\n</urlset>\n"
+with open(os.path.join(BASE, "sitemap.xml"), "w", encoding="utf-8") as f:
+    f.write(sitemap_content)
+print("✅ Расширенный Image Sitemap (sitemap.xml) и llms.txt успешно обновлены!")

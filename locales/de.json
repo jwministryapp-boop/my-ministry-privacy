@@ -243,5 +243,32 @@
   "filter_all": "📱 iPhone (8)",
   "filter_light": "☀️ Heller Modus (6)",
   "filter_dark": "🌙 Dunkelmodus OLED (2)",
-  "filter_ipad": "💻 iPad"
+  "filter_ipad": "💻 iPad",
+  "wn_title": "🚀 Neu in JW Ministry Version 1.8",
+  "wn_items": [
+    "Automatische Summe der geplanten Monatsstunden im Kalender mit doppeltem Plan-vs.-Ist-Fortschrittsbalken.",
+    "Geplante Predigtdiensttermine im Kalender per Wischgeste direkt in den Monatsbericht übernehmen.",
+    "Sofortsuche nach Adresse oder Namen in allen Gebieten sowie 10 Farbthemen für Gebietskarten.",
+    "Unterstützung für das kommende Dienstjahr (2026–2027) im Bericht-Tab.",
+    "Vollständige Anpassung an die neuesten iOS- & iPadOS-Versionen und verbesserter Backup-Schutz."
+  ],
+  "howto_name": "Wie man Predigtdienststunden und Pionierdienst auf dem iPhone plant",
+  "howto_steps": [
+    [
+      "Dienstrolle und Monatsziel wählen",
+      "Wähle in den Einstellungen Verkündiger, Hilfspionier (15/30 Std.) oder Allgemeiner Pionier (50 Std.)."
+    ],
+    [
+      "Timer starten oder im Kalender planen",
+      "Nutze den Live-Timer auf dem Sperrbildschirm oder übernimm geplante Termine per Wischgeste in den Bericht."
+    ],
+    [
+      "Gebiete und Bibelstudien dokumentieren",
+      "Erfasse Haus-zu-Haus-Notizen, Wohnungen und den Lektionsfortschritt deiner Studierenden."
+    ],
+    [
+      "Monatsbericht am 1. des Monats teilen",
+      "Prüfe deine Monatsübersicht im Bericht-Tab und teile deinen Predigtdienstbericht."
+    ]
+  ]
 }

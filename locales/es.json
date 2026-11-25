@@ -245,5 +245,32 @@
   "filter_all": "📱 iPhone (8)",
   "filter_light": "☀️ Modo Claro (6)",
   "filter_dark": "🌙 Modo Oscuro OLED (2)",
-  "filter_ipad": "💻 iPad"
+  "filter_ipad": "💻 iPad",
+  "wn_title": "🚀 Novedades de la versión 1.8 de JW Ministry",
+  "wn_items": [
+    "Suma automática de horas planeadas al mes en el Calendario y barra de progreso doble (Plan vs. Real).",
+    "Convierte cualquier salida planeada del Calendario en un registro del Informe deslizando el dedo.",
+    "Búsqueda instantánea por dirección o nombre en Territorios y 10 colores para organizar tus tarjetas.",
+    "Soporte para el próximo año de servicio (2026–2027) en la pestaña Informe.",
+    "Optimización completa para las últimas versiones de iOS y iPadOS y mayor protección de copias de seguridad."
+  ],
+  "howto_name": "Cómo llevar el informe de predicación y horario de precursor en iPhone",
+  "howto_steps": [
+    [
+      "Configura tu rol y meta mensual",
+      "Elige Publicador, Precursor Auxiliar (15/30 h) o Precursor Regular (50 h) en Ajustes."
+    ],
+    [
+      "Usa el temporizador o el Calendario",
+      "Inicia el cronómetro con Dynamic Island o convierte tus planes del Calendario en registros del Informe."
+    ],
+    [
+      "Registra territorios y cursos bíblicos",
+      "Anota visitas de casa en casa, edificios y el avance de tus estudiantes de la Biblia."
+    ],
+    [
+      "Envía tu informe el día 1 del mes",
+      "Comparte tu resumen mensual de horas y cursos bíblicos con un solo toque."
+    ]
+  ]
 }

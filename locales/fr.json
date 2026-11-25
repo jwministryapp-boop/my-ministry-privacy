@@ -243,5 +243,32 @@
   "filter_all": "📱 iPhone (8)",
   "filter_light": "☀️ Mode Clair (6)",
   "filter_dark": "🌙 Mode Sombre OLED (2)",
-  "filter_ipad": "💻 iPad"
+  "filter_ipad": "💻 iPad",
+  "wn_title": "🚀 Nouveautés de la version 1.8 de JW Ministry",
+  "wn_items": [
+    "Calcul automatique des heures planifiées du mois dans le Calendrier et double barre Prévu vs Réel.",
+    "Convertissez une session planifiée du Calendrier en entrée du Rapport d'un simple balayage.",
+    "Recherche instantanée par adresse ou nom dans les Territoires et 10 thèmes de couleurs.",
+    "Prise en charge de la prochaine année de service (2026–2027) dans l'onglet Rapport.",
+    "Optimisation complète pour les dernières versions d'iOS et iPadOS et protection renforcée des sauvegardes."
+  ],
+  "howto_name": "Comment suivre son rapport de prédication et son programme de pionnier sur iPhone",
+  "howto_steps": [
+    [
+      "Choisir son rôle et son objectif mensuel",
+      "Sélectionnez Proclamateur, Pionnier auxiliaire (15/30 h) ou Pionnier permanent (50 h) dans les Réglages."
+    ],
+    [
+      "Lancer le chronomètre ou planifier au Calendrier",
+      "Suivez votre temps sur la Dynamic Island ou transférez vos plans du Calendrier vers le Rapport."
+    ],
+    [
+      "Noter ses territoires et cours bibliques",
+      "Enregistrez vos visites de porte-à-porte et la leçon étudiée avec chaque étudiant."
+    ],
+    [
+      "Envoyer son rapport mensuel le 1er du mois",
+      "Partagez votre bilan mensuel d'heures et de cours bibliques en un geste."
+    ]
+  ]
 }

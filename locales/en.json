@@ -250,5 +250,32 @@
   "filter_all": "📱 iPhone (8)",
   "filter_light": "☀️ Light Mode (6)",
   "filter_dark": "🌙 Dark OLED (2)",
-  "filter_ipad": "💻 iPad"
+  "filter_ipad": "💻 iPad",
+  "wn_title": "🚀 What's New in JW Ministry Version 1.8",
+  "wn_items": [
+    "Automatic monthly planned-hours total in the Calendar with a dual Planned vs. Actual progress bar.",
+    "1-swipe conversion of any scheduled Calendar ministry session directly into a monthly Report entry.",
+    "Instant search by street address or resident name across Territories, plus 10 color themes for territory cards.",
+    "Upcoming Service Year (2026–2027) support in the Report tab with a sleek annual balance summary.",
+    "Full optimization for the latest iOS & iPadOS releases and enhanced on-device backup protection."
+  ],
+  "howto_name": "How to Track Field Service Hours & Pioneer Schedule on iPhone",
+  "howto_steps": [
+    [
+      "Set your service role and monthly target",
+      "Choose Publisher, Auxiliary Pioneer (15/30 h), or Regular Pioneer (50 h) in Settings, or set a custom monthly hour target."
+    ],
+    [
+      "Run the live timer or schedule in the Calendar",
+      "Track field ministry on the Lock Screen & Dynamic Island, or swipe scheduled Calendar events directly into your Report."
+    ],
+    [
+      "Log territories and Bible studies",
+      "Record house-to-house visits, apartment statuses, and attach Bible students with their current lesson."
+    ],
+    [
+      "Share your monthly field service report",
+      "On the 1st of the month, open the Report tab to review and share your completed hours and Bible studies."
+    ]
+  ]
 }

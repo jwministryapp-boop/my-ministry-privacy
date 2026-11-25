@@ -243,5 +243,32 @@
   "filter_all": "📱 iPhone (8)",
   "filter_light": "☀️ Modo Claro (6)",
   "filter_dark": "🌙 Modo Escuro OLED (2)",
-  "filter_ipad": "💻 iPad"
+  "filter_ipad": "💻 iPad",
+  "wn_title": "🚀 Novidades da versão 1.8 do JW Ministry",
+  "wn_items": [
+    "Soma automática das horas planejadas no mês no Calendário com barra dupla (Planejado vs. Real).",
+    "Transforme compromissos planejados do Calendário em registros do Relatório deslizando o dedo.",
+    "Busca rápida por endereço ou nome do morador nos Territórios e 10 cores para personalizar cartões.",
+    "Suporte para o próximo ano de serviço (2026–2027) na aba Relatório.",
+    "Adaptação total para as versões mais recentes do iOS e iPadOS e proteção reforçada de backups."
+  ],
+  "howto_name": "Como controlar o relatório de campo e programação de pioneiro no iPhone",
+  "howto_steps": [
+    [
+      "Defina sua designação e meta mensal",
+      "Escolha Publicador, Pioneiro Auxiliar (15/30 h) ou Pioneiro Regular (50 h) nos Ajustes."
+    ],
+    [
+      "Inicie o cronômetro ou planeje no Calendário",
+      "Acompanhe o tempo na Dynamic Island ou envie planos do Calendário direto para o Relatório."
+    ],
+    [
+      "Gerencie territórios e estudantes da Bíblia",
+      "Registre visitas de casa em casa, prédios e a lição atual de cada estudante."
+    ],
+    [
+      "Compartilhe seu relatório no dia 1º",
+      "Envie o resumo mensal de horas e estudos bíblicos com um toque."
+    ]
+  ]
 }
