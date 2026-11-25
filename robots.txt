@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://myministry.github.io/information/sitemap.xml

@@ -1,0 +1,145 @@
+{
+  "shot_folder": "English",
+  "html_lang": "en",
+  "og_locale": "en_US",
+  "name": "English",
+  "flag": "🇺🇸",
+  "title": "JW Ministry (Ministry Planner) — Field Service Tracker, Pioneer Hours, Territories & Bible Studies App for iPhone & iPad",
+  "description": "Official page of JW Ministry (Ministry Planner) for iOS & iPadOS. Built-in field service timer with Live Activities, Bible students tracker, monthly & service year pioneer hour goals (15, 30, 50h), territory & house-to-house record management, and 100% private offline storage with iCloud backup.",
+  "keywords": "JW Ministry, Ministry Planner, field service app, JW field service report, pioneer hours tracker, regular pioneer 50 hours, auxiliary pioneer 15 30 hours, Bible study tracker, Enjoy Life Forever lesson tracker, territory manager house to house, return visits reminder, ministry timer Dynamic Island, Jehovah's Witnesses ministry app iOS iPad",
+  "nav_screens": "App Screens",
+  "nav_features": "All Features",
+  "nav_languages": "35+ Languages",
+  "nav_privacy": "Privacy",
+  "nav_donate": "Support Project",
+  "nav_faq": "FAQ",
+  "badge": "Available for iPhone & iPad • Version 1.8 • 35+ Languages",
+  "hero_title": "Your Complete Field Service & Pioneer Companion",
+  "hero_sub": "JW Ministry (Ministry Planner) brings everything you need into one clean, private iOS app: accurate ministry timer with Live Activities, Bible student progress, service year reports, pioneer goal tracking, and detailed house-to-house territory cards.",
+  "cta_appstore": "Download on the App Store",
+  "cta_donate": "Support the Developer",
+  "stat_1_val": "35+",
+  "stat_1_lbl": "Interface Languages",
+  "stat_2_val": "100%",
+  "stat_2_lbl": "Offline & Private Data",
+  "stat_3_val": "iOS & iPad",
+  "stat_3_lbl": "Native SwiftUI Design",
+  "stat_4_val": "0 Ads",
+  "stat_4_lbl": "Free, No Subscriptions",
+  "screens_title": "Explore Every Screen of JW Ministry",
+  "screens_sub": "Actual screenshots from the app. Browse all 8 screens — from the live ministry timer and Bible students list to pioneer calendar goals, territory cards, and OLED dark mode.",
+  "shots": [
+    [
+      "1.jpg",
+      "1. Start Tab & Live Timer",
+      "Track your ministry time down to the second (08:04:08). Pause, save to report, or reset in one tap. Increment Bible studies during the session, attach specific Bible students (e.g., Alex), write session notes (territory number, companion), and see total time spent today."
+    ],
+    [
+      "2.jpg",
+      "2. Bible Students Manager",
+      "Keep an organized list of your Bible students. Record the exact study publication, lesson, and section (for example: 'Enjoy Life Forever!, lesson 24, section 3') and add new students in seconds."
+    ],
+    [
+      "3.jpg",
+      "3. Service Year & Monthly Reports",
+      "Switch between service years (2025–2026, 2026–2027), monitor total service year hours and remaining hours, review every month with detailed session logs, study counts, student tags, and share your monthly report on the 1st."
+    ],
+    [
+      "4.jpg",
+      "4. Pioneer Calendar & Goal Progress",
+      "See your current role (Regular pioneer – 50 h, Auxiliary 15/30 h, or Publisher) and personal monthly target (e.g., 55 h). Visual progress bar shows hours completed this month, remaining monthly hours, and full service year balance alongside your daily schedule."
+    ],
+    [
+      "5.jpg",
+      "5. Territory Cards & Door-to-Door Log",
+      "Attach photos of territory maps or buildings (e.g., Territory A-8), filter addresses, and log every visit with date, visit status ('First visit', 'Not at home', 'Refusal'), and doorway notes like 'No intercom'."
+    ],
+    [
+      "6.jpg",
+      "6. Flexible Settings & Cloud Backup",
+      "Export or import full JSON backups via the top cloud buttons. Configure your service role, custom monthly hour target, September–August service year, 1st-of-the-month report reminders at 20:00, and return visit notifications after N days."
+    ],
+    [
+      "7.jpg",
+      "7. True Black OLED Dark Mode (Timer)",
+      "Designed for comfort during evening witnessing and battery saving on OLED iPhones. High-contrast purple accents keep controls clear in any lighting."
+    ],
+    [
+      "8.jpg",
+      "8. OLED Dark Mode (Settings & Goals)",
+      "Every screen, sheet, and widget seamlessly adapts to iOS system Light and Dark appearances."
+    ]
+  ],
+  "feat_sec_title": "Everything You Need for Organized Ministry",
+  "feat_sec_sub": "Built specifically around the real workflow of publishers, auxiliary pioneers, regular pioneers, and special pioneers.",
+  "features": [
+    [
+      "⏱️",
+      "Smart Timer, Widgets & Live Activities",
+      "Start your ministry timer from the app, Home Screen widget, or Lock Screen. Your active timer stays visible on the Dynamic Island and Lock Screen even when your iPhone is locked."
+    ],
+    [
+      "📚",
+      "Bible Studies & Publication Progress",
+      "Link Bible studies directly to your daily report entries. Track each student's name and current lesson in 'Enjoy Life Forever!' or any other study aid."
+    ],
+    [
+      "📊",
+      "Service Roles & Personal Hour Targets",
+      "Supports Publisher, Auxiliary Pioneer (15 or 30 hours), Regular Pioneer (50 hours), Special Pioneer / Missionary (90 / 100 hours), plus a custom 'Personal target' override (e.g., 55 hours/month)."
+    ],
+    [
+      "🗓️",
+      "Service Year (Sept–Aug) & Calendar",
+      "Plan ministry meetings, recurring schedules, and Family Worship in the Calendar. Compare planned vs. actual hours, convert planned sessions into report entries with a swipe, and track your annual pioneer goal."
+    ],
+    [
+      "🗺️",
+      "Territories, Apartments & Visit Reminders",
+      "Create cards for territories, multi-story apartment buildings, and private houses. Attach map photos, color-code cards, search by address or resident name, and receive automatic reminders to make return visits."
+    ],
+    [
+      "🔒",
+      "100% On-Device Privacy & Full Backups",
+      "No registration, no accounts, no external servers, and zero analytics. All records and territory photos stay locally on your iPhone/iPad, with instant backup export & restore to iCloud Drive or Files."
+    ]
+  ],
+  "lang_sec_title": "Fully Localized into 35+ Languages",
+  "lang_sec_sub": "The app interface, widgets, and notifications automatically match your device language:",
+  "donate_badge": "❤️ Independent & Ad-Free Project",
+  "donate_title": "Support the Development of JW Ministry",
+  "donate_sub": "JW Ministry is created and maintained by an independent developer for personal use. There are no ads, no paid tiers, and no subscriptions. If the app makes your ministry easier, you can support future iOS updates and Apple Developer license renewal:",
+  "card_fiat_title": "Support by Card (Worldwide)",
+  "card_fiat_desc": "Quick one-time tip or monthly support from any country via Boosty or Patreon:",
+  "btn_boosty": "Support on Boosty (Cards / Apple Pay)",
+  "btn_patreon": "Support on Patreon",
+  "card_crypto_title": "Direct Crypto Transfer (0% Platform Fee)",
+  "card_crypto_desc": "Instant transfer directly to the developer's wallet:",
+  "usdt_label": "USDT (TRC-20 / TRON Network only):",
+  "ton_label": "TON / USDT (TON Network):",
+  "copy_btn": "Copy",
+  "copied_msg": "Copied!",
+  "crypto_warn": "⚠️ For the TQQx... address, send assets via TRON (TRC-20) network only.",
+  "faq_title": "Frequently Asked Questions",
+  "faqs": [
+    [
+      "Where are my ministry records and territory notes stored?",
+      "Exclusively on your device (iPhone or iPad). The app has no external database or cloud server, ensuring complete confidentiality of your personal notes and addresses."
+    ],
+    [
+      "How do I transfer my data to a new iPhone or iPad?",
+      "Open the Settings tab and tap the Cloud Upload icon in the top-right corner to export a full backup file (including territory photos) to iCloud Drive or AirDrop. On your new device, tap the Cloud Download icon to restore everything in one tap."
+    ],
+    [
+      "How do automatic return visit reminders work?",
+      "In Settings → Notifications, enable 'Remind about return visits to addresses' and set the interval (for example, 3 days). If you haven't logged a follow-up visit to an address within that period, the app will gently remind you."
+    ],
+    [
+      "Does the app support the September–August Service Year?",
+      "Yes! Both the Report tab and the Calendar summary calculate monthly and annual hours across the official September–August service year, including remaining hours toward your annual pioneer goal."
+    ]
+  ],
+  "footer_privacy": "Privacy Policy",
+  "footer_issues": "GitHub Support & Feedback",
+  "footer_contact": "Contact Developer"
+}

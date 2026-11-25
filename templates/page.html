@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+<html lang="{{HTML_LANG}}">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>{{TITLE}}</title>
+  <meta name="description" content="{{DESCRIPTION}}" />
+  <meta name="keywords" content="{{KEYWORDS}}" />
+  <meta name="robots" content="index, follow, max-image-preview:large" />
+  <meta name="apple-itunes-app" content="app-id={{APP_STORE_ID}}" />
+  <link rel="canonical" href="{{CANONICAL_URL}}" />
+  {{HREFLANG_TAGS}}
+
+  <meta property="og:type" content="website" />
+  <meta property="og:locale" content="{{OG_LOCALE}}" />
+  <meta property="og:site_name" content="JW Ministry — Ministry Planner" />
+  <meta property="og:title" content="{{TITLE}}" />
+  <meta property="og:description" content="{{DESCRIPTION}}" />
+  <meta property="og:url" content="{{CANONICAL_URL}}" />
+  <meta property="og:image" content="{{OG_IMAGE_URL}}" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="{{TITLE}}" />
+  <meta name="twitter:description" content="{{DESCRIPTION}}" />
+  <meta name="twitter:image" content="{{OG_IMAGE_URL}}" />
+
+  <link rel="stylesheet" href="{{PREFIX}}/assets/css/style.css" />
+  <script type="application/ld+json">
+{{JSON_LD}}
+  </script>
+  {{AUTO_REDIRECT_SCRIPT}}
+</head>
+<body>
+
+  <header class="topbar">
+    <div class="container topbar-inner">
+      <a href="{{PREFIX}}/index.html" class="brand">
+        <span class="brand-icon">JW</span>
+        <span>JW Ministry</span>
+      </a>
+      <nav class="nav-links">
+        <a href="#screens">{{NAV_SCREENS}}</a>
+        <a href="#features">{{NAV_FEATURES}}</a>
+        <a href="#languages">{{NAV_LANGUAGES}}</a>
+        <a href="#donate">{{NAV_DONATE}}</a>
+        <a href="#faq">{{NAV_FAQ}}</a>
+        <a href="{{PREFIX}}/privacy-policy.html">{{NAV_PRIVACY}}</a>
+      </nav>
+      <div class="lang-bar">
+        {{LANG_PILLS}}
+      </div>
+    </div>
+  </header>
+
+  <main>
+    <section class="hero">
+      <div class="container hero-grid">
+        <div>
+          <span class="badge">{{BADGE}}</span>
+          <h1>{{HERO_TITLE}}</h1>
+          <p class="lead">{{HERO_SUB}}</p>
+          <div class="cta-row">
+            <a href="{{APP_STORE_URL}}" class="btn btn-primary" target="_blank" rel="noopener">
+               {{CTA_APPSTORE}}
+            </a>
+            <a href="#donate" class="btn btn-secondary">
+              ❤️ {{CTA_DONATE}}
+            </a>
+          </div>
+          <div class="stats-row">
+            <div class="stat-box"><div class="stat-val">{{STAT_1_VAL}}</div><div class="stat-lbl">{{STAT_1_LBL}}</div></div>
+            <div class="stat-box"><div class="stat-val">{{STAT_2_VAL}}</div><div class="stat-lbl">{{STAT_2_LBL}}</div></div>
+            <div class="stat-box"><div class="stat-val">{{STAT_3_VAL}}</div><div class="stat-lbl">{{STAT_3_LBL}}</div></div>
+            <div class="stat-box"><div class="stat-val">{{STAT_4_VAL}}</div><div class="stat-lbl">{{STAT_4_LBL}}</div></div>
+          </div>
+        </div>
+
+        <div class="hero-phones">
+          <div class="hero-phone"><img src="{{HERO_IMG_LEFT}}" alt="Calendar & Pioneer Goal — JW Ministry" width="220" height="475" /></div>
+          <div class="hero-phone center"><img src="{{HERO_IMG_CENTER}}" alt="Ministry Timer — JW Ministry" width="240" height="518" /></div>
+          <div class="hero-phone"><img src="{{HERO_IMG_RIGHT}}" alt="Service Year Report — JW Ministry" width="220" height="475" /></div>
+        </div>
+      </div>
+    </section>
+
+    <section id="screens">
+      <div class="container">
+        <div class="sec-head">
+          <h2>{{SCREENS_TITLE}}</h2>
+          <p>{{SCREENS_SUB}}</p>
+        </div>
+        <div class="filter-bar">
+          <button class="filter-btn active" onclick="filterScreenshots('all', this)">All (8)</button>
+          <button class="filter-btn" onclick="filterScreenshots('light', this)">☀️ Light (6)</button>
+          <button class="filter-btn" onclick="filterScreenshots('dark', this)">🌙 Dark OLED (2)</button>
+        </div>
+        <div class="shots-grid">
+          {{SHOTS_GRID}}
+        </div>
+      </div>
+    </section>
+
+    <section id="features">
+      <div class="container">
+        <div class="sec-head">
+          <h2>{{FEAT_SEC_TITLE}}</h2>
+          <p>{{FEAT_SEC_SUB}}</p>
+        </div>
+        <div class="feat-grid">
+          {{FEATURES_GRID}}
+        </div>
+      </div>
+    </section>
+
+    <section id="languages">
+      <div class="container">
+        <div class="loc-box">
+          <h2>🌍 {{LANG_SEC_TITLE}}</h2>
+          <p style="color: var(--muted); margin-top: 6px;">{{LANG_SEC_SUB}}</p>
+          <div class="loc-cloud">
+            {{LANG_BADGES}}
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section id="donate">
+      <div class="container">
+        <div class="donate-wrap">
+          <div class="donate-head">
+            <span class="donate-badge">{{DONATE_BADGE}}</span>
+            <h2>{{DONATE_TITLE}}</h2>
+            <p>{{DONATE_SUB}}</p>
+          </div>
+          <div class="donate-grid">
+            <div class="donate-card">
+              <h3>💳 {{CARD_FIAT_TITLE}}</h3>
+              <p>{{CARD_FIAT_DESC}}</p>
+              <div class="donate-btns">
+                <a href="{{BOOSTY_URL}}" target="_blank" rel="noopener" class="btn btn-boosty">🔥 {{BTN_BOOSTY}}</a>
+                <a href="{{PATREON_URL}}" target="_blank" rel="noopener" class="btn btn-patreon">🧡 {{BTN_PATREON}}</a>
+              </div>
+            </div>
+
+            <div class="donate-card">
+              <h3>⚡ {{CARD_CRYPTO_TITLE}}</h3>
+              <p>{{CARD_CRYPTO_DESC}}</p>
+              <div class="wallet-box">
+                <span class="wallet-lbl">{{USDT_LABEL}}</span>
+                <div class="wallet-row">
+                  <code class="wallet-code" id="usdt-addr">{{USDT_TRC20}}</code>
+                  <button class="copy-btn" data-copied="{{COPIED_MSG}}" onclick="copyWalletText('usdt-addr', this)">{{COPY_BTN}}</button>
+                </div>
+              </div>
+              <div class="wallet-box">
+                <span class="wallet-lbl">{{TON_LABEL}}</span>
+                <div class="wallet-row">
+                  <code class="wallet-code" id="ton-addr">{{TON_ADDRESS}}</code>
+                  <button class="copy-btn" data-copied="{{COPIED_MSG}}" onclick="copyWalletText('ton-addr', this)">{{COPY_BTN}}</button>
+                </div>
+              </div>
+              <div class="crypto-warn">{{CRYPTO_WARN}}</div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section id="faq">
+      <div class="container">
+        <div class="sec-head">
+          <h2>{{FAQ_TITLE}}</h2>
+        </div>
+        <div class="faq-list">
+          {{FAQ_LIST}}
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <div class="container footer-inner">
+      <div>© 2025–2026 JW Ministry (Ministry Planner). All rights reserved.</div>
+      <div class="footer-links">
+        <a href="{{PREFIX}}/privacy-policy.html">{{FOOTER_PRIVACY}}</a>
+        <a href="{{GITHUB_ISSUES_URL}}" target="_blank" rel="noopener">{{FOOTER_ISSUES}}</a>
+        <a href="mailto:{{CONTACT_EMAIL}}">{{FOOTER_CONTACT}} ({{CONTACT_EMAIL}})</a>
+      </div>
+    </div>
+  </footer>
+
+  <script src="{{PREFIX}}/assets/js/main.js"></script>
+</body>
+</html>

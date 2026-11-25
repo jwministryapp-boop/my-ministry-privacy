@@ -1,0 +1,145 @@
+{
+  "shot_folder": "French",
+  "html_lang": "fr",
+  "og_locale": "fr_FR",
+  "name": "Français",
+  "flag": "🇫🇷",
+  "title": "JW Ministry (Ministry Planner) — Chronomètre de Prédication, Rapport de Pionnier, Territoires & Cours Bibliques sur iPhone et iPad",
+  "description": "Page officielle de JW Ministry (Ministry Planner) pour iOS. Chronomètre de ministère avec Live Activities, suivi des étudiants de la Bible, objectifs d'heures de pionnier (15, 30, 50 h), gestion des territoires de maison en maison et sauvegarde privée iCloud.",
+  "keywords": "JW Ministry, Ministry Planner, application prédication JW, rapport de service du champ, heures pionnier permanent 50 heures, pionnier auxiliaire 15 30 heures, suivi cours bibliques, gestion territoires porte à porte, nouvelles visites rappel, année de service septembre août iOS",
+  "nav_screens": "Captures",
+  "nav_features": "Fonctionnalités",
+  "nav_languages": "35+ Langues",
+  "nav_privacy": "Confidentialité",
+  "nav_donate": "Soutenir",
+  "nav_faq": "FAQ",
+  "badge": "Disponible sur iPhone & iPad • Version 1.8 • 35+ Langues",
+  "hero_title": "Votre compagnon complet pour la prédication et le service de pionnier",
+  "hero_sub": "JW Ministry (Ministry Planner) réunit tout dans une application iOS privée : chronomètre de ministère avec Live Activities, suivi des cours bibliques, rapports par année de service, objectifs de pionnier et fiches de territoires.",
+  "cta_appstore": "Télécharger sur l'App Store",
+  "cta_donate": "Soutenir le développeur",
+  "stat_1_val": "35+",
+  "stat_1_lbl": "Langues disponibles",
+  "stat_2_val": "100%",
+  "stat_2_lbl": "Local & Privé",
+  "stat_3_val": "iPhone & iPad",
+  "stat_3_lbl": "Design natif iOS",
+  "stat_4_val": "0 Publicité",
+  "stat_4_lbl": "Gratuit, sans abonnement",
+  "screens_title": "Découvrez chaque écran de JW Ministry",
+  "screens_sub": "Captures d'écran réelles de l'application en français — du chronomètre et des cours bibliques au calendrier de pionnier, aux territoires et au mode sombre OLED.",
+  "shots": [
+    [
+      "1.jpg",
+      "1. Onglet Début & Chronomètre en direct",
+      "Mesurez votre temps de prédication à la seconde près, ajoutez vos cours bibliques, sélectionnez l'étudiant et notez les détails de la session."
+    ],
+    [
+      "2.jpg",
+      "2. Gestion des étudiants de la Bible",
+      "Enregistrez chaque étudiant avec la publication, la leçon et la section en cours (ex. : « Vivez pour toujours !, leçon 24 »)."
+    ],
+    [
+      "3.jpg",
+      "3. Rapport mensuel et année de service",
+      "Suivez le total des heures de l'année de service (2025–2026) et le reste à effectuer, consultez chaque mois et partagez votre rapport."
+    ],
+    [
+      "4.jpg",
+      "4. Calendrier & Objectif de pionnier",
+      "Choisissez votre rôle (Pionnier permanent – 50 h, Auxiliaire 15/30 h ou Proclamateur) ou un objectif mensuel personnalisé avec barre de progression."
+    ],
+    [
+      "5.jpg",
+      "5. Fiches de territoires & Porte-à-porte",
+      "Ajoutez une photo du plan du territoire, filtrez les adresses et notez chaque visite, absence ou remarque."
+    ],
+    [
+      "6.jpg",
+      "6. Réglages, Rappels & Sauvegarde Cloud",
+      "Exportez et importez vos sauvegardes via les icônes cloud en haut à droite, et activez les rappels du rapport le 1er du mois et des nouvelles visites."
+    ],
+    [
+      "7.jpg",
+      "7. Mode Sombre OLED (Chronomètre)",
+      "Affichage sombre confortable pour le témoignage en soirée et l'économie de batterie."
+    ],
+    [
+      "8.jpg",
+      "8. Mode Sombre OLED (Réglages)",
+      "Adaptation complète aux thèmes clair et sombre d'iOS."
+    ]
+  ],
+  "feat_sec_title": "Tout ce qu'il vous faut pour organiser votre ministère",
+  "feat_sec_sub": "Conçu pour les proclamateurs, pionniers auxiliaires, permanents et spéciaux.",
+  "features": [
+    [
+      "⏱️",
+      "Chronomètre, Widgets & Dynamic Island",
+      "Lancez le minuteur depuis l'écran d'accueil ou de verrouillage et suivez-le en direct sur la Dynamic Island."
+    ],
+    [
+      "📚",
+      "Suivi des cours bibliques",
+      "Associez vos étudiants à chaque entrée du rapport et gardez une trace précise de la leçon étudiée."
+    ],
+    [
+      "📊",
+      "Objectifs de pionnier et cibles personnelles",
+      "Prend en charge les objectifs de 15, 30, 50, 90 et 100 heures ainsi qu'un objectif mensuel personnalisé."
+    ],
+    [
+      "🗓️",
+      "Année de service (Sept.–Août) & Calendrier",
+      "Planifiez vos rendez-vous de prédication et le culte familial, et convertissez un plan en rapport d'un simple balayage."
+    ],
+    [
+      "🗺️",
+      "Territoires, Immeubles & Rappels de visites",
+      "Gérez vos territoires avec photos, couleurs, recherche rapide et rappels automatiques de nouvelles visites."
+    ],
+    [
+      "🔒",
+      "Confidentialité 100 % locale & Sauvegarde iCloud",
+      "Aucun compte ni serveur externe. Toutes vos données restent sur votre iPhone/iPad."
+    ]
+  ],
+  "lang_sec_title": "Entièrement traduit dans plus de 35 langues",
+  "lang_sec_sub": "L'interface, les widgets et les notifications s'adaptent automatiquement à la langue de votre appareil :",
+  "donate_badge": "❤️ Projet indépendant sans publicité",
+  "donate_title": "Soutenir le développement de JW Ministry",
+  "donate_sub": "JW Ministry est gratuite et sans abonnement. Si l'application vous aide dans votre ministère, vous pouvez soutenir les futures mises à jour iOS et la licence Apple Developer :",
+  "card_fiat_title": "Soutenir par Carte (International)",
+  "card_fiat_desc": "Don rapide via Boosty ou Patreon :",
+  "btn_boosty": "Soutenir sur Boosty",
+  "btn_patreon": "Soutenir sur Patreon",
+  "card_crypto_title": "Crypto en direct (0 % de frais)",
+  "card_crypto_desc": "Transfert direct vers le portefeuille du développeur :",
+  "usdt_label": "USDT (réseau TRC-20 / TRON uniquement) :",
+  "ton_label": "TON / USDT (réseau TON) :",
+  "copy_btn": "Copier",
+  "copied_msg": "Copié !",
+  "crypto_warn": "⚠️ Envoyez uniquement des actifs sur le réseau TRON (TRC-20) vers l'adresse TQQx...",
+  "faq_title": "Questions fréquentes",
+  "faqs": [
+    [
+      "Où sont stockés mes rapports et notes de territoires ?",
+      "Uniquement dans la mémoire interne de votre iPhone ou iPad. Aucune donnée n'est transmise à des serveurs externes."
+    ],
+    [
+      "Comment transférer mes données vers un nouvel iPhone ?",
+      "Dans l'onglet Réglages, touchez l'icône de nuage avec une flèche vers le haut pour exporter votre sauvegarde vers iCloud Drive, puis restaurez-la sur votre nouvel appareil."
+    ],
+    [
+      "Comment fonctionnent les rappels de nouvelles visites ?",
+      "Dans Réglages → Notifications, activez le rappel des nouvelles visites et choisissez le délai en jours avant d'être alerté."
+    ],
+    [
+      "L'année de service de septembre à août est-elle prise en charge ?",
+      "Oui, les rapports mensuels et le bilan annuel sont calculés selon l'année de service de septembre à août."
+    ]
+  ],
+  "footer_privacy": "Política de confidentialité",
+  "footer_issues": "Support GitHub",
+  "footer_contact": "Contacter le développeur"
+}

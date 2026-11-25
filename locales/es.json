@@ -1,0 +1,145 @@
+{
+  "shot_folder": "Spanish",
+  "html_lang": "es",
+  "og_locale": "es_ES",
+  "name": "Español",
+  "flag": "🇪🇸",
+  "title": "JW Ministry (Ministry Planner) — Temporizador de Predicación, Informe de Precursor, Territorios y Estudios Bíblicos en iPhone y iPad",
+  "description": "Sitio oficial de JW Ministry (Ministry Planner) para iOS. Temporizador de servicio del campo con Live Activities, control de cursos bíblicos, metas de precursor regular y auxiliar (15, 30, 50 h), gestión de territorios de casa en casa y copias de seguridad privadas en iCloud.",
+  "keywords": "JW Ministry, Ministry Planner, app servicio del campo, informe de predicación JW, horas precursor regular 50 horas, precursor auxiliar 15 30 horas, registro de estudios bíblicos, gestión de territorios casa en casa, revisitas recordatorio, año de servicio septiembre agosto iOS",
+  "nav_screens": "Capturas",
+  "nav_features": "Funciones",
+  "nav_languages": "35+ Idiomas",
+  "nav_privacy": "Privacidad",
+  "nav_donate": "Apoyar",
+  "nav_faq": "Preguntas",
+  "badge": "Disponible para iPhone y iPad • Versión 1.8 • 35+ Idiomas",
+  "hero_title": "Tu compañero completo para el servicio del campo y el precursorado",
+  "hero_sub": "JW Ministry (Ministry Planner) reúne todo en una app privada para iOS: temporizador de ministerio con Live Activities, seguimiento de estudiantes de la Biblia, informes por año de servicio, metas de horas de precursor y tarjetas de territorios.",
+  "cta_appstore": "Descargar en App Store",
+  "cta_donate": "Apoyar al desarrollador",
+  "stat_1_val": "35+",
+  "stat_1_lbl": "Idiomas incluidos",
+  "stat_2_val": "100%",
+  "stat_2_lbl": "Privado en tu dispositivo",
+  "stat_3_val": "iPhone & iPad",
+  "stat_3_lbl": "Diseño nativo iOS",
+  "stat_4_val": "Sin anuncios",
+  "stat_4_lbl": "Totalmente gratis",
+  "screens_title": "Descubre cada pantalla de JW Ministry",
+  "screens_sub": "Capturas reales de la aplicación en español. Explora las 8 pantallas: desde el temporizador y los cursos bíblicos hasta el calendario de precursor, territorios y modo oscuro OLED.",
+  "shots": [
+    [
+      "1.jpg",
+      "1. Temporizador de ministerio en vivo",
+      "Registra tu tiempo al segundo, pausa o guarda en el informe con un toque, añade cursos bíblicos de la sesión, selecciona al estudiante y escribe notas del territorio."
+    ],
+    [
+      "2.jpg",
+      "2. Gestión de estudiantes de la Biblia",
+      "Guarda el nombre de cada estudiante junto con la publicación, lección y sección actual (por ejemplo, «¡Disfrute de la vida para siempre!, lección 24»)."
+    ],
+    [
+      "3.jpg",
+      "3. Informe mensual y por año de servicio",
+      "Consulta el total de horas del año de servicio (2025–2026) y las horas restantes, revisa cada día del mes y comparte tu informe fácilmente."
+    ],
+    [
+      "4.jpg",
+      "4. Calendario y meta de precursor",
+      "Configura tu asignación (Precursor regular – 50 h, Auxiliar 15/30 h o Publicador) y tu meta personal mensual con barra de progreso mensual y anual."
+    ],
+    [
+      "5.jpg",
+      "5. Territorios y registro de casa en casa",
+      "Añade fotos del mapa del territorio, filtra direcciones y anota cada visita, revisita, «No en casa» o nota en la puerta."
+    ],
+    [
+      "6.jpg",
+      "6. Ajustes, recordatorios y copia en la nube",
+      "Exporta e importa copias de seguridad completas, activa el recordatorio el día 1 de cada mes a las 20:00 y avisos automáticos para revisitas."
+    ],
+    [
+      "7.jpg",
+      "7. Modo oscuro OLED (Temporizador)",
+      "Interfaz oscura de alto contraste para predicar por la tarde y ahorrar batería."
+    ],
+    [
+      "8.jpg",
+      "8. Modo oscuro OLED (Ajustes)",
+      "Adaptación completa al modo claro y oscuro del sistema iOS."
+    ]
+  ],
+  "feat_sec_title": "Todo lo que necesitas para organizar tu ministerio",
+  "feat_sec_sub": "Diseñado para publicadores, precursores auxiliares, precursores regulares y especiales.",
+  "features": [
+    [
+      "⏱️",
+      "Temporizador, Widgets y Dynamic Island",
+      "Inicia el contador desde la pantalla de inicio o bloqueo y síguelo en tiempo real en la Dynamic Island."
+    ],
+    [
+      "📚",
+      "Control de cursos bíblicos",
+      "Vincula tus estudiantes a cada sesión del informe y lleva el control exacto de la lección actual."
+    ],
+    [
+      "📊",
+      "Metas de precursor y objetivos personales",
+      "Compatible con metas de 15, 30, 50, 90 y 100 horas, además de metas mensuales personalizadas."
+    ],
+    [
+      "🗓️",
+      "Año de servicio (septiembre–agosto) y Calendario",
+      "Planifica tus salidas al ministerio y la Adoración en Familia, y convierte planes en registros del informe deslizando el dedo."
+    ],
+    [
+      "🗺️",
+      "Territorios, edificios y avisos de revisitas",
+      "Organiza calles y apartamentos, adjunta fotos, busca por nombre o dirección y recibe avisos para volver a visitar."
+    ],
+    [
+      "🔒",
+      "Privacidad 100% local y copias de seguridad",
+      "Sin cuentas ni servidores externos. Tus datos están solo en tu iPhone/iPad con respaldo fácil en iCloud Drive."
+    ]
+  ],
+  "lang_sec_title": "Traducido a más de 35 idiomas",
+  "lang_sec_sub": "La aplicación se adapta automáticamente al idioma de tu iPhone o iPad:",
+  "donate_badge": "❤️ Proyecto independiente sin publicidad",
+  "donate_title": "Apoya el desarrollo de JW Ministry",
+  "donate_sub": "JW Ministry es gratuita, sin anuncios ni suscripciones. Si te ayuda en tu ministerio, puedes apoyar el mantenimiento y la licencia anual de Apple Developer:",
+  "card_fiat_title": "Apoyo con tarjeta (Internacional)",
+  "card_fiat_desc": "Donación rápida con tarjeta o Apple Pay mediante Boosty o Patreon:",
+  "btn_boosty": "Apoyar en Boosty",
+  "btn_patreon": "Apoyar en Patreon",
+  "card_crypto_title": "Criptomonedas directo (0% comisión)",
+  "card_crypto_desc": "Transferencia directa a la billetera del desarrollador:",
+  "usdt_label": "USDT (solo red TRC-20 / TRON):",
+  "ton_label": "TON / USDT (red TON):",
+  "copy_btn": "Copiar",
+  "copied_msg": "¡Copiado!",
+  "crypto_warn": "⚠️ Envía únicamente activos de la red TRON (TRC-20) a la dirección TQQx...",
+  "faq_title": "Preguntas frecuentes",
+  "faqs": [
+    [
+      "¿Dónde se guardan mis informes y notas de territorios?",
+      "Únicamente en la memoria interna de tu iPhone o iPad. No se envía ningún dato a servidores externos."
+    ],
+    [
+      "¿Cómo paso mis datos a un iPhone nuevo?",
+      "En la pestaña Ajustes, toca el icono de la nube con flecha arriba para exportar tu copia de seguridad a iCloud Drive y restáurala en tu nuevo dispositivo con un toque."
+    ],
+    [
+      "¿Cómo funcionan los recordatorios de revisitas?",
+      "En Ajustes → Notificaciones puedes activar el aviso automático si no has registrado una nueva visita en una dirección después del número de días elegido."
+    ],
+    [
+      "¿Calcula el año de servicio de septiembre a agosto?",
+      "Sí, tanto la pestaña Informe como el Calendario suman las horas por año de servicio de septiembre a agosto."
+    ]
+  ],
+  "footer_privacy": "Política de privacidad",
+  "footer_issues": "Soporte en GitHub",
+  "footer_contact": "Contactar al desarrollador"
+}

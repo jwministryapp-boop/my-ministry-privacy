@@ -1,0 +1,145 @@
+{
+  "shot_folder": "Portuguese (Brazil)",
+  "html_lang": "pt",
+  "og_locale": "pt_BR",
+  "name": "Português",
+  "flag": "🇧🇷",
+  "title": "JW Ministry (Ministry Planner) — Cronômetro de Campo, Relatório de Pioneiro, Territórios e Estudos Bíblicos no iPhone e iPad",
+  "description": "Página oficial do JW Ministry (Ministry Planner) para iOS. Cronômetro de serviço de campo com Live Activities, controle de estudantes da Bíblia, metas de pioneiro regular e auxiliar (15, 30, 50 h), cartões de território de casa em casa e backup privado no iCloud.",
+  "keywords": "JW Ministry, Ministry Planner, aplicativo serviço de campo, relatório de pregação JW, horas pioneiro regular 50 horas, pioneiro auxiliar 15 30 horas, controle de estudos bíblicos, territórios casa em casa, lembrete de revisitas, ano de serviço setembro agosto iOS",
+  "nav_screens": "Telas do App",
+  "nav_features": "Recursos",
+  "nav_languages": "35+ Idiomas",
+  "nav_privacy": "Privacidade",
+  "nav_donate": "Apoiar",
+  "nav_faq": "Perguntas",
+  "badge": "Disponível para iPhone e iPad • Versão 1.8 • 35+ Idiomas",
+  "hero_title": "Seu companheiro completo para o serviço de campo e pioneirismo",
+  "hero_sub": "O JW Ministry (Ministry Planner) reúne tudo em um app privado para iOS: cronômetro de ministério com Live Activities, acompanhamento de estudantes da Bíblia, relatórios por ano de serviço, metas de horas de pioneiro e cartões de territórios.",
+  "cta_appstore": "Baixar na App Store",
+  "cta_donate": "Apoiar o desenvolvedor",
+  "stat_1_val": "35+",
+  "stat_1_lbl": "Idiomas disponíveis",
+  "stat_2_val": "100%",
+  "stat_2_lbl": "Offline e Privado",
+  "stat_3_val": "iPhone & iPad",
+  "stat_3_lbl": "Design nativo iOS",
+  "stat_4_val": "Sem anúncios",
+  "stat_4_lbl": "100% Gratuito",
+  "screens_title": "Conheça todas as telas do JW Ministry",
+  "screens_sub": "Capturas de tela reais do aplicativo em português. Veja todas as 8 telas — do cronômetro e estudantes da Bíblia ao calendário de pioneiro, territórios e modo escuro OLED.",
+  "shots": [
+    [
+      "1.jpg",
+      "1. Aba Iniciar e Cronômetro de Campo",
+      "Registre seu tempo no ministério, adicione estudos bíblicos da sessão, selecione o estudante e anote observações do território."
+    ],
+    [
+      "2.jpg",
+      "2. Lista de Estudantes da Bíblia",
+      "Salve cada estudante com a publicação, lição e ponto atual (ex.: 'Seja Feliz para Sempre!, lição 24')."
+    ],
+    [
+      "3.jpg",
+      "3. Relatório Mensal e Ano de Serviço",
+      "Acompanhe o total de horas do ano de serviço (2025–2026) e o que falta para sua meta anual, com detalhes por dia e compartilhamento fácil."
+    ],
+    [
+      "4.jpg",
+      "4. Calendário e Meta de Pioneiro",
+      "Escolha sua designação (Pioneiro regular – 50 h, Auxiliar 15/30 h ou Publicador) ou defina um alvo pessoal mensal com barra de progresso."
+    ],
+    [
+      "5.jpg",
+      "5. Cartões de Território e Casa em Casa",
+      "Anexe fotos do mapa do território, filtre endereços e registre cada visita, revisita ou observação como 'Sem interfone'."
+    ],
+    [
+      "6.jpg",
+      "6. Ajustes, Lembretes e Backup na Nuvem",
+      "Exporte e importe backups completos pelos botões de nuvem no topo, ative o lembrete de enviar o relatório no dia 1º às 20:00 e alertas de revisitas."
+    ],
+    [
+      "7.jpg",
+      "7. Modo Escuro OLED (Cronômetro)",
+      "Visual escuro confortável para o testemunho à noite e economia de bateria."
+    ],
+    [
+      "8.jpg",
+      "8. Modo Escuro OLED (Ajustes)",
+      "Adaptação automática ao tema claro e escuro do iOS."
+    ]
+  ],
+  "feat_sec_title": "Tudo o que você precisa para organizar seu ministério",
+  "feat_sec_sub": "Criado para publicadores, pioneiros auxiliares, pioneiros regulares e especiais.",
+  "features": [
+    [
+      "⏱️",
+      "Cronômetro, Widgets e Dynamic Island",
+      "Inicie o tempo pela tela de início ou bloqueio e acompanhe ao vivo na Dynamic Island."
+    ],
+    [
+      "📚",
+      "Estudos Bíblicos e Progresso de Lições",
+      "Vincule estudantes aos registros do relatório e saiba sempre em qual lição parou."
+    ],
+    [
+      "📊",
+      "Metas de Pioneiro e Alvo Pessoal",
+      "Suporte para 15, 30, 50, 90 e 100 horas, além de meta mensal personalizada."
+    ],
+    [
+      "🗓️",
+      "Ano de Serviço (Set–Ago) e Calendário",
+      "Planeje saídas de campo e Adoração em Família e transforme planos em relatório deslizando o dedo."
+    ],
+    [
+      "🗺️",
+      "Territórios, Prédios e Avisos de Revisitas",
+      "Cadastre territórios com fotos, cores, busca por nome/endereço e lembretes automáticos de revisitas."
+    ],
+    [
+      "🔒",
+      "Privacidade 100% no Aparelho e Backup iCloud",
+      "Sem cadastro e sem servidores externos. Seus dados ficam apenas no seu iPhone/iPad."
+    ]
+  ],
+  "lang_sec_title": "Traduzido para mais de 35 idiomas",
+  "lang_sec_sub": "O aplicativo funciona automaticamente no idioma do seu iPhone ou iPad:",
+  "donate_badge": "❤️ Projeto independente e sem anúncios",
+  "donate_title": "Apoie o desenvolvimento do JW Ministry",
+  "donate_sub": "O JW Ministry é gratuito e sem assinaturas. Se o app ajuda você no ministério, apoie as próximas atualizações e a licença anual Apple Developer:",
+  "card_fiat_title": "Apoiar com Cartão (Mundial)",
+  "card_fiat_desc": "Doação rápida via Boosty ou Patreon:",
+  "btn_boosty": "Apoiar no Boosty",
+  "btn_patreon": "Apoiar no Patreon",
+  "card_crypto_title": "Criptomoedas Direto (0% de taxa)",
+  "card_crypto_desc": "Transferência direta para a carteira do desenvolvedor:",
+  "usdt_label": "USDT (apenas rede TRC-20 / TRON):",
+  "ton_label": "TON / USDT (rede TON):",
+  "copy_btn": "Copiar",
+  "copied_msg": "Copiado!",
+  "crypto_warn": "⚠️ Envie apenas ativos da rede TRON (TRC-20) para o endereço TQQx...",
+  "faq_title": "Perguntas Frequentes",
+  "faqs": [
+    [
+      "Onde ficam salvos meus relatórios e territórios?",
+      "Exclusivamente na memória do seu iPhone ou iPad. Nenhum dado é enviado para servidores externos."
+    ],
+    [
+      "Como transferir meus dados para um iPhone novo?",
+      "Na aba Ajustes, toque no ícone de nuvem com seta para cima para exportar o backup completo no iCloud Drive e restaure no aparelho novo."
+    ],
+    [
+      "Como funcionam os lembretes de revisitas?",
+      "Em Ajustes → Notificações, ative o lembrete de revisitas e escolha após quantos dias sem nova visita você deseja ser lembrado."
+    ],
+    [
+      "O aplicativo calcula o ano de serviço de setembro a agosto?",
+      "Sim! Tanto a aba Relatório quanto o Calendário calculam automaticamente o ano de serviço de setembro a agosto."
+    ]
+  ],
+  "footer_privacy": "Política de Privacidade",
+  "footer_issues": "Suporte no GitHub",
+  "footer_contact": "Falar com o Desenvolvedor"
+}

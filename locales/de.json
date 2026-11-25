@@ -1,0 +1,145 @@
+{
+  "shot_folder": "German",
+  "html_lang": "de",
+  "og_locale": "de_DE",
+  "name": "Deutsch",
+  "flag": "🇩🇪",
+  "title": "JW Ministry (Ministry Planner) — Predigtdienst-Timer, Pionier-Bericht, Gebiete & Bibelstudien für iPhone & iPad",
+  "description": "Offizielle Seite von JW Ministry (Ministry Planner) für iOS. Predigtdienst-Stoppuhr mit Live Activities, Bibelstudien-Verwaltung, Pionier-Stundenziele (15, 30, 50 Std.), Gebietskarten für den Haus-zu-Haus-Dienst und 100 % lokale Datenspeicherung mit iCloud-Backup.",
+  "keywords": "JW Ministry, Ministry Planner, Predigtdienst App, Predigtdienstbericht iPhone, Pionier Stunden Tracker, allgemeiner Pionier 50 Stunden, Hilfspionier 15 30 Stunden, Bibelstudien verwalten, Gebiete Haus zu Haus Notizen, Rückbesuche Erinnerung, Dienstjahr September August iOS",
+  "nav_screens": "Screenshots",
+  "nav_features": "Funktionen",
+  "nav_languages": "35+ Sprachen",
+  "nav_privacy": "Datenschutz",
+  "nav_donate": "Unterstützen",
+  "nav_faq": "FAQ",
+  "badge": "Für iPhone & iPad • Version 1.8 • 35+ Sprachen",
+  "hero_title": "Dein kompletter Begleiter für Predigtdienst & Pionierdienst",
+  "hero_sub": "JW Ministry (Ministry Planner) vereint alles in einer privaten iOS-App: präziser Dienst-Timer mit Live Activities, Übersicht deiner Bibelstudien, Dienstjahresberichte, Pionier-Stundenziele und detaillierte Gebietskarten.",
+  "cta_appstore": "Im App Store laden",
+  "cta_donate": "Entwickler unterstützen",
+  "stat_1_val": "35+",
+  "stat_1_lbl": "Sprachen verfügbar",
+  "stat_2_val": "100%",
+  "stat_2_lbl": "Offline & Privat",
+  "stat_3_val": "iPhone & iPad",
+  "stat_3_lbl": "Natives iOS-Design",
+  "stat_4_val": "Werbefrei",
+  "stat_4_lbl": "Keine Abos",
+  "screens_title": "Alle Ansichten von JW Ministry im Überblick",
+  "screens_sub": "Echte Screenshots der deutschen App-Oberfläche — vom Dienst-Timer und den Bibelstudien bis zum Pionier-Kalender, den Gebieten und dem OLED-Dunkelmodus.",
+  "shots": [
+    [
+      "1.jpg",
+      "1. Start-Tab & Predigtdienst-Timer",
+      "Erfasse deine Dienstzeit sekundengenau, füge Bibelstudien hinzu, wähle den Studierenden aus und notiere Details zum Einsatz."
+    ],
+    [
+      "2.jpg",
+      "2. Bibelstudien-Verwaltung",
+      "Speichere jeden Studierenden mit aktuellem Studienhilfsmittel, Lektion und Abschnitt (z. B. „Glücklich – für immer!, Lektion 24“)."
+    ],
+    [
+      "3.jpg",
+      "3. Monats- & Dienstjahresbericht",
+      "Behalte die Gesamtstunden des Dienstjahres (2025–2026) und die verbleibenden Stunden im Blick und teile deinen Monatsbericht."
+    ],
+    [
+      "4.jpg",
+      "4. Pionier-Kalender & Monatsziel",
+      "Wähle deine Rolle (Allgemeiner Pionier – 50 Std., Hilfspionier 15/30 Std. oder Verkündiger) oder ein persönliches Monatsziel mit Fortschrittsbalken."
+    ],
+    [
+      "5.jpg",
+      "5. Gebietskarten & Haus-zu-Haus-Notizen",
+      "Hinterlege Fotos deiner Gebietskarte, filtere Adressen und dokumentiere jeden Besuch samt Datum und Türnotiz."
+    ],
+    [
+      "6.jpg",
+      "6. Einstellungen, Erinnerungen & Cloud-Backup",
+      "Exportiere und importiere vollständige Backups über die Cloud-Symbole oben rechts und aktiviere Erinnerungen für Bericht und Rückbesuche."
+    ],
+    [
+      "7.jpg",
+      "7. OLED-Dunkelmodus (Timer)",
+      "Augenschonendes dunkles Design für den Abenddienst und minimalen Akkuverbrauch."
+    ],
+    [
+      "8.jpg",
+      "8. OLED-Dunkelmodus (Einstellungen)",
+      "Nahtlose Anpassung an den hellen und dunklen Systemmodus von iOS."
+    ]
+  ],
+  "feat_sec_title": "Alle Werkzeuge für einen gut organisierten Dienst",
+  "feat_sec_sub": "Abgestimmt auf Verkündiger, Hilfspioniere, allgemeine Pioniere und Sonderpioniere.",
+  "features": [
+    [
+      "⏱️",
+      "Timer, Widgets & Dynamic Island",
+      "Starte den Timer direkt vom Home-Bildschirm oder Sperrbildschirm und verfolge ihn live in der Dynamic Island."
+    ],
+    [
+      "📚",
+      "Bibelstudien & Lektionsfortschritt",
+      "Verknüpfe Studien direkt mit deinen Berichtseinträgen und behalte Lektion und Abschnitt im Blick."
+    ],
+    [
+      "📊",
+      "Pionierrollen & persönliche Ziele",
+      "Unterstützt 15, 30, 50, 90 und 100 Stunden sowie individuelle Monatsziele."
+    ],
+    [
+      "🗓️",
+      "Dienstjahr (Sept.–Aug.) & Kalender",
+      "Plane Predigtdiensttreffen und den Familienabend und wandle geplante Termine per Wischgeste in Berichtseinträge um."
+    ],
+    [
+      "🗺️",
+      "Gebiete, Mehrfamilienhäuser & Rückbesuche",
+      "Verwalte Gebiete mit Fotos, Farbmarkierungen, Volltextsuche und automatischen Rückbesuch-Erinnerungen."
+    ],
+    [
+      "🔒",
+      "100 % Datenschutz auf deinem Gerät",
+      "Keine Registrierung, keine Server. Alle Daten bleiben lokal auf deinem iPhone/iPad mit einfachem Backup in iCloud Drive."
+    ]
+  ],
+  "lang_sec_title": "Vollständig übersetzt in über 35 Sprachen",
+  "lang_sec_sub": "App, Widgets und Mitteilungen passen sich automatisch der Systemsprache deines Geräts an:",
+  "donate_badge": "❤️ Unabhängiges & werbefreies Projekt",
+  "donate_title": "Unterstütze die Weiterentwicklung von JW Ministry",
+  "donate_sub": "JW Ministry ist komplett kostenlos und werbefrei. Wenn dir die App im Dienst hilft, kannst du zukünftige iOS-Updates und die jährliche Apple-Developer-Gebühr unterstützen:",
+  "card_fiat_title": "Per Karte unterstützen (Weltweit)",
+  "card_fiat_desc": "Einfache Unterstützung über Boosty oder Patreon:",
+  "btn_boosty": "Auf Boosty unterstützen",
+  "btn_patreon": "Auf Patreon unterstützen",
+  "card_crypto_title": "Direkte Krypto-Spende (0 % Gebühr)",
+  "card_crypto_desc": "Direkt auf das Wallet des Entwicklers:",
+  "usdt_label": "USDT (nur TRC-20 / TRON-Netzwerk):",
+  "ton_label": "TON / USDT (TON-Netzwerk):",
+  "copy_btn": "Kopieren",
+  "copied_msg": "Kopiert!",
+  "crypto_warn": "⚠️ Sende an die Adresse TQQx... ausschließlich Token im TRON-Netzwerk (TRC-20).",
+  "faq_title": "Häufig gestellte Fragen",
+  "faqs": [
+    [
+      "Wo werden meine Berichte und Gebietsnotizen gespeichert?",
+      "Ausschließlich lokal auf deinem iPhone oder iPad. Es gibt keine externen Server."
+    ],
+    [
+      "Wie übertrage ich meine Daten auf ein neues iPhone?",
+      "Tippe in den Einstellungen oben rechts auf das Cloud-Upload-Symbol, um ein komplettes Backup in iCloud Drive zu sichern, und spiele es auf dem neuen Gerät wieder ein."
+    ],
+    [
+      "Wie funktionieren Erinnerungen an Rückbesuche?",
+      "Unter Einstellungen → Mitteilungen kannst du festlegen, nach wie vielen Tagen ohne neuen Eintrag du an einen Rückbesuch erinnert werden möchtest."
+    ],
+    [
+      "Wird das Dienstjahr von September bis August unterstützt?",
+      "Ja, alle Monats- und Jahresübersichten rechnen automatisch nach dem Dienstjahr von September bis August."
+    ]
+  ],
+  "footer_privacy": "Datenschutzerklärung",
+  "footer_issues": "GitHub Support",
+  "footer_contact": "Kontakt"
+}
