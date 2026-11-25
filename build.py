@@ -131,7 +131,7 @@ def render(code, d, is_root=False):
         {
             "@context": "https://schema.org",
             "@type": "MobileApplication",
-            "name": "JW Ministry (Ministry Planner)",
+            "name": "JW Ministry",
             "operatingSystem": "iOS 16.0 or later, iPadOS 16.0 or later",
             "applicationCategory": "LifestyleApplication",
             "url": canonical,

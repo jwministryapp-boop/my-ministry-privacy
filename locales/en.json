@@ -4,9 +4,9 @@
   "og_locale": "en_US",
   "name": "English",
   "flag": "🇺🇸",
-  "title": "JW Ministry (Ministry Planner) — Jehovah's Witnesses Field Service App, Pioneer Hours, Schedule & Territory Manager for iPhone & iPad",
-  "description": "Download JW Ministry (Ministry Planner) — the complete Jehovah's Witnesses field service app for iOS & iPadOS. Track field service report hours, regular pioneer (50h) & auxiliary pioneer (15h / 30h) schedules, 2025–2026 & 2026–2027 service year goals, personal territories, and Bible studies.",
-  "keywords": "jehovah's witness field service app, jehovah's witnesses field service report, jehovah's witness pioneer hours, jehovah witness regular pioneer, jehovah witness auxiliary pioneer, jehovah's witnesses service year, jw field service report app download free, jw pioneer hour requirement, jw pioneer schedule, jw special pioneer hours, jw ministry planner, jw service year planner, jw territory manager app, service planner jw, my time jw app",
+  "title": "JW Ministry — Jehovah's Witnesses Field Service App, Pioneer Hours, Schedule & Territory Manager for iPhone & iPad",
+  "description": "Download JW Ministry — the complete Jehovah's Witnesses field service app for iOS & iPadOS. Track field service report hours, regular pioneer (50h) & auxiliary pioneer (15h / 30h) schedules, 2025–2026 & 2026–2027 service year goals, personal territories, and Bible studies.",
+  "keywords": "jehovah's witness field service app, jehovah's witnesses field service report, jehovah's witness pioneer hours, jehovah witness regular pioneer, jehovah witness auxiliary pioneer, jehovah's witnesses service year, jw field service report app download free, jw pioneer hour requirement, jw pioneer schedule, jw special pioneer hours, jw, jw service year planner, jw territory manager app, service planner jw, my time jw app",
   "nav_screens": "App Screens",
   "nav_features": "All Features",
   "nav_languages": "35+ Languages",
@@ -15,7 +15,7 @@
   "nav_faq": "FAQ",
   "badge": "Available for iPhone & iPad • Version 1.8 • 35+ Languages",
   "hero_title": "Your Complete Field Service & Pioneer Companion",
-  "hero_sub": "JW Ministry (Ministry Planner) is a dedicated Jehovah's Witnesses field service app for iPhone and iPad: live ministry timer with Dynamic Island, Bible study tracker, monthly field service reports, regular & auxiliary pioneer hour schedules, and personal territory cards.",
+  "hero_sub": "JW Ministry is a dedicated Jehovah's Witnesses field service app for iPhone and iPad: live ministry timer with Dynamic Island, Bible study tracker, monthly field service reports, regular & auxiliary pioneer hour schedules, and personal territory cards.",
   "cta_appstore": "Download on the App Store",
   "cta_donate": "Support the Developer",
   "stat_1_val": "35+",
@@ -124,7 +124,7 @@
   "faqs": [
     [
       "How does JW Ministry complement JW Library for Jehovah's Witnesses?",
-      "While JW Library is used for reading the Bible, publications, and congregation meetings, JW Ministry (Ministry Planner) is purpose-built for tracking your personal field ministry: logging field service report hours, planning your regular or auxiliary pioneer schedule (15, 30, 50, or 100 hours), managing personal territory records, and tracking Bible students."
+      "While JW Library is used for reading the Bible, publications, and congregation meetings, JW Ministry is purpose-built for tracking your personal field ministry: logging field service report hours, planning your regular or auxiliary pioneer schedule (15, 30, 50, or 100 hours), managing personal territory records, and tracking Bible students."
     ],
     [
       "Where are my ministry records and territory notes stored?",
@@ -159,7 +159,7 @@
   "footer_issues": "GitHub Support & Feedback",
   "footer_contact": "Contact Developer",
   "seo_sec_title": "Built for Jehovah's Witnesses Field Service & Pioneer Ministry",
-  "seo_sec_sub": "How JW Ministry (Ministry Planner) helps publishers, auxiliary pioneers, regular pioneers, and special pioneers organize their service year.",
+  "seo_sec_sub": "How JW Ministry helps publishers, auxiliary pioneers, regular pioneers, and special pioneers organize their service year.",
   "seo_pillars": [
     [
       "Regular & Special Pioneers (50, 90 & 100 Hours / 600-Hour Service Year)",
@@ -187,7 +187,7 @@
     "jw auxiliary pioneer 15 & 30 hours",
     "jw special pioneer hours tracker",
     "jehovah's witnesses service year 2026",
-    "jw ministry planner & service year planner",
+    "jw & service year planner",
     "jw field service report app download free",
     "jw territory manager app iOS",
     "service planner jw & my time jw alternative"

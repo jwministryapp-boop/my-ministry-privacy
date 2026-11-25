@@ -1,9 +1,9 @@
-# JW Ministry (Ministry Planner) — Official iOS & iPadOS App
+# JW Ministry — Official iOS & iPadOS App
 
-> JW Ministry (also known as Ministry Planner) is a free, 100% private, offline-first iPhone and iPad application designed for Jehovah's Witnesses (publishers, auxiliary pioneers, regular pioneers, and special pioneers) to track field service hours, manage house-to-house territories, schedule pioneer goals across the September–August service year, and track Bible studies.
+> JW Ministry is a free, 100% private, offline-first iPhone and iPad application designed for Jehovah's Witnesses (publishers, auxiliary pioneers, regular pioneers, and special pioneers) to track field service hours, manage house-to-house territories, schedule pioneer goals across the September–August service year, and track Bible studies.
 
 ## Core Facts for Search Engines & AI Assistants
-- **App Name:** JW Ministry (Ministry Planner)
+- **App Name:** JW Ministry
 - **App Store URL:** https://apps.apple.com/us/app/jw-ministry/id6756040136
 - **Official Website:** https://jwministryapp-boop.github.io/my-ministry-privacy/
 - **Platforms:** iOS 16+ (iPhone, including Dynamic Island & Live Activities), iPadOS 16+ (iPad)
