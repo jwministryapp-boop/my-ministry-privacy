@@ -1521,3 +1521,36 @@ header.topbar .container.topbar-inner {
   box-shadow: 0 12px 28px rgba(28, 14, 48, 0.22);
   z-index: 20;
 }
+
+
+/* === Fix Hero Phones: Zero Screen Clipping + Unclipped Floating Shadows === */
+.hero, .hero-grid, .hero-phones {
+  overflow: visible !important;
+}
+.hero-phones {
+  padding: 20px 12px !important;
+}
+.hero-phone {
+  -webkit-mask-image: none !important;
+  mask-image: none !important;
+  border-radius: 24px !important;
+  border: 3px solid #FFFFFF !important;
+  background: #FFFFFF !important;
+  overflow: hidden !important;
+  box-shadow:
+    0 20px 45px -10px rgba(32, 18, 52, 0.16),
+    0 6px 16px -4px rgba(32, 18, 52, 0.07) !important;
+}
+.hero-phone.center {
+  border-radius: 26px !important;
+  border: 3.5px solid #FFFFFF !important;
+  box-shadow:
+    0 28px 60px -12px rgba(32, 18, 52, 0.22),
+    0 10px 24px -6px rgba(32, 18, 52, 0.10) !important;
+}
+.hero-phone img {
+  width: 100% !important;
+  height: auto !important;
+  display: block !important;
+  border-radius: 20px !important;
+}
