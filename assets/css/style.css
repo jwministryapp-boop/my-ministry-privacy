@@ -1268,3 +1268,34 @@ html, body {
     font-size: 0.8rem;
   }
 }
+
+
+/* === Comfortable Apple-Style Side Margins on Desktop & Mobile === */
+.container,
+header.topbar .container.topbar-inner {
+  max-width: 1060px !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+  padding-left: 24px !important;
+  padding-right: 24px !important;
+}
+
+@media (min-width: 768px) {
+  .container,
+  header.topbar .container.topbar-inner {
+    padding-left: 40px !important;
+    padding-right: 40px !important;
+  }
+}
+
+@media (min-width: 1120px) {
+  .container,
+  header.topbar .container.topbar-inner {
+    padding-left: 48px !important;
+    padding-right: 48px !important;
+  }
+}
+
+.comp-wrap {
+  max-width: 100% !important;
+}
