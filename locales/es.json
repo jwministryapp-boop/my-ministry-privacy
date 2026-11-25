@@ -4,9 +4,9 @@
   "og_locale": "es_ES",
   "name": "Español",
   "flag": "🇪🇸",
-  "title": "JW Ministry (Ministry Planner) — Temporizador de Predicación, Informe de Precursor, Territorios y Estudios Bíblicos en iPhone y iPad",
-  "description": "Sitio oficial de JW Ministry (Ministry Planner) para iOS. Temporizador de servicio del campo con Live Activities, control de cursos bíblicos, metas de precursor regular y auxiliar (15, 30, 50 h), gestión de territorios de casa en casa y copias de seguridad privadas en iCloud.",
-  "keywords": "JW Ministry, Ministry Planner, app servicio del campo, informe de predicación JW, horas precursor regular 50 horas, precursor auxiliar 15 30 horas, registro de estudios bíblicos, gestión de territorios casa en casa, revisitas recordatorio, año de servicio septiembre agosto iOS",
+  "title": "JW Ministry (Ministry Planner) — App para el Servicio del Campo, Informe de Precursor, Territorios y Estudios Bíblicos en iPhone y iPad",
+  "description": "Descarga JW Ministry (Ministry Planner) para iOS y iPadOS: temporizador de predicación con Dynamic Island, informe mensual del servicio del campo, control de horas para precursor regular (50 h / 600 h año de servicio) y auxiliar (15 y 30 h), territorios de casa en casa y cursos bíblicos.",
+  "keywords": "app servicio del campo JW iPhone, aplicación informe de predicación, horas precursor regular 50 horas, año de servicio 600 horas septiembre agosto, precursor auxiliar 15 30 horas, app territorios casa en casa no en casa, recordatorio de revisitas, control cursos bíblicos Disfrute de la vida para siempre, alternativa ServicePlanner MyTime iOS, JW Ministry, Ministry Planner",
   "nav_screens": "Capturas",
   "nav_features": "Funciones",
   "nav_languages": "35+ Idiomas",
@@ -137,9 +137,49 @@
     [
       "¿Calcula el año de servicio de septiembre a agosto?",
       "Sí, tanto la pestaña Informe como el Calendario suman las horas por año de servicio de septiembre a agosto."
+    ],
+    [
+      "¿Es JW Ministry una buena alternativa a ServicePlanner o MyTime?",
+      "Sí, está optimizada para las versiones más recientes de iOS y iPadOS, con temporizador en Dynamic Island, generador de edificios, comparación de plan vs. real en el calendario y copias de seguridad en iCloud Drive."
+    ],
+    [
+      "¿Funciona sin conexión a internet mientras predico?",
+      "Sí, funciona 100% sin internet. Puedes usar el temporizador y anotar territorios de casa en casa sin datos móviles."
     ]
   ],
   "footer_privacy": "Política de privacidad",
   "footer_issues": "Soporte en GitHub",
-  "footer_contact": "Contactar al desarrollador"
+  "footer_contact": "Contactar al desarrollador",
+  "seo_sec_title": "Diseñada para cada faceta de tu ministerio del campo",
+  "seo_sec_sub": "Cómo JW Ministry ayuda a publicadores, precursores auxiliares, precursores regulares y especiales durante todo el año de servicio.",
+  "seo_pillars": [
+    [
+      "🎯 Precursores Regulares y Especiales (50, 90 y 100 horas / Año de servicio)",
+      "Lleva el control exacto de tu meta mensual de 50 horas y del objetivo anual de 600 horas durante el año de servicio de septiembre a agosto. Puedes definir una meta personal mensual (por ejemplo, 55 horas), planificar tu horario en el Calendario y comparar las horas planeadas con las horas reales informadas."
+    ],
+    [
+      "📅 Precursores Auxiliares (15 y 30 horas) y Publicadores",
+      "En meses de campañas especiales, visita del superintendente de circuito o temporada de la Conmemoración, cambia tu rol a Precursor Auxiliar de 15 o 30 horas con un toque. Activa el recordatorio automático el día 1 de cada mes a las 20:00 para enviar puntualmente tu informe de predicación."
+    ],
+    [
+      "🏘️ Territorios de casa en casa, edificios y avisos de revisitas",
+      "Crea tarjetas de territorios con foto del mapa, clasifícalas con 10 colores y genera edificios de apartamentos por portales y pisos en segundos. Anota «Primera visita», «No en casa» o «No visitar», busca por dirección o nombre del amo de casa y recibe notificaciones para hacer tus revisitas."
+    ],
+    [
+      "📖 Cursos bíblicos y alternativa moderna a ServicePlanner / MyTime",
+      "Registra a cada estudiante de la Biblia con su progreso en el libro «¡Disfrute de la vida para siempre!» (lección y punto). Diseñada nativamente para iPhone y iPad con widgets, Live Activities y modo oscuro OLED."
+    ]
+  ],
+  "seo_tags_title": "Búsquedas frecuentes sobre el ministerio:",
+  "seo_tags": [
+    "app servicio del campo JW iPhone",
+    "informe mensual de predicación iOS",
+    "control de horas precursor regular 50 h",
+    "calculadora año de servicio septiembre–agosto",
+    "precursor auxiliar 15 y 30 horas",
+    "gestión de territorios de casa en casa",
+    "registro de no en casa y edificios",
+    "recordatorios de revisitas y estudios bíblicos",
+    "alternativa a ServicePlanner y MyTime en iOS"
+  ]
 }

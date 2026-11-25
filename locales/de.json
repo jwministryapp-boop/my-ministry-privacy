@@ -4,9 +4,9 @@
   "og_locale": "de_DE",
   "name": "Deutsch",
   "flag": "🇩🇪",
-  "title": "JW Ministry (Ministry Planner) — Predigtdienst-Timer, Pionier-Bericht, Gebiete & Bibelstudien für iPhone & iPad",
-  "description": "Offizielle Seite von JW Ministry (Ministry Planner) für iOS. Predigtdienst-Stoppuhr mit Live Activities, Bibelstudien-Verwaltung, Pionier-Stundenziele (15, 30, 50 Std.), Gebietskarten für den Haus-zu-Haus-Dienst und 100 % lokale Datenspeicherung mit iCloud-Backup.",
-  "keywords": "JW Ministry, Ministry Planner, Predigtdienst App, Predigtdienstbericht iPhone, Pionier Stunden Tracker, allgemeiner Pionier 50 Stunden, Hilfspionier 15 30 Stunden, Bibelstudien verwalten, Gebiete Haus zu Haus Notizen, Rückbesuche Erinnerung, Dienstjahr September August iOS",
+  "title": "JW Ministry (Ministry Planner) — Predigtdienst-App, Pionier-Stundenplaner, Gebiete & Bibelstudien für iPhone & iPad",
+  "description": "JW Ministry (Ministry Planner) für iOS & iPadOS: Predigtdienst-Timer mit Dynamic Island, Monatsbericht, Stundenplaner für allgemeine Pioniere (50 Std. / 600 Std. Dienstjahr) und Hilfspioniere (15 & 30 Std.), Gebietskarten für den Haus-zu-Haus-Dienst und Bibelstudien-Verwaltung.",
+  "keywords": "Predigtdienst App iPhone, Predigtdienstbericht iOS, allgemeiner Pionier 50 Stunden Planer, Dienstjahr 600 Stunden September August, Hilfspionier 15 30 Stunden, Gebietsbearbeitung Haus zu Haus Notizen, Nicht zu Hause Liste, Rückbesuche Erinnerung, Bibelstudien Glücklich für immer, ServicePlanner Alternative iOS, JW Ministry, Ministry Planner",
   "nav_screens": "Screenshots",
   "nav_features": "Funktionen",
   "nav_languages": "35+ Sprachen",
@@ -137,9 +137,48 @@
     [
       "Wird das Dienstjahr von September bis August unterstützt?",
       "Ja, alle Monats- und Jahresübersichten rechnen automatisch nach dem Dienstjahr von September bis August."
+    ],
+    [
+      "Funktioniert die App im Predigtdienst auch komplett ohne Internet?",
+      "Ja, alle Funktionen wie Timer, Gebietskarten, Wohnungslisten und Bibelstudien funktionieren zu 100 % offline auf deinem Gerät."
+    ],
+    [
+      "Kann ich geplante Termine aus dem Kalender direkt in den Bericht übernehmen?",
+      "Ja, wische im Kalender einfach über einen geplanten Predigtdiensttermin und tippe auf „In den Bericht“."
     ]
   ],
   "footer_privacy": "Datenschutzerklärung",
   "footer_issues": "GitHub Support",
-  "footer_contact": "Kontakt"
+  "footer_contact": "Kontakt",
+  "seo_sec_title": "Entwickelt für jeden Bereich deines Predigtdienstes",
+  "seo_sec_sub": "Wie JW Ministry Verkündiger, Hilfspioniere, allgemeine Pioniere und Sonderpioniere durch das gesamte Dienstjahr begleitet.",
+  "seo_pillars": [
+    [
+      "🎯 Allgemeine Pioniere & Sonderpioniere (50, 90 & 100 Stunden / Dienstjahr)",
+      "Behalte dein Monatsziel von 50 Stunden sowie das Jahresziel von 600 Stunden im Dienstjahr von September bis August mühelos im Blick. Lege bei Bedarf ein persönliches Monatsziel (z. B. 55 Std.) fest und vergleiche im Kalender deine geplanten Stunden mit den tatsächlich berichteten Stunden."
+    ],
+    [
+      "📅 Hilfspioniere (15 & 30 Stunden) und Versammlungsverkündiger",
+      "Wechsle für besondere Aktionsmonate, die Dienstwoche oder die Gedächtnismahlzeit einfach zur Rolle Hilfspionier (15 oder 30 Std.). Eine automatische Erinnerung am 1. jedes Monats um 20:00 Uhr erinnert dich zuverlässig an die Abgabe deines Predigtdienstberichts."
+    ],
+    [
+      "🏘️ Haus-zu-Haus-Gebiete, Mehrfamilienhäuser & Rückbesuche",
+      "Erstelle digitale Gebietskarten mit Fotos, 10 Farbmarkierungen und einem Wohnungsgenerator für Mehrfamilienhäuser nach Aufgängen und Etagen. Erfasse „Erster Besuch“, „Nicht zu Hause“ oder „Kein Interesse“, durchsuche alle Notizen nach Adresse oder Namen und lasse dich automatisch an fällige Rückbesuche erinnern."
+    ],
+    [
+      "📖 Bibelstudien-Fortschritt & moderne iOS-Alternative zu älteren Apps",
+      "Dokumentiere für jeden Studierenden das aktuelle Studienhilfsmittel (z. B. „Glücklich – für immer!“), die Lektion und den Abschnitt. Mit Live Activities, Dynamic Island, Widgets und OLED-Dunkelmodus ist JW Ministry der moderne Nachfolger für ältere Apps wie ServicePlanner oder MyTime."
+    ]
+  ],
+  "seo_tags_title": "Häufige Suchanfragen rund um den Predigtdienst:",
+  "seo_tags": [
+    "Predigtdienst App iPhone & iPad",
+    "Predigtdienstbericht Monatsübersicht",
+    "Allgemeiner Pionier 50 Stunden Tracker",
+    "Dienstjahr 600 Stunden Rechner Sept–Aug",
+    "Hilfspionier 15 und 30 Stunden",
+    "Gebiete Haus zu Haus & Nicht zu Hause Notizen",
+    "Rückbesuche & Bibelstudien verwalten",
+    "ServicePlanner Alternative für iOS"
+  ]
 }

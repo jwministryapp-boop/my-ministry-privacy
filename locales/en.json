@@ -4,9 +4,9 @@
   "og_locale": "en_US",
   "name": "English",
   "flag": "🇺🇸",
-  "title": "JW Ministry (Ministry Planner) — Field Service Tracker, Pioneer Hours, Territories & Bible Studies App for iPhone & iPad",
-  "description": "Official page of JW Ministry (Ministry Planner) for iOS & iPadOS. Built-in field service timer with Live Activities, Bible students tracker, monthly & service year pioneer hour goals (15, 30, 50h), territory & house-to-house record management, and 100% private offline storage with iCloud backup.",
-  "keywords": "JW Ministry, Ministry Planner, field service app, JW field service report, pioneer hours tracker, regular pioneer 50 hours, auxiliary pioneer 15 30 hours, Bible study tracker, Enjoy Life Forever lesson tracker, territory manager house to house, return visits reminder, ministry timer Dynamic Island, Jehovah's Witnesses ministry app iOS iPad",
+  "title": "JW Ministry (Ministry Planner) — Field Service Report App, Pioneer Hours Tracker, Territories & Bible Studies for iPhone & iPad",
+  "description": "Download JW Ministry (Ministry Planner) for iOS & iPadOS: the complete field service timer with Dynamic Island, monthly ministry report tracker, regular pioneer (50h / 600h service year) & auxiliary pioneer (15h / 30h) planner, house-to-house territory manager, and Bible study tracker.",
+  "keywords": "JW field service app iPhone, Jehovah's Witnesses ministry report app, pioneer hours tracker 50 hours, 600 hours service year calculator September to August, auxiliary pioneer 15 30 hours planner, house to house territory manager app, not at home apartment tracker, return visits reminder, Bible study tracker Enjoy Life Forever, ServicePlanner alternative iOS, MyTime replacement, JW Ministry, Ministry Planner",
   "nav_screens": "App Screens",
   "nav_features": "All Features",
   "nav_languages": "35+ Languages",
@@ -137,9 +137,55 @@
     [
       "Does the app support the September–August Service Year?",
       "Yes! Both the Report tab and the Calendar summary calculate monthly and annual hours across the official September–August service year, including remaining hours toward your annual pioneer goal."
+    ],
+    [
+      "Is JW Ministry a good replacement for ServicePlanner or MyTime on iPhone?",
+      "Yes! JW Ministry is actively maintained for the latest iOS and iPadOS releases, featuring Live Activities on the Lock Screen and Dynamic Island, interactive Home Screen widgets, an apartment building generator, Planned vs. Actual calendar tracking, and 1-tap iCloud Drive backups."
+    ],
+    [
+      "Does the app work completely offline during door-to-door ministry?",
+      "Absolutely. All timers, territory maps, apartment records, and Bible student notes work 100% offline without requiring mobile data or Wi-Fi."
+    ],
+    [
+      "Can I convert a planned ministry event in the Calendar into a Report entry?",
+      "Yes. Simply swipe on any planned ministry session in the Calendar and tap 'To Report' — the duration is automatically logged in your monthly report and deducted from your remaining planned hours."
     ]
   ],
   "footer_privacy": "Privacy Policy",
   "footer_issues": "GitHub Support & Feedback",
-  "footer_contact": "Contact Developer"
+  "footer_contact": "Contact Developer",
+  "seo_sec_title": "Designed for Every Aspect of Your Field Ministry",
+  "seo_sec_sub": "How JW Ministry helps publishers, auxiliary pioneers, regular pioneers, and special pioneers stay organized throughout the service year.",
+  "seo_pillars": [
+    [
+      "🎯 Regular & Special Pioneers (50, 90 & 100 Hours / 600-Hour Service Year)",
+      "Serving as a regular pioneer requires keeping track of both your 50-hour monthly target and your 600-hour September–August service year goal. JW Ministry automatically calculates your completed ministry hours, remaining monthly balance, and full service year progress. Set a custom personal monthly goal (e.g., 55 hours), schedule ministry days in the Calendar, and compare your planned hours against your actual reported time."
+    ],
+    [
+      "📅 Auxiliary Pioneers (15 & 30 Hours) and Congregation Publishers",
+      "Joining a special campaign, circuit overseer's visit, or Memorial season as an auxiliary pioneer? Switch your role to Auxiliary Pioneer (15 h or 30 h) in seconds. Congregation publishers can log daily ministry sessions, track Bible studies, and enable an automatic notification on the 1st of every month at 20:00 so you never forget to submit your field service report."
+    ],
+    [
+      "🏘️ House-to-House Territories, Apartment Generator & Return Visits",
+      "Replace paper slips with organized digital territory cards. Attach photos of territory maps, color-code cards with 10 stylish colors, and generate entire multi-story apartment buildings by entrances and floors in one tap. Record 'First visit', 'Not at home', or 'Refusal' statuses, search across all territories by street address or resident name, and receive automatic reminders when it is time to make a return visit."
+    ],
+    [
+      "📖 Bible Student Progress & Modern iOS Replacement for Legacy Apps",
+      "Maintain a detailed roster of your Bible students along with their current study publication (such as 'Enjoy Life Forever!'), lesson number, and section. Attach students directly to your timer session so your monthly study count is always accurate. Built natively with SwiftUI for the latest iPhone and iPad models, JW Ministry is the ideal modern alternative to discontinued apps like ServicePlanner or MyTime."
+    ]
+  ],
+  "seo_tags_title": "Popular Field Service Searches Covered by JW Ministry:",
+  "seo_tags": [
+    "JW field service report app iPhone",
+    "regular pioneer 50 hours tracker",
+    "service year 600 hours calculator Sept–Aug",
+    "auxiliary pioneer 15 and 30 hours planner",
+    "house to house territory manager iOS",
+    "not at home apartment building log",
+    "return visit reminder notifications",
+    "Enjoy Life Forever Bible study tracker",
+    "ministry timer with Dynamic Island & widgets",
+    "ServicePlanner & MyTime alternative for iOS",
+    "offline private ministry planner iPad"
+  ]
 }

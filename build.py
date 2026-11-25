@@ -46,6 +46,8 @@ def render(code, d, is_root=False):
         </article>""")
 
     feats_html = [f'<div class="feat-card"><div class="feat-icon">{ic}</div><h3>{ft}</h3><p>{fd}</p></div>' for ic, ft, fd in d["features"]]
+    seo_pillars_html = [f'<article class="seo-card"><h3>{pt}</h3><p>{pd}</p></article>' for pt, pd in d.get("seo_pillars", [])]
+    seo_tags_html = [f'<span class="seo-tag">{tg}</span>' for tg in d.get("seo_tags", [])]
     badges_html = [f'<span class="loc-badge">{ln}</span>' for ln in CFG["all_35_languages"]]
     faqs_html = [f'<details class="faq-item"><summary>{q}</summary><p>{a}</p></details>' for q, a in d["faqs"]]
 
@@ -88,6 +90,8 @@ def render(code, d, is_root=False):
         "{{HERO_IMG_RIGHT}}": f"{prefix}/screenshots/{enc_folder}/3.jpg",
         "{{SHOTS_GRID}}": "\n          ".join(shots_html),
         "{{FEATURES_GRID}}": "\n          ".join(feats_html),
+        "{{SEO_PILLARS_GRID}}": "\n          ".join(seo_pillars_html),
+        "{{SEO_TAGS_CLOUD}}": "\n            ".join(seo_tags_html),
         "{{LANG_BADGES}}": "\n            ".join(badges_html),
         "{{FAQ_LIST}}": "\n          ".join(faqs_html),
         "{{APP_STORE_ID}}": CFG["app_store_id"],

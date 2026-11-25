@@ -4,9 +4,9 @@
   "og_locale": "pt_BR",
   "name": "Português",
   "flag": "🇧🇷",
-  "title": "JW Ministry (Ministry Planner) — Cronômetro de Campo, Relatório de Pioneiro, Territórios e Estudos Bíblicos no iPhone e iPad",
-  "description": "Página oficial do JW Ministry (Ministry Planner) para iOS. Cronômetro de serviço de campo com Live Activities, controle de estudantes da Bíblia, metas de pioneiro regular e auxiliar (15, 30, 50 h), cartões de território de casa em casa e backup privado no iCloud.",
-  "keywords": "JW Ministry, Ministry Planner, aplicativo serviço de campo, relatório de pregação JW, horas pioneiro regular 50 horas, pioneiro auxiliar 15 30 horas, controle de estudos bíblicos, territórios casa em casa, lembrete de revisitas, ano de serviço setembro agosto iOS",
+  "title": "JW Ministry (Ministry Planner) — App de Serviço de Campo, Relatório de Pioneiro, Territórios e Estudos Bíblicos no iPhone e iPad",
+  "description": "Baixe o JW Ministry (Ministry Planner) para iOS e iPadOS: cronômetro de pregação com Dynamic Island, relatório mensal de campo, controle de horas de pioneiro regular (50 h / 600 h no ano de serviço) e auxiliar (15 e 30 h), territórios de casa em casa e estudos bíblicos.",
+  "keywords": "aplicativo serviço de campo JW iPhone, app relatório de pregação, horas pioneiro regular 50 horas, ano de serviço 600 horas setembro agosto, pioneiro auxiliar 15 30 horas, territórios de casa em casa não em casa, lembrete de revisitas, estudos bíblicos Seja Feliz para Sempre, alternativa ServicePlanner MyTime iOS, JW Ministry, Ministry Planner",
   "nav_screens": "Telas do App",
   "nav_features": "Recursos",
   "nav_languages": "35+ Idiomas",
@@ -137,9 +137,48 @@
     [
       "O aplicativo calcula o ano de serviço de setembro a agosto?",
       "Sim! Tanto a aba Relatório quanto o Calendário calculam automaticamente o ano de serviço de setembro a agosto."
+    ],
+    [
+      "O aplicativo funciona sem internet durante a pregação?",
+      "Sim, 100% offline. Você pode usar o cronômetro e abrir seus territórios mesmo sem sinal de celular."
+    ],
+    [
+      "Posso transformar um plano do Calendário em registro do Relatório?",
+      "Sim! Basta deslizar o dedo sobre o compromisso planejado no Calendário e tocar para enviar diretamente ao Relatório."
     ]
   ],
   "footer_privacy": "Política de Privacidade",
   "footer_issues": "Suporte no GitHub",
-  "footer_contact": "Falar com o Desenvolvedor"
+  "footer_contact": "Falar com o Desenvolvedor",
+  "seo_sec_title": "Feito para cada modalidade do seu ministério de campo",
+  "seo_sec_sub": "Veja como o JW Ministry ajuda publicadores, pioneiros auxiliares, regulares e especiais durante todo o ano de serviço.",
+  "seo_pillars": [
+    [
+      "🎯 Pioneiros Regulares e Especiais (50, 90 e 100 horas / Ano de Serviço)",
+      "Acompanhe com precisão seu requisito mensal de 50 horas e a meta de 600 horas no ano de serviço de setembro a agosto. Defina um alvo pessoal mensal (como 55 horas) e compare no Calendário as horas planejadas com as horas reais trabalhadas."
+    ],
+    [
+      "📅 Pioneiros Auxiliares (15 e 30 horas) e Publicadores",
+      "Em meses de campanha especial, visita do superintendente de circuito ou época da Celebração, mude facilmente para Pioneiro Auxiliar de 15 ou 30 horas. Receba um lembrete automático no dia 1º de cada mês às 20:00 para entregar seu relatório de serviço de campo."
+    ],
+    [
+      "🏘️ Territórios de casa em casa, prédios e lembretes de revisitas",
+      "Crie cartões de território com foto do mapa, 10 cores de destaque e gerador automático de apartamentos por blocos e andares. Marque «Primeira visita», «Não em casa» ou «Recusa», pesquise por endereço ou nome do morador e receba alertas para fazer revisitas."
+    ],
+    [
+      "📖 Estudos Bíblicos e substituto moderno para ServicePlanner / MyTime",
+      "Anote a publicação, lição e ponto de cada estudante (como o livro «Seja Feliz para Sempre!»). Com suporte a Live Activities, Dynamic Island, widgets e modo escuro OLED, é a melhor opção moderna para iPhone e iPad."
+    ]
+  ],
+  "seo_tags_title": "Buscas populares sobre o serviço de campo:",
+  "seo_tags": [
+    "aplicativo serviço de campo JW iPhone",
+    "relatório mensal de pregação iOS",
+    "controle de horas pioneiro regular 50 h",
+    "ano de serviço 600 horas setembro a agosto",
+    "pioneiro auxiliar 15 e 30 horas",
+    "territórios de casa em casa e prédios",
+    "lembrete de revisitas e estudos bíblicos",
+    "alternativa ao ServicePlanner no iPhone"
+  ]
 }
