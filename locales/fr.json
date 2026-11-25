@@ -106,7 +106,7 @@
   ],
   "lang_sec_title": "Entièrement traduit dans plus de 35 langues",
   "lang_sec_sub": "L'interface, les widgets et les notifications s'adaptent automatiquement à la langue de votre appareil :",
-  "donate_badge": "❤️ Projet indépendant sans publicité",
+  "donate_badge": "Projet indépendant sans publicité",
   "donate_title": "Soutenir le développement de JW Ministry",
   "donate_sub": "JW Ministry est gratuite et sans abonnement. Si l'application vous aide dans votre ministère, vous pouvez soutenir les futures mises à jour iOS et la licence Apple Developer :",
   "card_fiat_title": "Soutenir par Carte (International)",
@@ -119,7 +119,7 @@
   "ton_label": "TON / USDT (réseau TON) :",
   "copy_btn": "Copier",
   "copied_msg": "Copié !",
-  "crypto_warn": "⚠️ Envoyez uniquement des actifs sur le réseau TRON (TRC-20) vers l'adresse TQQx...",
+  "crypto_warn": "Envoyez uniquement des actifs sur le réseau TRON (TRC-20) vers l'adresse TQQx...",
   "faq_title": "Questions fréquentes",
   "faqs": [
     [
@@ -158,19 +158,19 @@
   "seo_sec_sub": "Gérez votre rapport de prédication JW, vos objectifs de pionnier permanent ou auxiliaire et vos territoires tout au long de l'année de service.",
   "seo_pillars": [
     [
-      "🎯 Pionniers Permanents et Spéciaux (50, 90 et 100 h / Année de service)",
+      "Pionniers Permanents et Spéciaux (50, 90 et 100 h / Année de service)",
       "Suivez facilement votre objectif mensuel de 50 heures ainsi que les 600 heures de l'année de service de septembre à août. Définissez une cible personnelle (ex. 55 h/mois), planifiez vos journées dans le Calendrier et comparez le temps prévu avec le temps réellement prêché."
     ],
     [
-      "📅 Pionniers Auxiliaires (15 et 30 heures) et Proclamateurs",
+      "Pionniers Auxiliaires (15 et 30 heures) et Proclamateurs",
       "Lors des campagnes spéciales, de la visite du responsable de circonscription ou de la période du Mémorial, passez en mode Pionnier auxiliaire (15 h ou 30 h). Un rappel automatique le 1er du mois à 20h00 vous aide à ne jamais oublier votre rapport."
     ],
     [
-      "🏘️ Territoires de maison en maison, immeubles et nouvelles visites",
+      "Territoires de maison en maison, immeubles et nouvelles visites",
       "Créez des fiches de territoires avec photos du plan, 10 couleurs au choix et un générateur d'appartements par bâtiments et étages. Notez les absents (« Pas à la maison »), recherchez rapidement une adresse ou un nom et recevez des rappels pour vos nouvelles visites."
     ],
     [
-      "📖 Cours bibliques et alternative moderne à ServicePlanner / MyTime",
+      "Cours bibliques et alternative moderne à ServicePlanner / MyTime",
       "Suivez la progression de chaque étudiant dans le livre « Vivez pour toujours ! » (leçon et section). Compatible Dynamic Island, widgets iOS et mode sombre OLED sur iPhone et iPad."
     ]
   ],
@@ -187,7 +187,7 @@
   ],
   "qr_scan_title": "Scanner avec iPhone / iPad",
   "qr_scan_sub": "Pointez l'appareil photo pour ouvrir l'App Store",
-  "shot_lang_label": "Langue des captures (touchez l'une des 35 langues ci-dessous pour prévisualiser) :",
+  "shot_lang_label": "Langue des captures d'écran :",
   "comp_title": "Pourquoi les proclamateurs et pionniers choisissent JW Ministry",
   "comp_sub": "Comparaison complète pour le rapport de prédication, le programme de pionnier et les territoires.",
   "comp_headers": [
@@ -199,52 +199,52 @@
   "comp_rows": [
     [
       "Chronomètre en direct sur écran verrouillé & Dynamic Island",
-      "❌ Non",
-      "❌ Non",
-      "✅ Oui (Live Activities)"
+      "Non",
+      "Non",
+      "Oui (Live Activities)"
     ],
     [
       "Calculateur pionnier (15, 30, 50 h) & année de service (600 h)",
-      "⚠️ Manuel",
-      "⚠️ Partiel",
-      "✅ Automatique + Cible perso"
+      "Manuel",
+      "Partiel",
+      "Automatique + Cible perso"
     ],
     [
       "Comparaison Prévu vs Réel au Calendrier & balayage vers Rapport",
-      "❌ Non",
-      "❌ Non",
-      "✅ En un seul geste"
+      "Non",
+      "Non",
+      "En un seul geste"
     ],
     [
       "Générateur d'immeubles + Photos de territoires & 10 couleurs",
-      "❌ Fiches papier",
-      "❌ Texte seul",
-      "✅ Fiches visuelles + Recherche"
+      "Fiches papier",
+      "Texte seul",
+      "Fiches visuelles + Recherche"
     ],
     [
       "Rappels de nouvelles visites et d'envoi du rapport le 1er du mois",
-      "❌ Non",
-      "⚠️ Basique",
-      "✅ Notifications iOS"
+      "Non",
+      "Basique",
+      "Notifications iOS"
     ],
     [
       "Confidentialité 100 % locale & sauvegarde complète sur iCloud Drive",
-      "⚠️ Facile à perdre",
-      "⚠️ Bugs lors du changement d'iPhone",
-      "✅ 100 % Hors ligne & sûr"
+      "Facile à perdre",
+      "Bugs lors du changement d'iPhone",
+      "100 % Hors ligne & sûr"
     ],
     [
       "Optimisé pour le dernier iOS, iPad, mode sombre OLED & 35+ langues",
       "—",
-      "❌ Abandonnées",
-      "✅ Architecture native SwiftUI"
+      "Abandonnées",
+      "Architecture native SwiftUI"
     ]
   ],
-  "filter_all": "📱 iPhone (8)",
-  "filter_light": "☀️ Mode Clair (6)",
-  "filter_dark": "🌙 Mode Sombre OLED (2)",
-  "filter_ipad": "💻 iPad",
-  "wn_title": "🚀 Nouveautés de la version 1.8 de JW Ministry",
+  "filter_all": "Toutes (8)",
+  "filter_light": "Clair (6)",
+  "filter_dark": "Sombre (2)",
+  "filter_ipad": "iPad",
+  "wn_title": "Nouveautés de la version 1.8",
   "wn_items": [
     "Calcul automatique des heures planifiées du mois dans le Calendrier et double barre Prévu vs Réel.",
     "Convertissez une session planifiée du Calendrier en entrée du Rapport d'un simple balayage.",
@@ -272,5 +272,41 @@
     ]
   ],
   "nav_comp": "Comparatif",
-  "sticky_sub": "iPhone & iPad • Gratuit"
+  "sticky_sub": "iPhone & iPad • Gratuit",
+  "feature_badges": [
+    "Chronomètre • Live Activities",
+    "Cours Bibliques • Progression",
+    "Rôles • 15 / 30 / 50 / 100 h",
+    "Année de Service • Prévu vs Réel",
+    "Territoires • Recherche & rappels",
+    "Confidentialité • Sauvegarde iCloud"
+  ],
+  "pillar_badges": [
+    "Service de Pionnier Permanent et Spécial",
+    "Pionniers Auxiliaires et Proclamateurs",
+    "Porte-à-porte et Territoires Personnels",
+    "Cours Bibliques et Design Natif iOS"
+  ],
+  "pillar_Checklists": [
+    [
+      "Suivi automatique de 50 h/mois et 600 h sur l'année de service",
+      "Objectif mensuel personnalisé (ex. 55 heures)",
+      "Double barre comparant les heures prévues et réelles"
+    ],
+    [
+      "Passage rapide aux objectifs de 15 ou 30 heures",
+      "Partage du rapport mensuel en un seul geste",
+      "Rappel automatique le 1er de chaque mois à 20h00"
+    ],
+    [
+      "Générateur d'immeubles par entrées et étages",
+      "Photos de plans, 10 couleurs et recherche par adresse ou nom",
+      "Notifications automatiques pour vos nouvelles visites"
+    ],
+    [
+      "Suivi précis des leçons du livre « Vivez pour toujours ! »",
+      "Conçu pour iPhone et iPad avec Dynamic Island et mode OLED",
+      "Alternative moderne aux anciennes applications ServicePlanner et MyTime"
+    ]
+  ]
 }

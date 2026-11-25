@@ -48,7 +48,7 @@
           <a href="#languages">{{NAV_LANGUAGES}}</a>
           <a href="#faq">{{NAV_FAQ}}</a>
           <a href="{{PREFIX}}/privacy-policy.html">{{NAV_PRIVACY}}</a>
-          <a href="#donate" class="nav-donate-pill">❤️ {{NAV_DONATE}}</a>
+          <a href="#donate" class="nav-donate-pill">{{NAV_DONATE}}</a>
         </nav>
 
         <div class="lang-dropdown" id="lang-dropdown">
@@ -71,13 +71,13 @@
 
     <div class="mobile-drawer" id="mobile-drawer">
       <nav class="mobile-nav-list">
-        <a href="#screens" onclick="closeMobileMenu()"><span>📱 {{NAV_SCREENS}}</span><span>›</span></a>
-        <a href="#features" onclick="closeMobileMenu()"><span>✨ {{NAV_FEATURES}}</span><span>›</span></a>
-        <a href="#comparison" onclick="closeMobileMenu()"><span>⚡ {{NAV_COMP}}</span><span>›</span></a>
-        <a href="#languages" onclick="closeMobileMenu()"><span>🌍 {{NAV_LANGUAGES}}</span><span>›</span></a>
-        <a href="#faq" onclick="closeMobileMenu()"><span>💬 {{NAV_FAQ}}</span><span>›</span></a>
-        <a href="{{PREFIX}}/privacy-policy.html" onclick="closeMobileMenu()"><span>🔒 {{NAV_PRIVACY}}</span><span>›</span></a>
-        <a href="#donate" class="mobile-donate-highlight" onclick="closeMobileMenu()"><span>❤️ {{NAV_DONATE}}</span><span>›</span></a>
+        <a href="#screens" onclick="closeMobileMenu()"><span>{{NAV_SCREENS}}</span><span>›</span></a>
+        <a href="#features" onclick="closeMobileMenu()"><span>{{NAV_FEATURES}}</span><span>›</span></a>
+        <a href="#comparison" onclick="closeMobileMenu()"><span>{{NAV_COMP}}</span><span>›</span></a>
+        <a href="#languages" onclick="closeMobileMenu()"><span>{{NAV_LANGUAGES}}</span><span>›</span></a>
+        <a href="#faq" onclick="closeMobileMenu()"><span>{{NAV_FAQ}}</span><span>›</span></a>
+        <a href="{{PREFIX}}/privacy-policy.html" onclick="closeMobileMenu()"><span>{{NAV_PRIVACY}}</span><span>›</span></a>
+        <a href="#donate" class="mobile-donate-highlight" onclick="closeMobileMenu()"><span>{{NAV_DONATE}}</span><span>›</span></a>
       </nav>
     </div>
   </header>
@@ -94,12 +94,12 @@
                {{CTA_APPSTORE}}
             </a>
             <a href="#donate" class="btn btn-secondary">
-              ❤️ {{CTA_DONATE}}
+              {{CTA_DONATE}}
             </a>
             <div class="hero-qr-card">
               <img src="https://api.qrserver.com/v1/create-qr-code/?size=140x140&data={{APP_STORE_URL_ENCODED}}" alt="QR Code App Store JW Ministry" width="54" height="54" loading="lazy" />
               <div class="hero-qr-text">
-                <strong>📱 {{QR_SCAN_TITLE}}</strong>
+                <strong>{{QR_SCAN_TITLE}}</strong>
                 {{QR_SCAN_SUB}}
               </div>
             </div>
@@ -125,17 +125,20 @@
         <div class="sec-head">
           <h2>{{SCREENS_TITLE}}</h2>
           <p>{{SCREENS_SUB}}</p>
-          <div style="margin-top: 14px;">
-            <a href="#languages" class="shot-lang-indicator">
-              🌍 {{SHOT_LANG_LABEL}} <u id="active-shot-lang-name">{{NAME}}</u>
+          <div>
+            <a href="#languages" class="shot-lang-bar">
+              <span>{{SHOT_LANG_LABEL}}</span>
+              <strong id="active-shot-lang-name">{{NAME}}</strong>
             </a>
           </div>
         </div>
-        <div class="filter-bar">
-          <button class="filter-btn active" onclick="filterScreenshots('all', this)">{{FILTER_ALL}}</button>
-          <button class="filter-btn" onclick="filterScreenshots('light', this)">{{FILTER_LIGHT}}</button>
-          <button class="filter-btn" onclick="filterScreenshots('dark', this)">{{FILTER_DARK}}</button>
-          {{IPAD_FILTER_BTN}}
+        <div class="segmented-wrap">
+          <div class="filter-bar">
+            <button class="filter-btn active" onclick="filterScreenshots('all', this)">{{FILTER_ALL}}</button>
+            <button class="filter-btn" onclick="filterScreenshots('light', this)">{{FILTER_LIGHT}}</button>
+            <button class="filter-btn" onclick="filterScreenshots('dark', this)">{{FILTER_DARK}}</button>
+            {{IPAD_FILTER_BTN}}
+          </div>
         </div>
         <div class="shots-grid">
           {{SHOTS_GRID}}
@@ -198,7 +201,7 @@
     <section id="languages">
       <div class="container">
         <div class="loc-box">
-          <h2>🌍 {{LANG_SEC_TITLE}}</h2>
+          <h2>{{LANG_SEC_TITLE}}</h2>
           <p style="color: var(--muted); margin-top: 6px;">{{LANG_SEC_SUB}}</p>
           <div class="loc-cloud">
             {{LANG_BADGES}}
@@ -217,16 +220,16 @@
           </div>
           <div class="donate-grid">
             <div class="donate-card">
-              <h3>💳 {{CARD_FIAT_TITLE}}</h3>
+              <h3>{{CARD_FIAT_TITLE}}</h3>
               <p>{{CARD_FIAT_DESC}}</p>
               <div class="donate-btns">
-                <a href="{{BOOSTY_URL}}" target="_blank" rel="noopener" class="btn btn-boosty">🔥 {{BTN_BOOSTY}}</a>
-                <a href="{{PATREON_URL}}" target="_blank" rel="noopener" class="btn btn-patreon">🧡 {{BTN_PATREON}}</a>
+                <a href="{{BOOSTY_URL}}" target="_blank" rel="noopener" class="btn btn-boosty">{{BTN_BOOSTY}}</a>
+                <a href="{{PATREON_URL}}" target="_blank" rel="noopener" class="btn btn-patreon">{{BTN_PATREON}}</a>
               </div>
             </div>
 
             <div class="donate-card">
-              <h3>⚡ {{CARD_CRYPTO_TITLE}}</h3>
+              <h3>{{CARD_CRYPTO_TITLE}}</h3>
               <p>{{CARD_CRYPTO_DESC}}</p>
               <div class="wallet-box">
                 <span class="wallet-lbl">{{USDT_LABEL}}</span>

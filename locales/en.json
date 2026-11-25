@@ -106,7 +106,7 @@
   ],
   "lang_sec_title": "Fully Localized into 35+ Languages",
   "lang_sec_sub": "The app interface, widgets, and notifications automatically match your device language:",
-  "donate_badge": "❤️ Independent & Ad-Free Project",
+  "donate_badge": "Independent & Ad-Free Project",
   "donate_title": "Support the Development of JW Ministry",
   "donate_sub": "JW Ministry is created and maintained by an independent developer for personal use. There are no ads, no paid tiers, and no subscriptions. If the app makes your ministry easier, you can support future iOS updates and Apple Developer license renewal:",
   "card_fiat_title": "Support by Card (Worldwide)",
@@ -119,7 +119,7 @@
   "ton_label": "TON / USDT (TON Network):",
   "copy_btn": "Copy",
   "copied_msg": "Copied!",
-  "crypto_warn": "⚠️ For the TQQx... address, send assets via TRON (TRC-20) network only.",
+  "crypto_warn": "For the TQQx... address, send assets via TRON (TRC-20) network only.",
   "faq_title": "Frequently Asked Questions",
   "faqs": [
     [
@@ -162,19 +162,19 @@
   "seo_sec_sub": "How JW Ministry (Ministry Planner) helps publishers, auxiliary pioneers, regular pioneers, and special pioneers organize their service year.",
   "seo_pillars": [
     [
-      "🎯 Regular & Special Pioneers (50, 90 & 100 Hours / 600-Hour Service Year)",
+      "Regular & Special Pioneers (50, 90 & 100 Hours / 600-Hour Service Year)",
       "Serving as a regular pioneer requires keeping track of both your 50-hour monthly target and your 600-hour September–August service year goal. JW Ministry automatically calculates your completed ministry hours, remaining monthly balance, and full service year progress. Set a custom personal monthly goal (e.g., 55 hours), schedule ministry days in the Calendar, and compare your planned hours against your actual reported time."
     ],
     [
-      "📅 Auxiliary Pioneers (15 & 30 Hours) and Congregation Publishers",
+      "Auxiliary Pioneers (15 & 30 Hours) and Congregation Publishers",
       "Joining a special campaign, circuit overseer's visit, or Memorial season as an auxiliary pioneer? Switch your role to Auxiliary Pioneer (15 h or 30 h) in seconds. Congregation publishers can log daily ministry sessions, track Bible studies, and enable an automatic notification on the 1st of every month at 20:00 so you never forget to submit your field service report."
     ],
     [
-      "🏘️ House-to-House Territories, Apartment Generator & Return Visits",
+      "House-to-House Territories, Apartment Generator & Return Visits",
       "Replace paper slips with organized digital territory cards. Attach photos of territory maps, color-code cards with 10 stylish colors, and generate entire multi-story apartment buildings by entrances and floors in one tap. Record 'First visit', 'Not at home', or 'Refusal' statuses, search across all territories by street address or resident name, and receive automatic reminders when it is time to make a return visit."
     ],
     [
-      "📖 Bible Student Progress & Modern iOS Replacement for Legacy Apps",
+      "Bible Student Progress & Modern iOS Replacement for Legacy Apps",
       "Maintain a detailed roster of your Bible students along with their current study publication (such as 'Enjoy Life Forever!'), lesson number, and section. Attach students directly to your timer session so your monthly study count is always accurate. Built natively with SwiftUI for the latest iPhone and iPad models, JW Ministry is the ideal modern alternative to discontinued apps like ServicePlanner or MyTime."
     ]
   ],
@@ -194,7 +194,7 @@
   ],
   "qr_scan_title": "Scan with iPhone / iPad",
   "qr_scan_sub": "Point your camera to open in the App Store",
-  "shot_lang_label": "Screenshots language (tap any of the 35 languages below to preview):",
+  "shot_lang_label": "Interface language on screenshots:",
   "comp_title": "Why Publishers & Pioneers Switch to JW Ministry",
   "comp_sub": "Side-by-side comparison for field service tracking, pioneer scheduling, and territory management.",
   "comp_headers": [
@@ -206,52 +206,52 @@
   "comp_rows": [
     [
       "Live Ministry Timer on Lock Screen & Dynamic Island",
-      "❌ No",
-      "❌ No",
-      "✅ Yes (Live Activities)"
+      "No",
+      "No",
+      "Yes (Live Activities)"
     ],
     [
       "Pioneer Goal Calculator (15, 30, 50, 100h) & 600h Service Year",
-      "⚠️ Manual calculation",
-      "⚠️ Partial",
-      "✅ Automatic + Custom Goal"
+      "Manual calculation",
+      "Partial",
+      "Automatic + Custom Goal"
     ],
     [
       "Planned vs. Actual Calendar & Swipe-to-Report Conversion",
-      "❌ No",
-      "❌ No",
-      "✅ Built-in 1-Swipe Workflow"
+      "No",
+      "No",
+      "Built-in 1-Swipe Workflow"
     ],
     [
       "Apartment Building Generator + Territory Photos & 10 Color Tags",
-      "❌ Paper slips",
-      "❌ Text only",
-      "✅ Full Visual Cards + Search"
+      "Paper slips",
+      "Text only",
+      "Full Visual Cards + Search"
     ],
     [
       "Return Visit Reminders & 1st-of-the-Month Report Notification",
-      "❌ No",
-      "⚠️ Basic",
-      "✅ Smart iOS Notifications"
+      "No",
+      "Basic",
+      "Smart iOS Notifications"
     ],
     [
       "100% On-Device Privacy & Full iCloud Drive Backup with Photos",
-      "⚠️ Easy to lose",
-      "⚠️ Often breaks on new iOS",
-      "✅ Offline & Instant Restore"
+      "Easy to lose",
+      "Often breaks on new iOS",
+      "Offline & Instant Restore"
     ],
     [
       "Native Support for Latest iOS, iPad, OLED Dark Mode & 35+ Languages",
       "—",
-      "❌ Discontinued",
-      "✅ Modern SwiftUI Architecture"
+      "Discontinued",
+      "Modern SwiftUI Architecture"
     ]
   ],
-  "filter_all": "📱 iPhone (8)",
-  "filter_light": "☀️ Light Mode (6)",
-  "filter_dark": "🌙 Dark OLED (2)",
-  "filter_ipad": "💻 iPad",
-  "wn_title": "🚀 What's New in JW Ministry Version 1.8",
+  "filter_all": "All (8)",
+  "filter_light": "Light (6)",
+  "filter_dark": "Dark (2)",
+  "filter_ipad": "iPad",
+  "wn_title": "What's New in Version 1.8",
   "wn_items": [
     "Automatic monthly planned-hours total in the Calendar with a dual Planned vs. Actual progress bar.",
     "1-swipe conversion of any scheduled Calendar ministry session directly into a monthly Report entry.",
@@ -279,5 +279,41 @@
     ]
   ],
   "nav_comp": "Comparison",
-  "sticky_sub": "iPhone & iPad • Free"
+  "sticky_sub": "iPhone & iPad • Free",
+  "feature_badges": [
+    "Time Tracking • Live Activities",
+    "Bible Studies • Lesson Progress",
+    "Service Roles • 15 / 30 / 50 / 100 h",
+    "Service Year • Plan vs. Actual",
+    "Territory Log • Search & Alerts",
+    "On-Device Privacy • iCloud Backup"
+  ],
+  "pillar_badges": [
+    "Regular & Special Pioneer Ministry",
+    "Auxiliary Pioneers & Publishers",
+    "House-to-House & Personal Territories",
+    "Bible Studies & Modern iOS Design"
+  ],
+  "pillar_Checklists": [
+    [
+      "Automatic 50 h monthly & 600 h September–August service year tracking",
+      "Custom monthly hour target override (e.g., 55 h/month)",
+      "Dual progress bar comparing scheduled vs. reported hours"
+    ],
+    [
+      "One-tap switch to 15 h or 30 h Auxiliary Pioneer goals",
+      "Instant monthly report formatting and sharing on the 1st",
+      "Gentle reminder notification on the 1st of each month at 20:00"
+    ],
+    [
+      "Multi-story apartment generator by entrances and floors",
+      "Territory map photos, 10 color themes & instant resident/address search",
+      "Automated return visit reminders after your chosen number of days"
+    ],
+    [
+      "Track exact lessons in 'Enjoy Life Forever!' for every student",
+      "Built natively for iOS & iPadOS with Dynamic Island & OLED Dark Mode",
+      "Complete modern replacement for legacy ServicePlanner & MyTime apps"
+    ]
+  ]
 }

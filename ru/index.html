@@ -216,7 +216,7 @@
           <a href="#languages">35+ языков</a>
           <a href="#faq">Вопросы</a>
           <a href="../privacy-policy.html">Конфиденциальность</a>
-          <a href="#donate" class="nav-donate-pill">❤️ Поддержать</a>
+          <a href="#donate" class="nav-donate-pill">Поддержать</a>
         </nav>
 
         <div class="lang-dropdown" id="lang-dropdown">
@@ -244,13 +244,13 @@
 
     <div class="mobile-drawer" id="mobile-drawer">
       <nav class="mobile-nav-list">
-        <a href="#screens" onclick="closeMobileMenu()"><span>📱 Скриншоты</span><span>›</span></a>
-        <a href="#features" onclick="closeMobileMenu()"><span>✨ Возможности</span><span>›</span></a>
-        <a href="#comparison" onclick="closeMobileMenu()"><span>⚡ Преимущества</span><span>›</span></a>
-        <a href="#languages" onclick="closeMobileMenu()"><span>🌍 35+ языков</span><span>›</span></a>
-        <a href="#faq" onclick="closeMobileMenu()"><span>💬 Вопросы</span><span>›</span></a>
-        <a href="../privacy-policy.html" onclick="closeMobileMenu()"><span>🔒 Конфиденциальность</span><span>›</span></a>
-        <a href="#donate" class="mobile-donate-highlight" onclick="closeMobileMenu()"><span>❤️ Поддержать</span><span>›</span></a>
+        <a href="#screens" onclick="closeMobileMenu()"><span>Скриншоты</span><span>›</span></a>
+        <a href="#features" onclick="closeMobileMenu()"><span>Возможности</span><span>›</span></a>
+        <a href="#comparison" onclick="closeMobileMenu()"><span>Преимущества</span><span>›</span></a>
+        <a href="#languages" onclick="closeMobileMenu()"><span>35+ языков</span><span>›</span></a>
+        <a href="#faq" onclick="closeMobileMenu()"><span>Вопросы</span><span>›</span></a>
+        <a href="../privacy-policy.html" onclick="closeMobileMenu()"><span>Конфиденциальность</span><span>›</span></a>
+        <a href="#donate" class="mobile-donate-highlight" onclick="closeMobileMenu()"><span>Поддержать</span><span>›</span></a>
       </nav>
     </div>
   </header>
@@ -267,12 +267,12 @@
                Скачать в App Store
             </a>
             <a href="#donate" class="btn btn-secondary">
-              ❤️ Поддержать автора
+              Поддержать автора
             </a>
             <div class="hero-qr-card">
               <img src="https://api.qrserver.com/v1/create-qr-code/?size=140x140&data=https%3A%2F%2Fapps.apple.com%2Fus%2Fapp%2Fjw-ministry%2Fid6756040136" alt="QR Code App Store JW Ministry" width="54" height="54" loading="lazy" />
               <div class="hero-qr-text">
-                <strong>📱 Камера iPhone / iPad</strong>
+                <strong>Камера iPhone / iPad</strong>
                 Наведите камеру для загрузки из App Store
               </div>
             </div>
@@ -298,17 +298,20 @@
         <div class="sec-head">
           <h2>Все экраны приложения JW Ministry</h2>
           <p>Реальные скриншоты интерфейса на русском языке. Просмотрите все 8 экранов — от живого таймера и базы изучающих до календаря пионера, карточек участков и ночной темы OLED.</p>
-          <div style="margin-top: 14px;">
-            <a href="#languages" class="shot-lang-indicator">
-              🌍 Язык скриншотов (нажмите на любой из 35 языков ниже для переключения): <u id="active-shot-lang-name">Русский</u>
+          <div>
+            <a href="#languages" class="shot-lang-bar">
+              <span>Язык интерфейса на скриншотах:</span>
+              <strong id="active-shot-lang-name">Русский</strong>
             </a>
           </div>
         </div>
-        <div class="filter-bar">
-          <button class="filter-btn active" onclick="filterScreenshots('all', this)">📱 iPhone (8)</button>
-          <button class="filter-btn" onclick="filterScreenshots('light', this)">☀️ Светлая тема (6)</button>
-          <button class="filter-btn" onclick="filterScreenshots('dark', this)">🌙 Тёмная OLED (2)</button>
-          <button class="filter-btn" onclick="filterScreenshots('ipad', this)">💻 iPad (8)</button>
+        <div class="segmented-wrap">
+          <div class="filter-bar">
+            <button class="filter-btn active" onclick="filterScreenshots('all', this)">Все (8)</button>
+            <button class="filter-btn" onclick="filterScreenshots('light', this)">Светлая (6)</button>
+            <button class="filter-btn" onclick="filterScreenshots('dark', this)">Тёмная (2)</button>
+            <button class="filter-btn" onclick="filterScreenshots('ipad', this)">iPad (8)</button>
+          </div>
         </div>
         <div class="shots-grid">
           <article class="shot-card" data-theme-shot="light">
@@ -386,16 +389,58 @@
           <p>Создано специально под реальные задачи возвещателей, подсобных, общих и специальных пионеров.</p>
         </div>
         <div class="feat-grid">
-          <div class="feat-card"><div class="feat-icon">⏱️</div><h3>Таймер, виджеты и Dynamic Island</h3><p>Запускайте отсчёт времени из приложения, с виджета на экране «Домой» или с экрана блокировки. Активный таймер всегда перед глазами в Dynamic Island и Live Activities.</p></div>
-          <div class="feat-card"><div class="feat-icon">📚</div><h3>Учёт изучений Библии и уроков</h3><p>Привязывайте проведённые изучения к записям отчёта. В карточке каждого изучающего сохраняется название публикации, текущий урок и пункт.</p></div>
-          <div class="feat-card"><div class="feat-icon">📊</div><h3>Все назначения и личная цель в часах</h3><p>Поддержка ролей: Возвещатель, Подсобный пионер (15 или 30 ч), Общий пионер (50 ч), Специальный пионер / Миссионер (90 / 100 ч), а также режим «Использовать личную цель» (например, 55 ч в месяц).</p></div>
-          <div class="feat-card"><div class="feat-icon">🗓️</div><h3>Служебный год (сентябрь–август) и Календарь</h3><p>Планируйте встречи для проповеди, изучающих и семейное поклонение. Сравнивайте запланированное и фактическое время, переводите планы в отчёт одним свайпом и следите за годовой нормой.</p></div>
-          <div class="feat-card"><div class="feat-icon">🗺️</div><h3>Участки, многоквартирные дома и напоминания</h3><p>Создавайте карточки участков, генерируйте квартиры по этажам и подъездам, прикрепляйте фото, раскрашивайте карточки цветами, ищите по адресу или имени и получайте напоминания о повторных посещениях.</p></div>
-          <div class="feat-card"><div class="feat-icon">🔒</div><h3>100% приватность и надёжные резервные копии</h3><p>Без регистрации, аккаунтов и внешних серверов. Все данные и фотографии участков хранятся исключительно на вашем устройстве с возможностью полного экспорта и восстановления через iCloud Drive или Файлы.</p></div>
+          <div class="feat-card">
+          <div class="feat-top">
+            <div class="feat-icon"><svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="13" r="8"/><path d="M12 9v4l2.5 2.5"/><path d="M9 2h6"/></svg></div>
+            <span class="feat-kicker">Учёт времени • Live Activities</span>
+          </div>
+          <h3>Таймер, виджеты и Dynamic Island</h3>
+          <p>Запускайте отсчёт времени из приложения, с виджета на экране «Домой» или с экрана блокировки. Активный таймер всегда перед глазами в Dynamic Island и Live Activities.</p>
+        </div>
+          <div class="feat-card">
+          <div class="feat-top">
+            <div class="feat-icon"><svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg></div>
+            <span class="feat-kicker">Изучающие • Прогресс по урокам</span>
+          </div>
+          <h3>Учёт изучений Библии и уроков</h3>
+          <p>Привязывайте проведённые изучения к записям отчёта. В карточке каждого изучающего сохраняется название публикации, текущий урок и пункт.</p>
+        </div>
+          <div class="feat-card">
+          <div class="feat-top">
+            <div class="feat-icon"><svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 20V10"/><path d="M12 20V4"/><path d="M6 20v-6"/></svg></div>
+            <span class="feat-kicker">Назначения • 15 / 30 / 50 / 100 ч</span>
+          </div>
+          <h3>Все назначения и личная цель в часах</h3>
+          <p>Поддержка ролей: Возвещатель, Подсобный пионер (15 или 30 ч), Общий пионер (50 ч), Специальный пионер / Миссионер (90 / 100 ч), а также режим «Использовать личную цель» (например, 55 ч в месяц).</p>
+        </div>
+          <div class="feat-card">
+          <div class="feat-top">
+            <div class="feat-icon"><svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="4" width="18" height="18" rx="3"/><line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/></svg></div>
+            <span class="feat-kicker">Служебный год • План и Факт</span>
+          </div>
+          <h3>Служебный год (сентябрь–август) и Календарь</h3>
+          <p>Планируйте встречи для проповеди, изучающих и семейное поклонение. Сравнивайте запланированное и фактическое время, переводите планы в отчёт одним свайпом и следите за годовой нормой.</p>
+        </div>
+          <div class="feat-card">
+          <div class="feat-top">
+            <div class="feat-icon"><svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polygon points="1 6 1 22 8 18 16 22 23 18 23 2 16 6 8 2 1 6"/><line x1="8" y1="2" x2="8" y2="18"/><line x1="16" y1="6" x2="16" y2="22"/></svg></div>
+            <span class="feat-kicker">Картотека • Поиск и напоминания</span>
+          </div>
+          <h3>Участки, многоквартирные дома и напоминания</h3>
+          <p>Создавайте карточки участков, генерируйте квартиры по этажам и подъездам, прикрепляйте фото, раскрашивайте карточки цветами, ищите по адресу или имени и получайте напоминания о повторных посещениях.</p>
+        </div>
+          <div class="feat-card">
+          <div class="feat-top">
+            <div class="feat-icon"><svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/><path d="M9 12l2 2 4-4"/></svg></div>
+            <span class="feat-kicker">Безопасность • iCloud резерв</span>
+          </div>
+          <h3>100% приватность и надёжные резервные копии</h3>
+          <p>Без регистрации, аккаунтов и внешних серверов. Все данные и фотографии участков хранятся исключительно на вашем устройстве с возможностью полного экспорта и восстановления через iCloud Drive или Файлы.</p>
+        </div>
         </div>
         <div class="changelog-box">
           <div class="changelog-head">
-            <h3>🚀 Что нового в обновлении JW Ministry 1.8</h3>
+            <h3>Что нового в версии 1.8</h3>
             <time class="changelog-date" datetime="2026-11">v1.8 • iOS & iPadOS</time>
           </div>
           <ul class="changelog-list">
@@ -416,7 +461,7 @@
           <p>Наглядное сравнение возможностей при планировании служения, ведении участков и составлении отчёта.</p>
         </div>
         <div class="comp-wrap">
-          <table class="comp-table"><thead><tr><th class="">Возможность</th><th class="">Бумажные записи</th><th class="">Старые приложения</th><th class="highlight-col">JW Ministry 1.8</th></tr></thead><tbody><tr><td class="">Живой таймер на заблокированном экране и в Dynamic Island</td><td class="">❌ Нет</td><td class="">❌ Нет</td><td class="highlight-col">✅ Да (Live Activities)</td></tr><tr><td class="">Автоподсчёт нормы пионера (15, 30, 50, 100 ч) и служебного года (600 ч)</td><td class="">⚠️ Вручную на калькуляторе</td><td class="">⚠️ Частично</td><td class="highlight-col">✅ Автоматически + личная цель</td></tr><tr><td class="">Сравнение «План / Факт» в Календаре и перевод плана в отчёт свайпом</td><td class="">❌ Нет</td><td class="">❌ Нет</td><td class="highlight-col">✅ В одно касание</td></tr><tr><td class="">Генератор квартир по подъездам и этажам + фото и 10 цветов участка</td><td class="">❌ Бумажные карточки</td><td class="">❌ Только текст</td><td class="highlight-col">✅ Полная картотека + поиск</td></tr><tr><td class="">Напоминания о повторных посещениях и отправке отчёта 1-го числа</td><td class="">❌ Нет</td><td class="">⚠️ Редко</td><td class="highlight-col">✅ Гибкие уведомления iOS</td></tr><tr><td class="">Приватность данных и резервные копии с фотографиями в iCloud Drive</td><td class="">⚠️ Легко потерять блокнот</td><td class="">⚠️ Сбои при смене iPhone</td><td class="highlight-col">✅ 100% офлайн + надёжный бэкап</td></tr><tr><td class="">Адаптация под новые iOS, iPad, складной экран и ночную тему OLED</td><td class="">—</td><td class="">❌ Не обновляются</td><td class="highlight-col">✅ Нативный SwiftUI (35+ языков)</td></tr></tbody></table>
+          <table class="comp-table"><thead><tr><th class="">Возможность</th><th class="">Бумажные записи</th><th class="">Старые приложения</th><th class="highlight-col">JW Ministry 1.8</th></tr></thead><tbody><tr><td class="">Живой таймер на заблокированном экране и в Dynamic Island</td><td class="">Нет</td><td class="">Нет</td><td class="highlight-col">Да (Live Activities)</td></tr><tr><td class="">Автоподсчёт нормы пионера (15, 30, 50, 100 ч) и служебного года (600 ч)</td><td class="">Вручную на калькуляторе</td><td class="">Частично</td><td class="highlight-col">Автоматически + личная цель</td></tr><tr><td class="">Сравнение «План / Факт» в Календаре и перевод плана в отчёт свайпом</td><td class="">Нет</td><td class="">Нет</td><td class="highlight-col">В одно касание</td></tr><tr><td class="">Генератор квартир по подъездам и этажам + фото и 10 цветов участка</td><td class="">Бумажные карточки</td><td class="">Только текст</td><td class="highlight-col">Полная картотека + поиск</td></tr><tr><td class="">Напоминания о повторных посещениях и отправке отчёта 1-го числа</td><td class="">Нет</td><td class="">Редко</td><td class="highlight-col">Гибкие уведомления iOS</td></tr><tr><td class="">Приватность данных и резервные копии с фотографиями в iCloud Drive</td><td class="">Легко потерять блокнот</td><td class="">Сбои при смене iPhone</td><td class="highlight-col">100% офлайн + надёжный бэкап</td></tr><tr><td class="">Адаптация под новые iOS, iPad, складной экран и ночную тему OLED</td><td class="">—</td><td class="">Не обновляются</td><td class="highlight-col">Нативный SwiftUI (35+ языков)</td></tr></tbody></table>
         </div>
       </div>
     </section>
@@ -428,10 +473,30 @@
           <p>Разработано специально для возвещателей, подсобных, общих и специальных пионеров — идеальное дополнение к JW Library на вашем iPhone и iPad.</p>
         </div>
         <div class="seo-grid">
-          <article class="seo-card"><h3>🎯 Для общих и специальных пионеров (50, 90 и 100 часов в месяц)</h3><p>Если вы служите общим пионером (норма 50 часов в месяц и 600 часов за служебный год с сентября по август) или специальным пионером, приложение автоматически рассчитывает выполненные часы и точный остаток до месячной и годовой цели. Вы можете задать собственную персональную цель (например, 55 часов в месяц для запаса времени), планировать дни служения в Календаре и наглядно сравнивать запланированные часы с фактически проведёнными в проповеди.</p></article>
-          <article class="seo-card"><h3>📅 Для подсобных пионеров (15 и 30 часов) и возвещателей собрания</h3><p>В месяцы специальных кампаний, посещения районного надзирателя или в период Вечери воспоминания вы можете в одно касание переключить роль на «Подсобный пионер — 15 ч» или «Подсобный пионер — 30 ч». А для возвещателей приложение позволяет вести аккуратный дневник служения, отмечать проведённые изучения Библии и получать автоматическое напоминание 1-го числа каждого месяца в 20:00, чтобы вовремя сдать отчёт о проповедническом служении.</p></article>
-          <article class="seo-card"><h3>🏘️ Проповедь по домам, карточки участков и многоквартирные дома</h3><p>Забудьте о бумажных записках, которые легко потерять. В разделе «Участки» можно создать карточку любого участка, прикрепить фотографию карты, выделить участок одним из 10 цветов и за секунду сгенерировать список квартир многоэтажного дома по подъездам и этажам. Отмечайте статусы «Первое посещение», «Не было дома» или «Отказ», пишите заметки у двери (например, «Код домофона» или имя жильца), пользуйтесь мгновенным поиском по адресу или имени и включайте напоминания о повторных посещениях через выбранное число дней.</p></article>
-          <article class="seo-card"><h3>📖 Изучения Библии и современная замена старым приложениям на iOS</h3><p>Ведите полный список изучающих Библию с указанием текущего пособия (например, книги «Радуйтесь жизни сейчас и вечно!»), номера урока и пункта. При сохранении сессии таймера просто выберите студента, и изучение автоматически попадёт в ваш месячный отчёт. JW Ministry написано нативно для современных iPhone и iPad (включая поддержку виджетов, Live Activities, Dynamic Island и тёмной темы OLED) и станет идеальным решением для тех, кто искал достойную замену старым программам вроде ServicePlanner или MyTime.</p></article>
+          <article class="seo-card">
+          <span class="pillar-kicker">Общее и специальное пионерское служение</span>
+          <h3>Для общих и специальных пионеров (50, 90 и 100 часов в месяц)</h3>
+          <p>Если вы служите общим пионером (норма 50 часов в месяц и 600 часов за служебный год с сентября по август) или специальным пионером, приложение автоматически рассчитывает выполненные часы и точный остаток до месячной и годовой цели. Вы можете задать собственную персональную цель (например, 55 часов в месяц для запаса времени), планировать дни служения в Календаре и наглядно сравнивать запланированные часы с фактически проведёнными в проповеди.</p>
+          <ul class="pillar-list"><li><svg viewBox="0 0 20 20" fill="currentColor"><path fill-rule="evenodd" d="M16.704 4.153a.75.75 0 01.143 1.052l-8 10.5a.75.75 0 01-1.127.075l-4.5-4.5a.75.75 0 011.06-1.06l3.894 3.893 7.48-9.817a.75.75 0 011.05-.143z" clip-rule="evenodd"/></svg><span>Автоматический баланс 50 ч в месяц и 600 ч за служебный год</span></li><li><svg viewBox="0 0 20 20" fill="currentColor"><path fill-rule="evenodd" d="M16.704 4.153a.75.75 0 01.143 1.052l-8 10.5a.75.75 0 01-1.127.075l-4.5-4.5a.75.75 0 011.06-1.06l3.894 3.893 7.48-9.817a.75.75 0 011.05-.143z" clip-rule="evenodd"/></svg><span>Режим персональной цели (например, 55 ч для запаса времени)</span></li><li><svg viewBox="0 0 20 20" fill="currentColor"><path fill-rule="evenodd" d="M16.704 4.153a.75.75 0 01.143 1.052l-8 10.5a.75.75 0 01-1.127.075l-4.5-4.5a.75.75 0 011.06-1.06l3.894 3.893 7.48-9.817a.75.75 0 011.05-.143z" clip-rule="evenodd"/></svg><span>Двойная шкала сравнения запланированных и фактических часов</span></li></ul>
+        </article>
+          <article class="seo-card">
+          <span class="pillar-kicker">Подсобное пионерское служение и собрание</span>
+          <h3>Для подсобных пионеров (15 и 30 часов) и возвещателей собрания</h3>
+          <p>В месяцы специальных кампаний, посещения районного надзирателя или в период Вечери воспоминания вы можете в одно касание переключить роль на «Подсобный пионер — 15 ч» или «Подсобный пионер — 30 ч». А для возвещателей приложение позволяет вести аккуратный дневник служения, отмечать проведённые изучения Библии и получать автоматическое напоминание 1-го числа каждого месяца в 20:00, чтобы вовремя сдать отчёт о проповедническом служении.</p>
+          <ul class="pillar-list"><li><svg viewBox="0 0 20 20" fill="currentColor"><path fill-rule="evenodd" d="M16.704 4.153a.75.75 0 01.143 1.052l-8 10.5a.75.75 0 01-1.127.075l-4.5-4.5a.75.75 0 011.06-1.06l3.894 3.893 7.48-9.817a.75.75 0 011.05-.143z" clip-rule="evenodd"/></svg><span>Быстрое переключение нормы на 15 или 30 часов в период кампаний</span></li><li><svg viewBox="0 0 20 20" fill="currentColor"><path fill-rule="evenodd" d="M16.704 4.153a.75.75 0 01.143 1.052l-8 10.5a.75.75 0 01-1.127.075l-4.5-4.5a.75.75 0 011.06-1.06l3.894 3.893 7.48-9.817a.75.75 0 011.05-.143z" clip-rule="evenodd"/></svg><span>Отправка готового месячного отчёта в одно касание</span></li><li><svg viewBox="0 0 20 20" fill="currentColor"><path fill-rule="evenodd" d="M16.704 4.153a.75.75 0 01.143 1.052l-8 10.5a.75.75 0 01-1.127.075l-4.5-4.5a.75.75 0 011.06-1.06l3.894 3.893 7.48-9.817a.75.75 0 011.05-.143z" clip-rule="evenodd"/></svg><span>Деликатное напоминание 1-го числа месяца в 20:00</span></li></ul>
+        </article>
+          <article class="seo-card">
+          <span class="pillar-kicker">Служение по домам и личные участки</span>
+          <h3>Проповедь по домам, карточки участков и многоквартирные дома</h3>
+          <p>Забудьте о бумажных записках, которые легко потерять. В разделе «Участки» можно создать карточку любого участка, прикрепить фотографию карты, выделить участок одним из 10 цветов и за секунду сгенерировать список квартир многоэтажного дома по подъездам и этажам. Отмечайте статусы «Первое посещение», «Не было дома» или «Отказ», пишите заметки у двери (например, «Код домофона» или имя жильца), пользуйтесь мгновенным поиском по адресу или имени и включайте напоминания о повторных посещениях через выбранное число дней.</p>
+          <ul class="pillar-list"><li><svg viewBox="0 0 20 20" fill="currentColor"><path fill-rule="evenodd" d="M16.704 4.153a.75.75 0 01.143 1.052l-8 10.5a.75.75 0 01-1.127.075l-4.5-4.5a.75.75 0 011.06-1.06l3.894 3.893 7.48-9.817a.75.75 0 011.05-.143z" clip-rule="evenodd"/></svg><span>Генератор квартир многоэтажного дома по подъездам и этажам</span></li><li><svg viewBox="0 0 20 20" fill="currentColor"><path fill-rule="evenodd" d="M16.704 4.153a.75.75 0 01.143 1.052l-8 10.5a.75.75 0 01-1.127.075l-4.5-4.5a.75.75 0 011.06-1.06l3.894 3.893 7.48-9.817a.75.75 0 011.05-.143z" clip-rule="evenodd"/></svg><span>Фотографии карт, 10 цветовых меток и мгновенный поиск по имени или адресу</span></li><li><svg viewBox="0 0 20 20" fill="currentColor"><path fill-rule="evenodd" d="M16.704 4.153a.75.75 0 01.143 1.052l-8 10.5a.75.75 0 01-1.127.075l-4.5-4.5a.75.75 0 011.06-1.06l3.894 3.893 7.48-9.817a.75.75 0 011.05-.143z" clip-rule="evenodd"/></svg><span>Уведомления о повторных посещениях через заданное число дней</span></li></ul>
+        </article>
+          <article class="seo-card">
+          <span class="pillar-kicker">Библейские изучения и экосистема iOS</span>
+          <h3>Изучения Библии и современная замена старым приложениям на iOS</h3>
+          <p>Ведите полный список изучающих Библию с указанием текущего пособия (например, книги «Радуйтесь жизни сейчас и вечно!»), номера урока и пункта. При сохранении сессии таймера просто выберите студента, и изучение автоматически попадёт в ваш месячный отчёт. JW Ministry написано нативно для современных iPhone и iPad (включая поддержку виджетов, Live Activities, Dynamic Island и тёмной темы OLED) и станет идеальным решением для тех, кто искал достойную замену старым программам вроде ServicePlanner или MyTime.</p>
+          <ul class="pillar-list"><li><svg viewBox="0 0 20 20" fill="currentColor"><path fill-rule="evenodd" d="M16.704 4.153a.75.75 0 01.143 1.052l-8 10.5a.75.75 0 01-1.127.075l-4.5-4.5a.75.75 0 011.06-1.06l3.894 3.893 7.48-9.817a.75.75 0 011.05-.143z" clip-rule="evenodd"/></svg><span>Привязка изучающих и уроков книги «Радуйтесь жизни сейчас и вечно!»</span></li><li><svg viewBox="0 0 20 20" fill="currentColor"><path fill-rule="evenodd" d="M16.704 4.153a.75.75 0 01.143 1.052l-8 10.5a.75.75 0 01-1.127.075l-4.5-4.5a.75.75 0 011.06-1.06l3.894 3.893 7.48-9.817a.75.75 0 011.05-.143z" clip-rule="evenodd"/></svg><span>Нативная работа с виджетами, Dynamic Island и тёмной темой OLED</span></li><li><svg viewBox="0 0 20 20" fill="currentColor"><path fill-rule="evenodd" d="M16.704 4.153a.75.75 0 01.143 1.052l-8 10.5a.75.75 0 01-1.127.075l-4.5-4.5a.75.75 0 011.06-1.06l3.894 3.893 7.48-9.817a.75.75 0 011.05-.143z" clip-rule="evenodd"/></svg><span>Идеальная современная замена программам ServicePlanner и MyTime</span></li></ul>
+        </article>
         </div>
         <div class="seo-tags-wrap">
           <div class="seo-tags-title">Популярные поисковые запросы, по которым находят JW Ministry:</div>
@@ -456,7 +521,7 @@
     <section id="languages">
       <div class="container">
         <div class="loc-box">
-          <h2>🌍 Полная локализация на 35+ языков</h2>
+          <h2>Полная локализация на 35+ языков</h2>
           <p style="color: var(--muted); margin-top: 6px;">Интерфейс приложения, виджеты и уведомления автоматически работают на языке вашего iPhone или iPad:</p>
           <div class="loc-cloud">
             <span class="loc-badge " onclick="switchScreenshotLanguage('English', 'English', this)" title="Preview English screenshots">English</span>
@@ -503,22 +568,22 @@
       <div class="container">
         <div class="donate-wrap">
           <div class="donate-head">
-            <span class="donate-badge">❤️ Независимый проект без рекламы и подписок</span>
+            <span class="donate-badge">Независимый проект без рекламы и подписок</span>
             <h2>Поддержать развитие JW Ministry</h2>
             <p>Приложение создано для личного использования и развивается одним разработчиком. В нём нет рекламы, платных функций или подписок. Если JW Ministry помогает вам в служении, вы можете поддержать выход обновлений и оплату годовой лицензии Apple Developer:</p>
           </div>
           <div class="donate-grid">
             <div class="donate-card">
-              <h3>💳 Перевод картой (из любой страны)</h3>
+              <h3>Перевод картой (из любой страны)</h3>
               <p>Быстрый разовый донат или подписка через Boosty (карты РФ и зарубежные карты) или Patreon:</p>
               <div class="donate-btns">
-                <a href="https://boosty.to/jwministry" target="_blank" rel="noopener" class="btn btn-boosty">🔥 Поддержать на Boosty (Карты / СБП)</a>
-                <a href="https://www.patreon.com/cw/JWMinistry" target="_blank" rel="noopener" class="btn btn-patreon">🧡 Поддержать на Patreon</a>
+                <a href="https://boosty.to/jwministry" target="_blank" rel="noopener" class="btn btn-boosty">Поддержать на Boosty (Карты / СБП)</a>
+                <a href="https://www.patreon.com/cw/JWMinistry" target="_blank" rel="noopener" class="btn btn-patreon">Поддержать на Patreon</a>
               </div>
             </div>
 
             <div class="donate-card">
-              <h3>⚡ Криптовалюта напрямую (0% комиссии)</h3>
+              <h3>Криптовалюта напрямую (0% комиссии)</h3>
               <p>Мгновенный перевод напрямую на кошелёк разработчика:</p>
               <div class="wallet-box">
                 <span class="wallet-lbl">USDT (только сеть TRC-20 / TRON):</span>
@@ -546,7 +611,7 @@
                   <img src="https://api.qrserver.com/v1/create-qr-code/?size=160x160&data=UQBNBroTUyMG0YqgiHGXwVKO_rKe5d2y7gXqvICREjBwuKYk" alt="TON QR" loading="lazy" />
                 </div>
               </div>
-              <div class="crypto-warn">⚠️ На адрес TQQx... отправляйте только активы в сети TRON (TRC-20).</div>
+              <div class="crypto-warn">На адрес TQQx... отправляйте только активы в сети TRON (TRC-20).</div>
             </div>
           </div>
         </div>

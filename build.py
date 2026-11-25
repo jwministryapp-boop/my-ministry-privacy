@@ -4,6 +4,9 @@ import json
 from urllib.parse import quote
 
 BASE = os.path.dirname(os.path.abspath(__file__))
+SVG_ICONS = {"timer": "<svg viewBox=\"0 0 24 24\" width=\"22\" height=\"22\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><circle cx=\"12\" cy=\"13\" r=\"8\"/><path d=\"M12 9v4l2.5 2.5\"/><path d=\"M9 2h6\"/></svg>", "book": "<svg viewBox=\"0 0 24 24\" width=\"22\" height=\"22\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M4 19.5A2.5 2.5 0 0 1 6.5 17H20\"/><path d=\"M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z\"/></svg>", "chart": "<svg viewBox=\"0 0 24 24\" width=\"22\" height=\"22\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M18 20V10\"/><path d=\"M12 20V4\"/><path d=\"M6 20v-6\"/></svg>", "calendar": "<svg viewBox=\"0 0 24 24\" width=\"22\" height=\"22\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><rect x=\"3\" y=\"4\" width=\"18\" height=\"18\" rx=\"3\"/><line x1=\"16\" y1=\"2\" x2=\"16\" y2=\"6\"/><line x1=\"8\" y1=\"2\" x2=\"8\" y2=\"6\"/><line x1=\"3\" y1=\"10\" x2=\"21\" y2=\"10\"/></svg>", "map": "<svg viewBox=\"0 0 24 24\" width=\"22\" height=\"22\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><polygon points=\"1 6 1 22 8 18 16 22 23 18 23 2 16 6 8 2 1 6\"/><line x1=\"8\" y1=\"2\" x2=\"8\" y2=\"18\"/><line x1=\"16\" y1=\"6\" x2=\"16\" y2=\"22\"/></svg>", "shield": "<svg viewBox=\"0 0 24 24\" width=\"22\" height=\"22\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z\"/><path d=\"M9 12l2 2 4-4\"/></svg>"}
+FEATURE_ICON_KEYS = ["timer", "book", "chart", "calendar", "map", "shield"]
+
 
 with open(os.path.join(BASE, "config.json"), "r", encoding="utf-8") as f:
     CFG = json.load(f)
@@ -58,7 +61,7 @@ def render(code, d, is_root=False):
     ipad_btn_html = ""
     ipad_shots_html = []
     if IPAD_FILES:
-        ipad_lbl = d.get("filter_ipad", "💻 iPad")
+        ipad_lbl = d.get("filter_ipad", "iPad")
         ipad_btn_html = f'<button class="filter-btn" onclick="filterScreenshots(\'ipad\', this)">{ipad_lbl} ({len(IPAD_FILES)})</button>'
         shot_lookup = {fn: (st, sd) for fn, st, sd in d["shots"]}
         for idx, ifile in enumerate(IPAD_FILES, 1):
@@ -70,8 +73,35 @@ def render(code, d, is_root=False):
               <div class="shot-meta"><h3>iPad • {ititle}</h3><p>{idesc}</p></div>
             </article>""")
 
-    feats_html = [f'<div class="feat-card"><div class="feat-icon">{ic}</div><h3>{ft}</h3><p>{fd}</p></div>' for ic, ft, fd in d["features"]]
-    seo_pillars_html = [f'<article class="seo-card"><h3>{pt}</h3><p>{pd}</p></article>' for pt, pd in d.get("seo_pillars", [])]
+    f_badges = d.get("feature_badges", [])
+    feats_html = []
+    for idx, (_, ft, fd) in enumerate(d["features"]):
+        svg_ic = SVG_ICONS[FEATURE_ICON_KEYS[idx % len(FEATURE_ICON_KEYS)]]
+        kicker = f_badges[idx] if idx < len(f_badges) else ""
+        feats_html.append(f'''<div class="feat-card">
+          <div class="feat-top">
+            <div class="feat-icon">{svg_ic}</div>
+            <span class="feat-kicker">{kicker}</span>
+          </div>
+          <h3>{ft}</h3>
+          <p>{fd}</p>
+        </div>''')
+
+    p_badges = d.get("pillar_badges", [])
+    p_checks = d.get("pillar_Checklists", [])
+    check_svg = '<svg viewBox="0 0 20 20" fill="currentColor"><path fill-rule="evenodd" d="M16.704 4.153a.75.75 0 01.143 1.052l-8 10.5a.75.75 0 01-1.127.075l-4.5-4.5a.75.75 0 011.06-1.06l3.894 3.893 7.48-9.817a.75.75 0 011.05-.143z" clip-rule="evenodd"/></svg>'
+    seo_pillars_html = []
+    for idx, (pt, pd) in enumerate(d.get("seo_pillars", [])):
+        pkicker = p_badges[idx] if idx < len(p_badges) else ""
+        c_items = p_checks[idx] if idx < len(p_checks) else []
+        li_html = "".join([f"<li>{check_svg}<span>{ci}</span></li>" for ci in c_items])
+        ul_block = f'<ul class="pillar-list">{li_html}</ul>' if li_html else ""
+        seo_pillars_html.append(f'''<article class="seo-card">
+          <span class="pillar-kicker">{pkicker}</span>
+          <h3>{pt}</h3>
+          <p>{pd}</p>
+          {ul_block}
+        </article>''')
     seo_tags_html = [f'<span class="seo-tag">{tg}</span>' for tg in d.get("seo_tags", [])]
 
     # Interactive 35 Language Badges

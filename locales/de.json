@@ -106,7 +106,7 @@
   ],
   "lang_sec_title": "Vollständig übersetzt in über 35 Sprachen",
   "lang_sec_sub": "App, Widgets und Mitteilungen passen sich automatisch der Systemsprache deines Geräts an:",
-  "donate_badge": "❤️ Unabhängiges & werbefreies Projekt",
+  "donate_badge": "Unabhängiges & werbefreies Projekt",
   "donate_title": "Unterstütze die Weiterentwicklung von JW Ministry",
   "donate_sub": "JW Ministry ist komplett kostenlos und werbefrei. Wenn dir die App im Dienst hilft, kannst du zukünftige iOS-Updates und die jährliche Apple-Developer-Gebühr unterstützen:",
   "card_fiat_title": "Per Karte unterstützen (Weltweit)",
@@ -119,7 +119,7 @@
   "ton_label": "TON / USDT (TON-Netzwerk):",
   "copy_btn": "Kopieren",
   "copied_msg": "Kopiert!",
-  "crypto_warn": "⚠️ Sende an die Adresse TQQx... ausschließlich Token im TRON-Netzwerk (TRC-20).",
+  "crypto_warn": "Sende an die Adresse TQQx... ausschließlich Token im TRON-Netzwerk (TRC-20).",
   "faq_title": "Häufig gestellte Fragen",
   "faqs": [
     [
@@ -158,19 +158,19 @@
   "seo_sec_sub": "Alle Funktionen für Verkündiger, Hilfspioniere und allgemeine Pioniere im Dienstjahr.",
   "seo_pillars": [
     [
-      "🎯 Allgemeine Pioniere & Sonderpioniere (50, 90 & 100 Stunden / Dienstjahr)",
+      "Allgemeine Pioniere & Sonderpioniere (50, 90 & 100 Stunden / Dienstjahr)",
       "Behalte dein Monatsziel von 50 Stunden sowie das Jahresziel von 600 Stunden im Dienstjahr von September bis August mühelos im Blick. Lege bei Bedarf ein persönliches Monatsziel (z. B. 55 Std.) fest und vergleiche im Kalender deine geplanten Stunden mit den tatsächlich berichteten Stunden."
     ],
     [
-      "📅 Hilfspioniere (15 & 30 Stunden) und Versammlungsverkündiger",
+      "Hilfspioniere (15 & 30 Stunden) und Versammlungsverkündiger",
       "Wechsle für besondere Aktionsmonate, die Dienstwoche oder die Gedächtnismahlzeit einfach zur Rolle Hilfspionier (15 oder 30 Std.). Eine automatische Erinnerung am 1. jedes Monats um 20:00 Uhr erinnert dich zuverlässig an die Abgabe deines Predigtdienstberichts."
     ],
     [
-      "🏘️ Haus-zu-Haus-Gebiete, Mehrfamilienhäuser & Rückbesuche",
+      "Haus-zu-Haus-Gebiete, Mehrfamilienhäuser & Rückbesuche",
       "Erstelle digitale Gebietskarten mit Fotos, 10 Farbmarkierungen und einem Wohnungsgenerator für Mehrfamilienhäuser nach Aufgängen und Etagen. Erfasse „Erster Besuch“, „Nicht zu Hause“ oder „Kein Interesse“, durchsuche alle Notizen nach Adresse oder Namen und lasse dich automatisch an fällige Rückbesuche erinnern."
     ],
     [
-      "📖 Bibelstudien-Fortschritt & moderne iOS-Alternative zu älteren Apps",
+      "Bibelstudien-Fortschritt & moderne iOS-Alternative zu älteren Apps",
       "Dokumentiere für jeden Studierenden das aktuelle Studienhilfsmittel (z. B. „Glücklich – für immer!“), die Lektion und den Abschnitt. Mit Live Activities, Dynamic Island, Widgets und OLED-Dunkelmodus ist JW Ministry der moderne Nachfolger für ältere Apps wie ServicePlanner oder MyTime."
     ]
   ],
@@ -187,7 +187,7 @@
   ],
   "qr_scan_title": "Mit iPhone / iPad scannen",
   "qr_scan_sub": "Kamera richten, um im App Store zu laden",
-  "shot_lang_label": "Screenshot-Sprache (tippe unten auf eine der 35 Sprachen für die Vorschau):",
+  "shot_lang_label": "Sprache der Screenshots:",
   "comp_title": "Warum Verkündiger und Pioniere zu JW Ministry wechseln",
   "comp_sub": "Direkter Vergleich bei Predigtdienstbericht, Pionierplanung und Gebietsbearbeitung.",
   "comp_headers": [
@@ -199,52 +199,52 @@
   "comp_rows": [
     [
       "Live-Timer auf dem Sperrbildschirm & in der Dynamic Island",
-      "❌ Nein",
-      "❌ Nein",
-      "✅ Ja (Live Activities)"
+      "Nein",
+      "Nein",
+      "Ja (Live Activities)"
     ],
     [
       "Pionier-Stundenrechner (15, 30, 50 Std.) & Dienstjahr (600 Std.)",
-      "⚠️ Manuell",
-      "⚠️ Teilweise",
-      "✅ Automatisch + Eigenes Ziel"
+      "Manuell",
+      "Teilweise",
+      "Automatisch + Eigenes Ziel"
     ],
     [
       "Plan-vs.-Ist-Vergleich im Kalender & per Wischgeste in den Bericht",
-      "❌ Nein",
-      "❌ Nein",
-      "✅ Mit einer Berührung"
+      "Nein",
+      "Nein",
+      "Mit einer Berührung"
     ],
     [
       "Mehrfamilienhaus-Generator + Gebietsfotos & 10 Farben",
-      "❌ Papierzettel",
-      "❌ Nur Text",
-      "✅ Visuelle Karten + Volltextsuche"
+      "Papierzettel",
+      "Nur Text",
+      "Visuelle Karten + Volltextsuche"
     ],
     [
       "Erinnerungen an Rückbesuche & Monatsbericht am 1. des Monats",
-      "❌ Nein",
-      "⚠️ Selten",
-      "✅ Intelligente iOS-Mitteilungen"
+      "Nein",
+      "Selten",
+      "Intelligente iOS-Mitteilungen"
     ],
     [
       "100 % lokaler Datenschutz & vollständiges iCloud-Drive-Backup",
-      "⚠️ Leicht zu verlieren",
-      "⚠️ Fehler beim Gerätewechsel",
-      "✅ 100 % Offline & Sicher"
+      "Leicht zu verlieren",
+      "Fehler beim Gerätewechsel",
+      "100 % Offline & Sicher"
     ],
     [
       "Nativ für aktuelles iOS, iPad, OLED-Dunkelmodus & 35+ Sprachen",
       "—",
-      "❌ Veraltet",
-      "✅ Modernes SwiftUI-Design"
+      "Veraltet",
+      "Modernes SwiftUI-Design"
     ]
   ],
-  "filter_all": "📱 iPhone (8)",
-  "filter_light": "☀️ Heller Modus (6)",
-  "filter_dark": "🌙 Dunkelmodus OLED (2)",
-  "filter_ipad": "💻 iPad",
-  "wn_title": "🚀 Neu in JW Ministry Version 1.8",
+  "filter_all": "Alle (8)",
+  "filter_light": "Hell (6)",
+  "filter_dark": "Dunkel (2)",
+  "filter_ipad": "iPad",
+  "wn_title": "Neu in Version 1.8",
   "wn_items": [
     "Automatische Summe der geplanten Monatsstunden im Kalender mit doppeltem Plan-vs.-Ist-Fortschrittsbalken.",
     "Geplante Predigtdiensttermine im Kalender per Wischgeste direkt in den Monatsbericht übernehmen.",
@@ -272,5 +272,41 @@
     ]
   ],
   "nav_comp": "Vorteile",
-  "sticky_sub": "iPhone & iPad • Kostenlos"
+  "sticky_sub": "iPhone & iPad • Kostenlos",
+  "feature_badges": [
+    "Zeiterfassung • Live Activities",
+    "Bibelstudien • Lektionsfortschritt",
+    "Dienstrollen • 15 / 30 / 50 / 100 Std.",
+    "Dienstjahr • Plan vs. Ist",
+    "Gebietskarten • Suche & Erinnerungen",
+    "Datenschutz • iCloud-Backup"
+  ],
+  "pillar_badges": [
+    "Allgemeiner Pionier- & Sonderpionierdienst",
+    "Hilfspionierdienst & Verkündiger",
+    "Haus-zu-Haus-Dienst & Persönliche Gebiete",
+    "Bibelstudien & Modernes iOS-Design"
+  ],
+  "pillar_Checklists": [
+    [
+      "Automatische Berechnung für 50 Std./Monat & 600 Std. im Dienstjahr",
+      "Individuelles Monatsziel (z. B. 55 Stunden als Zeitpuffer)",
+      "Doppelter Fortschrittsbalken für geplante vs. berichtete Stunden"
+    ],
+    [
+      "Schneller Wechsel auf 15 oder 30 Stunden für Aktionsmonate",
+      "Monatsbericht mit einem Tippen teilen",
+      "Zuverlässige Erinnerung am 1. jedes Monats um 20:00 Uhr"
+    ],
+    [
+      "Mehrfamilienhaus-Generator nach Aufgängen und Etagen",
+      "Gebietsfotos, 10 Farben und Sofortsuche nach Name oder Adresse",
+      "Automatische Erinnerungen an fällige Rückbesuche"
+    ],
+    [
+      "Lektionsfortschritt für „Glücklich – für immer!“ speichern",
+      "Nativ für iPhone & iPad mit Dynamic Island & OLED-Dunkelmodus",
+      "Moderner Nachfolger für ältere Apps wie ServicePlanner & MyTime"
+    ]
+  ]
 }

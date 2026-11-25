@@ -106,7 +106,7 @@
   ],
   "lang_sec_title": "Traducido a más de 35 idiomas",
   "lang_sec_sub": "La aplicación se adapta automáticamente al idioma de tu iPhone o iPad:",
-  "donate_badge": "❤️ Proyecto independiente sin publicidad",
+  "donate_badge": "Proyecto independiente sin publicidad",
   "donate_title": "Apoya el desarrollo de JW Ministry",
   "donate_sub": "JW Ministry es gratuita, sin anuncios ni suscripciones. Si te ayuda en tu ministerio, puedes apoyar el mantenimiento y la licencia anual de Apple Developer:",
   "card_fiat_title": "Apoyo con tarjeta (Internacional)",
@@ -119,7 +119,7 @@
   "ton_label": "TON / USDT (red TON):",
   "copy_btn": "Copiar",
   "copied_msg": "¡Copiado!",
-  "crypto_warn": "⚠️ Envía únicamente activos de la red TRON (TRC-20) a la dirección TQQx...",
+  "crypto_warn": "Envía únicamente activos de la red TRON (TRC-20) a la dirección TQQx...",
   "faq_title": "Preguntas frecuentes",
   "faqs": [
     [
@@ -158,19 +158,19 @@
   "seo_sec_sub": "Control de horas, horario de precursor y registro de territorios personales durante todo el año de servicio 2025–2026 y 2026–2027.",
   "seo_pillars": [
     [
-      "🎯 Precursores Regulares y Especiales (50, 90 y 100 horas / Año de servicio)",
+      "Precursores Regulares y Especiales (50, 90 y 100 horas / Año de servicio)",
       "Lleva el control exacto de tu meta mensual de 50 horas y del objetivo anual de 600 horas durante el año de servicio de septiembre a agosto. Puedes definir una meta personal mensual (por ejemplo, 55 horas), planificar tu horario en el Calendario y comparar las horas planeadas con las horas reales informadas."
     ],
     [
-      "📅 Precursores Auxiliares (15 y 30 horas) y Publicadores",
+      "Precursores Auxiliares (15 y 30 horas) y Publicadores",
       "En meses de campañas especiales, visita del superintendente de circuito o temporada de la Conmemoración, cambia tu rol a Precursor Auxiliar de 15 o 30 horas con un toque. Activa el recordatorio automático el día 1 de cada mes a las 20:00 para enviar puntualmente tu informe de predicación."
     ],
     [
-      "🏘️ Territorios de casa en casa, edificios y avisos de revisitas",
+      "Territorios de casa en casa, edificios y avisos de revisitas",
       "Crea tarjetas de territorios con foto del mapa, clasifícalas con 10 colores y genera edificios de apartamentos por portales y pisos en segundos. Anota «Primera visita», «No en casa» o «No visitar», busca por dirección o nombre del amo de casa y recibe notificaciones para hacer tus revisitas."
     ],
     [
-      "📖 Cursos bíblicos y alternativa moderna a ServicePlanner / MyTime",
+      "Cursos bíblicos y alternativa moderna a ServicePlanner / MyTime",
       "Registra a cada estudiante de la Biblia con su progreso en el libro «¡Disfrute de la vida para siempre!» (lección y punto). Diseñada nativamente para iPhone y iPad con widgets, Live Activities y modo oscuro OLED."
     ]
   ],
@@ -189,7 +189,7 @@
   ],
   "qr_scan_title": "Escanear con iPhone / iPad",
   "qr_scan_sub": "Apunta con la cámara para abrir en App Store",
-  "shot_lang_label": "Idioma de las capturas (toca cualquiera de los 35 idiomas para cambiar):",
+  "shot_lang_label": "Idioma en las capturas:",
   "comp_title": "Por qué los publicadores y precursores eligen JW Ministry",
   "comp_sub": "Comparativa entre apuntes en papel, aplicaciones antiguas y JW Ministry 1.8.",
   "comp_headers": [
@@ -201,52 +201,52 @@
   "comp_rows": [
     [
       "Temporizador en vivo en pantalla bloqueada y Dynamic Island",
-      "❌ No",
-      "❌ No",
-      "✅ Sí (Live Activities)"
+      "No",
+      "No",
+      "Sí (Live Activities)"
     ],
     [
       "Cálculo de metas de precursor (15, 30, 50 h) y año de servicio (600 h)",
-      "⚠️ Manual",
-      "⚠️ Parcial",
-      "✅ Automático + Meta personal"
+      "Manual",
+      "Parcial",
+      "Automático + Meta personal"
     ],
     [
       "Comparación Plan vs. Real en Calendario y deslizar al Informe",
-      "❌ No",
-      "❌ No",
-      "✅ Con un solo gesto"
+      "No",
+      "No",
+      "Con un solo gesto"
     ],
     [
       "Generador de edificios + Fotos del territorio y 10 colores",
-      "❌ Tarjetas de papel",
-      "❌ Solo texto",
-      "✅ Tarjetas visuales + Búsqueda"
+      "Tarjetas de papel",
+      "Solo texto",
+      "Tarjetas visuales + Búsqueda"
     ],
     [
       "Recordatorios de revisitas y aviso el día 1 para enviar el informe",
-      "❌ No",
-      "⚠️ Básico",
-      "✅ Notificaciones inteligentes"
+      "No",
+      "Básico",
+      "Notificaciones inteligentes"
     ],
     [
       "Privacidad 100% local y copia de seguridad completa en iCloud Drive",
-      "⚠️ Fácil de perder",
-      "⚠️ Falla al cambiar de iPhone",
-      "✅ 100% Offline y seguro"
+      "Fácil de perder",
+      "Falla al cambiar de iPhone",
+      "100% Offline y seguro"
     ],
     [
       "Optimizado para el último iOS, iPad, modo OLED y 35+ idiomas",
       "—",
-      "❌ Sin soporte",
-      "✅ Diseño nativo SwiftUI"
+      "Sin soporte",
+      "Diseño nativo SwiftUI"
     ]
   ],
-  "filter_all": "📱 iPhone (8)",
-  "filter_light": "☀️ Modo Claro (6)",
-  "filter_dark": "🌙 Modo Oscuro OLED (2)",
-  "filter_ipad": "💻 iPad",
-  "wn_title": "🚀 Novedades de la versión 1.8 de JW Ministry",
+  "filter_all": "Todas (8)",
+  "filter_light": "Claro (6)",
+  "filter_dark": "Oscuro (2)",
+  "filter_ipad": "iPad",
+  "wn_title": "Novedades de la versión 1.8",
   "wn_items": [
     "Suma automática de horas planeadas al mes en el Calendario y barra de progreso doble (Plan vs. Real).",
     "Convierte cualquier salida planeada del Calendario en un registro del Informe deslizando el dedo.",
@@ -274,5 +274,41 @@
     ]
   ],
   "nav_comp": "Comparativa",
-  "sticky_sub": "iPhone y iPad • Gratis"
+  "sticky_sub": "iPhone y iPad • Gratis",
+  "feature_badges": [
+    "Cronómetro • Live Activities",
+    "Cursos Bíblicos • Avance de lecciones",
+    "Asignaciones • 15 / 30 / 50 / 100 h",
+    "Año de Servicio • Plan vs. Real",
+    "Territorios • Búsqueda y avisos",
+    "Privacidad local • Copia iCloud"
+  ],
+  "pillar_badges": [
+    "Precursorado Regular y Especial",
+    "Precursorado Auxiliar y Publicadores",
+    "Predicación de casa en casa y Territorios",
+    "Cursos Bíblicos y Ecosistema iOS"
+  ],
+  "pillar_Checklists": [
+    [
+      "Control automático de 50 h al mes y 600 h en el año de servicio",
+      "Meta mensual personalizada (por ejemplo, 55 horas)",
+      "Barra doble para comparar el horario planeado con el real"
+    ],
+    [
+      "Cambio rápido a metas de 15 o 30 horas en meses especiales",
+      "Envío del informe mensual con un solo toque",
+      "Recordatorio automático el día 1 de cada mes a las 20:00"
+    ],
+    [
+      "Generador de edificios de apartamentos por portales y pisos",
+      "Fotos del mapa, 10 colores y búsqueda por dirección o nombre",
+      "Avisos automáticos para realizar tus revisitas a tiempo"
+    ],
+    [
+      "Control de lecciones del libro «¡Disfrute de la vida para siempre!»",
+      "Diseño nativo con widgets, Dynamic Island y modo oscuro OLED",
+      "La alternativa moderna a ServicePlanner y MyTime en iPhone y iPad"
+    ]
+  ]
 }

@@ -208,7 +208,7 @@
           <a href="#languages">35+ Langues</a>
           <a href="#faq">FAQ</a>
           <a href="../privacy-policy.html">Confidentialité</a>
-          <a href="#donate" class="nav-donate-pill">❤️ Soutenir</a>
+          <a href="#donate" class="nav-donate-pill">Soutenir</a>
         </nav>
 
         <div class="lang-dropdown" id="lang-dropdown">
@@ -236,13 +236,13 @@
 
     <div class="mobile-drawer" id="mobile-drawer">
       <nav class="mobile-nav-list">
-        <a href="#screens" onclick="closeMobileMenu()"><span>📱 Captures</span><span>›</span></a>
-        <a href="#features" onclick="closeMobileMenu()"><span>✨ Fonctionnalités</span><span>›</span></a>
-        <a href="#comparison" onclick="closeMobileMenu()"><span>⚡ Comparatif</span><span>›</span></a>
-        <a href="#languages" onclick="closeMobileMenu()"><span>🌍 35+ Langues</span><span>›</span></a>
-        <a href="#faq" onclick="closeMobileMenu()"><span>💬 FAQ</span><span>›</span></a>
-        <a href="../privacy-policy.html" onclick="closeMobileMenu()"><span>🔒 Confidentialité</span><span>›</span></a>
-        <a href="#donate" class="mobile-donate-highlight" onclick="closeMobileMenu()"><span>❤️ Soutenir</span><span>›</span></a>
+        <a href="#screens" onclick="closeMobileMenu()"><span>Captures</span><span>›</span></a>
+        <a href="#features" onclick="closeMobileMenu()"><span>Fonctionnalités</span><span>›</span></a>
+        <a href="#comparison" onclick="closeMobileMenu()"><span>Comparatif</span><span>›</span></a>
+        <a href="#languages" onclick="closeMobileMenu()"><span>35+ Langues</span><span>›</span></a>
+        <a href="#faq" onclick="closeMobileMenu()"><span>FAQ</span><span>›</span></a>
+        <a href="../privacy-policy.html" onclick="closeMobileMenu()"><span>Confidentialité</span><span>›</span></a>
+        <a href="#donate" class="mobile-donate-highlight" onclick="closeMobileMenu()"><span>Soutenir</span><span>›</span></a>
       </nav>
     </div>
   </header>
@@ -259,12 +259,12 @@
                Télécharger sur l'App Store
             </a>
             <a href="#donate" class="btn btn-secondary">
-              ❤️ Soutenir le développeur
+              Soutenir le développeur
             </a>
             <div class="hero-qr-card">
               <img src="https://api.qrserver.com/v1/create-qr-code/?size=140x140&data=https%3A%2F%2Fapps.apple.com%2Fus%2Fapp%2Fjw-ministry%2Fid6756040136" alt="QR Code App Store JW Ministry" width="54" height="54" loading="lazy" />
               <div class="hero-qr-text">
-                <strong>📱 Scanner avec iPhone / iPad</strong>
+                <strong>Scanner avec iPhone / iPad</strong>
                 Pointez l'appareil photo pour ouvrir l'App Store
               </div>
             </div>
@@ -290,17 +290,20 @@
         <div class="sec-head">
           <h2>Découvrez chaque écran de JW Ministry</h2>
           <p>Captures d'écran réelles de l'application en français — du chronomètre et des cours bibliques au calendrier de pionnier, aux territoires et au mode sombre OLED.</p>
-          <div style="margin-top: 14px;">
-            <a href="#languages" class="shot-lang-indicator">
-              🌍 Langue des captures (touchez l'une des 35 langues ci-dessous pour prévisualiser) : <u id="active-shot-lang-name">Français</u>
+          <div>
+            <a href="#languages" class="shot-lang-bar">
+              <span>Langue des captures d'écran :</span>
+              <strong id="active-shot-lang-name">Français</strong>
             </a>
           </div>
         </div>
-        <div class="filter-bar">
-          <button class="filter-btn active" onclick="filterScreenshots('all', this)">📱 iPhone (8)</button>
-          <button class="filter-btn" onclick="filterScreenshots('light', this)">☀️ Mode Clair (6)</button>
-          <button class="filter-btn" onclick="filterScreenshots('dark', this)">🌙 Mode Sombre OLED (2)</button>
-          <button class="filter-btn" onclick="filterScreenshots('ipad', this)">💻 iPad (8)</button>
+        <div class="segmented-wrap">
+          <div class="filter-bar">
+            <button class="filter-btn active" onclick="filterScreenshots('all', this)">Toutes (8)</button>
+            <button class="filter-btn" onclick="filterScreenshots('light', this)">Clair (6)</button>
+            <button class="filter-btn" onclick="filterScreenshots('dark', this)">Sombre (2)</button>
+            <button class="filter-btn" onclick="filterScreenshots('ipad', this)">iPad (8)</button>
+          </div>
         </div>
         <div class="shots-grid">
           <article class="shot-card" data-theme-shot="light">
@@ -378,16 +381,58 @@
           <p>Conçu pour les proclamateurs, pionniers auxiliaires, permanents et spéciaux.</p>
         </div>
         <div class="feat-grid">
-          <div class="feat-card"><div class="feat-icon">⏱️</div><h3>Chronomètre, Widgets & Dynamic Island</h3><p>Lancez le minuteur depuis l'écran d'accueil ou de verrouillage et suivez-le en direct sur la Dynamic Island.</p></div>
-          <div class="feat-card"><div class="feat-icon">📚</div><h3>Suivi des cours bibliques</h3><p>Associez vos étudiants à chaque entrée du rapport et gardez une trace précise de la leçon étudiée.</p></div>
-          <div class="feat-card"><div class="feat-icon">📊</div><h3>Objectifs de pionnier et cibles personnelles</h3><p>Prend en charge les objectifs de 15, 30, 50, 90 et 100 heures ainsi qu'un objectif mensuel personnalisé.</p></div>
-          <div class="feat-card"><div class="feat-icon">🗓️</div><h3>Année de service (Sept.–Août) & Calendrier</h3><p>Planifiez vos rendez-vous de prédication et le culte familial, et convertissez un plan en rapport d'un simple balayage.</p></div>
-          <div class="feat-card"><div class="feat-icon">🗺️</div><h3>Territoires, Immeubles & Rappels de visites</h3><p>Gérez vos territoires avec photos, couleurs, recherche rapide et rappels automatiques de nouvelles visites.</p></div>
-          <div class="feat-card"><div class="feat-icon">🔒</div><h3>Confidentialité 100 % locale & Sauvegarde iCloud</h3><p>Aucun compte ni serveur externe. Toutes vos données restent sur votre iPhone/iPad.</p></div>
+          <div class="feat-card">
+          <div class="feat-top">
+            <div class="feat-icon"><svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="13" r="8"/><path d="M12 9v4l2.5 2.5"/><path d="M9 2h6"/></svg></div>
+            <span class="feat-kicker">Chronomètre • Live Activities</span>
+          </div>
+          <h3>Chronomètre, Widgets & Dynamic Island</h3>
+          <p>Lancez le minuteur depuis l'écran d'accueil ou de verrouillage et suivez-le en direct sur la Dynamic Island.</p>
+        </div>
+          <div class="feat-card">
+          <div class="feat-top">
+            <div class="feat-icon"><svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg></div>
+            <span class="feat-kicker">Cours Bibliques • Progression</span>
+          </div>
+          <h3>Suivi des cours bibliques</h3>
+          <p>Associez vos étudiants à chaque entrée du rapport et gardez une trace précise de la leçon étudiée.</p>
+        </div>
+          <div class="feat-card">
+          <div class="feat-top">
+            <div class="feat-icon"><svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 20V10"/><path d="M12 20V4"/><path d="M6 20v-6"/></svg></div>
+            <span class="feat-kicker">Rôles • 15 / 30 / 50 / 100 h</span>
+          </div>
+          <h3>Objectifs de pionnier et cibles personnelles</h3>
+          <p>Prend en charge les objectifs de 15, 30, 50, 90 et 100 heures ainsi qu'un objectif mensuel personnalisé.</p>
+        </div>
+          <div class="feat-card">
+          <div class="feat-top">
+            <div class="feat-icon"><svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="4" width="18" height="18" rx="3"/><line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/></svg></div>
+            <span class="feat-kicker">Année de Service • Prévu vs Réel</span>
+          </div>
+          <h3>Année de service (Sept.–Août) & Calendrier</h3>
+          <p>Planifiez vos rendez-vous de prédication et le culte familial, et convertissez un plan en rapport d'un simple balayage.</p>
+        </div>
+          <div class="feat-card">
+          <div class="feat-top">
+            <div class="feat-icon"><svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polygon points="1 6 1 22 8 18 16 22 23 18 23 2 16 6 8 2 1 6"/><line x1="8" y1="2" x2="8" y2="18"/><line x1="16" y1="6" x2="16" y2="22"/></svg></div>
+            <span class="feat-kicker">Territoires • Recherche & rappels</span>
+          </div>
+          <h3>Territoires, Immeubles & Rappels de visites</h3>
+          <p>Gérez vos territoires avec photos, couleurs, recherche rapide et rappels automatiques de nouvelles visites.</p>
+        </div>
+          <div class="feat-card">
+          <div class="feat-top">
+            <div class="feat-icon"><svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/><path d="M9 12l2 2 4-4"/></svg></div>
+            <span class="feat-kicker">Confidentialité • Sauvegarde iCloud</span>
+          </div>
+          <h3>Confidentialité 100 % locale & Sauvegarde iCloud</h3>
+          <p>Aucun compte ni serveur externe. Toutes vos données restent sur votre iPhone/iPad.</p>
+        </div>
         </div>
         <div class="changelog-box">
           <div class="changelog-head">
-            <h3>🚀 Nouveautés de la version 1.8 de JW Ministry</h3>
+            <h3>Nouveautés de la version 1.8</h3>
             <time class="changelog-date" datetime="2026-11">v1.8 • iOS & iPadOS</time>
           </div>
           <ul class="changelog-list">
@@ -408,7 +453,7 @@
           <p>Comparaison complète pour le rapport de prédication, le programme de pionnier et les territoires.</p>
         </div>
         <div class="comp-wrap">
-          <table class="comp-table"><thead><tr><th class="">Fonctionnalité</th><th class="">Notes papier</th><th class="">Anciennes Apps</th><th class="highlight-col">JW Ministry 1.8</th></tr></thead><tbody><tr><td class="">Chronomètre en direct sur écran verrouillé & Dynamic Island</td><td class="">❌ Non</td><td class="">❌ Non</td><td class="highlight-col">✅ Oui (Live Activities)</td></tr><tr><td class="">Calculateur pionnier (15, 30, 50 h) & année de service (600 h)</td><td class="">⚠️ Manuel</td><td class="">⚠️ Partiel</td><td class="highlight-col">✅ Automatique + Cible perso</td></tr><tr><td class="">Comparaison Prévu vs Réel au Calendrier & balayage vers Rapport</td><td class="">❌ Non</td><td class="">❌ Non</td><td class="highlight-col">✅ En un seul geste</td></tr><tr><td class="">Générateur d'immeubles + Photos de territoires & 10 couleurs</td><td class="">❌ Fiches papier</td><td class="">❌ Texte seul</td><td class="highlight-col">✅ Fiches visuelles + Recherche</td></tr><tr><td class="">Rappels de nouvelles visites et d'envoi du rapport le 1er du mois</td><td class="">❌ Non</td><td class="">⚠️ Basique</td><td class="highlight-col">✅ Notifications iOS</td></tr><tr><td class="">Confidentialité 100 % locale & sauvegarde complète sur iCloud Drive</td><td class="">⚠️ Facile à perdre</td><td class="">⚠️ Bugs lors du changement d'iPhone</td><td class="highlight-col">✅ 100 % Hors ligne & sûr</td></tr><tr><td class="">Optimisé pour le dernier iOS, iPad, mode sombre OLED & 35+ langues</td><td class="">—</td><td class="">❌ Abandonnées</td><td class="highlight-col">✅ Architecture native SwiftUI</td></tr></tbody></table>
+          <table class="comp-table"><thead><tr><th class="">Fonctionnalité</th><th class="">Notes papier</th><th class="">Anciennes Apps</th><th class="highlight-col">JW Ministry 1.8</th></tr></thead><tbody><tr><td class="">Chronomètre en direct sur écran verrouillé & Dynamic Island</td><td class="">Non</td><td class="">Non</td><td class="highlight-col">Oui (Live Activities)</td></tr><tr><td class="">Calculateur pionnier (15, 30, 50 h) & année de service (600 h)</td><td class="">Manuel</td><td class="">Partiel</td><td class="highlight-col">Automatique + Cible perso</td></tr><tr><td class="">Comparaison Prévu vs Réel au Calendrier & balayage vers Rapport</td><td class="">Non</td><td class="">Non</td><td class="highlight-col">En un seul geste</td></tr><tr><td class="">Générateur d'immeubles + Photos de territoires & 10 couleurs</td><td class="">Fiches papier</td><td class="">Texte seul</td><td class="highlight-col">Fiches visuelles + Recherche</td></tr><tr><td class="">Rappels de nouvelles visites et d'envoi du rapport le 1er du mois</td><td class="">Non</td><td class="">Basique</td><td class="highlight-col">Notifications iOS</td></tr><tr><td class="">Confidentialité 100 % locale & sauvegarde complète sur iCloud Drive</td><td class="">Facile à perdre</td><td class="">Bugs lors du changement d'iPhone</td><td class="highlight-col">100 % Hors ligne & sûr</td></tr><tr><td class="">Optimisé pour le dernier iOS, iPad, mode sombre OLED & 35+ langues</td><td class="">—</td><td class="">Abandonnées</td><td class="highlight-col">Architecture native SwiftUI</td></tr></tbody></table>
         </div>
       </div>
     </section>
@@ -420,10 +465,30 @@
           <p>Gérez votre rapport de prédication JW, vos objectifs de pionnier permanent ou auxiliaire et vos territoires tout au long de l'année de service.</p>
         </div>
         <div class="seo-grid">
-          <article class="seo-card"><h3>🎯 Pionniers Permanents et Spéciaux (50, 90 et 100 h / Année de service)</h3><p>Suivez facilement votre objectif mensuel de 50 heures ainsi que les 600 heures de l'année de service de septembre à août. Définissez une cible personnelle (ex. 55 h/mois), planifiez vos journées dans le Calendrier et comparez le temps prévu avec le temps réellement prêché.</p></article>
-          <article class="seo-card"><h3>📅 Pionniers Auxiliaires (15 et 30 heures) et Proclamateurs</h3><p>Lors des campagnes spéciales, de la visite du responsable de circonscription ou de la période du Mémorial, passez en mode Pionnier auxiliaire (15 h ou 30 h). Un rappel automatique le 1er du mois à 20h00 vous aide à ne jamais oublier votre rapport.</p></article>
-          <article class="seo-card"><h3>🏘️ Territoires de maison en maison, immeubles et nouvelles visites</h3><p>Créez des fiches de territoires avec photos du plan, 10 couleurs au choix et un générateur d'appartements par bâtiments et étages. Notez les absents (« Pas à la maison »), recherchez rapidement une adresse ou un nom et recevez des rappels pour vos nouvelles visites.</p></article>
-          <article class="seo-card"><h3>📖 Cours bibliques et alternative moderne à ServicePlanner / MyTime</h3><p>Suivez la progression de chaque étudiant dans le livre « Vivez pour toujours ! » (leçon et section). Compatible Dynamic Island, widgets iOS et mode sombre OLED sur iPhone et iPad.</p></article>
+          <article class="seo-card">
+          <span class="pillar-kicker">Service de Pionnier Permanent et Spécial</span>
+          <h3>Pionniers Permanents et Spéciaux (50, 90 et 100 h / Année de service)</h3>
+          <p>Suivez facilement votre objectif mensuel de 50 heures ainsi que les 600 heures de l'année de service de septembre à août. Définissez une cible personnelle (ex. 55 h/mois), planifiez vos journées dans le Calendrier et comparez le temps prévu avec le temps réellement prêché.</p>
+          <ul class="pillar-list"><li><svg viewBox="0 0 20 20" fill="currentColor"><path fill-rule="evenodd" d="M16.704 4.153a.75.75 0 01.143 1.052l-8 10.5a.75.75 0 01-1.127.075l-4.5-4.5a.75.75 0 011.06-1.06l3.894 3.893 7.48-9.817a.75.75 0 011.05-.143z" clip-rule="evenodd"/></svg><span>Suivi automatique de 50 h/mois et 600 h sur l'année de service</span></li><li><svg viewBox="0 0 20 20" fill="currentColor"><path fill-rule="evenodd" d="M16.704 4.153a.75.75 0 01.143 1.052l-8 10.5a.75.75 0 01-1.127.075l-4.5-4.5a.75.75 0 011.06-1.06l3.894 3.893 7.48-9.817a.75.75 0 011.05-.143z" clip-rule="evenodd"/></svg><span>Objectif mensuel personnalisé (ex. 55 heures)</span></li><li><svg viewBox="0 0 20 20" fill="currentColor"><path fill-rule="evenodd" d="M16.704 4.153a.75.75 0 01.143 1.052l-8 10.5a.75.75 0 01-1.127.075l-4.5-4.5a.75.75 0 011.06-1.06l3.894 3.893 7.48-9.817a.75.75 0 011.05-.143z" clip-rule="evenodd"/></svg><span>Double barre comparant les heures prévues et réelles</span></li></ul>
+        </article>
+          <article class="seo-card">
+          <span class="pillar-kicker">Pionniers Auxiliaires et Proclamateurs</span>
+          <h3>Pionniers Auxiliaires (15 et 30 heures) et Proclamateurs</h3>
+          <p>Lors des campagnes spéciales, de la visite du responsable de circonscription ou de la période du Mémorial, passez en mode Pionnier auxiliaire (15 h ou 30 h). Un rappel automatique le 1er du mois à 20h00 vous aide à ne jamais oublier votre rapport.</p>
+          <ul class="pillar-list"><li><svg viewBox="0 0 20 20" fill="currentColor"><path fill-rule="evenodd" d="M16.704 4.153a.75.75 0 01.143 1.052l-8 10.5a.75.75 0 01-1.127.075l-4.5-4.5a.75.75 0 011.06-1.06l3.894 3.893 7.48-9.817a.75.75 0 011.05-.143z" clip-rule="evenodd"/></svg><span>Passage rapide aux objectifs de 15 ou 30 heures</span></li><li><svg viewBox="0 0 20 20" fill="currentColor"><path fill-rule="evenodd" d="M16.704 4.153a.75.75 0 01.143 1.052l-8 10.5a.75.75 0 01-1.127.075l-4.5-4.5a.75.75 0 011.06-1.06l3.894 3.893 7.48-9.817a.75.75 0 011.05-.143z" clip-rule="evenodd"/></svg><span>Partage du rapport mensuel en un seul geste</span></li><li><svg viewBox="0 0 20 20" fill="currentColor"><path fill-rule="evenodd" d="M16.704 4.153a.75.75 0 01.143 1.052l-8 10.5a.75.75 0 01-1.127.075l-4.5-4.5a.75.75 0 011.06-1.06l3.894 3.893 7.48-9.817a.75.75 0 011.05-.143z" clip-rule="evenodd"/></svg><span>Rappel automatique le 1er de chaque mois à 20h00</span></li></ul>
+        </article>
+          <article class="seo-card">
+          <span class="pillar-kicker">Porte-à-porte et Territoires Personnels</span>
+          <h3>Territoires de maison en maison, immeubles et nouvelles visites</h3>
+          <p>Créez des fiches de territoires avec photos du plan, 10 couleurs au choix et un générateur d'appartements par bâtiments et étages. Notez les absents (« Pas à la maison »), recherchez rapidement une adresse ou un nom et recevez des rappels pour vos nouvelles visites.</p>
+          <ul class="pillar-list"><li><svg viewBox="0 0 20 20" fill="currentColor"><path fill-rule="evenodd" d="M16.704 4.153a.75.75 0 01.143 1.052l-8 10.5a.75.75 0 01-1.127.075l-4.5-4.5a.75.75 0 011.06-1.06l3.894 3.893 7.48-9.817a.75.75 0 011.05-.143z" clip-rule="evenodd"/></svg><span>Générateur d'immeubles par entrées et étages</span></li><li><svg viewBox="0 0 20 20" fill="currentColor"><path fill-rule="evenodd" d="M16.704 4.153a.75.75 0 01.143 1.052l-8 10.5a.75.75 0 01-1.127.075l-4.5-4.5a.75.75 0 011.06-1.06l3.894 3.893 7.48-9.817a.75.75 0 011.05-.143z" clip-rule="evenodd"/></svg><span>Photos de plans, 10 couleurs et recherche par adresse ou nom</span></li><li><svg viewBox="0 0 20 20" fill="currentColor"><path fill-rule="evenodd" d="M16.704 4.153a.75.75 0 01.143 1.052l-8 10.5a.75.75 0 01-1.127.075l-4.5-4.5a.75.75 0 011.06-1.06l3.894 3.893 7.48-9.817a.75.75 0 011.05-.143z" clip-rule="evenodd"/></svg><span>Notifications automatiques pour vos nouvelles visites</span></li></ul>
+        </article>
+          <article class="seo-card">
+          <span class="pillar-kicker">Cours Bibliques et Design Natif iOS</span>
+          <h3>Cours bibliques et alternative moderne à ServicePlanner / MyTime</h3>
+          <p>Suivez la progression de chaque étudiant dans le livre « Vivez pour toujours ! » (leçon et section). Compatible Dynamic Island, widgets iOS et mode sombre OLED sur iPhone et iPad.</p>
+          <ul class="pillar-list"><li><svg viewBox="0 0 20 20" fill="currentColor"><path fill-rule="evenodd" d="M16.704 4.153a.75.75 0 01.143 1.052l-8 10.5a.75.75 0 01-1.127.075l-4.5-4.5a.75.75 0 011.06-1.06l3.894 3.893 7.48-9.817a.75.75 0 011.05-.143z" clip-rule="evenodd"/></svg><span>Suivi précis des leçons du livre « Vivez pour toujours ! »</span></li><li><svg viewBox="0 0 20 20" fill="currentColor"><path fill-rule="evenodd" d="M16.704 4.153a.75.75 0 01.143 1.052l-8 10.5a.75.75 0 01-1.127.075l-4.5-4.5a.75.75 0 011.06-1.06l3.894 3.893 7.48-9.817a.75.75 0 011.05-.143z" clip-rule="evenodd"/></svg><span>Conçu pour iPhone et iPad avec Dynamic Island et mode OLED</span></li><li><svg viewBox="0 0 20 20" fill="currentColor"><path fill-rule="evenodd" d="M16.704 4.153a.75.75 0 01.143 1.052l-8 10.5a.75.75 0 01-1.127.075l-4.5-4.5a.75.75 0 011.06-1.06l3.894 3.893 7.48-9.817a.75.75 0 011.05-.143z" clip-rule="evenodd"/></svg><span>Alternative moderne aux anciennes applications ServicePlanner et MyTime</span></li></ul>
+        </article>
         </div>
         <div class="seo-tags-wrap">
           <div class="seo-tags-title">Recherches fréquentes autour du ministère :</div>
@@ -444,7 +509,7 @@
     <section id="languages">
       <div class="container">
         <div class="loc-box">
-          <h2>🌍 Entièrement traduit dans plus de 35 langues</h2>
+          <h2>Entièrement traduit dans plus de 35 langues</h2>
           <p style="color: var(--muted); margin-top: 6px;">L'interface, les widgets et les notifications s'adaptent automatiquement à la langue de votre appareil :</p>
           <div class="loc-cloud">
             <span class="loc-badge " onclick="switchScreenshotLanguage('English', 'English', this)" title="Preview English screenshots">English</span>
@@ -491,22 +556,22 @@
       <div class="container">
         <div class="donate-wrap">
           <div class="donate-head">
-            <span class="donate-badge">❤️ Projet indépendant sans publicité</span>
+            <span class="donate-badge">Projet indépendant sans publicité</span>
             <h2>Soutenir le développement de JW Ministry</h2>
             <p>JW Ministry est gratuite et sans abonnement. Si l'application vous aide dans votre ministère, vous pouvez soutenir les futures mises à jour iOS et la licence Apple Developer :</p>
           </div>
           <div class="donate-grid">
             <div class="donate-card">
-              <h3>💳 Soutenir par Carte (International)</h3>
+              <h3>Soutenir par Carte (International)</h3>
               <p>Don rapide via Boosty ou Patreon :</p>
               <div class="donate-btns">
-                <a href="https://boosty.to/jwministry" target="_blank" rel="noopener" class="btn btn-boosty">🔥 Soutenir sur Boosty</a>
-                <a href="https://www.patreon.com/cw/JWMinistry" target="_blank" rel="noopener" class="btn btn-patreon">🧡 Soutenir sur Patreon</a>
+                <a href="https://boosty.to/jwministry" target="_blank" rel="noopener" class="btn btn-boosty">Soutenir sur Boosty</a>
+                <a href="https://www.patreon.com/cw/JWMinistry" target="_blank" rel="noopener" class="btn btn-patreon">Soutenir sur Patreon</a>
               </div>
             </div>
 
             <div class="donate-card">
-              <h3>⚡ Crypto en direct (0 % de frais)</h3>
+              <h3>Crypto en direct (0 % de frais)</h3>
               <p>Transfert direct vers le portefeuille du développeur :</p>
               <div class="wallet-box">
                 <span class="wallet-lbl">USDT (réseau TRC-20 / TRON uniquement) :</span>
@@ -534,7 +599,7 @@
                   <img src="https://api.qrserver.com/v1/create-qr-code/?size=160x160&data=UQBNBroTUyMG0YqgiHGXwVKO_rKe5d2y7gXqvICREjBwuKYk" alt="TON QR" loading="lazy" />
                 </div>
               </div>
-              <div class="crypto-warn">⚠️ Envoyez uniquement des actifs sur le réseau TRON (TRC-20) vers l'adresse TQQx...</div>
+              <div class="crypto-warn">Envoyez uniquement des actifs sur le réseau TRON (TRC-20) vers l'adresse TQQx...</div>
             </div>
           </div>
         </div>
