@@ -693,3 +693,21 @@ table.comp-table tr:last-child td {
   color: var(--accent);
   font-weight: 800;
 }
+
+
+/* Real App Icon in Header & Sticky Bar */
+.brand-logo {
+  width: 38px;
+  height: 38px;
+  border-radius: 9px;
+  object-fit: cover;
+  display: block;
+  box-shadow: 0 4px 12px rgba(108, 65, 143, 0.28);
+}
+.sticky-logo {
+  width: 34px;
+  height: 34px;
+  border-radius: 8px;
+  object-fit: cover;
+  display: block;
+}
