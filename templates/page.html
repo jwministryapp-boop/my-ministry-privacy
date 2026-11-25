@@ -39,18 +39,46 @@
         <img src="{{PREFIX}}/assets/logo.png" alt="JW Ministry App Icon" class="brand-logo" width="38" height="38" />
         <span>JW Ministry</span>
       </a>
-      <nav class="nav-links">
-        <a href="#screens">{{NAV_SCREENS}}</a>
-        <a href="#features">{{NAV_FEATURES}}</a>
-        <a href="#comparison">vs.</a>
-        <a href="#languages">{{NAV_LANGUAGES}}</a>
-        <a href="#donate">{{NAV_DONATE}}</a>
-        <a href="#faq">{{NAV_FAQ}}</a>
-        <a href="{{PREFIX}}/privacy-policy.html">{{NAV_PRIVACY}}</a>
-      </nav>
-      <div class="lang-bar">
-        {{LANG_PILLS}}
+
+      <div class="nav-right">
+        <nav class="nav-links">
+          <a href="#screens">{{NAV_SCREENS}}</a>
+          <a href="#features">{{NAV_FEATURES}}</a>
+          <a href="#comparison">{{NAV_COMP}}</a>
+          <a href="#languages">{{NAV_LANGUAGES}}</a>
+          <a href="#faq">{{NAV_FAQ}}</a>
+          <a href="{{PREFIX}}/privacy-policy.html">{{NAV_PRIVACY}}</a>
+          <a href="#donate" class="nav-donate-pill">❤️ {{NAV_DONATE}}</a>
+        </nav>
+
+        <div class="lang-dropdown" id="lang-dropdown">
+          <button class="lang-trigger" onclick="toggleLangDropdown(event)" aria-label="Select language">
+            <span>{{FLAG}}</span>
+            <span>{{NAME}}</span>
+            <svg viewBox="0 0 12 12" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M2.5 4.5L6 8L9.5 4.5"/></svg>
+          </button>
+          <div class="lang-menu">
+            {{LANG_PILLS}}
+          </div>
+        </div>
+
+        <button class="mobile-menu-btn" onclick="toggleMobileMenu()" aria-label="Menu">
+          <svg id="burger-icon-open" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"><line x1="4" y1="7" x2="20" y2="7"/><line x1="4" y1="12" x2="20" y2="12"/><line x1="4" y1="17" x2="20" y2="17"/></svg>
+          <svg id="burger-icon-close" style="display:none;" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"><line x1="6" y1="6" x2="18" y2="18"/><line x1="6" y1="18" x2="18" y2="6"/></svg>
+        </button>
       </div>
+    </div>
+
+    <div class="mobile-drawer" id="mobile-drawer">
+      <nav class="mobile-nav-list">
+        <a href="#screens" onclick="closeMobileMenu()"><span>📱 {{NAV_SCREENS}}</span><span>›</span></a>
+        <a href="#features" onclick="closeMobileMenu()"><span>✨ {{NAV_FEATURES}}</span><span>›</span></a>
+        <a href="#comparison" onclick="closeMobileMenu()"><span>⚡ {{NAV_COMP}}</span><span>›</span></a>
+        <a href="#languages" onclick="closeMobileMenu()"><span>🌍 {{NAV_LANGUAGES}}</span><span>›</span></a>
+        <a href="#faq" onclick="closeMobileMenu()"><span>💬 {{NAV_FAQ}}</span><span>›</span></a>
+        <a href="{{PREFIX}}/privacy-policy.html" onclick="closeMobileMenu()"><span>🔒 {{NAV_PRIVACY}}</span><span>›</span></a>
+        <a href="#donate" class="mobile-donate-highlight" onclick="closeMobileMenu()"><span>❤️ {{NAV_DONATE}}</span><span>›</span></a>
+      </nav>
     </div>
   </header>
 
@@ -259,14 +287,14 @@
   <!-- Mobile Sticky Bar -->
   <div class="sticky-mobile-bar">
     <div class="sticky-mobile-info">
-      <img src="{{PREFIX}}/assets/logo.png" alt="JW Ministry" class="sticky-logo" width="34" height="34" />
-      <div>
+      <img src="{{PREFIX}}/assets/logo.png" alt="JW Ministry" class="sticky-logo" width="36" height="36" />
+      <div class="sticky-mobile-text">
         <div class="sticky-mobile-title">JW Ministry</div>
-        <div class="sticky-mobile-sub">iOS & iPadOS • Free</div>
+        <div class="sticky-mobile-sub">{{STICKY_SUB}}</div>
       </div>
     </div>
     <a href="{{APP_STORE_URL}}" target="_blank" rel="noopener" class="sticky-mobile-btn">
-       {{CTA_APPSTORE}}
+       App Store
     </a>
   </div>
 

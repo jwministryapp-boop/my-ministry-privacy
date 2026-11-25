@@ -207,23 +207,51 @@
         <img src="../assets/logo.png" alt="JW Ministry App Icon" class="brand-logo" width="38" height="38" />
         <span>JW Ministry</span>
       </a>
-      <nav class="nav-links">
-        <a href="#screens">App Screens</a>
-        <a href="#features">All Features</a>
-        <a href="#comparison">vs.</a>
-        <a href="#languages">35+ Languages</a>
-        <a href="#donate">Support Project</a>
-        <a href="#faq">FAQ</a>
-        <a href="../privacy-policy.html">Privacy</a>
-      </nav>
-      <div class="lang-bar">
-        <a href="../en/index.html" class="lang-pill active"><span>🇺🇸</span> English</a>
+
+      <div class="nav-right">
+        <nav class="nav-links">
+          <a href="#screens">App Screens</a>
+          <a href="#features">All Features</a>
+          <a href="#comparison">Comparison</a>
+          <a href="#languages">35+ Languages</a>
+          <a href="#faq">FAQ</a>
+          <a href="../privacy-policy.html">Privacy</a>
+          <a href="#donate" class="nav-donate-pill">❤️ Support Project</a>
+        </nav>
+
+        <div class="lang-dropdown" id="lang-dropdown">
+          <button class="lang-trigger" onclick="toggleLangDropdown(event)" aria-label="Select language">
+            <span>🇺🇸</span>
+            <span>English</span>
+            <svg viewBox="0 0 12 12" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M2.5 4.5L6 8L9.5 4.5"/></svg>
+          </button>
+          <div class="lang-menu">
+            <a href="../en/index.html" class="lang-pill active"><span>🇺🇸</span> English</a>
         <a href="../ru/index.html" class="lang-pill "><span>🇷🇺</span> Русский</a>
         <a href="../es/index.html" class="lang-pill "><span>🇪🇸</span> Español</a>
         <a href="../de/index.html" class="lang-pill "><span>🇩🇪</span> Deutsch</a>
         <a href="../pt/index.html" class="lang-pill "><span>🇧🇷</span> Português</a>
         <a href="../fr/index.html" class="lang-pill "><span>🇫🇷</span> Français</a>
+          </div>
+        </div>
+
+        <button class="mobile-menu-btn" onclick="toggleMobileMenu()" aria-label="Menu">
+          <svg id="burger-icon-open" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"><line x1="4" y1="7" x2="20" y2="7"/><line x1="4" y1="12" x2="20" y2="12"/><line x1="4" y1="17" x2="20" y2="17"/></svg>
+          <svg id="burger-icon-close" style="display:none;" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"><line x1="6" y1="6" x2="18" y2="18"/><line x1="6" y1="18" x2="18" y2="6"/></svg>
+        </button>
       </div>
+    </div>
+
+    <div class="mobile-drawer" id="mobile-drawer">
+      <nav class="mobile-nav-list">
+        <a href="#screens" onclick="closeMobileMenu()"><span>📱 App Screens</span><span>›</span></a>
+        <a href="#features" onclick="closeMobileMenu()"><span>✨ All Features</span><span>›</span></a>
+        <a href="#comparison" onclick="closeMobileMenu()"><span>⚡ Comparison</span><span>›</span></a>
+        <a href="#languages" onclick="closeMobileMenu()"><span>🌍 35+ Languages</span><span>›</span></a>
+        <a href="#faq" onclick="closeMobileMenu()"><span>💬 FAQ</span><span>›</span></a>
+        <a href="../privacy-policy.html" onclick="closeMobileMenu()"><span>🔒 Privacy</span><span>›</span></a>
+        <a href="#donate" class="mobile-donate-highlight" onclick="closeMobileMenu()"><span>❤️ Support Project</span><span>›</span></a>
+      </nav>
     </div>
   </header>
 
@@ -557,14 +585,14 @@
   <!-- Mobile Sticky Bar -->
   <div class="sticky-mobile-bar">
     <div class="sticky-mobile-info">
-      <img src="../assets/logo.png" alt="JW Ministry" class="sticky-logo" width="34" height="34" />
-      <div>
+      <img src="../assets/logo.png" alt="JW Ministry" class="sticky-logo" width="36" height="36" />
+      <div class="sticky-mobile-text">
         <div class="sticky-mobile-title">JW Ministry</div>
-        <div class="sticky-mobile-sub">iOS & iPadOS • Free</div>
+        <div class="sticky-mobile-sub">iPhone & iPad • Free</div>
       </div>
     </div>
     <a href="https://apps.apple.com/us/app/jw-ministry/id6756040136" target="_blank" rel="noopener" class="sticky-mobile-btn">
-       Download on the App Store
+       App Store
     </a>
   </div>
 
