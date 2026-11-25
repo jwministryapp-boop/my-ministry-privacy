@@ -1208,3 +1208,63 @@ header.topbar .container.topbar-inner {
     padding: 22px 0 32px !important;
   }
 }
+
+
+/* === Fix Horizontal Overflow & Responsive Grids Across All Widths === */
+html, body {
+  max-width: 100%;
+  overflow-x: hidden;
+  position: relative;
+}
+.container, main, section, header.topbar, footer {
+  max-width: 100vw;
+}
+.shots-grid {
+  grid-template-columns: repeat(auto-fit, minmax(min(100%, 250px), 1fr)) !important;
+}
+.feat-grid {
+  grid-template-columns: repeat(auto-fit, minmax(min(100%, 300px), 1fr)) !important;
+}
+.seo-grid {
+  grid-template-columns: repeat(auto-fit, minmax(min(100%, 340px), 1fr)) !important;
+}
+.donate-grid {
+  grid-template-columns: repeat(auto-fit, minmax(min(100%, 280px), 1fr)) !important;
+}
+.changelog-list {
+  grid-template-columns: repeat(auto-fit, minmax(min(100%, 240px), 1fr)) !important;
+}
+.comp-wrap {
+  width: 100%;
+  max-width: calc(100vw - 40px);
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+}
+.hero-phones {
+  max-width: 100%;
+  overflow: hidden;
+  padding: 10px 4px;
+}
+@media (max-width: 900px) {
+  .shots-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr)) !important;
+  }
+  .feat-grid, .seo-grid, .donate-grid {
+    grid-template-columns: minmax(0, 1fr) !important;
+  }
+}
+@media (max-width: 540px) {
+  .shots-grid {
+    grid-template-columns: minmax(0, 1fr) !important;
+  }
+  .topbar-inner {
+    gap: 8px;
+  }
+  .brand span {
+    font-size: 1rem;
+  }
+  .lang-trigger {
+    padding: 6px 10px;
+    font-size: 0.8rem;
+  }
+}
