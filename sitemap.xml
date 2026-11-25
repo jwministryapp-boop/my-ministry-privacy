@@ -1,42 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://myministry.github.io/information/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://myministry.github.io/information/en/</loc>
+    <loc>https://jwministryapp-boop.github.io/my-ministry-privacy/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://myministry.github.io/information/ru/</loc>
+    <loc>https://jwministryapp-boop.github.io/my-ministry-privacy/en/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://myministry.github.io/information/es/</loc>
+    <loc>https://jwministryapp-boop.github.io/my-ministry-privacy/ru/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://myministry.github.io/information/de/</loc>
+    <loc>https://jwministryapp-boop.github.io/my-ministry-privacy/es/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://myministry.github.io/information/pt/</loc>
+    <loc>https://jwministryapp-boop.github.io/my-ministry-privacy/de/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://myministry.github.io/information/fr/</loc>
+    <loc>https://jwministryapp-boop.github.io/my-ministry-privacy/pt/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://myministry.github.io/information/privacy-policy.html</loc>
+    <loc>https://jwministryapp-boop.github.io/my-ministry-privacy/fr/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://jwministryapp-boop.github.io/my-ministry-privacy/privacy-policy.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>

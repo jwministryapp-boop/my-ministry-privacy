@@ -1,14 +1,14 @@
 {
-  "base_url": "https://myministry.github.io/information",
-  "app_store_id": "6783243383",
-  "app_store_url": "https://apps.apple.com/app/id6783243383",
+  "base_url": "https://jwministryapp-boop.github.io/my-ministry-privacy",
+  "app_store_id": "6756040136",
+  "app_store_url": "https://apps.apple.com/us/app/jw-ministry/id6756040136",
   "version": "1.8",
   "patreon_url": "https://www.patreon.com/cw/JWMinistry",
   "boosty_url": "https://boosty.to/jwministry",
   "usdt_trc20": "TQQxYhThQGngj887Lvq9TnKtyyYMcUDFNw",
   "ton_address": "UQBNBroTUyMG0YqgiHGXwVKO_rKe5d2y7gXqvICREjBwuKYk",
   "contact_email": "jwministry.app@gmail.com",
-  "github_issues_url": "https://github.com/myministry/information/issues",
+  "github_issues_url": "https://github.com/jwministryapp-boop/my-ministry-privacy/issues",
   "default_lang": "en",
   "supported_langs": [
     "en",
