@@ -184,5 +184,60 @@
     "pionnier auxiliaire jw 15 et 30 heures",
     "année de service témoins de jéhovah",
     "territoires personnels et nouvelles visites"
+  ],
+  "qr_scan_title": "Scanner avec iPhone / iPad",
+  "qr_scan_sub": "Pointez l'appareil photo pour ouvrir l'App Store",
+  "shot_lang_label": "Langue des captures (touchez l'une des 35 langues ci-dessous pour prévisualiser) :",
+  "comp_title": "Pourquoi les proclamateurs et pionniers choisissent JW Ministry",
+  "comp_sub": "Comparaison complète pour le rapport de prédication, le programme de pionnier et les territoires.",
+  "comp_headers": [
+    "Fonctionnalité",
+    "Notes papier",
+    "Anciennes Apps",
+    "JW Ministry 1.8"
+  ],
+  "comp_rows": [
+    [
+      "Chronomètre en direct sur écran verrouillé & Dynamic Island",
+      "❌ Non",
+      "❌ Non",
+      "✅ Oui (Live Activities)"
+    ],
+    [
+      "Calculateur pionnier (15, 30, 50 h) & année de service (600 h)",
+      "⚠️ Manuel",
+      "⚠️ Partiel",
+      "✅ Automatique + Cible perso"
+    ],
+    [
+      "Comparaison Prévu vs Réel au Calendrier & balayage vers Rapport",
+      "❌ Non",
+      "❌ Non",
+      "✅ En un seul geste"
+    ],
+    [
+      "Générateur d'immeubles + Photos de territoires & 10 couleurs",
+      "❌ Fiches papier",
+      "❌ Texte seul",
+      "✅ Fiches visuelles + Recherche"
+    ],
+    [
+      "Rappels de nouvelles visites et d'envoi du rapport le 1er du mois",
+      "❌ Non",
+      "⚠️ Basique",
+      "✅ Notifications iOS"
+    ],
+    [
+      "Confidentialité 100 % locale & sauvegarde complète sur iCloud Drive",
+      "⚠️ Facile à perdre",
+      "⚠️ Bugs lors du changement d'iPhone",
+      "✅ 100 % Hors ligne & sûr"
+    ],
+    [
+      "Optimisé pour le dernier iOS, iPad, mode sombre OLED & 35+ langues",
+      "—",
+      "❌ Abandonnées",
+      "✅ Architecture native SwiftUI"
+    ]
   ]
 }

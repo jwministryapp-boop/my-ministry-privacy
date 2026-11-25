@@ -184,5 +184,60 @@
     "dienstjahr jehovas zeugen 2026",
     "jw predigtdienst app iPhone & iPad",
     "persönliche gebiete & rückbesuche"
+  ],
+  "qr_scan_title": "Mit iPhone / iPad scannen",
+  "qr_scan_sub": "Kamera richten, um im App Store zu laden",
+  "shot_lang_label": "Screenshot-Sprache (tippe unten auf eine der 35 Sprachen für die Vorschau):",
+  "comp_title": "Warum Verkündiger und Pioniere zu JW Ministry wechseln",
+  "comp_sub": "Direkter Vergleich bei Predigtdienstbericht, Pionierplanung und Gebietsbearbeitung.",
+  "comp_headers": [
+    "Funktion",
+    "Papiernotizen",
+    "Ältere Apps",
+    "JW Ministry 1.8"
+  ],
+  "comp_rows": [
+    [
+      "Live-Timer auf dem Sperrbildschirm & in der Dynamic Island",
+      "❌ Nein",
+      "❌ Nein",
+      "✅ Ja (Live Activities)"
+    ],
+    [
+      "Pionier-Stundenrechner (15, 30, 50 Std.) & Dienstjahr (600 Std.)",
+      "⚠️ Manuell",
+      "⚠️ Teilweise",
+      "✅ Automatisch + Eigenes Ziel"
+    ],
+    [
+      "Plan-vs.-Ist-Vergleich im Kalender & per Wischgeste in den Bericht",
+      "❌ Nein",
+      "❌ Nein",
+      "✅ Mit einer Berührung"
+    ],
+    [
+      "Mehrfamilienhaus-Generator + Gebietsfotos & 10 Farben",
+      "❌ Papierzettel",
+      "❌ Nur Text",
+      "✅ Visuelle Karten + Volltextsuche"
+    ],
+    [
+      "Erinnerungen an Rückbesuche & Monatsbericht am 1. des Monats",
+      "❌ Nein",
+      "⚠️ Selten",
+      "✅ Intelligente iOS-Mitteilungen"
+    ],
+    [
+      "100 % lokaler Datenschutz & vollständiges iCloud-Drive-Backup",
+      "⚠️ Leicht zu verlieren",
+      "⚠️ Fehler beim Gerätewechsel",
+      "✅ 100 % Offline & Sicher"
+    ],
+    [
+      "Nativ für aktuelles iOS, iPad, OLED-Dunkelmodus & 35+ Sprachen",
+      "—",
+      "❌ Veraltet",
+      "✅ Modernes SwiftUI-Design"
+    ]
   ]
 }

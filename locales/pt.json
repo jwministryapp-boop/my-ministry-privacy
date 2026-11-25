@@ -184,5 +184,60 @@
     "programação pioneiro auxiliar jw 15 e 30 horas",
     "horas pioneiro regular jw ano de serviço",
     "controle de territórios pessoais e revisitas"
+  ],
+  "qr_scan_title": "Escanear com iPhone / iPad",
+  "qr_scan_sub": "Aponte a câmera para baixar na App Store",
+  "shot_lang_label": "Idioma das telas (toque em qualquer um dos 35 idiomas para visualizar):",
+  "comp_title": "Por que publicadores e pioneiros escolhem o JW Ministry",
+  "comp_sub": "Comparação prática para relatório de campo, programação de pioneiro e territórios.",
+  "comp_headers": [
+    "Recurso",
+    "Anotações em Papel",
+    "Apps Antigos",
+    "JW Ministry 1.8"
+  ],
+  "comp_rows": [
+    [
+      "Cronômetro ao vivo na tela bloqueada e Dynamic Island",
+      "❌ Não",
+      "❌ Não",
+      "✅ Sim (Live Activities)"
+    ],
+    [
+      "Cálculo de horas de pioneiro (15, 30, 50 h) e ano de serviço (600 h)",
+      "⚠️ Manual",
+      "⚠️ Parcial",
+      "✅ Automático + Alvo pessoal"
+    ],
+    [
+      "Comparação Planejado vs. Real no Calendário e deslizar para Relatório",
+      "❌ Não",
+      "❌ Não",
+      "✅ Com um deslize"
+    ],
+    [
+      "Gerador de prédios e apartamentos + Fotos e 10 cores de território",
+      "❌ Papel",
+      "❌ Apenas texto",
+      "✅ Cartões completos + Busca"
+    ],
+    [
+      "Lembretes automáticos de revisitas e envio do relatório no dia 1º",
+      "❌ Não",
+      "⚠️ Básico",
+      "✅ Notificações inteligentes"
+    ],
+    [
+      "Privacidade 100% local e backup completo com fotos no iCloud Drive",
+      "⚠️ Fácil de perder",
+      "⚠️ Falha ao trocar de iPhone",
+      "✅ 100% Offline e confiável"
+    ],
+    [
+      "Adaptado para o novo iOS, iPad, modo escuro OLED e 35+ idiomas",
+      "—",
+      "❌ Desatualizados",
+      "✅ Nativo em SwiftUI"
+    ]
   ]
 }

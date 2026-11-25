@@ -16,6 +16,15 @@ for code in CFG["supported_langs"]:
     with open(os.path.join(BASE, f"locales/{code}.json"), "r", encoding="utf-8") as f:
         LANGS[code] = json.load(f)
 
+# Проверяем наличие скриншотов в папке screenshots/iPad
+IPAD_DIR = os.path.join(BASE, "screenshots", "iPad")
+IPAD_FILES = []
+if os.path.isdir(IPAD_DIR):
+    IPAD_FILES = sorted([
+        fn for fn in os.listdir(IPAD_DIR)
+        if fn.lower().endswith((".jpg", ".jpeg", ".png", ".webp"))
+    ])
+
 def render(code, d, is_root=False):
     prefix = "." if is_root else ".."
     base_url = CFG["base_url"]
@@ -41,14 +50,47 @@ def render(code, d, is_root=False):
         schema_shots.append(f"{base_url}/screenshots/{enc_folder}/{fname}")
         t_attr = 'data-theme-shot="dark"' if fname in ("7.jpg", "8.jpg") else 'data-theme-shot="light"'
         shots_html.append(f"""<article class="shot-card" {t_attr}>
-          <div class="iphone-frame"><img src="{src}" alt="{stitle} — JW Ministry" loading="lazy" width="320" height="690" /></div>
+          <div class="iphone-frame"><img data-shot-file="{fname}" src="{src}" alt="{stitle} — JW Ministry" loading="lazy" width="320" height="690" /></div>
           <div class="shot-meta"><h3>{stitle}</h3><p>{sdesc}</p></div>
         </article>""")
+
+    # iPad screenshots
+    ipad_btn_html = ""
+    ipad_shots_html = []
+    if IPAD_FILES:
+        ipad_btn_html = f'<button class="filter-btn" onclick="filterScreenshots(\'ipad\', this)">💻 iPad ({len(IPAD_FILES)})</button>'
+        for idx, ifile in enumerate(IPAD_FILES, 1):
+            isrc = f"{prefix}/screenshots/iPad/{quote(ifile)}"
+            schema_shots.append(f"{base_url}/screenshots/iPad/{quote(ifile)}")
+            ipad_shots_html.append(f"""<article class="shot-card ipad-card" data-theme-shot="ipad">
+              <div class="ipad-frame"><img src="{isrc}" alt="JW Ministry on iPad — Screen {idx}" loading="lazy" /></div>
+              <div class="shot-meta"><h3>iPadOS — #{idx}</h3><p>JW Ministry (Ministry Planner) — iPad</p></div>
+            </article>""")
 
     feats_html = [f'<div class="feat-card"><div class="feat-icon">{ic}</div><h3>{ft}</h3><p>{fd}</p></div>' for ic, ft, fd in d["features"]]
     seo_pillars_html = [f'<article class="seo-card"><h3>{pt}</h3><p>{pd}</p></article>' for pt, pd in d.get("seo_pillars", [])]
     seo_tags_html = [f'<span class="seo-tag">{tg}</span>' for tg in d.get("seo_tags", [])]
-    badges_html = [f'<span class="loc-badge">{ln}</span>' for ln in CFG["all_35_languages"]]
+
+    # Interactive 35 Language Badges
+    badges_html = []
+    for disp_name, folder_name in CFG.get("lang_folder_map", []):
+        active_cls = "active-shot-lang" if folder_name == shot_folder else ""
+        safe_folder = folder_name.replace("'", "\\'")
+        safe_disp = disp_name.replace("'", "\\'")
+        badges_html.append(
+            f'<span class="loc-badge {active_cls}" onclick="switchScreenshotLanguage(\'{safe_folder}\', \'{safe_disp}\', this)" title="Preview {disp_name} screenshots">{disp_name}</span>'
+        )
+
+    # Comparison Table
+    headers = d.get("comp_headers", ["Feature", "Paper", "Old Apps", "JW Ministry 1.8"])
+    rows = d.get("comp_rows", [])
+    th_cells = "".join([f'<th class="{"highlight-col" if i==3 else ""}">{h}</th>' for i, h in enumerate(headers)])
+    tr_list = []
+    for r in rows:
+        tds = "".join([f'<td class="{"highlight-col" if i==3 else ""}">{c}</td>' for i, c in enumerate(r)])
+        tr_list.append(f"<tr>{tds}</tr>")
+    comp_table_html = f'<table class="comp-table"><thead><tr>{th_cells}</tr></thead><tbody>{"".join(tr_list)}</tbody></table>'
+
     faqs_html = [f'<details class="faq-item"><summary>{q}</summary><p>{a}</p></details>' for q, a in d["faqs"]]
 
     schema = [
@@ -89,13 +131,17 @@ def render(code, d, is_root=False):
         "{{HERO_IMG_CENTER}}": f"{prefix}/screenshots/{enc_folder}/1.jpg",
         "{{HERO_IMG_RIGHT}}": f"{prefix}/screenshots/{enc_folder}/3.jpg",
         "{{SHOTS_GRID}}": "\n          ".join(shots_html),
+        "{{IPAD_FILTER_BTN}}": ipad_btn_html,
+        "{{IPAD_SHOTS_GRID}}": "\n          ".join(ipad_shots_html),
         "{{FEATURES_GRID}}": "\n          ".join(feats_html),
+        "{{COMPARISON_TABLE}}": comp_table_html,
         "{{SEO_PILLARS_GRID}}": "\n          ".join(seo_pillars_html),
         "{{SEO_TAGS_CLOUD}}": "\n            ".join(seo_tags_html),
         "{{LANG_BADGES}}": "\n            ".join(badges_html),
         "{{FAQ_LIST}}": "\n          ".join(faqs_html),
         "{{APP_STORE_ID}}": CFG["app_store_id"],
         "{{APP_STORE_URL}}": CFG["app_store_url"],
+        "{{APP_STORE_URL_ENCODED}}": quote(CFG["app_store_url"], safe=""),
         "{{BOOSTY_URL}}": CFG["boosty_url"],
         "{{PATREON_URL}}": CFG["patreon_url"],
         "{{USDT_TRC20}}": CFG["usdt_trc20"],
@@ -121,4 +167,4 @@ for code, data in LANGS.items():
     with open(os.path.join(out_dir, "index.html"), "w", encoding="utf-8") as f:
         f.write(render(code, data, is_root=False))
 
-print("✅ Сборка завершена: index.html + 6 языковых папок успешно обновлены!")
+print(f"✅ Сборка V2 завершена! Найдено скриншотов iPad: {len(IPAD_FILES)}; подключено интерактивных языковых папок: {len(CFG['lang_folder_map'])}.")

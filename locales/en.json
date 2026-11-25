@@ -191,5 +191,60 @@
     "jw field service report app download free",
     "jw territory manager app iOS",
     "service planner jw & my time jw alternative"
+  ],
+  "qr_scan_title": "Scan with iPhone / iPad",
+  "qr_scan_sub": "Point your camera to open in the App Store",
+  "shot_lang_label": "Screenshots language (tap any of the 35 languages below to preview):",
+  "comp_title": "Why Publishers & Pioneers Switch to JW Ministry",
+  "comp_sub": "Side-by-side comparison for field service tracking, pioneer scheduling, and territory management.",
+  "comp_headers": [
+    "Feature",
+    "Paper Notebook",
+    "Legacy Apps",
+    "JW Ministry 1.8"
+  ],
+  "comp_rows": [
+    [
+      "Live Ministry Timer on Lock Screen & Dynamic Island",
+      "❌ No",
+      "❌ No",
+      "✅ Yes (Live Activities)"
+    ],
+    [
+      "Pioneer Goal Calculator (15, 30, 50, 100h) & 600h Service Year",
+      "⚠️ Manual calculation",
+      "⚠️ Partial",
+      "✅ Automatic + Custom Goal"
+    ],
+    [
+      "Planned vs. Actual Calendar & Swipe-to-Report Conversion",
+      "❌ No",
+      "❌ No",
+      "✅ Built-in 1-Swipe Workflow"
+    ],
+    [
+      "Apartment Building Generator + Territory Photos & 10 Color Tags",
+      "❌ Paper slips",
+      "❌ Text only",
+      "✅ Full Visual Cards + Search"
+    ],
+    [
+      "Return Visit Reminders & 1st-of-the-Month Report Notification",
+      "❌ No",
+      "⚠️ Basic",
+      "✅ Smart iOS Notifications"
+    ],
+    [
+      "100% On-Device Privacy & Full iCloud Drive Backup with Photos",
+      "⚠️ Easy to lose",
+      "⚠️ Often breaks on new iOS",
+      "✅ Offline & Instant Restore"
+    ],
+    [
+      "Native Support for Latest iOS, iPad, OLED Dark Mode & 35+ Languages",
+      "—",
+      "❌ Discontinued",
+      "✅ Modern SwiftUI Architecture"
+    ]
   ]
 }

@@ -58,7 +58,15 @@
       "https://jwministryapp-boop.github.io/my-ministry-privacy/screenshots/German/5.jpg",
       "https://jwministryapp-boop.github.io/my-ministry-privacy/screenshots/German/6.jpg",
       "https://jwministryapp-boop.github.io/my-ministry-privacy/screenshots/German/7.jpg",
-      "https://jwministryapp-boop.github.io/my-ministry-privacy/screenshots/German/8.jpg"
+      "https://jwministryapp-boop.github.io/my-ministry-privacy/screenshots/German/8.jpg",
+      "https://jwministryapp-boop.github.io/my-ministry-privacy/screenshots/iPad/1.png",
+      "https://jwministryapp-boop.github.io/my-ministry-privacy/screenshots/iPad/2.png",
+      "https://jwministryapp-boop.github.io/my-ministry-privacy/screenshots/iPad/3.png",
+      "https://jwministryapp-boop.github.io/my-ministry-privacy/screenshots/iPad/4.png",
+      "https://jwministryapp-boop.github.io/my-ministry-privacy/screenshots/iPad/5.png",
+      "https://jwministryapp-boop.github.io/my-ministry-privacy/screenshots/iPad/6.png",
+      "https://jwministryapp-boop.github.io/my-ministry-privacy/screenshots/iPad/7.png",
+      "https://jwministryapp-boop.github.io/my-ministry-privacy/screenshots/iPad/8.png"
     ],
     "offers": {
       "@type": "Offer",
@@ -132,7 +140,7 @@
   </script>
   
 </head>
-<body>
+<body data-prefix="..">
 
   <header class="topbar">
     <div class="container topbar-inner">
@@ -143,6 +151,7 @@
       <nav class="nav-links">
         <a href="#screens">Screenshots</a>
         <a href="#features">Funktionen</a>
+        <a href="#comparison">vs.</a>
         <a href="#languages">35+ Sprachen</a>
         <a href="#donate">Unterstützen</a>
         <a href="#faq">FAQ</a>
@@ -173,6 +182,13 @@
             <a href="#donate" class="btn btn-secondary">
               ❤️ Entwickler unterstützen
             </a>
+            <div class="hero-qr-card">
+              <img src="https://api.qrserver.com/v1/create-qr-code/?size=140x140&data=https%3A%2F%2Fapps.apple.com%2Fus%2Fapp%2Fjw-ministry%2Fid6756040136" alt="QR Code App Store JW Ministry" width="54" height="54" loading="lazy" />
+              <div class="hero-qr-text">
+                <strong>📱 Mit iPhone / iPad scannen</strong>
+                Kamera richten, um im App Store zu laden
+              </div>
+            </div>
           </div>
           <div class="stats-row">
             <div class="stat-box"><div class="stat-val">35+</div><div class="stat-lbl">Sprachen verfügbar</div></div>
@@ -183,9 +199,9 @@
         </div>
 
         <div class="hero-phones">
-          <div class="hero-phone"><img src="../screenshots/German/4.jpg" alt="Calendar & Pioneer Goal — JW Ministry" width="220" height="475" /></div>
-          <div class="hero-phone center"><img src="../screenshots/German/1.jpg" alt="Ministry Timer — JW Ministry" width="240" height="518" /></div>
-          <div class="hero-phone"><img src="../screenshots/German/3.jpg" alt="Service Year Report — JW Ministry" width="220" height="475" /></div>
+          <div class="hero-phone"><img data-shot-file="4.jpg" src="../screenshots/German/4.jpg" alt="Calendar & Pioneer Goal — JW Ministry" width="220" height="475" /></div>
+          <div class="hero-phone center"><img data-shot-file="1.jpg" src="../screenshots/German/1.jpg" alt="Ministry Timer — JW Ministry" width="240" height="518" /></div>
+          <div class="hero-phone"><img data-shot-file="3.jpg" src="../screenshots/German/3.jpg" alt="Service Year Report — JW Ministry" width="220" height="475" /></div>
         </div>
       </div>
     </section>
@@ -195,45 +211,83 @@
         <div class="sec-head">
           <h2>Alle Ansichten von JW Ministry im Überblick</h2>
           <p>Echte Screenshots der deutschen App-Oberfläche — vom Dienst-Timer und den Bibelstudien bis zum Pionier-Kalender, den Gebieten und dem OLED-Dunkelmodus.</p>
+          <div style="margin-top: 14px;">
+            <a href="#languages" class="shot-lang-indicator">
+              🌍 Screenshot-Sprache (tippe unten auf eine der 35 Sprachen für die Vorschau): <u id="active-shot-lang-name">Deutsch</u>
+            </a>
+          </div>
         </div>
         <div class="filter-bar">
-          <button class="filter-btn active" onclick="filterScreenshots('all', this)">All (8)</button>
+          <button class="filter-btn active" onclick="filterScreenshots('all', this)">📱 iPhone (8)</button>
           <button class="filter-btn" onclick="filterScreenshots('light', this)">☀️ Light (6)</button>
           <button class="filter-btn" onclick="filterScreenshots('dark', this)">🌙 Dark OLED (2)</button>
+          <button class="filter-btn" onclick="filterScreenshots('ipad', this)">💻 iPad (8)</button>
         </div>
         <div class="shots-grid">
           <article class="shot-card" data-theme-shot="light">
-          <div class="iphone-frame"><img src="../screenshots/German/1.jpg" alt="1. Start-Tab & Predigtdienst-Timer — JW Ministry" loading="lazy" width="320" height="690" /></div>
+          <div class="iphone-frame"><img data-shot-file="1.jpg" src="../screenshots/German/1.jpg" alt="1. Start-Tab & Predigtdienst-Timer — JW Ministry" loading="lazy" width="320" height="690" /></div>
           <div class="shot-meta"><h3>1. Start-Tab & Predigtdienst-Timer</h3><p>Erfasse deine Dienstzeit sekundengenau, füge Bibelstudien hinzu, wähle den Studierenden aus und notiere Details zum Einsatz.</p></div>
         </article>
           <article class="shot-card" data-theme-shot="light">
-          <div class="iphone-frame"><img src="../screenshots/German/2.jpg" alt="2. Bibelstudien-Verwaltung — JW Ministry" loading="lazy" width="320" height="690" /></div>
+          <div class="iphone-frame"><img data-shot-file="2.jpg" src="../screenshots/German/2.jpg" alt="2. Bibelstudien-Verwaltung — JW Ministry" loading="lazy" width="320" height="690" /></div>
           <div class="shot-meta"><h3>2. Bibelstudien-Verwaltung</h3><p>Speichere jeden Studierenden mit aktuellem Studienhilfsmittel, Lektion und Abschnitt (z. B. „Glücklich – für immer!, Lektion 24“).</p></div>
         </article>
           <article class="shot-card" data-theme-shot="light">
-          <div class="iphone-frame"><img src="../screenshots/German/3.jpg" alt="3. Monats- & Dienstjahresbericht — JW Ministry" loading="lazy" width="320" height="690" /></div>
+          <div class="iphone-frame"><img data-shot-file="3.jpg" src="../screenshots/German/3.jpg" alt="3. Monats- & Dienstjahresbericht — JW Ministry" loading="lazy" width="320" height="690" /></div>
           <div class="shot-meta"><h3>3. Monats- & Dienstjahresbericht</h3><p>Behalte die Gesamtstunden des Dienstjahres (2025–2026) und die verbleibenden Stunden im Blick und teile deinen Monatsbericht.</p></div>
         </article>
           <article class="shot-card" data-theme-shot="light">
-          <div class="iphone-frame"><img src="../screenshots/German/4.jpg" alt="4. Pionier-Kalender & Monatsziel — JW Ministry" loading="lazy" width="320" height="690" /></div>
+          <div class="iphone-frame"><img data-shot-file="4.jpg" src="../screenshots/German/4.jpg" alt="4. Pionier-Kalender & Monatsziel — JW Ministry" loading="lazy" width="320" height="690" /></div>
           <div class="shot-meta"><h3>4. Pionier-Kalender & Monatsziel</h3><p>Wähle deine Rolle (Allgemeiner Pionier – 50 Std., Hilfspionier 15/30 Std. oder Verkündiger) oder ein persönliches Monatsziel mit Fortschrittsbalken.</p></div>
         </article>
           <article class="shot-card" data-theme-shot="light">
-          <div class="iphone-frame"><img src="../screenshots/German/5.jpg" alt="5. Gebietskarten & Haus-zu-Haus-Notizen — JW Ministry" loading="lazy" width="320" height="690" /></div>
+          <div class="iphone-frame"><img data-shot-file="5.jpg" src="../screenshots/German/5.jpg" alt="5. Gebietskarten & Haus-zu-Haus-Notizen — JW Ministry" loading="lazy" width="320" height="690" /></div>
           <div class="shot-meta"><h3>5. Gebietskarten & Haus-zu-Haus-Notizen</h3><p>Hinterlege Fotos deiner Gebietskarte, filtere Adressen und dokumentiere jeden Besuch samt Datum und Türnotiz.</p></div>
         </article>
           <article class="shot-card" data-theme-shot="light">
-          <div class="iphone-frame"><img src="../screenshots/German/6.jpg" alt="6. Einstellungen, Erinnerungen & Cloud-Backup — JW Ministry" loading="lazy" width="320" height="690" /></div>
+          <div class="iphone-frame"><img data-shot-file="6.jpg" src="../screenshots/German/6.jpg" alt="6. Einstellungen, Erinnerungen & Cloud-Backup — JW Ministry" loading="lazy" width="320" height="690" /></div>
           <div class="shot-meta"><h3>6. Einstellungen, Erinnerungen & Cloud-Backup</h3><p>Exportiere und importiere vollständige Backups über die Cloud-Symbole oben rechts und aktiviere Erinnerungen für Bericht und Rückbesuche.</p></div>
         </article>
           <article class="shot-card" data-theme-shot="dark">
-          <div class="iphone-frame"><img src="../screenshots/German/7.jpg" alt="7. OLED-Dunkelmodus (Timer) — JW Ministry" loading="lazy" width="320" height="690" /></div>
+          <div class="iphone-frame"><img data-shot-file="7.jpg" src="../screenshots/German/7.jpg" alt="7. OLED-Dunkelmodus (Timer) — JW Ministry" loading="lazy" width="320" height="690" /></div>
           <div class="shot-meta"><h3>7. OLED-Dunkelmodus (Timer)</h3><p>Augenschonendes dunkles Design für den Abenddienst und minimalen Akkuverbrauch.</p></div>
         </article>
           <article class="shot-card" data-theme-shot="dark">
-          <div class="iphone-frame"><img src="../screenshots/German/8.jpg" alt="8. OLED-Dunkelmodus (Einstellungen) — JW Ministry" loading="lazy" width="320" height="690" /></div>
+          <div class="iphone-frame"><img data-shot-file="8.jpg" src="../screenshots/German/8.jpg" alt="8. OLED-Dunkelmodus (Einstellungen) — JW Ministry" loading="lazy" width="320" height="690" /></div>
           <div class="shot-meta"><h3>8. OLED-Dunkelmodus (Einstellungen)</h3><p>Nahtlose Anpassung an den hellen und dunklen Systemmodus von iOS.</p></div>
         </article>
+          <article class="shot-card ipad-card" data-theme-shot="ipad">
+              <div class="ipad-frame"><img src="../screenshots/iPad/1.png" alt="JW Ministry on iPad — Screen 1" loading="lazy" /></div>
+              <div class="shot-meta"><h3>iPadOS — #1</h3><p>JW Ministry (Ministry Planner) — iPad</p></div>
+            </article>
+          <article class="shot-card ipad-card" data-theme-shot="ipad">
+              <div class="ipad-frame"><img src="../screenshots/iPad/2.png" alt="JW Ministry on iPad — Screen 2" loading="lazy" /></div>
+              <div class="shot-meta"><h3>iPadOS — #2</h3><p>JW Ministry (Ministry Planner) — iPad</p></div>
+            </article>
+          <article class="shot-card ipad-card" data-theme-shot="ipad">
+              <div class="ipad-frame"><img src="../screenshots/iPad/3.png" alt="JW Ministry on iPad — Screen 3" loading="lazy" /></div>
+              <div class="shot-meta"><h3>iPadOS — #3</h3><p>JW Ministry (Ministry Planner) — iPad</p></div>
+            </article>
+          <article class="shot-card ipad-card" data-theme-shot="ipad">
+              <div class="ipad-frame"><img src="../screenshots/iPad/4.png" alt="JW Ministry on iPad — Screen 4" loading="lazy" /></div>
+              <div class="shot-meta"><h3>iPadOS — #4</h3><p>JW Ministry (Ministry Planner) — iPad</p></div>
+            </article>
+          <article class="shot-card ipad-card" data-theme-shot="ipad">
+              <div class="ipad-frame"><img src="../screenshots/iPad/5.png" alt="JW Ministry on iPad — Screen 5" loading="lazy" /></div>
+              <div class="shot-meta"><h3>iPadOS — #5</h3><p>JW Ministry (Ministry Planner) — iPad</p></div>
+            </article>
+          <article class="shot-card ipad-card" data-theme-shot="ipad">
+              <div class="ipad-frame"><img src="../screenshots/iPad/6.png" alt="JW Ministry on iPad — Screen 6" loading="lazy" /></div>
+              <div class="shot-meta"><h3>iPadOS — #6</h3><p>JW Ministry (Ministry Planner) — iPad</p></div>
+            </article>
+          <article class="shot-card ipad-card" data-theme-shot="ipad">
+              <div class="ipad-frame"><img src="../screenshots/iPad/7.png" alt="JW Ministry on iPad — Screen 7" loading="lazy" /></div>
+              <div class="shot-meta"><h3>iPadOS — #7</h3><p>JW Ministry (Ministry Planner) — iPad</p></div>
+            </article>
+          <article class="shot-card ipad-card" data-theme-shot="ipad">
+              <div class="ipad-frame"><img src="../screenshots/iPad/8.png" alt="JW Ministry on iPad — Screen 8" loading="lazy" /></div>
+              <div class="shot-meta"><h3>iPadOS — #8</h3><p>JW Ministry (Ministry Planner) — iPad</p></div>
+            </article>
         </div>
       </div>
     </section>
@@ -251,6 +305,18 @@
           <div class="feat-card"><div class="feat-icon">🗓️</div><h3>Dienstjahr (Sept.–Aug.) & Kalender</h3><p>Plane Predigtdiensttreffen und den Familienabend und wandle geplante Termine per Wischgeste in Berichtseinträge um.</p></div>
           <div class="feat-card"><div class="feat-icon">🗺️</div><h3>Gebiete, Mehrfamilienhäuser & Rückbesuche</h3><p>Verwalte Gebiete mit Fotos, Farbmarkierungen, Volltextsuche und automatischen Rückbesuch-Erinnerungen.</p></div>
           <div class="feat-card"><div class="feat-icon">🔒</div><h3>100 % Datenschutz auf deinem Gerät</h3><p>Keine Registrierung, keine Server. Alle Daten bleiben lokal auf deinem iPhone/iPad mit einfachem Backup in iCloud Drive.</p></div>
+        </div>
+      </div>
+    </section>
+
+    <section id="comparison">
+      <div class="container">
+        <div class="sec-head">
+          <h2>Warum Verkündiger und Pioniere zu JW Ministry wechseln</h2>
+          <p>Direkter Vergleich bei Predigtdienstbericht, Pionierplanung und Gebietsbearbeitung.</p>
+        </div>
+        <div class="comp-wrap">
+          <table class="comp-table"><thead><tr><th class="">Funktion</th><th class="">Papiernotizen</th><th class="">Ältere Apps</th><th class="highlight-col">JW Ministry 1.8</th></tr></thead><tbody><tr><td class="">Live-Timer auf dem Sperrbildschirm & in der Dynamic Island</td><td class="">❌ Nein</td><td class="">❌ Nein</td><td class="highlight-col">✅ Ja (Live Activities)</td></tr><tr><td class="">Pionier-Stundenrechner (15, 30, 50 Std.) & Dienstjahr (600 Std.)</td><td class="">⚠️ Manuell</td><td class="">⚠️ Teilweise</td><td class="highlight-col">✅ Automatisch + Eigenes Ziel</td></tr><tr><td class="">Plan-vs.-Ist-Vergleich im Kalender & per Wischgeste in den Bericht</td><td class="">❌ Nein</td><td class="">❌ Nein</td><td class="highlight-col">✅ Mit einer Berührung</td></tr><tr><td class="">Mehrfamilienhaus-Generator + Gebietsfotos & 10 Farben</td><td class="">❌ Papierzettel</td><td class="">❌ Nur Text</td><td class="highlight-col">✅ Visuelle Karten + Volltextsuche</td></tr><tr><td class="">Erinnerungen an Rückbesuche & Monatsbericht am 1. des Monats</td><td class="">❌ Nein</td><td class="">⚠️ Selten</td><td class="highlight-col">✅ Intelligente iOS-Mitteilungen</td></tr><tr><td class="">100 % lokaler Datenschutz & vollständiges iCloud-Drive-Backup</td><td class="">⚠️ Leicht zu verlieren</td><td class="">⚠️ Fehler beim Gerätewechsel</td><td class="highlight-col">✅ 100 % Offline & Sicher</td></tr><tr><td class="">Nativ für aktuelles iOS, iPad, OLED-Dunkelmodus & 35+ Sprachen</td><td class="">—</td><td class="">❌ Veraltet</td><td class="highlight-col">✅ Modernes SwiftUI-Design</td></tr></tbody></table>
         </div>
       </div>
     </section>
@@ -289,41 +355,41 @@
           <h2>🌍 Vollständig übersetzt in über 35 Sprachen</h2>
           <p style="color: var(--muted); margin-top: 6px;">App, Widgets und Mitteilungen passen sich automatisch der Systemsprache deines Geräts an:</p>
           <div class="loc-cloud">
-            <span class="loc-badge">English</span>
-            <span class="loc-badge">Русский</span>
-            <span class="loc-badge">Español</span>
-            <span class="loc-badge">Deutsch</span>
-            <span class="loc-badge">Português (Brasil)</span>
-            <span class="loc-badge">Français</span>
-            <span class="loc-badge">Italiano</span>
-            <span class="loc-badge">Polski</span>
-            <span class="loc-badge">Українська</span>
-            <span class="loc-badge">Nederlands</span>
-            <span class="loc-badge">Čeština</span>
-            <span class="loc-badge">Slovenčina</span>
-            <span class="loc-badge">Magyar</span>
-            <span class="loc-badge">Română</span>
-            <span class="loc-badge">Български</span>
-            <span class="loc-badge">Ελληνικά</span>
-            <span class="loc-badge">Türkçe</span>
-            <span class="loc-badge">한국어</span>
-            <span class="loc-badge">日本語</span>
-            <span class="loc-badge">繁體中文</span>
-            <span class="loc-badge">ไทย</span>
-            <span class="loc-badge">Bahasa Indonesia</span>
-            <span class="loc-badge">Filipino</span>
-            <span class="loc-badge">हिन्दी</span>
-            <span class="loc-badge">ქართული</span>
-            <span class="loc-badge">Lietuvių</span>
-            <span class="loc-badge">Hrvatski</span>
-            <span class="loc-badge">Srpski</span>
-            <span class="loc-badge">Shqip</span>
-            <span class="loc-badge">Dansk</span>
-            <span class="loc-badge">Svenska</span>
-            <span class="loc-badge">Norsk Bokmål</span>
-            <span class="loc-badge">Suomi</span>
-            <span class="loc-badge">Afrikaans</span>
-            <span class="loc-badge">Ikinyarwanda</span>
+            <span class="loc-badge " onclick="switchScreenshotLanguage('English', 'English', this)" title="Preview English screenshots">English</span>
+            <span class="loc-badge " onclick="switchScreenshotLanguage('Russian', 'Русский', this)" title="Preview Русский screenshots">Русский</span>
+            <span class="loc-badge " onclick="switchScreenshotLanguage('Spanish', 'Español', this)" title="Preview Español screenshots">Español</span>
+            <span class="loc-badge active-shot-lang" onclick="switchScreenshotLanguage('German', 'Deutsch', this)" title="Preview Deutsch screenshots">Deutsch</span>
+            <span class="loc-badge " onclick="switchScreenshotLanguage('Portuguese (Brazil)', 'Português (Brasil)', this)" title="Preview Português (Brasil) screenshots">Português (Brasil)</span>
+            <span class="loc-badge " onclick="switchScreenshotLanguage('French', 'Français', this)" title="Preview Français screenshots">Français</span>
+            <span class="loc-badge " onclick="switchScreenshotLanguage('Ukrainian', 'Українська', this)" title="Preview Українська screenshots">Українська</span>
+            <span class="loc-badge " onclick="switchScreenshotLanguage('Polish', 'Polski', this)" title="Preview Polski screenshots">Polski</span>
+            <span class="loc-badge " onclick="switchScreenshotLanguage('Italian', 'Italiano', this)" title="Preview Italiano screenshots">Italiano</span>
+            <span class="loc-badge " onclick="switchScreenshotLanguage('Dutch', 'Nederlands', this)" title="Preview Nederlands screenshots">Nederlands</span>
+            <span class="loc-badge " onclick="switchScreenshotLanguage('Czech', 'Čeština', this)" title="Preview Čeština screenshots">Čeština</span>
+            <span class="loc-badge " onclick="switchScreenshotLanguage('Slovak', 'Slovenčina', this)" title="Preview Slovenčina screenshots">Slovenčina</span>
+            <span class="loc-badge " onclick="switchScreenshotLanguage('Hungarian', 'Magyar', this)" title="Preview Magyar screenshots">Magyar</span>
+            <span class="loc-badge " onclick="switchScreenshotLanguage('Romanian', 'Română', this)" title="Preview Română screenshots">Română</span>
+            <span class="loc-badge " onclick="switchScreenshotLanguage('Bulgarian', 'Български', this)" title="Preview Български screenshots">Български</span>
+            <span class="loc-badge " onclick="switchScreenshotLanguage('Greek', 'Ελληνικά', this)" title="Preview Ελληνικά screenshots">Ελληνικά</span>
+            <span class="loc-badge " onclick="switchScreenshotLanguage('Turkish', 'Türkçe', this)" title="Preview Türkçe screenshots">Türkçe</span>
+            <span class="loc-badge " onclick="switchScreenshotLanguage('Korean', '한국어', this)" title="Preview 한국어 screenshots">한국어</span>
+            <span class="loc-badge " onclick="switchScreenshotLanguage('Japanese', '日本語', this)" title="Preview 日本語 screenshots">日本語</span>
+            <span class="loc-badge " onclick="switchScreenshotLanguage('Chinese, Traditional', '繁體中文', this)" title="Preview 繁體中文 screenshots">繁體中文</span>
+            <span class="loc-badge " onclick="switchScreenshotLanguage('Thai', 'ไทย', this)" title="Preview ไทย screenshots">ไทย</span>
+            <span class="loc-badge " onclick="switchScreenshotLanguage('Indonesian', 'Bahasa Indonesia', this)" title="Preview Bahasa Indonesia screenshots">Bahasa Indonesia</span>
+            <span class="loc-badge " onclick="switchScreenshotLanguage('Filipino', 'Filipino', this)" title="Preview Filipino screenshots">Filipino</span>
+            <span class="loc-badge " onclick="switchScreenshotLanguage('Hindi', 'हिन्दी', this)" title="Preview हिन्दी screenshots">हिन्दी</span>
+            <span class="loc-badge " onclick="switchScreenshotLanguage('Georgian', 'ქართული', this)" title="Preview ქართული screenshots">ქართული</span>
+            <span class="loc-badge " onclick="switchScreenshotLanguage('Lithuanian', 'Lietuvių', this)" title="Preview Lietuvių screenshots">Lietuvių</span>
+            <span class="loc-badge " onclick="switchScreenshotLanguage('Croatian', 'Hrvatski', this)" title="Preview Hrvatski screenshots">Hrvatski</span>
+            <span class="loc-badge " onclick="switchScreenshotLanguage('Serbian (Latin)', 'Srpski', this)" title="Preview Srpski screenshots">Srpski</span>
+            <span class="loc-badge " onclick="switchScreenshotLanguage('Albanian', 'Shqip', this)" title="Preview Shqip screenshots">Shqip</span>
+            <span class="loc-badge " onclick="switchScreenshotLanguage('Danish', 'Dansk', this)" title="Preview Dansk screenshots">Dansk</span>
+            <span class="loc-badge " onclick="switchScreenshotLanguage('Swedish', 'Svenska', this)" title="Preview Svenska screenshots">Svenska</span>
+            <span class="loc-badge " onclick="switchScreenshotLanguage('Norwegian Bokmål', 'Norsk Bokmål', this)" title="Preview Norsk Bokmål screenshots">Norsk Bokmål</span>
+            <span class="loc-badge " onclick="switchScreenshotLanguage('Finnish', 'Suomi', this)" title="Preview Suomi screenshots">Suomi</span>
+            <span class="loc-badge " onclick="switchScreenshotLanguage('Afrikaans', 'Afrikaans', this)" title="Preview Afrikaans screenshots">Afrikaans</span>
+            <span class="loc-badge " onclick="switchScreenshotLanguage('Kinyarwanda', 'Ikinyarwanda', this)" title="Preview Ikinyarwanda screenshots">Ikinyarwanda</span>
           </div>
         </div>
       </div>
@@ -354,14 +420,26 @@
                 <span class="wallet-lbl">USDT (nur TRC-20 / TRON-Netzwerk):</span>
                 <div class="wallet-row">
                   <code class="wallet-code" id="usdt-addr">TQQxYhThQGngj887Lvq9TnKtyyYMcUDFNw</code>
-                  <button class="copy-btn" data-copied="Kopiert!" onclick="copyWalletText('usdt-addr', this)">Kopieren</button>
+                  <div style="display:flex; gap:6px;">
+                    <button class="qr-toggle-btn" onclick="toggleWalletQR('qr-usdt')">QR</button>
+                    <button class="copy-btn" data-copied="Kopiert!" onclick="copyWalletText('usdt-addr', this)">Kopieren</button>
+                  </div>
+                </div>
+                <div class="wallet-qr-pop" id="qr-usdt">
+                  <img src="https://api.qrserver.com/v1/create-qr-code/?size=160x160&data=TQQxYhThQGngj887Lvq9TnKtyyYMcUDFNw" alt="USDT TRC20 QR" loading="lazy" />
                 </div>
               </div>
               <div class="wallet-box">
                 <span class="wallet-lbl">TON / USDT (TON-Netzwerk):</span>
                 <div class="wallet-row">
                   <code class="wallet-code" id="ton-addr">UQBNBroTUyMG0YqgiHGXwVKO_rKe5d2y7gXqvICREjBwuKYk</code>
-                  <button class="copy-btn" data-copied="Kopiert!" onclick="copyWalletText('ton-addr', this)">Kopieren</button>
+                  <div style="display:flex; gap:6px;">
+                    <button class="qr-toggle-btn" onclick="toggleWalletQR('qr-ton')">QR</button>
+                    <button class="copy-btn" data-copied="Kopiert!" onclick="copyWalletText('ton-addr', this)">Kopieren</button>
+                  </div>
+                </div>
+                <div class="wallet-qr-pop" id="qr-ton">
+                  <img src="https://api.qrserver.com/v1/create-qr-code/?size=160x160&data=UQBNBroTUyMG0YqgiHGXwVKO_rKe5d2y7gXqvICREjBwuKYk" alt="TON QR" loading="lazy" />
                 </div>
               </div>
               <div class="crypto-warn">⚠️ Sende an die Adresse TQQx... ausschließlich Token im TRON-Netzwerk (TRC-20).</div>
@@ -399,6 +477,20 @@
       </div>
     </div>
   </footer>
+
+  <!-- Mobile Sticky Bar -->
+  <div class="sticky-mobile-bar">
+    <div class="sticky-mobile-info">
+      <span class="brand-icon" style="width:32px;height:32px;font-size:0.85rem;">JW</span>
+      <div>
+        <div class="sticky-mobile-title">JW Ministry</div>
+        <div class="sticky-mobile-sub">iOS & iPadOS • Free</div>
+      </div>
+    </div>
+    <a href="https://apps.apple.com/us/app/jw-ministry/id6756040136" target="_blank" rel="noopener" class="sticky-mobile-btn">
+       Im App Store laden
+    </a>
+  </div>
 
   <script src="../assets/js/main.js"></script>
 </body>

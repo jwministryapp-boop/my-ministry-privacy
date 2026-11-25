@@ -186,5 +186,60 @@
     "registro y control de territorios jw",
     "programa territorios jw casa en casa",
     "cursos bíblicos y revisitas jw"
+  ],
+  "qr_scan_title": "Escanear con iPhone / iPad",
+  "qr_scan_sub": "Apunta con la cámara para abrir en App Store",
+  "shot_lang_label": "Idioma de las capturas (toca cualquiera de los 35 idiomas para cambiar):",
+  "comp_title": "Por qué los publicadores y precursores eligen JW Ministry",
+  "comp_sub": "Comparativa entre apuntes en papel, aplicaciones antiguas y JW Ministry 1.8.",
+  "comp_headers": [
+    "Función",
+    "Papel / Libreta",
+    "Apps Antiguas",
+    "JW Ministry 1.8"
+  ],
+  "comp_rows": [
+    [
+      "Temporizador en vivo en pantalla bloqueada y Dynamic Island",
+      "❌ No",
+      "❌ No",
+      "✅ Sí (Live Activities)"
+    ],
+    [
+      "Cálculo de metas de precursor (15, 30, 50 h) y año de servicio (600 h)",
+      "⚠️ Manual",
+      "⚠️ Parcial",
+      "✅ Automático + Meta personal"
+    ],
+    [
+      "Comparación Plan vs. Real en Calendario y deslizar al Informe",
+      "❌ No",
+      "❌ No",
+      "✅ Con un solo gesto"
+    ],
+    [
+      "Generador de edificios + Fotos del territorio y 10 colores",
+      "❌ Tarjetas de papel",
+      "❌ Solo texto",
+      "✅ Tarjetas visuales + Búsqueda"
+    ],
+    [
+      "Recordatorios de revisitas y aviso el día 1 para enviar el informe",
+      "❌ No",
+      "⚠️ Básico",
+      "✅ Notificaciones inteligentes"
+    ],
+    [
+      "Privacidad 100% local y copia de seguridad completa en iCloud Drive",
+      "⚠️ Fácil de perder",
+      "⚠️ Falla al cambiar de iPhone",
+      "✅ 100% Offline y seguro"
+    ],
+    [
+      "Optimizado para el último iOS, iPad, modo OLED y 35+ idiomas",
+      "—",
+      "❌ Sin soporte",
+      "✅ Diseño nativo SwiftUI"
+    ]
   ]
 }

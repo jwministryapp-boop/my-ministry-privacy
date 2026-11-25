@@ -54,5 +54,147 @@
     "Suomi",
     "Afrikaans",
     "Ikinyarwanda"
+  ],
+  "lang_folder_map": [
+    [
+      "English",
+      "English"
+    ],
+    [
+      "Русский",
+      "Russian"
+    ],
+    [
+      "Español",
+      "Spanish"
+    ],
+    [
+      "Deutsch",
+      "German"
+    ],
+    [
+      "Português (Brasil)",
+      "Portuguese (Brazil)"
+    ],
+    [
+      "Français",
+      "French"
+    ],
+    [
+      "Українська",
+      "Ukrainian"
+    ],
+    [
+      "Polski",
+      "Polish"
+    ],
+    [
+      "Italiano",
+      "Italian"
+    ],
+    [
+      "Nederlands",
+      "Dutch"
+    ],
+    [
+      "Čeština",
+      "Czech"
+    ],
+    [
+      "Slovenčina",
+      "Slovak"
+    ],
+    [
+      "Magyar",
+      "Hungarian"
+    ],
+    [
+      "Română",
+      "Romanian"
+    ],
+    [
+      "Български",
+      "Bulgarian"
+    ],
+    [
+      "Ελληνικά",
+      "Greek"
+    ],
+    [
+      "Türkçe",
+      "Turkish"
+    ],
+    [
+      "한국어",
+      "Korean"
+    ],
+    [
+      "日本語",
+      "Japanese"
+    ],
+    [
+      "繁體中文",
+      "Chinese, Traditional"
+    ],
+    [
+      "ไทย",
+      "Thai"
+    ],
+    [
+      "Bahasa Indonesia",
+      "Indonesian"
+    ],
+    [
+      "Filipino",
+      "Filipino"
+    ],
+    [
+      "हिन्दी",
+      "Hindi"
+    ],
+    [
+      "ქართული",
+      "Georgian"
+    ],
+    [
+      "Lietuvių",
+      "Lithuanian"
+    ],
+    [
+      "Hrvatski",
+      "Croatian"
+    ],
+    [
+      "Srpski",
+      "Serbian (Latin)"
+    ],
+    [
+      "Shqip",
+      "Albanian"
+    ],
+    [
+      "Dansk",
+      "Danish"
+    ],
+    [
+      "Svenska",
+      "Swedish"
+    ],
+    [
+      "Norsk Bokmål",
+      "Norwegian Bokmål"
+    ],
+    [
+      "Suomi",
+      "Finnish"
+    ],
+    [
+      "Afrikaans",
+      "Afrikaans"
+    ],
+    [
+      "Ikinyarwanda",
+      "Kinyarwanda"
+    ]
   ]
 }

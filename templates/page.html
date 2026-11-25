@@ -29,7 +29,7 @@
   </script>
   {{AUTO_REDIRECT_SCRIPT}}
 </head>
-<body>
+<body data-prefix="{{PREFIX}}">
 
   <header class="topbar">
     <div class="container topbar-inner">
@@ -40,6 +40,7 @@
       <nav class="nav-links">
         <a href="#screens">{{NAV_SCREENS}}</a>
         <a href="#features">{{NAV_FEATURES}}</a>
+        <a href="#comparison">vs.</a>
         <a href="#languages">{{NAV_LANGUAGES}}</a>
         <a href="#donate">{{NAV_DONATE}}</a>
         <a href="#faq">{{NAV_FAQ}}</a>
@@ -65,6 +66,13 @@
             <a href="#donate" class="btn btn-secondary">
               ❤️ {{CTA_DONATE}}
             </a>
+            <div class="hero-qr-card">
+              <img src="https://api.qrserver.com/v1/create-qr-code/?size=140x140&data={{APP_STORE_URL_ENCODED}}" alt="QR Code App Store JW Ministry" width="54" height="54" loading="lazy" />
+              <div class="hero-qr-text">
+                <strong>📱 {{QR_SCAN_TITLE}}</strong>
+                {{QR_SCAN_SUB}}
+              </div>
+            </div>
           </div>
           <div class="stats-row">
             <div class="stat-box"><div class="stat-val">{{STAT_1_VAL}}</div><div class="stat-lbl">{{STAT_1_LBL}}</div></div>
@@ -75,9 +83,9 @@
         </div>
 
         <div class="hero-phones">
-          <div class="hero-phone"><img src="{{HERO_IMG_LEFT}}" alt="Calendar & Pioneer Goal — JW Ministry" width="220" height="475" /></div>
-          <div class="hero-phone center"><img src="{{HERO_IMG_CENTER}}" alt="Ministry Timer — JW Ministry" width="240" height="518" /></div>
-          <div class="hero-phone"><img src="{{HERO_IMG_RIGHT}}" alt="Service Year Report — JW Ministry" width="220" height="475" /></div>
+          <div class="hero-phone"><img data-shot-file="4.jpg" src="{{HERO_IMG_LEFT}}" alt="Calendar & Pioneer Goal — JW Ministry" width="220" height="475" /></div>
+          <div class="hero-phone center"><img data-shot-file="1.jpg" src="{{HERO_IMG_CENTER}}" alt="Ministry Timer — JW Ministry" width="240" height="518" /></div>
+          <div class="hero-phone"><img data-shot-file="3.jpg" src="{{HERO_IMG_RIGHT}}" alt="Service Year Report — JW Ministry" width="220" height="475" /></div>
         </div>
       </div>
     </section>
@@ -87,14 +95,21 @@
         <div class="sec-head">
           <h2>{{SCREENS_TITLE}}</h2>
           <p>{{SCREENS_SUB}}</p>
+          <div style="margin-top: 14px;">
+            <a href="#languages" class="shot-lang-indicator">
+              🌍 {{SHOT_LANG_LABEL}} <u id="active-shot-lang-name">{{NAME}}</u>
+            </a>
+          </div>
         </div>
         <div class="filter-bar">
-          <button class="filter-btn active" onclick="filterScreenshots('all', this)">All (8)</button>
+          <button class="filter-btn active" onclick="filterScreenshots('all', this)">📱 iPhone (8)</button>
           <button class="filter-btn" onclick="filterScreenshots('light', this)">☀️ Light (6)</button>
           <button class="filter-btn" onclick="filterScreenshots('dark', this)">🌙 Dark OLED (2)</button>
+          {{IPAD_FILTER_BTN}}
         </div>
         <div class="shots-grid">
           {{SHOTS_GRID}}
+          {{IPAD_SHOTS_GRID}}
         </div>
       </div>
     </section>
@@ -107,6 +122,18 @@
         </div>
         <div class="feat-grid">
           {{FEATURES_GRID}}
+        </div>
+      </div>
+    </section>
+
+    <section id="comparison">
+      <div class="container">
+        <div class="sec-head">
+          <h2>{{COMP_TITLE}}</h2>
+          <p>{{COMP_SUB}}</p>
+        </div>
+        <div class="comp-wrap">
+          {{COMPARISON_TABLE}}
         </div>
       </div>
     </section>
@@ -166,14 +193,26 @@
                 <span class="wallet-lbl">{{USDT_LABEL}}</span>
                 <div class="wallet-row">
                   <code class="wallet-code" id="usdt-addr">{{USDT_TRC20}}</code>
-                  <button class="copy-btn" data-copied="{{COPIED_MSG}}" onclick="copyWalletText('usdt-addr', this)">{{COPY_BTN}}</button>
+                  <div style="display:flex; gap:6px;">
+                    <button class="qr-toggle-btn" onclick="toggleWalletQR('qr-usdt')">QR</button>
+                    <button class="copy-btn" data-copied="{{COPIED_MSG}}" onclick="copyWalletText('usdt-addr', this)">{{COPY_BTN}}</button>
+                  </div>
+                </div>
+                <div class="wallet-qr-pop" id="qr-usdt">
+                  <img src="https://api.qrserver.com/v1/create-qr-code/?size=160x160&data={{USDT_TRC20}}" alt="USDT TRC20 QR" loading="lazy" />
                 </div>
               </div>
               <div class="wallet-box">
                 <span class="wallet-lbl">{{TON_LABEL}}</span>
                 <div class="wallet-row">
                   <code class="wallet-code" id="ton-addr">{{TON_ADDRESS}}</code>
-                  <button class="copy-btn" data-copied="{{COPIED_MSG}}" onclick="copyWalletText('ton-addr', this)">{{COPY_BTN}}</button>
+                  <div style="display:flex; gap:6px;">
+                    <button class="qr-toggle-btn" onclick="toggleWalletQR('qr-ton')">QR</button>
+                    <button class="copy-btn" data-copied="{{COPIED_MSG}}" onclick="copyWalletText('ton-addr', this)">{{COPY_BTN}}</button>
+                  </div>
+                </div>
+                <div class="wallet-qr-pop" id="qr-ton">
+                  <img src="https://api.qrserver.com/v1/create-qr-code/?size=160x160&data={{TON_ADDRESS}}" alt="TON QR" loading="lazy" />
                 </div>
               </div>
               <div class="crypto-warn">{{CRYPTO_WARN}}</div>
@@ -205,6 +244,20 @@
       </div>
     </div>
   </footer>
+
+  <!-- Mobile Sticky Bar -->
+  <div class="sticky-mobile-bar">
+    <div class="sticky-mobile-info">
+      <span class="brand-icon" style="width:32px;height:32px;font-size:0.85rem;">JW</span>
+      <div>
+        <div class="sticky-mobile-title">JW Ministry</div>
+        <div class="sticky-mobile-sub">iOS & iPadOS • Free</div>
+      </div>
+    </div>
+    <a href="{{APP_STORE_URL}}" target="_blank" rel="noopener" class="sticky-mobile-btn">
+       {{CTA_APPSTORE}}
+    </a>
+  </div>
 
   <script src="{{PREFIX}}/assets/js/main.js"></script>
 </body>
