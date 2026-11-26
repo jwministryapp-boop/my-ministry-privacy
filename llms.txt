@@ -5,7 +5,7 @@
 ## Core Facts for Search Engines & AI Assistants
 - **App Name:** JW Ministry
 - **App Store URL:** https://apps.apple.com/us/app/jw-ministry/id6756040136
-- **Official Website:** https://jwministryapp-boop.github.io/my-ministry-privacy/
+- **Official Website:** https://jwministry.org/
 - **Platforms:** iOS 16+ (iPhone, including Dynamic Island & Live Activities), iPadOS 16+ (iPad)
 - **Price:** 100% Free, 0 Ads, No Subscriptions
 - **Privacy:** 100% Local on-device storage, no external servers, no registration required, full iCloud Drive / Files JSON + Photo backup
