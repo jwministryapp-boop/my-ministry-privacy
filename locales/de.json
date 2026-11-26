@@ -324,5 +324,41 @@
       "Markus, Verkündiger",
       "Der Mehrfamilienhaus-Generator und die Suche nach Namen oder Adressen in den Gebietskarten sparen bei Rückbesuchen unglaublich viel Zeit."
     ]
-  ]
+  ],
+  "privacy_page": {
+    "page_title": "Datenschutzerklärung & Support — JW Ministry",
+    "meta_desc": "Offizielle Datenschutzerklärung und Support für die iOS- & iPadOS-App JW Ministry. 100 % lokale Datenspeicherung auf deinem Gerät.",
+    "back_home": "Zur Startseite",
+    "sup_title": "JW Ministry — Benutzersupport",
+    "sup_desc": "Wenn du Fragen, Verbesserungsvorschläge oder einen Fehler in der App gefunden hast, kontaktiere gerne den Entwickler:",
+    "sup_issues": "Problem melden (GitHub)",
+    "sup_store": " Im App Store ansehen",
+    "updated": "Zuletzt aktualisiert: 05.12.2025",
+    "h1": "Datenschutzerklärung für „JW Ministry“",
+    "intro": "Diese Datenschutzerklärung erläutert, wie die mobile Anwendung <strong>„JW Ministry“</strong> („die App“) mit Nutzerdaten umgeht. Unser oberstes Prinzip lautet: <strong>100 % Datenschutz – alle von dir erstellten Einträge verbleiben ausschließlich lokal auf deinem Gerät</strong>.",
+    "s1_t": "1. Welche Daten in der App erstellt und gespeichert werden",
+    "s1_p": "Alle Angaben in der App werden vom Nutzer freiwillig zur persönlichen Organisation des Predigtdienstes eingegeben:",
+    "s1_ul": [
+      "<strong>Predigtdienstzeiten & Berichte:</strong> Datum, Dauer, Anzahl der Bibelstudien und Notizen.",
+      "<strong>Kalenderpläne:</strong> geplante Termine, Daten, Uhrzeiten und Wiederholungsregeln.",
+      "<strong>Bibelstudien-Liste:</strong> Namen/Bezeichnungen sowie Notizen zu Studienhilfsmittel, Lektion und Abschnitt.",
+      "<strong>Gebiete & Adressen:</strong> Gebietsnamen, Haus-/Wohnungslisten, Besuchshistorie, Türnotizen und vom Nutzer ausgewählte Fotos von Gebietskarten.",
+      "<strong>App-Einstellungen:</strong> gewählte Dienstrolle, persönliches Stundenziel und Mitteilungseinstellungen."
+    ],
+    "s2_t": "2. 100 % lokale Speicherung & keine Weitergabe an Dritte",
+    "s2_ul": [
+      "Sämtliche Daten werden <strong>ausschließlich lokal auf deinem iPhone oder iPad</strong> im geschützten iOS-/iPadOS-Speicher abgelegt.",
+      "Die App erfordert <strong>keine Registrierung</strong> und kein Benutzerkonto.",
+      "Der Entwickler hat <strong>keinen Zugriff</strong> auf deine Aufzeichnungen, erhebt keine Analyse- oder Standortdaten und <strong>überträgt keinerlei Daten</strong> an externe Server oder Dritte."
+    ],
+    "s3_t": "3. Geräteberechtigungen (Fotos & Mitteilungen)",
+    "s3_ul": [
+      "<strong>Fotomediathek:</strong> wird nur verwendet, wenn du selbst ein Bild für eine Gebietskarte auswählst. Die Fotos werden lokal auf deinem Gerät gespeichert.",
+      "<strong>Mitteilungen:</strong> dienen ausschließlich lokalen Erinnerungen auf deinem Gerät (z. B. Erinnerung an die Berichtabgabe am 1. des Monats oder an fällige Rückbesuche)."
+    ],
+    "s4_t": "4. Datensicherung (Backup) & Löschung",
+    "s4_p": "Du kannst jederzeit über das Standard-Menü von iOS eine vollständige Backup-Datei exportieren (z. B. in deinem persönlichen iCloud Drive oder in der Dateien-App sichern). Beim Löschen der App vom Gerät werden alle lokalen Daten vollständig entfernt.",
+    "s5_t": "5. Kontakt",
+    "s5_p": "Bei Fragen zu dieser Datenschutzerklärung oder zur App erreichst du den Entwickler unter:"
+  }
 }

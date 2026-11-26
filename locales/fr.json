@@ -324,5 +324,41 @@
       "Julien, Proclamateur",
       "Le générateur d'immeubles et la recherche instantanée dans les territoires personnels sont parfaits pour le porte-à-porte et les nouvelles visites."
     ]
-  ]
+  ],
+  "privacy_page": {
+    "page_title": "Politique de Confidentialité & Support — JW Ministry",
+    "meta_desc": "Politique de confidentialité officielle et support utilisateur de l'application JW Ministry pour iOS et iPadOS. Stockage 100 % local sur votre appareil.",
+    "back_home": "Retour à l'accueil",
+    "sup_title": "Support Utilisateur — JW Ministry",
+    "sup_desc": "Si vous avez des questions, des suggestions ou si vous avez rencontré un bug dans l'application, contactez le développeur :",
+    "sup_issues": "Signaler un problème (GitHub)",
+    "sup_store": " Voir sur l'App Store",
+    "updated": "Dernière mise à jour : 05/12/2025",
+    "h1": "Politique de Confidentialité de « JW Ministry »",
+    "intro": "La présente Politique de Confidentialité explique comment l'application mobile <strong>« JW Ministry »</strong> (« l'Application ») traite les informations de l'utilisateur. Notre principe fondamental est une <strong>confidentialité totale : toutes vos notes sont stockées exclusivement sur votre appareil</strong>.",
+    "s1_t": "1. Données créées et stockées dans l'Application",
+    "s1_p": "Toutes les informations sont saisies volontairement par l'utilisateur pour l'organisation personnelle de son ministère :",
+    "s1_ul": [
+      "<strong>Entrées de temps et rapports :</strong> dates, durée, nombre de cours bibliques et notes de session.",
+      "<strong>Plans du calendrier :</strong> rendez-vous planifiés, dates, heures et règles de récurrence.",
+      "<strong>Liste des étudiants de la Bible :</strong> noms/libellés et notes sur la publication, la leçon et la section en cours.",
+      "<strong>Territoires et adresses :</strong> noms des territoires, listes de maisons/appartements, historique des visites, notes et photos de plans choisies dans la photothèque.",
+      "<strong>Réglages de l'application :</strong> rôle choisi, objectif mensuel d'heures et préférences de notifications."
+    ],
+    "s2_t": "2. Stockage 100 % local et aucun partage avec des tiers",
+    "s2_ul": [
+      "Toutes les données sont conservées <strong>uniquement en local sur votre iPhone ou iPad</strong> dans le conteneur sécurisé d'iOS / iPadOS.",
+      "L'Application <strong>ne nécessite aucune inscription</strong> ni création de compte.",
+      "Le développeur <strong>n'a aucun accès</strong> à vos données, ne collecte aucune statistique ni géolocalisation, et <strong>ne transmet jamais</strong> vos informations à des serveurs externes ou à des tiers."
+    ],
+    "s3_t": "3. Autorisations de l'appareil (Photos et Notifications)",
+    "s3_ul": [
+      "<strong>Photothèque :</strong> utilisée uniquement lorsque vous choisissez d'ajouter une photo à une fiche de territoire. Les images restent stockées localement sur votre appareil.",
+      "<strong>Notifications :</strong> utilisées exclusivement pour des rappels locaux sur votre appareil (comme le rappel d'envoi du rapport le 1er du mois ou les rappels de nouvelles visites)."
+    ],
+    "s4_t": "4. Sauvegarde et suppression des données",
+    "s4_p": "Vous pouvez exporter à tout moment un fichier de sauvegarde complet via le menu standard d'iOS (par exemple vers votre iCloud Drive personnel ou l'application Fichiers). La suppression de l'Application efface toutes les données locales de votre appareil.",
+    "s5_t": "5. Contact",
+    "s5_p": "Pour toute question concernant cette Politique de Confidentialité ou l'Application, vous pouvez écrire à :"
+  }
 }

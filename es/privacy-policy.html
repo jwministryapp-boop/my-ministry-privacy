@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Política de Privacidad y Soporte — JW Ministry</title>
+  <meta name="description" content="Política de privacidad oficial y soporte de la aplicación JW Ministry para iOS y iPadOS. Almacenamiento 100% local en tu dispositivo." />
+  <link rel="canonical" href="https://jwministry.org/es/privacy-policy.html" />
+  <link rel="alternate" hreflang="x-default" href="https://jwministry.org/privacy-policy.html" />
+  <link rel="alternate" hreflang="en" href="https://jwministry.org/privacy-policy.html" />
+  <link rel="alternate" hreflang="ru" href="https://jwministry.org/ru/privacy-policy.html" />
+  <link rel="alternate" hreflang="es" href="https://jwministry.org/es/privacy-policy.html" />
+  <link rel="alternate" hreflang="de" href="https://jwministry.org/de/privacy-policy.html" />
+  <link rel="alternate" hreflang="pt" href="https://jwministry.org/pt/privacy-policy.html" />
+  <link rel="alternate" hreflang="fr" href="https://jwministry.org/fr/privacy-policy.html" />
+  <link rel="icon" type="image/png" href="../assets/logo.png" />
+  <link rel="apple-touch-icon" href="../assets/logo.png" />
+  <link rel="stylesheet" href="../assets/css/style.css" />
+  <style>
+    .priv-container { max-width: 880px; margin: 0 auto; padding: 36px 24px 60px; }
+    .support-banner {
+      background: linear-gradient(135deg, #2B173D 0%, #4E2A6E 100%);
+      color: #fff;
+      border-radius: 22px;
+      padding: 28px 30px;
+      margin-bottom: 26px;
+      box-shadow: var(--shadow);
+    }
+    .support-banner h2 { font-size: 1.35rem; margin-bottom: 8px; color: #fff; }
+    .support-banner p { color: rgba(255,255,255,0.86); font-size: 0.95rem; margin-bottom: 18px; }
+    .support-links { display: flex; flex-wrap: wrap; gap: 10px; }
+    .sup-pill {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      background: rgba(255,255,255,0.14);
+      border: 1px solid rgba(255,255,255,0.24);
+      color: #fff !important;
+      padding: 10px 16px;
+      border-radius: 12px;
+      font-size: 0.88rem;
+      font-weight: 700;
+      text-decoration: none !important;
+      transition: background 0.2s;
+    }
+    .sup-pill:hover { background: rgba(255,255,255,0.25); }
+    .policy-card {
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: 22px;
+      padding: 36px 34px;
+      box-shadow: var(--shadow);
+    }
+    .policy-card h1 {
+      font-size: clamp(1.55rem, 3vw, 2.1rem);
+      line-height: 1.22;
+      margin-bottom: 16px;
+    }
+    .policy-card h2 {
+      font-size: 1.16rem;
+      margin: 24px 0 10px;
+      color: var(--text);
+    }
+    .policy-card p { color: var(--muted); font-size: 0.96rem; margin-bottom: 12px; }
+    .policy-card ul { padding-left: 20px; margin-bottom: 14px; color: var(--muted); font-size: 0.95rem; }
+    .policy-card li { margin-bottom: 8px; }
+    .policy-card li strong, .policy-card p strong { color: var(--text); }
+    .back-pill {
+      padding: 7px 14px;
+      border-radius: 999px;
+      background: var(--accent-soft);
+      color: var(--accent-dark);
+      font-weight: 700;
+      font-size: 0.85rem;
+    }
+    .back-pill:hover { background: var(--accent); color: #fff; }
+    @media (max-width: 640px) {
+      .priv-container { padding: 22px 18px 40px; }
+      .policy-card { padding: 24px 20px; }
+      .support-banner { padding: 22px 20px; }
+    }
+  </style>
+  
+</head>
+<body>
+  <header class="topbar">
+    <div class="container topbar-inner">
+      <a href="./index.html" class="brand">
+        <img src="../assets/logo.png" alt="JW Ministry" class="brand-logo" width="38" height="38" />
+        <span>JW Ministry</span>
+      </a>
+      <div class="nav-right">
+        <a href="./index.html" class="back-pill">Página principal</a>
+        <div class="lang-dropdown" id="lang-dropdown">
+          <button class="lang-trigger" onclick="toggleLangDropdown(event)" aria-label="Select language">
+            <span>🇪🇸</span>
+            <span>Español</span>
+            <svg viewBox="0 0 12 12" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M2.5 4.5L6 8L9.5 4.5"/></svg>
+          </button>
+          <div class="lang-menu">
+            <a href="../en/privacy-policy.html" class="lang-pill "><span>🇺🇸</span> English</a>
+            <a href="../ru/privacy-policy.html" class="lang-pill "><span>🇷🇺</span> Русский</a>
+            <a href="../es/privacy-policy.html" class="lang-pill active"><span>🇪🇸</span> Español</a>
+            <a href="../de/privacy-policy.html" class="lang-pill "><span>🇩🇪</span> Deutsch</a>
+            <a href="../pt/privacy-policy.html" class="lang-pill "><span>🇧🇷</span> Português</a>
+            <a href="../fr/privacy-policy.html" class="lang-pill "><span>🇫🇷</span> Français</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <main class="priv-container">
+    <section class="support-banner">
+      <h2>Soporte de usuarios — JW Ministry</h2>
+      <p>Si tienes preguntas, sugerencias o encontraste algún error en la aplicación, puedes escribir al desarrollador:</p>
+      <div class="support-links">
+        <a href="mailto:jwministry.app@gmail.com" class="sup-pill">✉️ jwministry.app@gmail.com</a>
+        <a href="https://github.com/jwministryapp-boop/my-ministry-privacy/issues" target="_blank" rel="noopener" class="sup-pill">Reportar un problema (GitHub)</a>
+        <a href="https://apps.apple.com/us/app/jw-ministry/id6756040136" target="_blank" rel="noopener" class="sup-pill"> Ver en App Store</a>
+      </div>
+    </section>
+
+    <article class="policy-card">
+      <span class="badge">Última actualización: 05.12.2025</span>
+      <h1>Política de Privacidad de «JW Ministry»</h1>
+      <p>Esta Política de Privacidad describe cómo la aplicación móvil <strong>«JW Ministry»</strong> («la Aplicación») trata la información del usuario. Nuestro principio fundamental es la <strong>privacidad total: todos los datos que creas se guardan exclusivamente en tu dispositivo</strong>.</p>
+
+      <h2>1. Datos creados y guardados en la Aplicación</h2>
+      <p>Toda la información es introducida voluntariamente por el usuario para organizar su ministerio personal:</p>
+      <ul><li><strong>Registros de tiempo e informes:</strong> fechas, duración, cantidad de cursos bíblicos y notas de la sesión.</li><li><strong>Planes en el calendario:</strong> salidas al ministerio programadas, fechas, horas y repeticiones.</li><li><strong>Lista de estudiantes de la Biblia:</strong> nombres/etiquetas y notas sobre la publicación, lección y sección actual.</li><li><strong>Territorios y direcciones:</strong> nombres de territorios, listas de casas o apartamentos, historial de visitas, notas y fotos de mapas seleccionadas por el usuario desde su fototeca.</li><li><strong>Ajustes de la aplicación:</strong> asignación de servicio elegida, meta mensual de horas y preferencias de notificaciones.</li></ul>
+
+      <h2>2. Almacenamiento 100% local y sin transferencia a terceros</h2>
+      <ul><li>Todos los datos se almacenan <strong>únicamente de forma local en tu iPhone o iPad</strong> dentro del contenedor seguro de iOS / iPadOS.</li><li>La Aplicación <strong>no requiere registro</strong> ni creación de cuenta.</li><li>El desarrollador <strong>no tiene acceso</strong> a tus registros, no recopila analíticas ni ubicación, y <strong>nunca envía ni comparte</strong> datos con servidores externos ni terceros.</li></ul>
+
+      <h2>3. Permisos del dispositivo (Fotos y Notificaciones)</h2>
+      <ul><li><strong>Fototeca:</strong> se solicita únicamente cuando eliges adjuntar una imagen a la tarjeta de un territorio. Las fotos se guardan localmente en tu dispositivo.</li><li><strong>Notificaciones:</strong> se utilizan exclusivamente para recordatorios locales en tu dispositivo (como el aviso el día 1 del mes para entregar el informe o los avisos de revisitas).</li></ul>
+
+      <h2>4. Copias de seguridad y eliminación de datos</h2>
+      <p>Puedes exportar un archivo de copia de seguridad completo en cualquier momento mediante el menú estándar de iOS (por ejemplo, guardándolo en tu iCloud Drive personal o en la app Archivos). Al desinstalar la Aplicación, todos los datos locales se eliminan del dispositivo.</p>
+
+      <h2>5. Contacto</h2>
+      <p>Para cualquier consulta sobre esta Política de Privacidad o el funcionamiento de la Aplicación, escríbenos a: <a href="mailto:jwministry.app@gmail.com">jwministry.app@gmail.com</a></p>
+    </article>
+  </main>
+
+  <footer>
+    <div class="container footer-inner">
+      <div>© 2025–2026 JW Ministry. All rights reserved.</div>
+      <div class="footer-links">
+        <a href="./index.html">Página principal</a>
+        <a href="mailto:jwministry.app@gmail.com">jwministry.app@gmail.com</a>
+      </div>
+    </div>
+  </footer>
+
+  <script src="../assets/js/main.js"></script>
+</body>
+</html>

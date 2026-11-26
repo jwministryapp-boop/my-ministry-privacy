@@ -248,3 +248,76 @@ sitemap_content = '<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http:/
 with open(os.path.join(BASE, "sitemap.xml"), "w", encoding="utf-8") as f:
     f.write(sitemap_content)
 print("✅ Расширенный Image Sitemap (sitemap.xml) и llms.txt успешно обновлены!")
+
+
+# Генерируем локализованные страницы privacy-policy.html для всех 6 языков и корня
+with open(os.path.join(BASE, "templates/privacy.html"), "r", encoding="utf-8") as f:
+    PRIV_TPL = f.read()
+
+def render_privacy(code, d, is_root=False):
+    prefix = "." if is_root else ".."
+    base_url = CFG["base_url"]
+    p = d["privacy_page"]
+    canonical = f"{base_url}/privacy-policy.html" if (is_root or code == "en") else f"{base_url}/{code}/privacy-policy.html"
+
+    hreflangs = [f'<link rel="alternate" hreflang="x-default" href="{base_url}/privacy-policy.html" />']
+    for lc in CFG["supported_langs"]:
+        hu = f"{base_url}/privacy-policy.html" if lc == "en" else f"{base_url}/{lc}/privacy-policy.html"
+        hreflangs.append(f'<link rel="alternate" hreflang="{lc}" href="{hu}" />')
+
+    pills = []
+    for lc, ld in LANGS.items():
+        act = "active" if lc == code else ""
+        pills.append(f'<a href="{prefix}/{lc}/privacy-policy.html" class="lang-pill {act}"><span>{ld["flag"]}</span> {ld["name"]}</a>')
+
+    red_js = ""
+    if is_root:
+        red_js = """<script>(function(){try{var ua=(navigator.userAgent||'').toLowerCase();if(/bot|google|yandex|bing|duckduck|crawler|spider|applebot/i.test(ua)||navigator.webdriver)return;if(sessionStorage.getItem('jw_priv_lang'))return;var l=(navigator.language||'en').toLowerCase(),t=null;if(l.startsWith('ru')||l.startsWith('uk')||l.startsWith('be'))t='ru';else if(l.startsWith('es'))t='es';else if(l.startsWith('de'))t='de';else if(l.startsWith('pt'))t='pt';else if(l.startsWith('fr'))t='fr';if(t){sessionStorage.setItem('jw_priv_lang','1');window.location.replace('./'+t+'/privacy-policy.html');}}catch(e){}})();</script>"""
+
+    rep = {
+        "{{PREFIX}}": prefix,
+        "{{HTML_LANG}}": d["html_lang"],
+        "{{FLAG}}": d["flag"],
+        "{{NAME}}": d["name"],
+        "{{P_TITLE}}": p["page_title"],
+        "{{P_DESC}}": p["meta_desc"],
+        "{{P_CANONICAL}}": canonical,
+        "{{P_HREFLANGS}}": "\n  ".join(hreflangs),
+        "{{P_LANG_PILLS}}": "\n            ".join(pills),
+        "{{P_REDIRECT_JS}}": red_js,
+        "{{P_BACK_HOME}}": p["back_home"],
+        "{{P_SUP_TITLE}}": p["sup_title"],
+        "{{P_SUP_DESC}}": p["sup_desc"],
+        "{{P_SUP_ISSUES}}": p["sup_issues"],
+        "{{P_SUP_STORE}}": p["sup_store"],
+        "{{P_UPDATED}}": p["updated"],
+        "{{P_H1}}": p["h1"],
+        "{{P_INTRO}}": p["intro"],
+        "{{P_S1_T}}": p["s1_t"],
+        "{{P_S1_P}}": p["s1_p"],
+        "{{P_S1_UL}}": "".join([f"<li>{x}</li>" for x in p["s1_ul"]]),
+        "{{P_S2_T}}": p["s2_t"],
+        "{{P_S2_UL}}": "".join([f"<li>{x}</li>" for x in p["s2_ul"]]),
+        "{{P_S3_T}}": p["s3_t"],
+        "{{P_S3_UL}}": "".join([f"<li>{x}</li>" for x in p["s3_ul"]]),
+        "{{P_S4_T}}": p["s4_t"],
+        "{{P_S4_P}}": p["s4_p"],
+        "{{P_S5_T}}": p["s5_t"],
+        "{{P_S5_P}}": p["s5_p"],
+        "{{CONTACT_EMAIL}}": CFG["contact_email"],
+        "{{GITHUB_ISSUES_URL}}": CFG["github_issues_url"],
+        "{{APP_STORE_URL}}": CFG["app_store_url"]
+    }
+    html = PRIV_TPL
+    for k, v in rep.items():
+        html = html.replace(k, v)
+    return html
+
+with open(os.path.join(BASE, "privacy-policy.html"), "w", encoding="utf-8") as f:
+    f.write(render_privacy("en", LANGS["en"], is_root=True))
+
+for code, data in LANGS.items():
+    with open(os.path.join(BASE, code, "privacy-policy.html"), "w", encoding="utf-8") as f:
+        f.write(render_privacy(code, data, is_root=False))
+
+print("✅ Политика конфиденциальности и Поддержка сгенерированы на всех 6 языках!")

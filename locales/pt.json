@@ -324,5 +324,41 @@
       "Gabriel, Publicador",
       "O gerador de prédios e a busca rápida nos cartões de território substituíram todas as minhas anotações de papel nas revisitas."
     ]
-  ]
+  ],
+  "privacy_page": {
+    "page_title": "Política de Privacidade e Suporte — JW Ministry",
+    "meta_desc": "Política de Privacidade oficial e suporte ao usuário do aplicativo JW Ministry para iOS e iPadOS. Armazenamento 100% local no aparelho.",
+    "back_home": "Página inicial",
+    "sup_title": "Suporte ao Usuário — JW Ministry",
+    "sup_desc": "Se você tiver dúvidas, sugestões de melhorias ou encontrou algum erro no aplicativo, entre em contato com o desenvolvedor:",
+    "sup_issues": "Relatar problema (GitHub)",
+    "sup_store": " Ver na App Store",
+    "updated": "Atualizado em: 05/12/2025",
+    "h1": "Política de Privacidade do aplicativo “JW Ministry”",
+    "intro": "Esta Política de Privacidade descreve como o aplicativo móvel <strong>“JW Ministry”</strong> (“o Aplicativo”) lida com as informações do usuário. Nosso princípio central é <strong>privacidade total: todos os registros que você cria ficam armazenados exclusivamente no seu aparelho</strong>.",
+    "s1_t": "1. Dados criados e armazenados no Aplicativo",
+    "s1_p": "Todos os dados no Aplicativo são inseridos voluntariamente pelo usuário para organização pessoal do ministério:",
+    "s1_ul": [
+      "<strong>Registros de tempo e relatórios:</strong> datas, duração, quantidade de estudos bíblicos e observações.",
+      "<strong>Planos no calendário:</strong> compromissos planejados, datas, horários e configurações de repetição.",
+      "<strong>Lista de estudantes da Bíblia:</strong> nomes/identificações e anotações sobre a publicação, lição e ponto atual.",
+      "<strong>Territórios e endereços:</strong> nomes de territórios, listas de casas/apartamentos, histórico de visitas, notas e fotos de cartões de território selecionadas da Fototeca.",
+      "<strong>Ajustes do aplicativo:</strong> designação escolhida, alvo pessoal de horas e preferências de notificações."
+    ],
+    "s2_t": "2. Armazenamento 100% local e sem compartilhamento com terceiros",
+    "s2_ul": [
+      "Todos os dados são armazenados <strong>apenas localmente no seu iPhone ou iPad</strong> no armazenamento seguro do iOS / iPadOS.",
+      "O Aplicativo <strong>não exige cadastro</strong> nem criação de conta.",
+      "O desenvolvedor <strong>não tem acesso</strong> às suas anotações, não coleta dados analíticos ou de localização e <strong>jamais envia ou compartilha</strong> dados com servidores externos ou terceiros."
+    ],
+    "s3_t": "3. Permissões do aparelho (Fotos e Notificações)",
+    "s3_ul": [
+      "<strong>Fotos:</strong> solicitado apenas quando você escolhe anexar uma foto ao cartão de um território. As imagens ficam salvas localmente no aparelho.",
+      "<strong>Notificações:</strong> usadas exclusivamente para lembretes locais no seu aparelho (como o lembrete de envio do relatório no dia 1º do mês ou alertas de revisitas)."
+    ],
+    "s4_t": "4. Backup e exclusão de dados",
+    "s4_p": "Você pode exportar um arquivo de backup completo a qualquer momento usando o menu padrão do iOS (salvando no seu iCloud Drive pessoal ou no app Arquivos). Ao desinstalar o Aplicativo, todos os dados locais são removidos do aparelho.",
+    "s5_t": "5. Contato",
+    "s5_p": "Em caso de dúvidas sobre esta Política de Privacidade ou sobre o Aplicativo, entre em contato pelo e-mail:"
+  }
 }

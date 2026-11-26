@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="{{HTML_LANG}}">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>{{P_TITLE}}</title>
+  <meta name="description" content="{{P_DESC}}" />
+  <link rel="canonical" href="{{P_CANONICAL}}" />
+  {{P_HREFLANGS}}
+  <link rel="icon" type="image/png" href="{{PREFIX}}/assets/logo.png" />
+  <link rel="apple-touch-icon" href="{{PREFIX}}/assets/logo.png" />
+  <link rel="stylesheet" href="{{PREFIX}}/assets/css/style.css" />
+  <style>
+    .priv-container { max-width: 880px; margin: 0 auto; padding: 36px 24px 60px; }
+    .support-banner {
+      background: linear-gradient(135deg, #2B173D 0%, #4E2A6E 100%);
+      color: #fff;
+      border-radius: 22px;
+      padding: 28px 30px;
+      margin-bottom: 26px;
+      box-shadow: var(--shadow);
+    }
+    .support-banner h2 { font-size: 1.35rem; margin-bottom: 8px; color: #fff; }
+    .support-banner p { color: rgba(255,255,255,0.86); font-size: 0.95rem; margin-bottom: 18px; }
+    .support-links { display: flex; flex-wrap: wrap; gap: 10px; }
+    .sup-pill {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      background: rgba(255,255,255,0.14);
+      border: 1px solid rgba(255,255,255,0.24);
+      color: #fff !important;
+      padding: 10px 16px;
+      border-radius: 12px;
+      font-size: 0.88rem;
+      font-weight: 700;
+      text-decoration: none !important;
+      transition: background 0.2s;
+    }
+    .sup-pill:hover { background: rgba(255,255,255,0.25); }
+    .policy-card {
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: 22px;
+      padding: 36px 34px;
+      box-shadow: var(--shadow);
+    }
+    .policy-card h1 {
+      font-size: clamp(1.55rem, 3vw, 2.1rem);
+      line-height: 1.22;
+      margin-bottom: 16px;
+    }
+    .policy-card h2 {
+      font-size: 1.16rem;
+      margin: 24px 0 10px;
+      color: var(--text);
+    }
+    .policy-card p { color: var(--muted); font-size: 0.96rem; margin-bottom: 12px; }
+    .policy-card ul { padding-left: 20px; margin-bottom: 14px; color: var(--muted); font-size: 0.95rem; }
+    .policy-card li { margin-bottom: 8px; }
+    .policy-card li strong, .policy-card p strong { color: var(--text); }
+    .back-pill {
+      padding: 7px 14px;
+      border-radius: 999px;
+      background: var(--accent-soft);
+      color: var(--accent-dark);
+      font-weight: 700;
+      font-size: 0.85rem;
+    }
+    .back-pill:hover { background: var(--accent); color: #fff; }
+    @media (max-width: 640px) {
+      .priv-container { padding: 22px 18px 40px; }
+      .policy-card { padding: 24px 20px; }
+      .support-banner { padding: 22px 20px; }
+    }
+  </style>
+  {{P_REDIRECT_JS}}
+</head>
+<body>
+  <header class="topbar">
+    <div class="container topbar-inner">
+      <a href="./index.html" class="brand">
+        <img src="{{PREFIX}}/assets/logo.png" alt="JW Ministry" class="brand-logo" width="38" height="38" />
+        <span>JW Ministry</span>
+      </a>
+      <div class="nav-right">
+        <a href="./index.html" class="back-pill">{{P_BACK_HOME}}</a>
+        <div class="lang-dropdown" id="lang-dropdown">
+          <button class="lang-trigger" onclick="toggleLangDropdown(event)" aria-label="Select language">
+            <span>{{FLAG}}</span>
+            <span>{{NAME}}</span>
+            <svg viewBox="0 0 12 12" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M2.5 4.5L6 8L9.5 4.5"/></svg>
+          </button>
+          <div class="lang-menu">
+            {{P_LANG_PILLS}}
+          </div>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <main class="priv-container">
+    <section class="support-banner">
+      <h2>{{P_SUP_TITLE}}</h2>
+      <p>{{P_SUP_DESC}}</p>
+      <div class="support-links">
+        <a href="mailto:{{CONTACT_EMAIL}}" class="sup-pill">✉️ {{CONTACT_EMAIL}}</a>
+        <a href="{{GITHUB_ISSUES_URL}}" target="_blank" rel="noopener" class="sup-pill">{{P_SUP_ISSUES}}</a>
+        <a href="{{APP_STORE_URL}}" target="_blank" rel="noopener" class="sup-pill">{{P_SUP_STORE}}</a>
+      </div>
+    </section>
+
+    <article class="policy-card">
+      <span class="badge">{{P_UPDATED}}</span>
+      <h1>{{P_H1}}</h1>
+      <p>{{P_INTRO}}</p>
+
+      <h2>{{P_S1_T}}</h2>
+      <p>{{P_S1_P}}</p>
+      <ul>{{P_S1_UL}}</ul>
+
+      <h2>{{P_S2_T}}</h2>
+      <ul>{{P_S2_UL}}</ul>
+
+      <h2>{{P_S3_T}}</h2>
+      <ul>{{P_S3_UL}}</ul>
+
+      <h2>{{P_S4_T}}</h2>
+      <p>{{P_S4_P}}</p>
+
+      <h2>{{P_S5_T}}</h2>
+      <p>{{P_S5_P}} <a href="mailto:{{CONTACT_EMAIL}}">{{CONTACT_EMAIL}}</a></p>
+    </article>
+  </main>
+
+  <footer>
+    <div class="container footer-inner">
+      <div>© 2025–2026 JW Ministry. All rights reserved.</div>
+      <div class="footer-links">
+        <a href="./index.html">{{P_BACK_HOME}}</a>
+        <a href="mailto:{{CONTACT_EMAIL}}">{{CONTACT_EMAIL}}</a>
+      </div>
+    </div>
+  </footer>
+
+  <script src="{{PREFIX}}/assets/js/main.js"></script>
+</body>
+</html>
