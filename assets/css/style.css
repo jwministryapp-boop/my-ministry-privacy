@@ -1554,3 +1554,27 @@ header.topbar .container.topbar-inner {
   display: block !important;
   border-radius: 20px !important;
 }
+
+
+/* === Fix Mobile 2x2 Grid for 4 Stat Cards === */
+@media (max-width: 900px) {
+  .stats-row {
+    display: grid !important;
+    grid-template-columns: repeat(2, minmax(0, 1fr)) !important;
+    gap: 12px !important;
+    margin-top: 22px !important;
+  }
+  .stat-box {
+    padding: 14px 12px !important;
+    border-radius: 16px !important;
+  }
+  .stat-val {
+    font-size: 1.12rem !important;
+  }
+  .stat-lbl {
+    font-size: 0.78rem !important;
+  }
+  .stat-qr-box {
+    display: none !important;
+  }
+}
