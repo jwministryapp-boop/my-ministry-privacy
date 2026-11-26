@@ -19,89 +19,89 @@
   "cta_appstore": "Unduh di App Store",
   "cta_donate": "Dukung Pengembang",
   "stat_1_val": "35+",
-  "stat_1_lbl": "Interface Languages",
+  "stat_1_lbl": "Bahasa Antarmuka",
   "stat_2_val": "100%",
-  "stat_2_lbl": "Offline & Private Data",
-  "stat_3_val": "iOS & iPad",
-  "stat_3_lbl": "Native SwiftUI Design",
-  "stat_4_val": "0 Ads",
-  "stat_4_lbl": "Free, No Subscriptions",
+  "stat_2_lbl": "Lokal & Pribadi",
+  "stat_3_val": "iPhone & iPad",
+  "stat_3_lbl": "Desain Asli iOS",
+  "stat_4_val": "0 Iklan",
+  "stat_4_lbl": "100% Gratis",
   "screens_title": "Jelajahi Setiap Layar JW Ministry",
   "screens_sub": "Tangkapan layar asli dalam bahasa Indonesia — mulai dari timer dinas, daftar pelajar Alkitab, kalender perintis, kartu daerah, hingga mode gelap OLED.",
   "shots": [
     [
       "1.jpg",
-      "1. Start Tab & Live Timer",
-      "Track your ministry time down to the second (08:04:08). Pause, save to report, or reset in one tap. Increment Bible studies during the session, attach specific Bible students (e.g., Alex), write session notes (territory number, companion), and see total time spent today."
+      "1. Tab Mulai & Timer Dinas",
+      "Catat waktu dinas hingga hitungan detik, tambahkan pelajaran Alkitab, pilih pelajar, dan tulis catatan daerah."
     ],
     [
       "2.jpg",
-      "2. Bible Students Manager",
-      "Keep an organized list of your Bible students. Record the exact study publication, lesson, and section (for example: 'Enjoy Life Forever!, lesson 24, section 3') and add new students in seconds."
+      "2. Pengelola Pelajar Alkitab",
+      "Simpan setiap pelajar beserta publikasi, pelajaran, dan bagian saat ini (mis. ”Hidup Bahagia Selamanya!, pelajaran 24”)."
     ],
     [
       "3.jpg",
-      "3. Service Year & Monthly Reports",
-      "Switch between service years (2025–2026, 2026–2027), monitor total service year hours and remaining hours, review every month with detailed session logs, study counts, student tags, and share your monthly report on the 1st."
+      "3. Laporan Bulanan & Tahun Dinas",
+      "Beralih antar tahun dinas (2025–2026, 2026–2027), pantau total jam tahunan, dan bagikan laporan pada tanggal 1."
     ],
     [
       "4.jpg",
-      "4. Pioneer Calendar & Goal Progress",
-      "See your current role (Regular pioneer – 50 h, Auxiliary 15/30 h, or Publisher) and personal monthly target (e.g., 55 h). Visual progress bar shows hours completed this month, remaining monthly hours, and full service year balance alongside your daily schedule."
+      "4. Kalender & Target Jam Perintis",
+      "Pilih peran (Perintis biasa – 50 j, Ekstra – 15/30 j, atau Penyiar) atau atur target bulanan pribadi dengan bar progres."
     ],
     [
       "5.jpg",
-      "5. Territory Cards & Door-to-Door Log",
-      "Attach photos of territory maps or buildings (e.g., Territory A-8), filter addresses, and log every visit with date, visit status ('First visit', 'Not at home', 'Refusal'), and doorway notes like 'No intercom'."
+      "5. Kartu Daerah & Dari Rumah ke Rumah",
+      "Lampirkan foto peta daerah, filter alamat, dan catat setiap kunjungan (”Kunjungan pertama”, ”Tidak di rumah”, ”Menolak”)."
     ],
     [
       "6.jpg",
-      "6. Flexible Settings & Cloud Backup",
-      "Export or import full JSON backups via the top cloud buttons. Configure your service role, custom monthly hour target, September–August service year, 1st-of-the-month report reminders at 20:00, and return visit notifications after N days."
+      "6. Pengaturan, Pengingat & Cadangan iCloud",
+      "Ekspor dan impor cadangan lengkap, aktifkan pengingat laporan tanggal 1 pukul 20.00 dan notifikasi kunjungan kembali."
     ],
     [
       "7.jpg",
-      "7. True Black OLED Dark Mode (Timer)",
-      "Designed for comfort during evening witnessing and battery saving on OLED iPhones. High-contrast purple accents keep controls clear in any lighting."
+      "7. Mode Gelap OLED (Timer)",
+      "Tema gelap yang nyaman untuk kesaksian sore/malam dan hemat baterai."
     ],
     [
       "8.jpg",
-      "8. OLED Dark Mode (Settings & Goals)",
-      "Every screen, sheet, and widget seamlessly adapts to iOS system Light and Dark appearances."
+      "8. Mode Gelap OLED (Pengaturan)",
+      "Menyesuaikan otomatis dengan tampilan terang dan gelap sistem iOS."
     ]
   ],
   "feat_sec_title": "Semua yang Anda Butuhkan untuk Dinas yang Terorganisasi",
   "feat_sec_sub": "Dirancang khusus untuk penyiar, perintis ekstra, perintis biasa, dan perintis istimewa.",
   "features": [
     [
-      "⏱️",
-      "Smart Timer, Widgets & Live Activities",
-      "Start your ministry timer from the app, Home Screen widget, or Lock Screen. Your active timer stays visible on the Dynamic Island and Lock Screen even when your iPhone is locked."
+      "",
+      "Timer Cerdas, Widget & Dynamic Island",
+      "Mulai timer dari aplikasi, widget layar utama, atau layar kunci. Timer aktif tetap terlihat di Dynamic Island."
     ],
     [
-      "📚",
-      "Bible Studies & Publication Progress",
-      "Link Bible studies directly to your daily report entries. Track each student's name and current lesson in 'Enjoy Life Forever!' or any other study aid."
+      "",
+      "Pelajaran Alkitab & Progres Publikasi",
+      "Hubungkan pelajaran Alkitab langsung ke catatan laporan. Pantau pelajaran setiap siswa di buku ”Hidup Bahagia Selamanya!”."
     ],
     [
-      "📊",
-      "Service Roles & Personal Hour Targets",
-      "Supports Publisher, Auxiliary Pioneer (15 or 30 hours), Regular Pioneer (50 hours), Special Pioneer / Missionary (90 / 100 hours), plus a custom 'Personal target' override (e.g., 55 hours/month)."
+      "",
+      "Peran Dinas & Target Jam Pribadi",
+      "Mendukung Penyiar, Perintis Ekstra (15 atau 30 jam), Perintis Biasa (50 jam), Perintis Istimewa (90 / 100 jam), dan target bulanan khusus."
     ],
     [
-      "🗓️",
-      "Service Year (Sept–Aug) & Calendar",
-      "Plan ministry meetings, recurring schedules, and Family Worship in the Calendar. Compare planned vs. actual hours, convert planned sessions into report entries with a swipe, and track your annual pioneer goal."
+      "",
+      "Tahun Dinas (Sept–Agu) & Kalender",
+      "Rencanakan jadwal dinas dan ibadat keluarga. Bandingkan jam yang direncanakan vs aktual, dan geser rencana menjadi catatan laporan."
     ],
     [
-      "🗺️",
-      "Territories, Apartments & Visit Reminders",
-      "Create cards for territories, multi-story apartment buildings, and private houses. Attach map photos, color-code cards, search by address or resident name, and receive automatic reminders to make return visits."
+      "",
+      "Daerah, Gedung Apartemen & Pengingat Kunjungan Kembali",
+      "Buat kartu daerah dengan foto peta, 10 warna, dan generator unit apartemen per lantai. Cari berdasarkan alamat atau nama."
     ],
     [
-      "🔒",
-      "100% On-Device Privacy & Full Backups",
-      "No registration, no accounts, no external servers, and zero analytics. All records and territory photos stay locally on your iPhone/iPad, with instant backup export & restore to iCloud Drive or Files."
+      "",
+      "Privasi 100% di Perangkat & Cadangan iCloud",
+      "Tanpa registrasi dan tanpa server eksternal. Semua catatan dan foto daerah tersimpan lokal di iPhone/iPad Anda."
     ]
   ],
   "lang_sec_title": "Diterjemahkan Lengkap ke 35+ Bahasa",
@@ -115,44 +115,28 @@
   "btn_patreon": "Dukung di Patreon",
   "card_crypto_title": "Transfer Kripto Langsung (Biaya 0%)",
   "card_crypto_desc": "Langsung ke dompet pengembang:",
-  "usdt_label": "USDT (TRC-20 / TRON Network only):",
-  "ton_label": "TON / USDT (TON Network):",
+  "usdt_label": "USDT (hanya jaringan TRC-20 / TRON):",
+  "ton_label": "TON / USDT (jaringan TON):",
   "copy_btn": "Salin",
   "copied_msg": "Disalin!",
-  "crypto_warn": "For the TQQx... address, send assets via TRON (TRC-20) network only.",
+  "crypto_warn": "Kirim ke alamat TQQx... hanya melalui jaringan TRON (TRC-20).",
   "faq_title": "Pertanyaan Umum (FAQ)",
   "faqs": [
     [
-      "How does JW Ministry complement JW Library for Jehovah's Witnesses?",
-      "While JW Library is used for reading the Bible, publications, and congregation meetings, JW Ministry is purpose-built for tracking your personal field ministry: logging field service report hours, planning your regular or auxiliary pioneer schedule (15, 30, 50, or 100 hours), managing personal territory records, and tracking Bible students."
+      "Bagaimana JW Ministry melengkapi aplikasi JW Library?",
+      "Sementara JW Library digunakan untuk membaca Alkitab, publikasi, dan perhimpunan, JW Ministry dibuat khusus untuk mencatat dinas lapangan pribadi Anda: menghitung jam, mengatur jadwal perintis (15, 30, 50 j), mengelola kartu daerah, dan memantau pelajar Alkitab."
     ],
     [
-      "Where are my ministry records and territory notes stored?",
-      "Exclusively on your device (iPhone or iPad). The app has no external database or cloud server, ensuring complete confidentiality of your personal notes and addresses."
+      "Di mana laporan dan catatan daerah saya disimpan?",
+      "100% disimpan secara lokal di memori iPhone atau iPad Anda. Tidak ada data yang dikirim ke server eksternal."
     ],
     [
-      "How do I transfer my data to a new iPhone or iPad?",
-      "Open the Settings tab and tap the Cloud Upload icon in the top-right corner to export a full backup file (including territory photos) to iCloud Drive or AirDrop. On your new device, tap the Cloud Download icon to restore everything in one tap."
+      "Bagaimana cara memindahkan data ke iPhone baru?",
+      "Di tab Pengaturan, ketuk ikon awan di kanan atas untuk mengekspor cadangan lengkap ke iCloud Drive, lalu pulihkan di perangkat baru Anda."
     ],
     [
-      "How do automatic return visit reminders work?",
-      "In Settings → Notifications, enable 'Remind about return visits to addresses' and set the interval (for example, 3 days). If you haven't logged a follow-up visit to an address within that period, the app will gently remind you."
-    ],
-    [
-      "Does the app support the September–August Service Year?",
-      "Yes! Both the Report tab and the Calendar summary calculate monthly and annual hours across the official September–August service year, including remaining hours toward your annual pioneer goal."
-    ],
-    [
-      "Is JW Ministry a good replacement for ServicePlanner or MyTime on iPhone?",
-      "Yes! JW Ministry is actively maintained for the latest iOS and iPadOS releases, featuring Live Activities on the Lock Screen and Dynamic Island, interactive Home Screen widgets, an apartment building generator, Planned vs. Actual calendar tracking, and 1-tap iCloud Drive backups."
-    ],
-    [
-      "Does the app work completely offline during door-to-door ministry?",
-      "Absolutely. All timers, territory maps, apartment records, and Bible student notes work 100% offline without requiring mobile data or Wi-Fi."
-    ],
-    [
-      "Can I convert a planned ministry event in the Calendar into a Report entry?",
-      "Yes. Simply swipe on any planned ministry session in the Calendar and tap 'To Report' — the duration is automatically logged in your monthly report and deducted from your remaining planned hours."
+      "Apakah aplikasi berfungsi tanpa internet saat berdinas?",
+      "Ya, berfungsi 100% offline tanpa kuota data atau Wi-Fi."
     ]
   ],
   "footer_privacy": "Kebijakan Privasi",
@@ -162,20 +146,20 @@
   "seo_sec_sub": "Bagaimana JW Ministry membantu penyiar dan perintis sepanjang tahun dinas.",
   "seo_pillars": [
     [
-      "Regular & Special Pioneers (50, 90 & 100 Hours / 600-Hour Service Year)",
-      "Serving as a regular pioneer requires keeping track of both your 50-hour monthly target and your 600-hour September–August service year goal. JW Ministry automatically calculates your completed ministry hours, remaining monthly balance, and full service year progress. Set a custom personal monthly goal (e.g., 55 hours), schedule ministry days in the Calendar, and compare your planned hours against your actual reported time."
+      "Perintis Biasa dan Istimewa (50, 90 & 100 jam / Tahun Dinas 600 jam)",
+      "Pantau target bulanan 50 jam dan target tahunan 600 jam (September–Agustus) secara otomatis. Atur target pribadi (mis. 55 jam) dan bandingkan jam rencana dengan jam aktual di Kalender."
     ],
     [
-      "Auxiliary Pioneers (15 & 30 Hours) and Congregation Publishers",
-      "Joining a special campaign, circuit overseer's visit, or Memorial season as an auxiliary pioneer? Switch your role to Auxiliary Pioneer (15 h or 30 h) in seconds. Congregation publishers can log daily ministry sessions, track Bible studies, and enable an automatic notification on the 1st of every month at 20:00 so you never forget to submit your field service report."
+      "Perintis Ekstra (15 & 30 jam) dan Penyiar Sidang",
+      "Saat kampanye khusus atau musim Peringatan, beralih ke Perintis Ekstra (15 atau 30 jam) dalam satu ketukan. Pengingat tanggal 1 pukul 20.00 membantu Anda menyerahkan laporan tepat waktu."
     ],
     [
-      "House-to-House Territories, Apartment Generator & Return Visits",
-      "Replace paper slips with organized digital territory cards. Attach photos of territory maps, color-code cards with 10 stylish colors, and generate entire multi-story apartment buildings by entrances and floors in one tap. Record 'First visit', 'Not at home', or 'Refusal' statuses, search across all territories by street address or resident name, and receive automatic reminders when it is time to make a return visit."
+      "Daerah Dari Rumah ke Rumah, Apartemen & Kunjungan Kembali",
+      "Buat kartu daerah digital dengan foto peta, 10 warna, dan generator unit apartemen. Catat ”Tidak di rumah” dan cari cepat berdasarkan nama atau alamat."
     ],
     [
-      "Bible Student Progress & Modern iOS Replacement for Legacy Apps",
-      "Maintain a detailed roster of your Bible students along with their current study publication (such as 'Enjoy Life Forever!'), lesson number, and section. Attach students directly to your timer session so your monthly study count is always accurate. Built natively with SwiftUI for the latest iPhone and iPad models, JW Ministry is the ideal modern alternative to discontinued apps like ServicePlanner or MyTime."
+      "Progres Pelajar Alkitab & Pengganti Modern ServicePlanner / MyTime",
+      "Catat pelajaran setiap siswa di buku ”Hidup Bahagia Selamanya!”. Dirancang khusus untuk iPhone dan iPad."
     ]
   ],
   "seo_tags_title": "Pencarian populer seputar dinas lapangan:",
@@ -202,46 +186,46 @@
   ],
   "comp_rows": [
     [
-      "Live Ministry Timer on Lock Screen & Dynamic Island",
-      "No",
-      "No",
-      "Yes (Live Activities)"
+      "Timer langsung di Layar Kunci & Dynamic Island",
+      "Tidak",
+      "Tidak",
+      "Ya (Live Activities)"
     ],
     [
-      "Pioneer Goal Calculator (15, 30, 50, 100h) & 600h Service Year",
-      "Manual calculation",
-      "Partial",
-      "Automatic + Custom Goal"
+      "Kalkulator jam perintis (15, 30, 50 j) & tahun dinas (600 j)",
+      "Manual",
+      "Sebagian",
+      "Otomatis + Target pribadi"
     ],
     [
-      "Planned vs. Actual Calendar & Swipe-to-Report Conversion",
-      "No",
-      "No",
-      "Built-in 1-Swipe Workflow"
+      "Perbandingan Rencana vs Aktual di Kalender & geser ke Laporan",
+      "Tidak",
+      "Tidak",
+      "Sekali geser"
     ],
     [
-      "Apartment Building Generator + Territory Photos & 10 Color Tags",
-      "Paper slips",
-      "Text only",
-      "Full Visual Cards + Search"
+      "Generator gedung apartemen + Foto daerah & 10 warna",
+      "Kertas",
+      "Hanya teks",
+      "Kartu visual + Pencarian"
     ],
     [
-      "Return Visit Reminders & 1st-of-the-Month Report Notification",
-      "No",
-      "Basic",
-      "Smart iOS Notifications"
+      "Pengingat kunjungan kembali & laporan tanggal 1 setiap bulan",
+      "Tidak",
+      "Dasar",
+      "Notifikasi pintar iOS"
     ],
     [
-      "100% On-Device Privacy & Full iCloud Drive Backup with Photos",
-      "Easy to lose",
-      "Often breaks on new iOS",
-      "Offline & Instant Restore"
+      "Privasi lokal 100% & cadangan lengkap dengan foto ke iCloud Drive",
+      "Mudah hilang",
+      "Gagal saat ganti iPhone",
+      "100% Offline & aman"
     ],
     [
-      "Native Support for Latest iOS, iPad, OLED Dark Mode & 35+ Languages",
+      "Dukungan asli untuk iOS terbaru, iPad, mode OLED & 35+ bahasa",
       "—",
-      "Discontinued",
-      "Modern SwiftUI Architecture"
+      "Tidak diperbarui",
+      "Desain asli SwiftUI"
     ]
   ],
   "filter_all": "Semua (8)",
@@ -250,11 +234,11 @@
   "filter_ipad": "iPad",
   "wn_title": "Apa yang Baru di Versi 1.8",
   "wn_items": [
-    "Automatic monthly planned-hours total in the Calendar with a dual Planned vs. Actual progress bar.",
-    "1-swipe conversion of any scheduled Calendar ministry session directly into a monthly Report entry.",
-    "Instant search by street address or resident name across Territories, plus 10 color themes for territory cards.",
-    "Upcoming Service Year (2026–2027) support in the Report tab with a sleek annual balance summary.",
-    "Full optimization for the latest iOS & iPadOS releases and enhanced on-device backup protection."
+    "Total otomatis jam yang direncanakan setiap bulan di Kalender dengan bar progres ganda (Rencana vs Aktual).",
+    "Konversi jadwal dinas di Kalender langsung menjadi entri Laporan hanya dengan sekali geser.",
+    "Pencarian instan berdasarkan alamat atau nama penghuni di semua daerah serta 10 warna kartu daerah.",
+    "Dukungan untuk tahun dinas mendatang (2026–2027) di tab Laporan.",
+    "Optimalisasi penuh untuk iOS & iPadOS terbaru serta perlindungan cadangan yang ditingkatkan."
   ],
   "howto_name": "How to Track Field Service Hours & Pioneer Schedule on iPhone",
   "howto_steps": [
@@ -278,55 +262,55 @@
   "nav_comp": "Perbandingan",
   "sticky_sub": "iPhone & iPad • Gratis",
   "feature_badges": [
-    "Time Tracking • Live Activities",
-    "Bible Studies • Lesson Progress",
-    "Service Roles • 15 / 30 / 50 / 100 h",
-    "Service Year • Plan vs. Actual",
-    "Territory Log • Search & Alerts",
-    "On-Device Privacy • iCloud Backup"
+    "Timer • Live Activities",
+    "Pelajaran Alkitab • Progres",
+    "Peran • 15 / 30 / 50 / 100 j",
+    "Tahun Dinas • Rencana vs Aktual",
+    "Daerah • Cari & Pengingat",
+    "100% Pribadi • Cadangan iCloud"
   ],
   "pillar_badges": [
-    "Regular & Special Pioneer Ministry",
-    "Auxiliary Pioneers & Publishers",
-    "House-to-House & Personal Territories",
-    "Bible Studies & Modern iOS Design"
+    "Perintis Biasa & Istimewa",
+    "Perintis Ekstra & Penyiar",
+    "Dari Rumah ke Rumah & Daerah",
+    "Pelajaran Alkitab & iOS"
   ],
   "pillar_Checklists": [
     [
-      "Automatic 50 h monthly & 600 h September–August service year tracking",
-      "Custom monthly hour target override (e.g., 55 h/month)",
-      "Dual progress bar comparing scheduled vs. reported hours"
+      "Saldo otomatis 50 jam/bulan dan 600 jam tahun dinas",
+      "Target jam bulanan khusus (mis. 55 jam)",
+      "Bar ganda: jam direncanakan vs jam dilaporkan"
     ],
     [
-      "One-tap switch to 15 h or 30 h Auxiliary Pioneer goals",
-      "Instant monthly report formatting and sharing on the 1st",
-      "Gentle reminder notification on the 1st of each month at 20:00"
+      "Beralih cepat ke target 15 atau 30 jam perintis ekstra",
+      "Bagikan laporan bulanan dengan satu ketukan",
+      "Pengingat otomatis tanggal 1 setiap bulan pukul 20.00"
     ],
     [
-      "Multi-story apartment generator by entrances and floors",
-      "Territory map photos, 10 color themes & instant resident/address search",
-      "Automated return visit reminders after your chosen number of days"
+      "Generator unit apartemen berdasarkan pintu masuk dan lantai",
+      "Foto peta daerah, 10 warna, dan pencarian cepat",
+      "Notifikasi pengingat kunjungan kembali otomatis"
     ],
     [
-      "Track exact lessons in 'Enjoy Life Forever!' for every student",
-      "Built natively for iOS & iPadOS with Dynamic Island & OLED Dark Mode",
-      "Complete modern replacement for legacy ServicePlanner & MyTime apps"
+      "Pelacakan pelajaran ”Hidup Bahagia Selamanya!”",
+      "Widget, Dynamic Island, dan mode gelap OLED",
+      "Pengganti modern untuk ServicePlanner dan MyTime"
     ]
   ],
   "rev_title": "Ulasan Penyiar & Perintis",
   "rev_sub": "Apa kata saudara-saudari yang menggunakan JW Ministry setiap hari dalam dinas.",
   "reviews": [
     [
-      "Alex, Regular Pioneer",
-      "Having the monthly planned hours automatically totaled in the Calendar alongside my actual reported hours is a game changer for keeping my 50-hour schedule on track."
+      "Daniel, Perintis Biasa",
+      "Melihat total jam yang direncanakan di Kalender dibandingkan dengan jam aktual sangat membantu saya menjaga jadwal 50 jam setiap bulan."
     ],
     [
-      "Sarah, Auxiliary Pioneer",
-      "The Lock Screen Live Activity timer and 1-swipe conversion from Calendar plans to Report entries make tracking 15 and 30 hours effortless. Clean, fast, and 100% private."
+      "Sinta, Perintis Ekstra",
+      "Timer di layar kunci dan fitur menggeser rencana Kalender langsung ke Laporan sangat praktis. Cepat, bersih, dan bebas iklan."
     ],
     [
-      "David, Congregation Publisher",
-      "The apartment building generator and instant search across territory notes replaced all my paper slips. Return visit reminders help me never miss a follow-up."
+      "Budi, Penyiar",
+      "Generator apartemen dan pencarian nama di kartu daerah telah menggantikan semua catatan kertas saya."
     ]
   ],
   "privacy_page": {

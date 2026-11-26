@@ -19,89 +19,89 @@
   "cta_appstore": "App Store से डाउनलोड करें",
   "cta_donate": "डेवलपर का सहयोग करें",
   "stat_1_val": "35+",
-  "stat_1_lbl": "Interface Languages",
+  "stat_1_lbl": "इंटरफ़ेस भाषाएँ",
   "stat_2_val": "100%",
-  "stat_2_lbl": "Offline & Private Data",
-  "stat_3_val": "iOS & iPad",
-  "stat_3_lbl": "Native SwiftUI Design",
-  "stat_4_val": "0 Ads",
-  "stat_4_lbl": "Free, No Subscriptions",
+  "stat_2_lbl": "लोकल और सुरक्षित",
+  "stat_3_val": "iPhone और iPad",
+  "stat_3_lbl": "असली iOS डिज़ाइन",
+  "stat_4_val": "0 विज्ञापन",
+  "stat_4_lbl": "पूरी तरह मुफ़्त",
   "screens_title": "JW Ministry की हर स्क्रीन देखें",
   "screens_sub": "हिन्दी इंटरफ़ेस के असली स्क्रीनशॉट — सेवा टाइमर और बाइबल विद्यार्थियों से लेकर पायनियर कैलेंडर, इलाके के कार्ड और OLED डार्क मोड तक।",
   "shots": [
     [
       "1.jpg",
-      "1. Start Tab & Live Timer",
-      "Track your ministry time down to the second (08:04:08). Pause, save to report, or reset in one tap. Increment Bible studies during the session, attach specific Bible students (e.g., Alex), write session notes (territory number, companion), and see total time spent today."
+      "1. स्टार्ट टैब और प्रचार सेवा टाइमर",
+      "सेकंड तक सटीक समय रिकॉर्ड करें, बाइबल अध्ययन जोड़ें, विद्यार्थी चुनें और इलाके के नोट्स लिखें।"
     ],
     [
       "2.jpg",
-      "2. Bible Students Manager",
-      "Keep an organized list of your Bible students. Record the exact study publication, lesson, and section (for example: 'Enjoy Life Forever!, lesson 24, section 3') and add new students in seconds."
+      "2. बाइबल विद्यार्थियों की सूची",
+      "हर विद्यार्थी का नाम, प्रकाशन, पाठ और भाग सहेजें (उदा. 'हमेशा के लिए ज़िंदगी का आनंद लीजिए!, पाठ 24')।"
     ],
     [
       "3.jpg",
-      "3. Service Year & Monthly Reports",
-      "Switch between service years (2025–2026, 2026–2027), monitor total service year hours and remaining hours, review every month with detailed session logs, study counts, student tags, and share your monthly report on the 1st."
+      "3. मासिक रिपोर्ट और सेवा वर्ष",
+      "सेवा वर्षों (2025–2026, 2026–2027) के बीच बदलें, कुल घंटे देखें और महीने की 1 तारीख को रिपोर्ट साझा करें।"
     ],
     [
       "4.jpg",
-      "4. Pioneer Calendar & Goal Progress",
-      "See your current role (Regular pioneer – 50 h, Auxiliary 15/30 h, or Publisher) and personal monthly target (e.g., 55 h). Visual progress bar shows hours completed this month, remaining monthly hours, and full service year balance alongside your daily schedule."
+      "4. कैलेंडर और पायनियर घंटों का लक्ष्य",
+      "अपनी भूमिका चुनें (नियमित पायनियर – 50 घं., सहयोगी – 15/30 घं. या प्रचारक) या व्यक्तिगत मासिक लक्ष्य सेट करें।"
     ],
     [
       "5.jpg",
-      "5. Territory Cards & Door-to-Door Log",
-      "Attach photos of territory maps or buildings (e.g., Territory A-8), filter addresses, and log every visit with date, visit status ('First visit', 'Not at home', 'Refusal'), and doorway notes like 'No intercom'."
+      "5. इलाके के कार्ड और घर-घर का रिकॉर्ड",
+      "इलाके के नक्शे की फ़ोटो लगाएँ, पते फ़िल्टर करें और हर भेंट ('पहली भेंट', 'घर पर नहीं', 'इनकार') दर्ज करें।"
     ],
     [
       "6.jpg",
-      "6. Flexible Settings & Cloud Backup",
-      "Export or import full JSON backups via the top cloud buttons. Configure your service role, custom monthly hour target, September–August service year, 1st-of-the-month report reminders at 20:00, and return visit notifications after N days."
+      "6. सेटिंग्स, रिमाइंडर और iCloud बैकअप",
+      "पूरा बैकअप एक्सपोर्ट/इंपोर्ट करें, हर महीने की 1 तारीख रात 8:00 बजे रिपोर्ट रिमाइंडर और पुनःभेंट अलर्ट चालू करें।"
     ],
     [
       "7.jpg",
-      "7. True Black OLED Dark Mode (Timer)",
-      "Designed for comfort during evening witnessing and battery saving on OLED iPhones. High-contrast purple accents keep controls clear in any lighting."
+      "7. OLED डार्क मोड (टाइमर)",
+      "शाम की गवाही और बैटरी बचाने के लिए आरामदायक डार्क थीम।"
     ],
     [
       "8.jpg",
-      "8. OLED Dark Mode (Settings & Goals)",
-      "Every screen, sheet, and widget seamlessly adapts to iOS system Light and Dark appearances."
+      "8. OLED डार्क मोड (सेटिंग्स)",
+      "iOS के लाइट और डार्क मोड के साथ पूरी तरह अनुकूलित।"
     ]
   ],
   "feat_sec_title": "सुव्यवस्थित प्रचार सेवा के लिए आवश्यक सभी सुविधाएँ",
   "feat_sec_sub": "प्रचारकों, सहयोगी पायनियरों, नियमित पायनियरों और विशेष पायनियरों के लिए बनाया गया।",
   "features": [
     [
-      "⏱️",
-      "Smart Timer, Widgets & Live Activities",
-      "Start your ministry timer from the app, Home Screen widget, or Lock Screen. Your active timer stays visible on the Dynamic Island and Lock Screen even when your iPhone is locked."
+      "",
+      "स्मार्ट टाइमर, विजेट और Dynamic Island",
+      "ऐप, होम स्क्रीन विजेट या लॉक स्क्रीन से टाइमर शुरू करें। फ़ोन लॉक होने पर भी टाइमर Dynamic Island में दिखता रहता है।"
     ],
     [
-      "📚",
-      "Bible Studies & Publication Progress",
-      "Link Bible studies directly to your daily report entries. Track each student's name and current lesson in 'Enjoy Life Forever!' or any other study aid."
+      "",
+      "बाइबल अध्ययन और प्रकाशन प्रगति",
+      "बाइबल अध्ययनों को सीधे दैनिक रिपोर्ट से जोड़ें। हर विद्यार्थी के लिए 'हमेशा के लिए ज़िंदगी का आनंद लीजिए!' में वर्तमान पाठ दर्ज करें।"
     ],
     [
-      "📊",
-      "Service Roles & Personal Hour Targets",
-      "Supports Publisher, Auxiliary Pioneer (15 or 30 hours), Regular Pioneer (50 hours), Special Pioneer / Missionary (90 / 100 hours), plus a custom 'Personal target' override (e.g., 55 hours/month)."
+      "",
+      "सभी पायनियर भूमिकाएँ और व्यक्तिगत लक्ष्य",
+      "प्रचारक, सहयोगी पायनियर (15 या 30 घंटे), नियमित पायनियर (50 घंटे), विशेष पायनियर (90 / 100 घंटे) और कस्टम मासिक लक्ष्य का समर्थन करता है।"
     ],
     [
-      "🗓️",
-      "Service Year (Sept–Aug) & Calendar",
-      "Plan ministry meetings, recurring schedules, and Family Worship in the Calendar. Compare planned vs. actual hours, convert planned sessions into report entries with a swipe, and track your annual pioneer goal."
+      "",
+      "सेवा वर्ष (सितंबर–अगस्त) और कैलेंडर",
+      "प्रचार सभाओं और पारिवारिक उपासना की योजना बनाएँ। नियोजित और वास्तविक घंटों की तुलना करें और स्वाइप करके योजना को रिपोर्ट में बदलें।"
     ],
     [
-      "🗺️",
-      "Territories, Apartments & Visit Reminders",
-      "Create cards for territories, multi-story apartment buildings, and private houses. Attach map photos, color-code cards, search by address or resident name, and receive automatic reminders to make return visits."
+      "",
+      "इलाके के कार्ड, अपार्टमेंट जनरेटर और पुनःभेंट रिमाइंडर",
+      "नक्शे की फ़ोटो और 10 रंगों के साथ इलाके के कार्ड बनाएँ, मंज़िल के अनुसार फ़्लैट नंबर जनरेट करें और नाम या पते से खोजें।"
     ],
     [
-      "🔒",
-      "100% On-Device Privacy & Full Backups",
-      "No registration, no accounts, no external servers, and zero analytics. All records and territory photos stay locally on your iPhone/iPad, with instant backup export & restore to iCloud Drive or Files."
+      "",
+      "100% डिवाइस-स्तरीय गोपनीयता और iCloud बैकअप",
+      "कोई पंजीकरण नहीं और कोई बाहरी सर्वर नहीं। आपका सारा डेटा केवल आपके iPhone/iPad में सुरक्षित रहता है।"
     ]
   ],
   "lang_sec_title": "35+ भाषाओं में पूर्ण अनुवाद",
@@ -115,44 +115,28 @@
   "btn_patreon": "Patreon पर सहयोग करें",
   "card_crypto_title": "सीधा क्रिप्टो ट्रांसफर (0% शुल्क)",
   "card_crypto_desc": "सीधे डेवलपर के वॉलेट में भेजें:",
-  "usdt_label": "USDT (TRC-20 / TRON Network only):",
-  "ton_label": "TON / USDT (TON Network):",
+  "usdt_label": "USDT (केवल TRC-20 / TRON नेटवर्क):",
+  "ton_label": "TON / USDT (TON नेटवर्क):",
   "copy_btn": "कॉपी करें",
   "copied_msg": "कॉपी हो गया!",
-  "crypto_warn": "For the TQQx... address, send assets via TRON (TRC-20) network only.",
+  "crypto_warn": "TQQx... पते पर केवल TRON (TRC-20) नेटवर्क के माध्यम से ही भेजें।",
   "faq_title": "अक्सर पूछे जाने वाले प्रश्न (FAQ)",
   "faqs": [
     [
-      "How does JW Ministry complement JW Library for Jehovah's Witnesses?",
-      "While JW Library is used for reading the Bible, publications, and congregation meetings, JW Ministry is purpose-built for tracking your personal field ministry: logging field service report hours, planning your regular or auxiliary pioneer schedule (15, 30, 50, or 100 hours), managing personal territory records, and tracking Bible students."
+      "JW Ministry ऐप JW Library के साथ कैसे काम करता है?",
+      "जहाँ JW Library बाइबल, प्रकाशन पढ़ने और सभाओं के लिए है, वहीं JW Ministry आपकी व्यक्तिगत प्रचार सेवा का हिसाब रखने के लिए है: घंटों का टाइमर, पायनियर शेड्यूल (15, 30, 50 घंटे), इलाके के नोट्स और बाइबल अध्ययन।"
     ],
     [
-      "Where are my ministry records and territory notes stored?",
-      "Exclusively on your device (iPhone or iPad). The app has no external database or cloud server, ensuring complete confidentiality of your personal notes and addresses."
+      "मेरी रिपोर्ट और इलाके के नोट्स कहाँ सेव होते हैं?",
+      "केवल आपके अपने iPhone या iPad की मेमोरी में। कोई भी डेटा किसी बाहरी सर्वर पर नहीं भेजा जाता।"
     ],
     [
-      "How do I transfer my data to a new iPhone or iPad?",
-      "Open the Settings tab and tap the Cloud Upload icon in the top-right corner to export a full backup file (including territory photos) to iCloud Drive or AirDrop. On your new device, tap the Cloud Download icon to restore everything in one tap."
+      "नए iPhone में अपना डेटा कैसे ट्रांसफ़र करें?",
+      "सेटिंग्स टैब में ऊपर दाईं ओर क्लाउड आइकन पर टैप करके iCloud Drive में पूरा बैकअप सेव करें और नए फ़ोन में एक टैप से रीस्टोर करें।"
     ],
     [
-      "How do automatic return visit reminders work?",
-      "In Settings → Notifications, enable 'Remind about return visits to addresses' and set the interval (for example, 3 days). If you haven't logged a follow-up visit to an address within that period, the app will gently remind you."
-    ],
-    [
-      "Does the app support the September–August Service Year?",
-      "Yes! Both the Report tab and the Calendar summary calculate monthly and annual hours across the official September–August service year, including remaining hours toward your annual pioneer goal."
-    ],
-    [
-      "Is JW Ministry a good replacement for ServicePlanner or MyTime on iPhone?",
-      "Yes! JW Ministry is actively maintained for the latest iOS and iPadOS releases, featuring Live Activities on the Lock Screen and Dynamic Island, interactive Home Screen widgets, an apartment building generator, Planned vs. Actual calendar tracking, and 1-tap iCloud Drive backups."
-    ],
-    [
-      "Does the app work completely offline during door-to-door ministry?",
-      "Absolutely. All timers, territory maps, apartment records, and Bible student notes work 100% offline without requiring mobile data or Wi-Fi."
-    ],
-    [
-      "Can I convert a planned ministry event in the Calendar into a Report entry?",
-      "Yes. Simply swipe on any planned ministry session in the Calendar and tap 'To Report' — the duration is automatically logged in your monthly report and deducted from your remaining planned hours."
+      "क्या प्रचार में इंटरनेट के बिना भी ऐप काम करता है?",
+      "हाँ, यह बिना मोबाइल डेटा या Wi-Fi के 100% ऑफ़लाइन काम करता है।"
     ]
   ],
   "footer_privacy": "गोपनीयता नीति",
@@ -162,20 +146,20 @@
   "seo_sec_sub": "पूरे सेवा वर्ष के दौरान JW Ministry प्रचारकों और पायनियरों की कैसे मदद करता है।",
   "seo_pillars": [
     [
-      "Regular & Special Pioneers (50, 90 & 100 Hours / 600-Hour Service Year)",
-      "Serving as a regular pioneer requires keeping track of both your 50-hour monthly target and your 600-hour September–August service year goal. JW Ministry automatically calculates your completed ministry hours, remaining monthly balance, and full service year progress. Set a custom personal monthly goal (e.g., 55 hours), schedule ministry days in the Calendar, and compare your planned hours against your actual reported time."
+      "नियमित और विशेष पायनियर (50, 90 और 100 घंटे / 600 घंटे का सेवा वर्ष)",
+      "सितंबर से अगस्त के सेवा वर्ष में 50 घंटे के मासिक लक्ष्य और 600 घंटे के वार्षिक लक्ष्य को आसानी से ट्रैक करें। व्यक्तिगत लक्ष्य (जैसे 55 घंटे) सेट करें और कैलेंडर में नियोजित व वास्तविक समय की तुलना करें।"
     ],
     [
-      "Auxiliary Pioneers (15 & 30 Hours) and Congregation Publishers",
-      "Joining a special campaign, circuit overseer's visit, or Memorial season as an auxiliary pioneer? Switch your role to Auxiliary Pioneer (15 h or 30 h) in seconds. Congregation publishers can log daily ministry sessions, track Bible studies, and enable an automatic notification on the 1st of every month at 20:00 so you never forget to submit your field service report."
+      "सहयोगी पायनियर (15 और 30 घंटे) और मंडली के प्रचारक",
+      "विशेष अभियान या स्मारक के मौसम में एक टैप में सहयोगी पायनियर (15 या 30 घंटे) चुनें। हर महीने की 1 तारीख रात 8:00 बजे का रिमाइंडर आपको समय पर रिपोर्ट देने में मदद करता है।"
     ],
     [
-      "House-to-House Territories, Apartment Generator & Return Visits",
-      "Replace paper slips with organized digital territory cards. Attach photos of territory maps, color-code cards with 10 stylish colors, and generate entire multi-story apartment buildings by entrances and floors in one tap. Record 'First visit', 'Not at home', or 'Refusal' statuses, search across all territories by street address or resident name, and receive automatic reminders when it is time to make a return visit."
+      "घर-घर के इलाके, अपार्टमेंट और पुनःभेंट",
+      "नक्शे की फ़ोटो, 10 रंगों और फ़्लैट जनरेटर के साथ डिजिटल इलाके के कार्ड बनाएँ। 'घर पर नहीं' नोट करें और नाम या पते से तुरंत खोजें।"
     ],
     [
-      "Bible Student Progress & Modern iOS Replacement for Legacy Apps",
-      "Maintain a detailed roster of your Bible students along with their current study publication (such as 'Enjoy Life Forever!'), lesson number, and section. Attach students directly to your timer session so your monthly study count is always accurate. Built natively with SwiftUI for the latest iPhone and iPad models, JW Ministry is the ideal modern alternative to discontinued apps like ServicePlanner or MyTime."
+      "बाइबल अध्ययन प्रगति और पुराने ऐप्स का आधुनिक विकल्प",
+      "हर विद्यार्थी के लिए 'हमेशा के लिए ज़िंदगी का आनंद लीजिए!' किताब का पाठ और भाग सहेजें। iPhone और iPad के लिए आधुनिक नेटिव ऐप।"
     ]
   ],
   "seo_tags_title": "प्रचार सेवा से जुड़ी प्रमुख खोजें:",
@@ -202,46 +186,46 @@
   ],
   "comp_rows": [
     [
-      "Live Ministry Timer on Lock Screen & Dynamic Island",
-      "No",
-      "No",
-      "Yes (Live Activities)"
+      "लॉक स्क्रीन और Dynamic Island पर लाइव टाइमर",
+      "नहीं",
+      "नहीं",
+      "हाँ (Live Activities)"
     ],
     [
-      "Pioneer Goal Calculator (15, 30, 50, 100h) & 600h Service Year",
-      "Manual calculation",
-      "Partial",
-      "Automatic + Custom Goal"
+      "पायनियर लक्ष्य (15, 30, 50 घं.) और सेवा वर्ष (600 घं.) की गणना",
+      "हाथ से गणना",
+      "आंशिक",
+      "ऑटोमैटिक + व्यक्तिगत लक्ष्य"
     ],
     [
-      "Planned vs. Actual Calendar & Swipe-to-Report Conversion",
-      "No",
-      "No",
-      "Built-in 1-Swipe Workflow"
+      "कैलेंडर में योजना बनाम वास्तविक तुलना और रिपोर्ट में स्वाइप",
+      "नहीं",
+      "नहीं",
+      "एक स्वाइप में"
     ],
     [
-      "Apartment Building Generator + Territory Photos & 10 Color Tags",
-      "Paper slips",
-      "Text only",
-      "Full Visual Cards + Search"
+      "अपार्टमेंट बिल्डिंग जनरेटर + इलाके की फ़ोटो और 10 रंग",
+      "कागज़ की पर्चियाँ",
+      "केवल टेक्स्ट",
+      "फ़ोटो कार्ड + तेज़ खोज"
     ],
     [
-      "Return Visit Reminders & 1st-of-the-Month Report Notification",
-      "No",
-      "Basic",
-      "Smart iOS Notifications"
+      "पुनःभेंट रिमाइंडर और हर महीने की 1 तारीख को रिपोर्ट अलर्ट",
+      "नहीं",
+      "सामान्य",
+      "स्मार्ट iOS सूचनाएँ"
     ],
     [
-      "100% On-Device Privacy & Full iCloud Drive Backup with Photos",
-      "Easy to lose",
-      "Often breaks on new iOS",
-      "Offline & Instant Restore"
+      "100% ऑफ़लाइन गोपनीयता और फ़ोटो सहित iCloud Drive बैकअप",
+      "खोने का डर",
+      "नए फ़ोन में डेटा हानि",
+      "100% ऑफ़लाइन और सुरक्षित"
     ],
     [
-      "Native Support for Latest iOS, iPad, OLED Dark Mode & 35+ Languages",
+      "नए iOS, iPad, OLED डार्क मोड और 35+ भाषाओं का समर्थन",
       "—",
-      "Discontinued",
-      "Modern SwiftUI Architecture"
+      "अपडेट बंद",
+      "नेटिव SwiftUI डिज़ाइन"
     ]
   ],
   "filter_all": "सभी (8)",
@@ -250,11 +234,11 @@
   "filter_ipad": "iPad",
   "wn_title": "वर्ज़न 1.8 में नया क्या है",
   "wn_items": [
-    "Automatic monthly planned-hours total in the Calendar with a dual Planned vs. Actual progress bar.",
-    "1-swipe conversion of any scheduled Calendar ministry session directly into a monthly Report entry.",
-    "Instant search by street address or resident name across Territories, plus 10 color themes for territory cards.",
-    "Upcoming Service Year (2026–2027) support in the Report tab with a sleek annual balance summary.",
-    "Full optimization for the latest iOS & iPadOS releases and enhanced on-device backup protection."
+    "कैलेंडर में महीने के नियोजित घंटों का ऑटोमैटिक जोड़ और 'योजना बनाम वास्तविक' डबल प्रोग्रेस बार।",
+    "कैलेंडर की नियोजित सेवा को एक स्वाइप से सीधे मासिक रिपोर्ट में बदलें।",
+    "सभी इलाकों में पते या नाम से तुरंत खोज और इलाके के कार्ड के लिए 10 रंग।",
+    "रिपोर्ट टैब में आगामी सेवा वर्ष (2026–2027) का समर्थन।",
+    "नवीनतम iOS और iPadOS के लिए पूर्ण अनुकूलन और मज़बूत बैकअप सुरक्षा।"
   ],
   "howto_name": "How to Track Field Service Hours & Pioneer Schedule on iPhone",
   "howto_steps": [
@@ -278,55 +262,55 @@
   "nav_comp": "तुलना",
   "sticky_sub": "iPhone और iPad • मुफ़्त",
   "feature_badges": [
-    "Time Tracking • Live Activities",
-    "Bible Studies • Lesson Progress",
-    "Service Roles • 15 / 30 / 50 / 100 h",
-    "Service Year • Plan vs. Actual",
-    "Territory Log • Search & Alerts",
-    "On-Device Privacy • iCloud Backup"
+    "टाइमर • Live Activities",
+    "बाइबल अध्ययन • पाठ प्रगति",
+    "भूमिकाएँ • 15 / 30 / 50 / 100 घं.",
+    "सेवा वर्ष • योजना बनाम वास्तविक",
+    "इलाके • खोज और रिमाइंडर",
+    "100% गोपनीय • iCloud बैकअप"
   ],
   "pillar_badges": [
-    "Regular & Special Pioneer Ministry",
-    "Auxiliary Pioneers & Publishers",
-    "House-to-House & Personal Territories",
-    "Bible Studies & Modern iOS Design"
+    "नियमित और विशेष पायनियर",
+    "सहयोगी पायनियर और प्रचारक",
+    "घर-घर का प्रचार और इलाके",
+    "बाइबल अध्ययन और iOS"
   ],
   "pillar_Checklists": [
     [
-      "Automatic 50 h monthly & 600 h September–August service year tracking",
-      "Custom monthly hour target override (e.g., 55 h/month)",
-      "Dual progress bar comparing scheduled vs. reported hours"
+      "मासिक 50 घंटे और सेवा वर्ष के 600 घंटों का ऑटोमैटिक हिसाब",
+      "कस्टम मासिक घंटा लक्ष्य (उदा. 55 घंटे)",
+      "नियोजित बनाम रिपोर्ट किए गए घंटों की डबल प्रोग्रेस बार"
     ],
     [
-      "One-tap switch to 15 h or 30 h Auxiliary Pioneer goals",
-      "Instant monthly report formatting and sharing on the 1st",
-      "Gentle reminder notification on the 1st of each month at 20:00"
+      "15 या 30 घंटे के सहयोगी पायनियर लक्ष्य पर तुरंत स्विच करें",
+      "एक टैप में मासिक प्रचार रिपोर्ट साझा करें",
+      "हर महीने की 1 तारीख को रात 8:00 बजे ऑटोमैटिक रिमाइंडर"
     ],
     [
-      "Multi-story apartment generator by entrances and floors",
-      "Territory map photos, 10 color themes & instant resident/address search",
-      "Automated return visit reminders after your chosen number of days"
+      "प्रवेश द्वार और मंज़िल के अनुसार अपार्टमेंट फ़्लैट जनरेटर",
+      "इलाके के नक्शे की फ़ोटो, 10 रंग और नाम/पते से खोज",
+      "तय दिनों के बाद पुनःभेंट के लिए ऑटोमैटिक रिमाइंडर"
     ],
     [
-      "Track exact lessons in 'Enjoy Life Forever!' for every student",
-      "Built natively for iOS & iPadOS with Dynamic Island & OLED Dark Mode",
-      "Complete modern replacement for legacy ServicePlanner & MyTime apps"
+      "'हमेशा के लिए ज़िंदगी का आनंद लीजिए!' पाठ और भाग ट्रैकिंग",
+      "विजेट, Dynamic Island और OLED डार्क मोड",
+      "ServicePlanner और MyTime का आधुनिक विकल्प"
     ]
   ],
   "rev_title": "प्रचारकों और पायनियरों की राय",
   "rev_sub": "भाई-बहनों के अनुभव जो रोज़ाना प्रचार में JW Ministry का उपयोग करते हैं।",
   "reviews": [
     [
-      "Alex, Regular Pioneer",
-      "Having the monthly planned hours automatically totaled in the Calendar alongside my actual reported hours is a game changer for keeping my 50-hour schedule on track."
+      "रोहित, नियमित पायनियर",
+      "कैलेंडर में नियोजित घंटों का जोड़ और वास्तविक समय की तुलना देखने से मेरा 50 घंटों का शेड्यूल बनाए रखना बहुत आसान हो गया है।"
     ],
     [
-      "Sarah, Auxiliary Pioneer",
-      "The Lock Screen Live Activity timer and 1-swipe conversion from Calendar plans to Report entries make tracking 15 and 30 hours effortless. Clean, fast, and 100% private."
+      "प्रिया, सहयोगी पायनियर",
+      "लॉक स्क्रीन टाइमर और कैलेंडर की योजना को स्वाइप करके सीधे रिपोर्ट में भेजना बहुत ही सुविधाजनक है। बिल्कुल मुफ़्त और विज्ञापन-मुक्त।"
     ],
     [
-      "David, Congregation Publisher",
-      "The apartment building generator and instant search across territory notes replaced all my paper slips. Return visit reminders help me never miss a follow-up."
+      "अमित, प्रचारक",
+      "अपार्टमेंट जनरेटर और इलाकों में नाम से खोजने की सुविधा ने मेरी सारी कागज़ की पर्चियों की जगह ले ली है।"
     ]
   ],
   "privacy_page": {

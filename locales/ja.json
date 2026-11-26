@@ -70,115 +70,99 @@
       "iOSのライト／ダークモードに自動で切り替わります。"
     ]
   ],
-  "feat_sec_title": "Everything You Need for Organized Ministry",
-  "feat_sec_sub": "Built specifically around the real workflow of publishers, auxiliary pioneers, regular pioneers, and special pioneers.",
+  "feat_sec_title": "秩序ある宣教と開拓奉仕に必要なすべての機能",
+  "feat_sec_sub": "伝道者、補助開拓者、正規開拓者、特別開拓者の実際の奉仕スタイルに合わせて設計されています。",
   "features": [
     [
-      "⏱️",
-      "Smart Timer, Widgets & Live Activities",
-      "Start your ministry timer from the app, Home Screen widget, or Lock Screen. Your active timer stays visible on the Dynamic Island and Lock Screen even when your iPhone is locked."
+      "",
+      "スマートタイマー・ウィジェット・Dynamic Island",
+      "アプリ、ホーム画面ウィジェット、ロック画面からワンタップで計測開始。ロック中もDynamic Islandで経過時間をリアルタイムに確認できます。"
     ],
     [
-      "📚",
-      "Bible Studies & Publication Progress",
-      "Link Bible studies directly to your daily report entries. Track each student's name and current lesson in 'Enjoy Life Forever!' or any other study aid."
+      "",
+      "聖書研究の記録と教材の進度管理",
+      "行った聖書研究を日々の報告にリンク。『いつまでも幸せに暮らせます』などの現在の課やセクションを研究生ごとに記録できます。"
     ],
     [
-      "📊",
-      "Service Roles & Personal Hour Targets",
-      "Supports Publisher, Auxiliary Pioneer (15 or 30 hours), Regular Pioneer (50 hours), Special Pioneer / Missionary (90 / 100 hours), plus a custom 'Personal target' override (e.g., 55 hours/month)."
+      "",
+      "すべての奉仕の役割と個人の目標時間",
+      "伝道者、補助開拓者（15時間・30時間）、正規開拓者（50時間）、特別開拓者（90・100時間）に加え、個人の月間目標（例：55時間）も設定可能です。"
     ],
     [
-      "🗓️",
-      "Service Year (Sept–Aug) & Calendar",
-      "Plan ministry meetings, recurring schedules, and Family Worship in the Calendar. Compare planned vs. actual hours, convert planned sessions into report entries with a swipe, and track your annual pioneer goal."
+      "",
+      "奉仕年度（9月〜8月）＆開拓者カレンダー",
+      "奉仕の予定や家族の崇拝をカレンダーに登録。予定時間と実績時間を比較し、予定をスワイプするだけで報告へ変換できます。"
     ],
     [
-      "🗺️",
-      "Territories, Apartments & Visit Reminders",
-      "Create cards for territories, multi-story apartment buildings, and private houses. Attach map photos, color-code cards, search by address or resident name, and receive automatic reminders to make return visits."
+      "",
+      "個人区域・集合住宅生成・再訪問リマインダー",
+      "区域地図の写真添付、10色のカラータグ、マンションの階・号室の一括生成に対応。住所や名前での高速検索と再訪問の自動通知機能を備えています。"
     ],
     [
-      "🔒",
-      "100% On-Device Privacy & Full Backups",
-      "No registration, no accounts, no external servers, and zero analytics. All records and territory photos stay locally on your iPhone/iPad, with instant backup export & restore to iCloud Drive or Files."
+      "",
+      "100%端末内プライバシー保護＆iCloudバックアップ",
+      "アカウント登録不要、外部サーバーへの送信ゼロ。すべての記録と区域写真はiPhone・iPad内にのみ保存され、iCloud Driveへ簡単にバックアップできます。"
     ]
   ],
-  "lang_sec_title": "Fully Localized into 35+ Languages",
-  "lang_sec_sub": "The app interface, widgets, and notifications automatically match your device language:",
-  "donate_badge": "Independent & Ad-Free Project",
-  "donate_title": "Support the Development of JW Ministry",
-  "donate_sub": "JW Ministry is created and maintained by an independent developer for personal use. There are no ads, no paid tiers, and no subscriptions. If the app makes your ministry easier, you can support future iOS updates and Apple Developer license renewal:",
-  "card_fiat_title": "Support by Card (Worldwide)",
-  "card_fiat_desc": "Quick one-time tip or monthly support from any country via Boosty or Patreon:",
-  "btn_boosty": "Support on Boosty (Cards / Apple Pay)",
-  "btn_patreon": "Support on Patreon",
-  "card_crypto_title": "Direct Crypto Transfer (0% Platform Fee)",
-  "card_crypto_desc": "Instant transfer directly to the developer's wallet:",
-  "usdt_label": "USDT (TRC-20 / TRON Network only):",
-  "ton_label": "TON / USDT (TON Network):",
-  "copy_btn": "Copy",
-  "copied_msg": "Copied!",
-  "crypto_warn": "For the TQQx... address, send assets via TRON (TRC-20) network only.",
-  "faq_title": "Frequently Asked Questions",
+  "lang_sec_title": "35以上の言語に完全対応",
+  "lang_sec_sub": "アプリの画面、ウィジェット、通知はお使いのiPhone・iPadの言語に自動で切り替わります（下の言語名をタップするとスクリーンショットをプレビューできます）：",
+  "donate_badge": "広告なし・完全無料の個人開発プロジェクト",
+  "donate_title": "JW Ministry の開発を支援する",
+  "donate_sub": "JW Ministry は広告や有料プランなしで無料提供されています。もしこのアプリが宣教のお役に立っていましたら、今後のiOSアップデート開発やApple Developer年会費の維持をご支援いただけますと幸いです：",
+  "card_fiat_title": "カードでのご支援（世界中対応）",
+  "card_fiat_desc": "Boosty または Patreon から簡単にご支援いただけます：",
+  "btn_boosty": "Boosty で支援する",
+  "btn_patreon": "Patreon で支援する",
+  "card_crypto_title": "暗号資産での直接支援（手数料0%）",
+  "card_crypto_desc": "開発者のウォレットへ直接送金：",
+  "usdt_label": "USDT（TRC-20 / TRONネットワークのみ）：",
+  "ton_label": "TON / USDT（TONネットワーク）：",
+  "copy_btn": "コピー",
+  "copied_msg": "コピー完了！",
+  "crypto_warn": "TQQx... のアドレスには TRON (TRC-20) ネットワークの資産のみを送信してください。",
+  "faq_title": "よくある質問（FAQ）",
   "faqs": [
     [
-      "How does JW Ministry complement JW Library for Jehovah's Witnesses?",
-      "While JW Library is used for reading the Bible, publications, and congregation meetings, JW Ministry is purpose-built for tracking your personal field ministry: logging field service report hours, planning your regular or auxiliary pioneer schedule (15, 30, 50, or 100 hours), managing personal territory records, and tracking Bible students."
+      "JW Library アプリとどのように使い分けますか？",
+      "公式アプリの JW Library は聖書や出版物の閲覧・集会の予習に使用し、JW Ministry は個人の野外奉仕時間の計測、開拓者のスケジュール管理（15・30・50時間）、個人区域の留守宅・再訪問記録、聖書研究生の進度管理のために使用します。"
     ],
     [
-      "Where are my ministry records and territory notes stored?",
-      "Exclusively on your device (iPhone or iPad). The app has no external database or cloud server, ensuring complete confidentiality of your personal notes and addresses."
+      "奉仕報告や区域のメモはどこに保存されますか？",
+      "お使いのiPhoneまたはiPadの端末内にのみ保存されます。外部サーバーへのデータ送信は一切ないため、個人のメモは完全に守られます。"
     ],
     [
-      "How do I transfer my data to a new iPhone or iPad?",
-      "Open the Settings tab and tap the Cloud Upload icon in the top-right corner to export a full backup file (including territory photos) to iCloud Drive or AirDrop. On your new device, tap the Cloud Download icon to restore everything in one tap."
+      "新しいiPhoneやiPadへデータを引き継ぐには？",
+      "「設定」タブ右上のクラウド出力アイコンからiCloud Driveへバックアップファイルを保存し、新しい端末で読み込むだけで写真も含めて完全に復元できます。"
     ],
     [
-      "How do automatic return visit reminders work?",
-      "In Settings → Notifications, enable 'Remind about return visits to addresses' and set the interval (for example, 3 days). If you haven't logged a follow-up visit to an address within that period, the app will gently remind you."
-    ],
-    [
-      "Does the app support the September–August Service Year?",
-      "Yes! Both the Report tab and the Calendar summary calculate monthly and annual hours across the official September–August service year, including remaining hours toward your annual pioneer goal."
-    ],
-    [
-      "Is JW Ministry a good replacement for ServicePlanner or MyTime on iPhone?",
-      "Yes! JW Ministry is actively maintained for the latest iOS and iPadOS releases, featuring Live Activities on the Lock Screen and Dynamic Island, interactive Home Screen widgets, an apartment building generator, Planned vs. Actual calendar tracking, and 1-tap iCloud Drive backups."
-    ],
-    [
-      "Does the app work completely offline during door-to-door ministry?",
-      "Absolutely. All timers, territory maps, apartment records, and Bible student notes work 100% offline without requiring mobile data or Wi-Fi."
-    ],
-    [
-      "Can I convert a planned ministry event in the Calendar into a Report entry?",
-      "Yes. Simply swipe on any planned ministry session in the Calendar and tap 'To Report' — the duration is automatically logged in your monthly report and deducted from your remaining planned hours."
+      "インターネット接続がない場所でも使えますか？",
+      "はい、100%オフラインで動作します。電波のない場所でもタイマーや区域カードをご利用いただけます。"
     ]
   ],
-  "footer_privacy": "Privacy Policy",
-  "footer_issues": "GitHub Support & Feedback",
-  "footer_contact": "Contact Developer",
-  "seo_sec_title": "Built for Jehovah's Witnesses Field Service & Pioneer Ministry",
-  "seo_sec_sub": "How JW Ministry helps publishers, auxiliary pioneers, regular pioneers, and special pioneers organize their service year.",
+  "footer_privacy": "プライバシーポリシー",
+  "footer_issues": "GitHub サポート",
+  "footer_contact": "開発者へ連絡",
+  "seo_sec_title": "エホバの証人の野外奉仕・開拓奉仕を徹底サポート",
+  "seo_sec_sub": "JW Libraryと併用して、奉仕年度を通して伝道者・補助開拓者・正規開拓者の奉仕を整理できます。",
   "seo_pillars": [
     [
-      "Regular & Special Pioneers (50, 90 & 100 Hours / 600-Hour Service Year)",
-      "Serving as a regular pioneer requires keeping track of both your 50-hour monthly target and your 600-hour September–August service year goal. JW Ministry automatically calculates your completed ministry hours, remaining monthly balance, and full service year progress. Set a custom personal monthly goal (e.g., 55 hours), schedule ministry days in the Calendar, and compare your planned hours against your actual reported time."
+      "正規開拓者・特別開拓者（月50・90・100時間／奉仕年度600時間）",
+      "9月から8月までの奉仕年度における月50時間・年間600時間の目標と残り時間を自動計算します。個人の月間目標（例：55時間）を設定し、カレンダーで予定時間と実際の奉仕時間を比較できます。"
     ],
     [
-      "Auxiliary Pioneers (15 & 30 Hours) and Congregation Publishers",
-      "Joining a special campaign, circuit overseer's visit, or Memorial season as an auxiliary pioneer? Switch your role to Auxiliary Pioneer (15 h or 30 h) in seconds. Congregation publishers can log daily ministry sessions, track Bible studies, and enable an automatic notification on the 1st of every month at 20:00 so you never forget to submit your field service report."
+      "補助開拓者（15時間・30時間）と会衆の伝道者",
+      "特別キャンペーン月や巡回監督の訪問、記念式の時期にはワンタップで補助開拓者（15時間または30時間）に切り替え可能。毎月1日20時の自動リマインダーで野外奉仕報告の提出忘れを防ぎます。"
     ],
     [
-      "House-to-House Territories, Apartment Generator & Return Visits",
-      "Replace paper slips with organized digital territory cards. Attach photos of territory maps, color-code cards with 10 stylish colors, and generate entire multi-story apartment buildings by entrances and floors in one tap. Record 'First visit', 'Not at home', or 'Refusal' statuses, search across all territories by street address or resident name, and receive automatic reminders when it is time to make a return visit."
+      "家から家の区域管理・マンション生成・再訪問の記録",
+      "区域地図の写真を添付し、集合住宅の号室を一括生成。「初回訪問」「留守」「断り」の記録やインターホン等のメモを残し、住所や名前で瞬時に検索できます。"
     ],
     [
-      "Bible Student Progress & Modern iOS Replacement for Legacy Apps",
-      "Maintain a detailed roster of your Bible students along with their current study publication (such as 'Enjoy Life Forever!'), lesson number, and section. Attach students directly to your timer session so your monthly study count is always accurate. Built natively with SwiftUI for the latest iPhone and iPad models, JW Ministry is the ideal modern alternative to discontinued apps like ServicePlanner or MyTime."
+      "聖書研究生の進度管理＆古いアプリの最新代替",
+      "『いつまでも幸せに暮らせます』の課とセクションを研究生ごとに記録。ServicePlannerやMyTimeの最新iOS・iPadOS向け代替アプリとして最適です。"
     ]
   ],
-  "seo_tags_title": "Popular Field Service Searches Covered by JW Ministry:",
+  "seo_tags_title": "JW Ministry が選ばれる主な検索キーワード:",
   "seo_tags": [
     "エホバの証人 野外奉仕・宣教",
     "野外奉仕報告 JW iPhone",
@@ -192,69 +176,69 @@
   "qr_scan_title": "iPhone / iPadカメラ",
   "qr_scan_sub": "カメラで読み取ってApp Storeを開く",
   "shot_lang_label": "スクリーンショットの表示言語:",
-  "comp_title": "Why Publishers & Pioneers Switch to JW Ministry",
-  "comp_sub": "Side-by-side comparison for field service tracking, pioneer scheduling, and territory management.",
+  "comp_title": "多くの伝道者・開拓者が JW Ministry を選ぶ理由",
+  "comp_sub": "野外奉仕の記録、開拓スケジュール管理、区域記録の比較表です。",
   "comp_headers": [
-    "Feature",
-    "Paper Notebook",
-    "Legacy Apps",
+    "機能",
+    "紙のメモ帳",
+    "従来の古いアプリ",
     "JW Ministry 1.8"
   ],
   "comp_rows": [
     [
-      "Live Ministry Timer on Lock Screen & Dynamic Island",
-      "No",
-      "No",
-      "Yes (Live Activities)"
+      "ロック画面＆Dynamic Islandでのライブタイマー",
+      "なし",
+      "なし",
+      "対応（Live Activities）"
     ],
     [
-      "Pioneer Goal Calculator (15, 30, 50, 100h) & 600h Service Year",
-      "Manual calculation",
-      "Partial",
-      "Automatic + Custom Goal"
+      "開拓目標（15・30・50時間）と奉仕年度（600時間）の自動計算",
+      "手計算",
+      "一部のみ",
+      "自動計算＋個人目標設定"
     ],
     [
-      "Planned vs. Actual Calendar & Swipe-to-Report Conversion",
-      "No",
-      "No",
-      "Built-in 1-Swipe Workflow"
+      "カレンダーの「予定 vs 実績」比較＆スワイプで報告へ変換",
+      "なし",
+      "なし",
+      "ワンタップで変換"
     ],
     [
-      "Apartment Building Generator + Territory Photos & 10 Color Tags",
-      "Paper slips",
-      "Text only",
-      "Full Visual Cards + Search"
+      "集合住宅の部屋番号自動生成＋区域地図写真＆10色タグ",
+      "紙のカード",
+      "テキストのみ",
+      "写真付きカード＋高速検索"
     ],
     [
-      "Return Visit Reminders & 1st-of-the-Month Report Notification",
-      "No",
-      "Basic",
-      "Smart iOS Notifications"
+      "再訪問リマインダー＆毎月1日20時の報告リマインダー",
+      "なし",
+      "簡易的",
+      "iOSスマート通知"
     ],
     [
-      "100% On-Device Privacy & Full iCloud Drive Backup with Photos",
-      "Easy to lose",
-      "Often breaks on new iOS",
-      "Offline & Instant Restore"
+      "100%オフライン保護＆写真を含むiCloud Drive完全バックアップ",
+      "紛失のリスク",
+      "機種変更時の不具合",
+      "100%端末内保存＆簡単復元"
     ],
     [
-      "Native Support for Latest iOS, iPad, OLED Dark Mode & 35+ Languages",
+      "最新iOS・iPad・OLEDダークモード・35以上の言語に対応",
       "—",
-      "Discontinued",
-      "Modern SwiftUI Architecture"
+      "更新停止",
+      "最新SwiftUIネイティブ設計"
     ]
   ],
   "filter_all": "すべて (8)",
   "filter_light": "ライト (6)",
   "filter_dark": "ダーク (2)",
   "filter_ipad": "iPad",
-  "wn_title": "What's New in Version 1.8",
+  "wn_title": "バージョン 1.8 の新機能",
   "wn_items": [
-    "Automatic monthly planned-hours total in the Calendar with a dual Planned vs. Actual progress bar.",
-    "1-swipe conversion of any scheduled Calendar ministry session directly into a monthly Report entry.",
-    "Instant search by street address or resident name across Territories, plus 10 color themes for territory cards.",
-    "Upcoming Service Year (2026–2027) support in the Report tab with a sleek annual balance summary.",
-    "Full optimization for the latest iOS & iPadOS releases and enhanced on-device backup protection."
+    "カレンダーでの月間予定時間の自動集計と「予定 vs 実績」ダブル進捗バー。",
+    "カレンダーの予定をスワイプ1つで報告エントリへ変換（予定時間から自動差し引き）。",
+    "すべての区域を対象とした住所・居住者名の即時検索と、10色の区域カードテーマ。",
+    "「報告」タブでの次期奉仕年度（2026–2027）の選択と年間サマリー表示。",
+    "最新iOS・iPadOSへの完全最適化とバックアップ保護の強化。"
   ],
   "howto_name": "How to Track Field Service Hours & Pioneer Schedule on iPhone",
   "howto_steps": [
@@ -276,93 +260,93 @@
     ]
   ],
   "nav_comp": "機能比較",
-  "sticky_sub": "iPhone & iPad • Free",
+  "sticky_sub": "iPhone & iPad • 無料",
   "feature_badges": [
-    "Time Tracking • Live Activities",
-    "Bible Studies • Lesson Progress",
-    "Service Roles • 15 / 30 / 50 / 100 h",
-    "Service Year • Plan vs. Actual",
-    "Territory Log • Search & Alerts",
-    "On-Device Privacy • iCloud Backup"
+    "時間計測 • Live Activities",
+    "聖書研究 • 進度管理",
+    "奉仕の特権 • 15 / 30 / 50 / 100時間",
+    "奉仕年度 • 予定と実績",
+    "区域カード • 検索＆通知",
+    "100%端末内保存 • iCloudバックアップ"
   ],
   "pillar_badges": [
-    "Regular & Special Pioneer Ministry",
-    "Auxiliary Pioneers & Publishers",
-    "House-to-House & Personal Territories",
-    "Bible Studies & Modern iOS Design"
+    "正規開拓者・特別開拓者",
+    "補助開拓者・会衆の伝道者",
+    "家から家の奉仕・個人区域",
+    "聖書研究＆最新iOS対応"
   ],
   "pillar_Checklists": [
     [
-      "Automatic 50 h monthly & 600 h September–August service year tracking",
-      "Custom monthly hour target override (e.g., 55 h/month)",
-      "Dual progress bar comparing scheduled vs. reported hours"
+      "月50時間・奉仕年度600時間の自動バランス計算",
+      "個人の月間目標時間（例：55時間）の設定",
+      "予定時間と実績時間を比較するダブル進捗バー"
     ],
     [
-      "One-tap switch to 15 h or 30 h Auxiliary Pioneer goals",
-      "Instant monthly report formatting and sharing on the 1st",
-      "Gentle reminder notification on the 1st of each month at 20:00"
+      "15時間・30時間の補助開拓目標へのワンタップ切り替え",
+      "毎月1日にワンタップで奉仕報告を作成・共有",
+      "毎月1日20:00の報告提出リマインダー通知"
     ],
     [
-      "Multi-story apartment generator by entrances and floors",
-      "Territory map photos, 10 color themes & instant resident/address search",
-      "Automated return visit reminders after your chosen number of days"
+      "集合住宅（マンション・アパート）の階・号室ジェネレーター",
+      "区域地図の写真・10色分け・名前や住所での即時検索",
+      "指定日数経過後の再訪問リマインダー通知"
     ],
     [
-      "Track exact lessons in 'Enjoy Life Forever!' for every student",
-      "Built natively for iOS & iPadOS with Dynamic Island & OLED Dark Mode",
-      "Complete modern replacement for legacy ServicePlanner & MyTime apps"
+      "『いつまでも幸せに暮らせます』の課・セクション進度記録",
+      "ウィジェット・Dynamic Island・OLEDダークモード完全対応",
+      "ServicePlannerやMyTimeに代わる最新の無料iOSアプリ"
     ]
   ],
-  "rev_title": "Loved by Publishers & Pioneers Worldwide",
-  "rev_sub": "Real feedback from brothers and sisters using JW Ministry in their daily field service.",
+  "rev_title": "伝道者・開拓者からのレビュー",
+  "rev_sub": "毎日の宣教で JW Ministry を活用している兄弟姉妹の声です。",
   "reviews": [
     [
-      "Alex, Regular Pioneer",
-      "Having the monthly planned hours automatically totaled in the Calendar alongside my actual reported hours is a game changer for keeping my 50-hour schedule on track."
+      "正規開拓者の兄弟",
+      "カレンダーに月間の予定時間と実績時間が並んで表示されるので、50時間の計画が立てやすくなりました。"
     ],
     [
-      "Sarah, Auxiliary Pioneer",
-      "The Lock Screen Live Activity timer and 1-swipe conversion from Calendar plans to Report entries make tracking 15 and 30 hours effortless. Clean, fast, and 100% private."
+      "補助開拓者の姉妹",
+      "ロック画面のライブタイマーと、カレンダーの予定をスワイプして報告に移せる機能が本当に便利です。広告もなく安心して使えます。"
     ],
     [
-      "David, Congregation Publisher",
-      "The apartment building generator and instant search across territory notes replaced all my paper slips. Return visit reminders help me never miss a follow-up."
+      "会衆の伝道者",
+      "マンションの部屋番号生成と区域内の名前検索のおかげで、紙の留守宅メモを持ち歩く必要がなくなりました。"
     ]
   ],
   "privacy_page": {
-    "page_title": "Privacy Policy & User Support — JW Ministry",
-    "meta_desc": "Official Privacy Policy and User Support for the JW Ministry iOS & iPadOS app. 100% local on-device data storage with zero external servers.",
-    "back_home": "Back to Home",
-    "sup_title": "JW Ministry — User Support",
-    "sup_desc": "If you have questions, suggestions for new features, or found a bug in the app, feel free to contact the developer:",
-    "sup_issues": "Report an Issue (GitHub)",
-    "sup_store": " JW Ministry on App Store",
-    "updated": "Last updated: December 5, 2025",
-    "h1": "Privacy Policy for “JW Ministry”",
-    "intro": "This Privacy Policy explains how the <strong>“JW Ministry”</strong> mobile application (“the App”) handles user information. Our core principle is <strong>100% privacy: all records you create are stored exclusively on your device</strong>.",
-    "s1_t": "1. Data Created and Stored in the App",
-    "s1_p": "All data in the App is entered voluntarily by the user for personal field service organization and planning:",
+    "page_title": "プライバシーポリシー＆サポート — JW Ministry",
+    "meta_desc": "iOS・iPadOSアプリ JW Ministry の公式プライバシーポリシーとユーザーサポート。データは100%端末内にのみ保存されます。",
+    "back_home": "ホームへ戻る",
+    "sup_title": "JW Ministry ユーザーサポート",
+    "sup_desc": "ご質問、機能のご要望、不具合の報告は下記よりお気軽にお問い合わせください：",
+    "sup_issues": "問題を報告 (GitHub)",
+    "sup_store": " App Store で見る",
+    "updated": "最終更新日: 2025年12月5日",
+    "h1": "「JW Ministry」プライバシーポリシー",
+    "intro": "本プライバシーポリシーは、モバイルアプリケーション<strong>「JW Ministry」</strong>におけるユーザー情報の取り扱いについて説明します。当アプリの基本原則は<strong>完全なプライバシー保護であり、作成されたすべてのデータは端末内にのみ保存されます</strong>。",
+    "s1_t": "1. アプリ内で作成・保存されるデータ",
+    "s1_p": "すべてのデータは、個人の奉仕の記録および計画のためにユーザー自身が入力するものです：",
     "s1_ul": [
-      "<strong>Service time entries & reports:</strong> dates, duration, Bible study counts, and session notes.",
-      "<strong>Calendar schedules:</strong> planned ministry events, dates, times, and recurrence settings.",
-      "<strong>Bible students list:</strong> student names/labels and study publication progress notes.",
-      "<strong>Territories & addresses:</strong> territory names, house/apartment lists, visit history, notes, and territory card photos selected by the user from the Photo Library.",
-      "<strong>App settings:</strong> selected service role, personal monthly hour target, and notification preferences."
+      "<strong>奉仕時間の記録と報告：</strong> 日付、時間、聖書研究の件数、メモ。",
+      "<strong>カレンダーの予定：</strong> 予定された奉仕日時、繰り返し設定。",
+      "<strong>聖書研究生リスト：</strong> 名前／ラベル、教材の課・セクションの進度メモ。",
+      "<strong>区域と住所：</strong> 区域名、家や部屋のリスト、訪問履歴、メモ、写真ライブラリから選択した区域地図の画像。",
+      "<strong>アプリ設定：</strong> 選択した奉仕の役割、月間目標時間、通知設定。"
     ],
-    "s2_t": "2. 100% Local On-Device Storage & No Third-Party Sharing",
+    "s2_t": "2. 100%端末内保存と第三者提供の禁止",
     "s2_ul": [
-      "All data is stored <strong>solely on your iPhone or iPad</strong> within the secure iOS / iPadOS storage container.",
-      "The App requires <strong>no registration</strong> and no user account.",
-      "The developer has <strong>no access</strong> to your records, collects no analytics or location data, and <strong>never transmits or shares</strong> any data with external servers or third parties."
+      "すべてのデータは<strong>お使いのiPhoneまたはiPadの安全な領域内にのみ</strong>保存されます。",
+      "アカウント登録やログインは<strong>一切不要</strong>です。",
+      "開発者があなたの記録にアクセスすることはなく、解析データや位置情報の収集も行わず、外部サーバーや第三者へデータを送信することは<strong>一切ありません</strong>。"
     ],
-    "s3_t": "3. Device Permissions (Photos & Notifications)",
+    "s3_t": "3. 端末の権限（写真と通知）",
     "s3_ul": [
-      "<strong>Photo Library:</strong> requested only when you choose to attach a map or building photo to a territory card. Selected images are stored locally inside the App folder on your device.",
-      "<strong>Notifications:</strong> used exclusively for local on-device reminders (such as the 1st-of-the-month report reminder or return visit reminders)."
+      "<strong>写真ライブラリ：</strong> 区域カードに画像を添付する際のみ使用され、画像は端末内に保存されます。",
+      "<strong>通知：</strong> 端末内のローカルリマインダー（毎月1日の報告通知や再訪問リマインダー）にのみ使用されます。"
     ],
-    "s4_t": "4. Backups & Data Deletion",
-    "s4_p": "You may export a complete backup file (including territory photos) at any time via the standard iOS share sheet (for example, saving to your personal iCloud Drive or Files app). Uninstalling the App from your device permanently deletes all local App data.",
-    "s5_t": "5. Contact",
-    "s5_p": "If you have any questions regarding this Privacy Policy or the App, please contact the developer at:"
+    "s4_t": "4. バックアップとデータの削除",
+    "s4_p": "iOSの標準共有メニューからいつでもバックアップファイルを自身のiCloud Driveや「ファイル」アプリへ書き出すことができます。アプリを削除すると、端末内のデータはすべて消去されます。",
+    "s5_t": "5. お問い合わせ",
+    "s5_p": "本プライバシーポリシーまたはアプリに関するお問い合わせ先："
   }
 }

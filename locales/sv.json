@@ -19,89 +19,89 @@
   "cta_appstore": "Hämta i App Store",
   "cta_donate": "Stöd utvecklaren",
   "stat_1_val": "35+",
-  "stat_1_lbl": "Interface Languages",
+  "stat_1_lbl": "Språk",
   "stat_2_val": "100%",
-  "stat_2_lbl": "Offline & Private Data",
-  "stat_3_val": "iOS & iPad",
-  "stat_3_lbl": "Native SwiftUI Design",
-  "stat_4_val": "0 Ads",
-  "stat_4_lbl": "Free, No Subscriptions",
+  "stat_2_lbl": "Lokalt & Privat",
+  "stat_3_val": "iPhone & iPad",
+  "stat_3_lbl": "Äkta iOS-design",
+  "stat_4_val": "0 Reklam",
+  "stat_4_lbl": "Helt gratis",
   "screens_title": "Utforska varje vy i JW Ministry",
   "screens_sub": "Äkta skärmbilder på svenska — från tjänstetimer och bibelkurser till pionjärkalender, distriktskort och mörkt OLED-läge.",
   "shots": [
     [
       "1.jpg",
-      "1. Start Tab & Live Timer",
-      "Track your ministry time down to the second (08:04:08). Pause, save to report, or reset in one tap. Increment Bible studies during the session, attach specific Bible students (e.g., Alex), write session notes (territory number, companion), and see total time spent today."
+      "1. Startflik & Tjänstetimer",
+      "Mät din tid i tjänsten på sekunden, lägg till bibelkurser, välj elev och skriv distriktsanteckningar."
     ],
     [
       "2.jpg",
-      "2. Bible Students Manager",
-      "Keep an organized list of your Bible students. Record the exact study publication, lesson, and section (for example: 'Enjoy Life Forever!, lesson 24, section 3') and add new students in seconds."
+      "2. Hantera bibelkurselever",
+      "Spara varje elev med aktuell publikation, lektion och avsnitt (t.ex. ”Ett hopp om en ljus framtid, lektion 24”)."
     ],
     [
       "3.jpg",
-      "3. Service Year & Monthly Reports",
-      "Switch between service years (2025–2026, 2026–2027), monitor total service year hours and remaining hours, review every month with detailed session logs, study counts, student tags, and share your monthly report on the 1st."
+      "3. Månadsrapport & Tjänsteår",
+      "Växla mellan tjänsteår (2025–2026, 2026–2027), se totala timmar och dela din rapport den 1:a i månaden."
     ],
     [
       "4.jpg",
-      "4. Pioneer Calendar & Goal Progress",
-      "See your current role (Regular pioneer – 50 h, Auxiliary 15/30 h, or Publisher) and personal monthly target (e.g., 55 h). Visual progress bar shows hours completed this month, remaining monthly hours, and full service year balance alongside your daily schedule."
+      "4. Kalender & Pionjärmål",
+      "Välj din uppgift (Reguljär pionjär – 50 tim, Hjälppionjär – 15/30 tim eller Förkunnare) eller sätt ett personligt månadsmål."
     ],
     [
       "5.jpg",
-      "5. Territory Cards & Door-to-Door Log",
-      "Attach photos of territory maps or buildings (e.g., Territory A-8), filter addresses, and log every visit with date, visit status ('First visit', 'Not at home', 'Refusal'), and doorway notes like 'No intercom'."
+      "5. Distriktskort & Från hus till hus",
+      "Bifoga foton på distriktskartan, filtrera adresser och anteckna varje besök (”Första besöket”, ”Inte hemma”, ”Avböjde”)."
     ],
     [
       "6.jpg",
-      "6. Flexible Settings & Cloud Backup",
-      "Export or import full JSON backups via the top cloud buttons. Configure your service role, custom monthly hour target, September–August service year, 1st-of-the-month report reminders at 20:00, and return visit notifications after N days."
+      "6. Inställningar, Påminnelser & iCloud-backup",
+      "Exportera och importera fullständiga säkerhetskopior, aktivera rapportpåminnelse den 1:a kl. 20:00 och notiser för återbesök."
     ],
     [
       "7.jpg",
-      "7. True Black OLED Dark Mode (Timer)",
-      "Designed for comfort during evening witnessing and battery saving on OLED iPhones. High-contrast purple accents keep controls clear in any lighting."
+      "7. OLED Mörkt läge (Timer)",
+      "Behagligt mörkt tema för kvällstjänst och batteribesparing."
     ],
     [
       "8.jpg",
-      "8. OLED Dark Mode (Settings & Goals)",
-      "Every screen, sheet, and widget seamlessly adapts to iOS system Light and Dark appearances."
+      "8. OLED Mörkt läge (Inställningar)",
+      "Anpassar sig automatiskt till ljust och mörkt läge i iOS."
     ]
   ],
   "feat_sec_title": "Allt du behöver för en välorganiserad tjänst",
   "feat_sec_sub": "Utvecklad för förkunnare, hjälppionjärer, reguljära pionjärer och specialpionjärer.",
   "features": [
     [
-      "⏱️",
-      "Smart Timer, Widgets & Live Activities",
-      "Start your ministry timer from the app, Home Screen widget, or Lock Screen. Your active timer stays visible on the Dynamic Island and Lock Screen even when your iPhone is locked."
+      "",
+      "Smart Timer, Widgetar & Dynamic Island",
+      "Starta timern från appen, hemskärmswidgeten eller låsskärmen. Din aktiva tid syns hela tiden i Dynamic Island."
     ],
     [
-      "📚",
-      "Bible Studies & Publication Progress",
-      "Link Bible studies directly to your daily report entries. Track each student's name and current lesson in 'Enjoy Life Forever!' or any other study aid."
+      "",
+      "Bibelkurser & Lektionsframsteg",
+      "Koppla bibelkurser direkt till dina rapportposter. Håll koll på varje elevs lektion i ”Ett hopp om en ljus framtid”."
     ],
     [
-      "📊",
-      "Service Roles & Personal Hour Targets",
-      "Supports Publisher, Auxiliary Pioneer (15 or 30 hours), Regular Pioneer (50 hours), Special Pioneer / Missionary (90 / 100 hours), plus a custom 'Personal target' override (e.g., 55 hours/month)."
+      "",
+      "Tjänsteroller & Personliga Timmål",
+      "Stöder Förkunnare, Hjälppionjär (15 eller 30 timmar), Reguljär pionjär (50 timmar), Specialpionjär (90 / 100 timmar) samt eget månadsmål."
     ],
     [
-      "🗓️",
-      "Service Year (Sept–Aug) & Calendar",
-      "Plan ministry meetings, recurring schedules, and Family Worship in the Calendar. Compare planned vs. actual hours, convert planned sessions into report entries with a swipe, and track your annual pioneer goal."
+      "",
+      "Tjänsteår (sept.–aug.) & Kalender",
+      "Planera möten för tjänst och den andliga familjekvällen. Jämför planerade och faktiska timmar och svep en plan direkt till rapporten."
     ],
     [
-      "🗺️",
-      "Territories, Apartments & Visit Reminders",
-      "Create cards for territories, multi-story apartment buildings, and private houses. Attach map photos, color-code cards, search by address or resident name, and receive automatic reminders to make return visits."
+      "",
+      "Distrikt, Hyreshus & Återbesökspåminnelser",
+      "Skapa distriktskort med foton, 10 färger och lägenhetsgenerator efter portar och våningar. Sök på adress eller namn."
     ],
     [
-      "🔒",
-      "100% On-Device Privacy & Full Backups",
-      "No registration, no accounts, no external servers, and zero analytics. All records and territory photos stay locally on your iPhone/iPad, with instant backup export & restore to iCloud Drive or Files."
+      "",
+      "100 % Lokal Integritet & iCloud-backup",
+      "Ingen registrering och inga externa servrar. All data och alla foton stannar lokalt på din iPhone/iPad."
     ]
   ],
   "lang_sec_title": "Översatt till mer än 35 språk",
@@ -115,44 +115,28 @@
   "btn_patreon": "Stöd på Patreon",
   "card_crypto_title": "Direkt kryptoöverföring (0 % avgift)",
   "card_crypto_desc": "Direkt till utvecklarens plånbok:",
-  "usdt_label": "USDT (TRC-20 / TRON Network only):",
-  "ton_label": "TON / USDT (TON Network):",
+  "usdt_label": "USDT (endast TRC-20 / TRON-nätverk):",
+  "ton_label": "TON / USDT (TON-nätverk):",
   "copy_btn": "Kopiera",
   "copied_msg": "Kopierat!",
-  "crypto_warn": "For the TQQx... address, send assets via TRON (TRC-20) network only.",
+  "crypto_warn": "Skicka endast tillgångar via TRON-nätverket (TRC-20) till adressen TQQx...",
   "faq_title": "Vanliga frågor (FAQ)",
   "faqs": [
     [
-      "How does JW Ministry complement JW Library for Jehovah's Witnesses?",
-      "While JW Library is used for reading the Bible, publications, and congregation meetings, JW Ministry is purpose-built for tracking your personal field ministry: logging field service report hours, planning your regular or auxiliary pioneer schedule (15, 30, 50, or 100 hours), managing personal territory records, and tracking Bible students."
+      "Hur kompletterar JW Ministry appen JW Library?",
+      "Medan JW Library används för att läsa Bibeln, publikationer och vid möten, är JW Ministry skapad för din personliga tjänst på fältet: tidtagning, pionjärschema (15, 30, 50 tim), distriktsanteckningar och bibelkurser."
     ],
     [
-      "Where are my ministry records and territory notes stored?",
-      "Exclusively on your device (iPhone or iPad). The app has no external database or cloud server, ensuring complete confidentiality of your personal notes and addresses."
+      "Var sparas mina rapporter och distriktsanteckningar?",
+      "Uteslutande lokalt på din egen iPhone eller iPad. Ingen data skickas till externa servrar."
     ],
     [
-      "How do I transfer my data to a new iPhone or iPad?",
-      "Open the Settings tab and tap the Cloud Upload icon in the top-right corner to export a full backup file (including territory photos) to iCloud Drive or AirDrop. On your new device, tap the Cloud Download icon to restore everything in one tap."
+      "Hur flyttar jag mina data till en ny iPhone?",
+      "Under Inställningar trycker du på molnikonen uppe till höger för att exportera en fullständig backup till iCloud Drive och återställer den på din nya enhet."
     ],
     [
-      "How do automatic return visit reminders work?",
-      "In Settings → Notifications, enable 'Remind about return visits to addresses' and set the interval (for example, 3 days). If you haven't logged a follow-up visit to an address within that period, the app will gently remind you."
-    ],
-    [
-      "Does the app support the September–August Service Year?",
-      "Yes! Both the Report tab and the Calendar summary calculate monthly and annual hours across the official September–August service year, including remaining hours toward your annual pioneer goal."
-    ],
-    [
-      "Is JW Ministry a good replacement for ServicePlanner or MyTime on iPhone?",
-      "Yes! JW Ministry is actively maintained for the latest iOS and iPadOS releases, featuring Live Activities on the Lock Screen and Dynamic Island, interactive Home Screen widgets, an apartment building generator, Planned vs. Actual calendar tracking, and 1-tap iCloud Drive backups."
-    ],
-    [
-      "Does the app work completely offline during door-to-door ministry?",
-      "Absolutely. All timers, territory maps, apartment records, and Bible student notes work 100% offline without requiring mobile data or Wi-Fi."
-    ],
-    [
-      "Can I convert a planned ministry event in the Calendar into a Report entry?",
-      "Yes. Simply swipe on any planned ministry session in the Calendar and tap 'To Report' — the duration is automatically logged in your monthly report and deducted from your remaining planned hours."
+      "Fungerar appen utan internet i tjänsten?",
+      "Ja, appen fungerar 100 % offline utan mobildata eller Wi-Fi."
     ]
   ],
   "footer_privacy": "Integritetspolicy",
@@ -162,20 +146,20 @@
   "seo_sec_sub": "Hur JW Ministry hjälper förkunnare och pionjärer under hela tjänsteåret.",
   "seo_pillars": [
     [
-      "Regular & Special Pioneers (50, 90 & 100 Hours / 600-Hour Service Year)",
-      "Serving as a regular pioneer requires keeping track of both your 50-hour monthly target and your 600-hour September–August service year goal. JW Ministry automatically calculates your completed ministry hours, remaining monthly balance, and full service year progress. Set a custom personal monthly goal (e.g., 55 hours), schedule ministry days in the Calendar, and compare your planned hours against your actual reported time."
+      "Reguljära pionjärer och specialpionjärer (50, 90 & 100 tim / Tjänsteår 600 tim)",
+      "Håll enkelt koll på månadsmålet på 50 timmar och årsmålet på 600 timmar från september till augusti. Sätt ett personligt mål (t.ex. 55 tim) och jämför planerad tid med faktisk tid i Kalendern."
     ],
     [
-      "Auxiliary Pioneers (15 & 30 Hours) and Congregation Publishers",
-      "Joining a special campaign, circuit overseer's visit, or Memorial season as an auxiliary pioneer? Switch your role to Auxiliary Pioneer (15 h or 30 h) in seconds. Congregation publishers can log daily ministry sessions, track Bible studies, and enable an automatic notification on the 1st of every month at 20:00 so you never forget to submit your field service report."
+      "Hjälppionjärer (15 & 30 timmar) och församlingsförkunnare",
+      "Under kampanjmånader eller kring Åminnelsen byter du till Hjälppionjär (15 eller 30 tim) med ett tryck. Påminnelsen den 1:a kl. 20:00 hjälper dig att lämna in rapporten i tid."
     ],
     [
-      "House-to-House Territories, Apartment Generator & Return Visits",
-      "Replace paper slips with organized digital territory cards. Attach photos of territory maps, color-code cards with 10 stylish colors, and generate entire multi-story apartment buildings by entrances and floors in one tap. Record 'First visit', 'Not at home', or 'Refusal' statuses, search across all territories by street address or resident name, and receive automatic reminders when it is time to make a return visit."
+      "Från-hus-till-hus distrikt, trapphus & återbesök",
+      "Skapa digitala distriktskort med kartfoto, 10 färger och lägenhetsgenerator. Anteckna ”Inte hemma” och sök snabbt på namn eller gata."
     ],
     [
-      "Bible Student Progress & Modern iOS Replacement for Legacy Apps",
-      "Maintain a detailed roster of your Bible students along with their current study publication (such as 'Enjoy Life Forever!'), lesson number, and section. Attach students directly to your timer session so your monthly study count is always accurate. Built natively with SwiftUI for the latest iPhone and iPad models, JW Ministry is the ideal modern alternative to discontinued apps like ServicePlanner or MyTime."
+      "Bibelkursöversikt & modernt alternativ till ServicePlanner / MyTime",
+      "Spara varje elevs aktuella lektion i ”Ett hopp om en ljus framtid”. Byggd specifikt för iPhone och iPad."
     ]
   ],
   "seo_tags_title": "Vanliga sökningar kring tjänsten på fältet:",
@@ -202,46 +186,46 @@
   ],
   "comp_rows": [
     [
-      "Live Ministry Timer on Lock Screen & Dynamic Island",
-      "No",
-      "No",
-      "Yes (Live Activities)"
+      "Live-timer på låsskärmen & Dynamic Island",
+      "Nej",
+      "Nej",
+      "Ja (Live Activities)"
     ],
     [
-      "Pioneer Goal Calculator (15, 30, 50, 100h) & 600h Service Year",
-      "Manual calculation",
-      "Partial",
-      "Automatic + Custom Goal"
+      "Pionjärtimmar (15, 30, 50 tim) & tjänsteår (600 tim) beräkning",
+      "Manuellt",
+      "Delvis",
+      "Automatiskt + Eget mål"
     ],
     [
-      "Planned vs. Actual Calendar & Swipe-to-Report Conversion",
-      "No",
-      "No",
-      "Built-in 1-Swipe Workflow"
+      "Planerat vs. Faktiskt i Kalendern & svep till Rapport",
+      "Nej",
+      "Nej",
+      "Med ett svep"
     ],
     [
-      "Apartment Building Generator + Territory Photos & 10 Color Tags",
-      "Paper slips",
-      "Text only",
-      "Full Visual Cards + Search"
+      "Trapphus-/lägenhetsgenerator + Distriktsfoton & 10 färger",
+      "Papperslappar",
+      "Endast text",
+      "Visuella kort + Sökning"
     ],
     [
-      "Return Visit Reminders & 1st-of-the-Month Report Notification",
-      "No",
-      "Basic",
-      "Smart iOS Notifications"
+      "Påminnelser om återbesök & rapport den 1:a i månaden",
+      "Nej",
+      "Enkel",
+      "Smarta iOS-notiser"
     ],
     [
-      "100% On-Device Privacy & Full iCloud Drive Backup with Photos",
-      "Easy to lose",
-      "Often breaks on new iOS",
-      "Offline & Instant Restore"
+      "100 % lokal integritet & full iCloud Drive-backup med foton",
+      "Lätt att tappa bort",
+      "Fel vid byte av iPhone",
+      "100 % Offline & säkert"
     ],
     [
-      "Native Support for Latest iOS, iPad, OLED Dark Mode & 35+ Languages",
+      "Stöd för senaste iOS, iPad, mörkt OLED-läge & 35+ språk",
       "—",
-      "Discontinued",
-      "Modern SwiftUI Architecture"
+      "Uppdateras ej",
+      "Modern SwiftUI-design"
     ]
   ],
   "filter_all": "Alla (8)",
@@ -250,11 +234,11 @@
   "filter_ipad": "iPad",
   "wn_title": "Nyheter i version 1.8",
   "wn_items": [
-    "Automatic monthly planned-hours total in the Calendar with a dual Planned vs. Actual progress bar.",
-    "1-swipe conversion of any scheduled Calendar ministry session directly into a monthly Report entry.",
-    "Instant search by street address or resident name across Territories, plus 10 color themes for territory cards.",
-    "Upcoming Service Year (2026–2027) support in the Report tab with a sleek annual balance summary.",
-    "Full optimization for the latest iOS & iPadOS releases and enhanced on-device backup protection."
+    "Automatisk summering av planerade timmar i Kalendern med dubbel förloppsindikator (Planerat vs. Faktiskt).",
+    "Omvandla ett planerat tjänstepass i Kalendern direkt till en rapportpost med ett svep.",
+    "Direktsökning på adress eller namn i alla distrikt samt 10 färgteman för distriktskort.",
+    "Stöd för kommande tjänsteår (2026–2027) under fliken Rapport.",
+    "Full optimering för senaste iOS & iPadOS och förstärkt skydd för säkerhetskopior."
   ],
   "howto_name": "How to Track Field Service Hours & Pioneer Schedule on iPhone",
   "howto_steps": [
@@ -278,55 +262,55 @@
   "nav_comp": "Jämförelse",
   "sticky_sub": "iPhone & iPad • Gratis",
   "feature_badges": [
-    "Time Tracking • Live Activities",
-    "Bible Studies • Lesson Progress",
-    "Service Roles • 15 / 30 / 50 / 100 h",
-    "Service Year • Plan vs. Actual",
-    "Territory Log • Search & Alerts",
-    "On-Device Privacy • iCloud Backup"
+    "Timer • Live Activities",
+    "Bibelkurser • Lektioner",
+    "Uppgifter • 15 / 30 / 50 / 100 tim",
+    "Tjänsteår • Plan vs. Utfall",
+    "Distrikt • Sök & Påminnelser",
+    "100% Privat • iCloud-backup"
   ],
   "pillar_badges": [
-    "Regular & Special Pioneer Ministry",
-    "Auxiliary Pioneers & Publishers",
-    "House-to-House & Personal Territories",
-    "Bible Studies & Modern iOS Design"
+    "Reguljära & Specialpionjärer",
+    "Hjälppionjärer & Förkunnare",
+    "Från hus till hus & Distrikt",
+    "Bibelkurser & iOS"
   ],
   "pillar_Checklists": [
     [
-      "Automatic 50 h monthly & 600 h September–August service year tracking",
-      "Custom monthly hour target override (e.g., 55 h/month)",
-      "Dual progress bar comparing scheduled vs. reported hours"
+      "Automatisk balans för 50 tim/månad och 600 tim under tjänsteåret",
+      "Personligt månatligt timmål (t.ex. 55 timmar)",
+      "Dubbel stapel: planerade vs. rapporterade timmar"
     ],
     [
-      "One-tap switch to 15 h or 30 h Auxiliary Pioneer goals",
-      "Instant monthly report formatting and sharing on the 1st",
-      "Gentle reminder notification on the 1st of each month at 20:00"
+      "Snabbt byte till 15 eller 30 timmars hjälppionjärmål",
+      "Dela månadsrapporten med ett tryck",
+      "Automatisk påminnelse den 1:a varje månad kl. 20:00"
     ],
     [
-      "Multi-story apartment generator by entrances and floors",
-      "Territory map photos, 10 color themes & instant resident/address search",
-      "Automated return visit reminders after your chosen number of days"
+      "Lägenhetsgenerator efter port och våning",
+      "Distriktsfoton, 10 färger och snabb sökning på namn eller adress",
+      "Automatiska påminnelser för återbesök"
     ],
     [
-      "Track exact lessons in 'Enjoy Life Forever!' for every student",
-      "Built natively for iOS & iPadOS with Dynamic Island & OLED Dark Mode",
-      "Complete modern replacement for legacy ServicePlanner & MyTime apps"
+      "Följ lektioner i ”Ett hopp om en ljus framtid”",
+      "Widgetar, Dynamic Island och mörkt OLED-läge",
+      "Modern ersättare för ServicePlanner och MyTime"
     ]
   ],
   "rev_title": "Omdömen från förkunnare och pionjärer",
   "rev_sub": "Vad bröder och systrar säger som använder JW Ministry varje vecka.",
   "reviews": [
     [
-      "Alex, Regular Pioneer",
-      "Having the monthly planned hours automatically totaled in the Calendar alongside my actual reported hours is a game changer for keeping my 50-hour schedule on track."
+      "Erik, Reguljär pionjär",
+      "Att se summan av planerade timmar i Kalendern bredvid mina faktiska timmar gör det så mycket enklare att hålla mitt schema på 50 timmar."
     ],
     [
-      "Sarah, Auxiliary Pioneer",
-      "The Lock Screen Live Activity timer and 1-swipe conversion from Calendar plans to Report entries make tracking 15 and 30 hours effortless. Clean, fast, and 100% private."
+      "Hanna, Hjälppionjär",
+      "Timern på låsskärmen och att kunna svepa en plan från Kalendern direkt till rapporten fungerar klockrent."
     ],
     [
-      "David, Congregation Publisher",
-      "The apartment building generator and instant search across territory notes replaced all my paper slips. Return visit reminders help me never miss a follow-up."
+      "Simon, Förkunnare",
+      "Trapphusgeneratorn och namnsökningen i distriktskorten har ersatt alla mina lösa papperslappar."
     ]
   ],
   "privacy_page": {

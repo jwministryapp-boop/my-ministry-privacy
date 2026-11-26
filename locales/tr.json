@@ -19,89 +19,89 @@
   "cta_appstore": "App Store'dan İndir",
   "cta_donate": "Geliştiriciyi Destekle",
   "stat_1_val": "35+",
-  "stat_1_lbl": "Interface Languages",
+  "stat_1_lbl": "Arayüz Dili",
   "stat_2_val": "100%",
-  "stat_2_lbl": "Offline & Private Data",
-  "stat_3_val": "iOS & iPad",
-  "stat_3_lbl": "Native SwiftUI Design",
-  "stat_4_val": "0 Ads",
-  "stat_4_lbl": "Free, No Subscriptions",
+  "stat_2_lbl": "Yerel ve Gizli",
+  "stat_3_val": "iPhone ve iPad",
+  "stat_3_lbl": "Yerel iOS Tasarımı",
+  "stat_4_val": "0 Reklam",
+  "stat_4_lbl": "Tamamen Ücretsiz",
   "screens_title": "JW Ministry'nin Tüm Ekranlarını Keşfedin",
   "screens_sub": "Türkçe arayüzün gerçek ekran görüntüleri — hizmet sayacından Kutsal Kitap tetkiklerine, öncü takviminden sahalara ve OLED karanlık moda kadar.",
   "shots": [
     [
       "1.jpg",
-      "1. Start Tab & Live Timer",
-      "Track your ministry time down to the second (08:04:08). Pause, save to report, or reset in one tap. Increment Bible studies during the session, attach specific Bible students (e.g., Alex), write session notes (territory number, companion), and see total time spent today."
+      "1. Başlangıç Sekmesi ve Hizmet Sayacı",
+      "Hizmet sürenizi saniyesine kadar ölçün, Kutsal Kitap tetkikleri ekleyin, öğrenci seçin ve saha notları yazın."
     ],
     [
       "2.jpg",
-      "2. Bible Students Manager",
-      "Keep an organized list of your Bible students. Record the exact study publication, lesson, and section (for example: 'Enjoy Life Forever!, lesson 24, section 3') and add new students in seconds."
+      "2. Kutsal Kitap Tetkik Öğrencileri",
+      "Her öğrenciyi mevcut yayın, ders ve kısımla kaydedin (örn. “Sonsuza Dek Mutlu Bir Yaşam!, 24. ders”)."
     ],
     [
       "3.jpg",
-      "3. Service Year & Monthly Reports",
-      "Switch between service years (2025–2026, 2026–2027), monitor total service year hours and remaining hours, review every month with detailed session logs, study counts, student tags, and share your monthly report on the 1st."
+      "3. Aylık Rapor ve Hizmet Yılı",
+      "Hizmet yılları (2025–2026, 2026–2027) arasında geçiş yapın, toplam saatleri görün ve ayın 1'inde raporunuzu paylaşın."
     ],
     [
       "4.jpg",
-      "4. Pioneer Calendar & Goal Progress",
-      "See your current role (Regular pioneer – 50 h, Auxiliary 15/30 h, or Publisher) and personal monthly target (e.g., 55 h). Visual progress bar shows hours completed this month, remaining monthly hours, and full service year balance alongside your daily schedule."
+      "4. Takvim ve Öncü Saat Hedefi",
+      "Rolünüzü (Daimi öncü – 50 sa., Yardımcı – 15/30 sa. veya Müjdeci) veya kişisel aylık hedefinizi ilerleme çubuğuyla takip edin."
     ],
     [
       "5.jpg",
-      "5. Territory Cards & Door-to-Door Log",
-      "Attach photos of territory maps or buildings (e.g., Territory A-8), filter addresses, and log every visit with date, visit status ('First visit', 'Not at home', 'Refusal'), and doorway notes like 'No intercom'."
+      "5. Saha Kartları ve Evden Eve Kayıt",
+      "Saha haritası fotoğrafı ekleyin, adresleri filtreleyin ve her ziyareti (“İlk ziyaret”, “Evde yok”, “Red”) kaydedin."
     ],
     [
       "6.jpg",
-      "6. Flexible Settings & Cloud Backup",
-      "Export or import full JSON backups via the top cloud buttons. Configure your service role, custom monthly hour target, September–August service year, 1st-of-the-month report reminders at 20:00, and return visit notifications after N days."
+      "6. Ayarlar, Hatırlatıcılar ve iCloud Yedekleme",
+      "Tam yedekleri dışa/içe aktarın, ayın 1'i saat 20:00 rapor hatırlatıcısını ve tekrar ziyaret bildirimlerini açın."
     ],
     [
       "7.jpg",
-      "7. True Black OLED Dark Mode (Timer)",
-      "Designed for comfort during evening witnessing and battery saving on OLED iPhones. High-contrast purple accents keep controls clear in any lighting."
+      "7. OLED Karanlık Mod (Sayaç)",
+      "Akşam şahitliği ve pil tasarrufu için göz yormayan karanlık tema."
     ],
     [
       "8.jpg",
-      "8. OLED Dark Mode (Settings & Goals)",
-      "Every screen, sheet, and widget seamlessly adapts to iOS system Light and Dark appearances."
+      "8. OLED Karanlık Mod (Ayarlar)",
+      "iOS açık ve koyu sistem temalarına tam uyum."
     ]
   ],
   "feat_sec_title": "Düzenli Bir Tarla Hizmeti İçin İhtiyacınız Olan Her Şey",
   "feat_sec_sub": "Müjdeciler, yardımcı öncüler, daimi ve özel öncüler için özel olarak tasarlandı.",
   "features": [
     [
-      "⏱️",
-      "Smart Timer, Widgets & Live Activities",
-      "Start your ministry timer from the app, Home Screen widget, or Lock Screen. Your active timer stays visible on the Dynamic Island and Lock Screen even when your iPhone is locked."
+      "",
+      "Akıllı Sayaç, Araç Takımları ve Dynamic Island",
+      "Sayacı uygulamadan, ana ekran widget'ından veya kilit ekranından başlatın. Aktif süre Dynamic Island'da her zaman görünür kalır."
     ],
     [
-      "📚",
-      "Bible Studies & Publication Progress",
-      "Link Bible studies directly to your daily report entries. Track each student's name and current lesson in 'Enjoy Life Forever!' or any other study aid."
+      "",
+      "Kutsal Kitap Tetkikleri ve Yayın İlerlemesi",
+      "Tetkikleri doğrudan rapor kayıtlarına bağlayın. Her öğrencinin “Sonsuza Dek Mutlu Bir Yaşam!” kitabındaki dersini takip edin."
     ],
     [
-      "📊",
-      "Service Roles & Personal Hour Targets",
-      "Supports Publisher, Auxiliary Pioneer (15 or 30 hours), Regular Pioneer (50 hours), Special Pioneer / Missionary (90 / 100 hours), plus a custom 'Personal target' override (e.g., 55 hours/month)."
+      "",
+      "Hizmet Rolleri ve Kişisel Saat Hedefleri",
+      "Müjdeci, Yardımcı Öncü (15 veya 30 saat), Daimi Öncü (50 saat), Özel Öncü (90 / 100 saat) ve özel aylık saat hedefini destekler."
     ],
     [
-      "🗓️",
-      "Service Year (Sept–Aug) & Calendar",
-      "Plan ministry meetings, recurring schedules, and Family Worship in the Calendar. Compare planned vs. actual hours, convert planned sessions into report entries with a swipe, and track your annual pioneer goal."
+      "",
+      "Hizmet Yılı (Eylül–Ağustos) ve Takvim",
+      "Tarla hizmeti buluşmalarını ve aile ibadetini planlayın. Planlanan ve gerçekleşen saatleri karşılaştırın, planları kaydırarak rapora aktarın."
     ],
     [
-      "🗺️",
-      "Territories, Apartments & Visit Reminders",
-      "Create cards for territories, multi-story apartment buildings, and private houses. Attach map photos, color-code cards, search by address or resident name, and receive automatic reminders to make return visits."
+      "",
+      "Sahalar, Apartmanlar ve Tekrar Ziyaret Hatırlatıcıları",
+      "Harita fotoğraflı, 10 renkli saha kartları ve bina/kat daire oluşturucu. Adres veya isimle arayın, tekrar ziyaret bildirimleri alın."
     ],
     [
-      "🔒",
-      "100% On-Device Privacy & Full Backups",
-      "No registration, no accounts, no external servers, and zero analytics. All records and territory photos stay locally on your iPhone/iPad, with instant backup export & restore to iCloud Drive or Files."
+      "",
+      "%100 Cihaz İçi Gizlilik ve iCloud Yedekleme",
+      "Kayıt yok, dış sunucu yok. Tüm kayıtlar ve saha fotoğrafları yalnızca iPhone/iPad'inizde kalır ve iCloud Drive'a yedeklenir."
     ]
   ],
   "lang_sec_title": "35'ten Fazla Dile Tamamen Çevrildi",
@@ -115,44 +115,28 @@
   "btn_patreon": "Patreon'da Destek Ol",
   "card_crypto_title": "Doğrudan Kripto Transferi (%0 Komisyon)",
   "card_crypto_desc": "Doğrudan geliştiricinin cüzdanına:",
-  "usdt_label": "USDT (TRC-20 / TRON Network only):",
-  "ton_label": "TON / USDT (TON Network):",
+  "usdt_label": "USDT (yalnızca TRC-20 / TRON ağı):",
+  "ton_label": "TON / USDT (TON ağı):",
   "copy_btn": "Kopyala",
   "copied_msg": "Kopyalandı!",
-  "crypto_warn": "For the TQQx... address, send assets via TRON (TRC-20) network only.",
+  "crypto_warn": "TQQx... adresine yalnızca TRON (TRC-20) ağı üzerinden varlık gönderin.",
   "faq_title": "Sıkça Sorulan Sorular (SSS)",
   "faqs": [
     [
-      "How does JW Ministry complement JW Library for Jehovah's Witnesses?",
-      "While JW Library is used for reading the Bible, publications, and congregation meetings, JW Ministry is purpose-built for tracking your personal field ministry: logging field service report hours, planning your regular or auxiliary pioneer schedule (15, 30, 50, or 100 hours), managing personal territory records, and tracking Bible students."
+      "JW Ministry, JW Library uygulamasını nasıl tamamlar?",
+      "JW Library Kutsal Kitabı, yayınları okumak ve ibadetler için kullanılırken; JW Ministry kişisel tarla hizmeti kayıtlarınız içindir: saat sayacı, öncü programı (15, 30, 50 sa.), kişisel saha notları ve tetkik öğrencileri."
     ],
     [
-      "Where are my ministry records and territory notes stored?",
-      "Exclusively on your device (iPhone or iPad). The app has no external database or cloud server, ensuring complete confidentiality of your personal notes and addresses."
+      "Raporlarım ve saha notlarım nerede saklanıyor?",
+      "Yalnızca kendi iPhone veya iPad cihazınızın hafızasında. Hiçbir veri dış sunuculara gönderilmez."
     ],
     [
-      "How do I transfer my data to a new iPhone or iPad?",
-      "Open the Settings tab and tap the Cloud Upload icon in the top-right corner to export a full backup file (including territory photos) to iCloud Drive or AirDrop. On your new device, tap the Cloud Download icon to restore everything in one tap."
+      "Verilerimi yeni bir iPhone'a nasıl aktarırım?",
+      "Ayarlar sekmesinde sağ üstteki bulut simgesine dokunarak tam yedeği iCloud Drive'a aktarın ve yeni cihazınızda tek dokunuşla geri yükleyin."
     ],
     [
-      "How do automatic return visit reminders work?",
-      "In Settings → Notifications, enable 'Remind about return visits to addresses' and set the interval (for example, 3 days). If you haven't logged a follow-up visit to an address within that period, the app will gently remind you."
-    ],
-    [
-      "Does the app support the September–August Service Year?",
-      "Yes! Both the Report tab and the Calendar summary calculate monthly and annual hours across the official September–August service year, including remaining hours toward your annual pioneer goal."
-    ],
-    [
-      "Is JW Ministry a good replacement for ServicePlanner or MyTime on iPhone?",
-      "Yes! JW Ministry is actively maintained for the latest iOS and iPadOS releases, featuring Live Activities on the Lock Screen and Dynamic Island, interactive Home Screen widgets, an apartment building generator, Planned vs. Actual calendar tracking, and 1-tap iCloud Drive backups."
-    ],
-    [
-      "Does the app work completely offline during door-to-door ministry?",
-      "Absolutely. All timers, territory maps, apartment records, and Bible student notes work 100% offline without requiring mobile data or Wi-Fi."
-    ],
-    [
-      "Can I convert a planned ministry event in the Calendar into a Report entry?",
-      "Yes. Simply swipe on any planned ministry session in the Calendar and tap 'To Report' — the duration is automatically logged in your monthly report and deducted from your remaining planned hours."
+      "Uygulama hizmette internet olmadan çalışır mı?",
+      "Evet, mobil veri veya Wi-Fi gerektirmeden %100 çevrimdışı çalışır."
     ]
   ],
   "footer_privacy": "Gizlilik Politikası",
@@ -162,20 +146,20 @@
   "seo_sec_sub": "JW Ministry hizmet yılı boyunca müjdecilere ve öncülere nasıl yardımcı olur?",
   "seo_pillars": [
     [
-      "Regular & Special Pioneers (50, 90 & 100 Hours / 600-Hour Service Year)",
-      "Serving as a regular pioneer requires keeping track of both your 50-hour monthly target and your 600-hour September–August service year goal. JW Ministry automatically calculates your completed ministry hours, remaining monthly balance, and full service year progress. Set a custom personal monthly goal (e.g., 55 hours), schedule ministry days in the Calendar, and compare your planned hours against your actual reported time."
+      "Daimi ve Özel Öncüler (50, 90 ve 100 saat / 600 saatlik Hizmet Yılı)",
+      "Eylül–Ağustos hizmet yılı boyunca aylık 50 saat ve yıllık 600 saat hedefinizi otomatik takip edin. Kişisel hedef (örn. 55 saat) belirleyin ve Takvimde planlanan ile gerçekleşen süreyi karşılaştırın."
     ],
     [
-      "Auxiliary Pioneers (15 & 30 Hours) and Congregation Publishers",
-      "Joining a special campaign, circuit overseer's visit, or Memorial season as an auxiliary pioneer? Switch your role to Auxiliary Pioneer (15 h or 30 h) in seconds. Congregation publishers can log daily ministry sessions, track Bible studies, and enable an automatic notification on the 1st of every month at 20:00 so you never forget to submit your field service report."
+      "Yardımcı Öncüler (15 ve 30 saat) ve Cemaat Müjdecileri",
+      "Özel faaliyet aylarında veya Anma Yemeği döneminde tek dokunuşla Yardımcı Öncü (15 veya 30 saat) rolüne geçin. Her ayın 1'i saat 20:00 hatırlatıcısı raporunuzu zamanında vermenize yardımcı olur."
     ],
     [
-      "House-to-House Territories, Apartment Generator & Return Visits",
-      "Replace paper slips with organized digital territory cards. Attach photos of territory maps, color-code cards with 10 stylish colors, and generate entire multi-story apartment buildings by entrances and floors in one tap. Record 'First visit', 'Not at home', or 'Refusal' statuses, search across all territories by street address or resident name, and receive automatic reminders when it is time to make a return visit."
+      "Evden Eve Sahalar, Apartmanlar ve Tekrar Ziyaretler",
+      "Harita fotoğraflı, 10 renkli dijital saha kartları oluşturun ve katlara göre daireleri otomatik üretin. “Evde yok” kayıtlarını tutun ve isim veya adresle arayın."
     ],
     [
-      "Bible Student Progress & Modern iOS Replacement for Legacy Apps",
-      "Maintain a detailed roster of your Bible students along with their current study publication (such as 'Enjoy Life Forever!'), lesson number, and section. Attach students directly to your timer session so your monthly study count is always accurate. Built natively with SwiftUI for the latest iPhone and iPad models, JW Ministry is the ideal modern alternative to discontinued apps like ServicePlanner or MyTime."
+      "Tetkik Öğrencisi Takibi ve Eski Uygulamaların Modern Alternatifi",
+      "Her öğrencinin “Sonsuza Dek Mutlu Bir Yaşam!” kitabındaki dersini kaydedin. ServicePlanner ve MyTime yerine modern iPhone ve iPad çözümü."
     ]
   ],
   "seo_tags_title": "Tarla hizmetiyle ilgili popüler aramalar:",
@@ -202,46 +186,46 @@
   ],
   "comp_rows": [
     [
-      "Live Ministry Timer on Lock Screen & Dynamic Island",
-      "No",
-      "No",
-      "Yes (Live Activities)"
+      "Kilit ekranında ve Dynamic Island'da canlı sayaç",
+      "Hayır",
+      "Hayır",
+      "Evet (Live Activities)"
     ],
     [
-      "Pioneer Goal Calculator (15, 30, 50, 100h) & 600h Service Year",
-      "Manual calculation",
-      "Partial",
-      "Automatic + Custom Goal"
+      "Öncü saat (15, 30, 50 sa.) ve hizmet yılı (600 sa.) hesaplama",
+      "Manuel",
+      "Kısmen",
+      "Otomatik + Kişisel hedef"
     ],
     [
-      "Planned vs. Actual Calendar & Swipe-to-Report Conversion",
-      "No",
-      "No",
-      "Built-in 1-Swipe Workflow"
+      "Takvimde Plan vs Gerçek karşılaştırması ve Rapora kaydırma",
+      "Hayır",
+      "Hayır",
+      "Tek dokunuşla"
     ],
     [
-      "Apartment Building Generator + Territory Photos & 10 Color Tags",
-      "Paper slips",
-      "Text only",
-      "Full Visual Cards + Search"
+      "Apartman daire oluşturucu + Saha fotoğrafları ve 10 renk",
+      "Kağıt notlar",
+      "Sadece metin",
+      "Görsel kartlar + Arama"
     ],
     [
-      "Return Visit Reminders & 1st-of-the-Month Report Notification",
-      "No",
-      "Basic",
-      "Smart iOS Notifications"
+      "Tekrar ziyaret ve ayın 1'inde rapor gönderme hatırlatıcısı",
+      "Hayır",
+      "Temel",
+      "Akıllı iOS bildirimleri"
     ],
     [
-      "100% On-Device Privacy & Full iCloud Drive Backup with Photos",
-      "Easy to lose",
-      "Often breaks on new iOS",
-      "Offline & Instant Restore"
+      "%100 çevrimdışı gizlilik ve fotoğraflı tam iCloud Drive yedeği",
+      "Kaybolma riski",
+      "Telefon değişiminde hata",
+      "%100 Çevrimdışı ve güvenli"
     ],
     [
-      "Native Support for Latest iOS, iPad, OLED Dark Mode & 35+ Languages",
+      "Yeni iOS, iPad, OLED karanlık mod ve 35+ dil desteği",
       "—",
-      "Discontinued",
-      "Modern SwiftUI Architecture"
+      "Güncellenmiyor",
+      "Modern SwiftUI tasarımı"
     ]
   ],
   "filter_all": "Tümü (8)",
@@ -250,11 +234,11 @@
   "filter_ipad": "iPad",
   "wn_title": "Sürüm 1.8 Yenilikleri",
   "wn_items": [
-    "Automatic monthly planned-hours total in the Calendar with a dual Planned vs. Actual progress bar.",
-    "1-swipe conversion of any scheduled Calendar ministry session directly into a monthly Report entry.",
-    "Instant search by street address or resident name across Territories, plus 10 color themes for territory cards.",
-    "Upcoming Service Year (2026–2027) support in the Report tab with a sleek annual balance summary.",
-    "Full optimization for the latest iOS & iPadOS releases and enhanced on-device backup protection."
+    "Takvimde aylık planlanan saatlerin otomatik toplamı ve çift Plan vs Gerçek ilerleme çubuğu.",
+    "Takvimdeki planlanan bir hizmeti tek kaydırmayla doğrudan Rapor kaydına dönüştürme.",
+    "Tüm sahalarda adres veya isimle anında arama ve saha kartları için 10 renk teması.",
+    "Rapor sekmesinde gelecek hizmet yılı (2026–2027) desteği.",
+    "En yeni iOS ve iPadOS sürümleri için tam optimizasyon ve güçlendirilmiş yedekleme koruması."
   ],
   "howto_name": "How to Track Field Service Hours & Pioneer Schedule on iPhone",
   "howto_steps": [
@@ -278,55 +262,55 @@
   "nav_comp": "Karşılaştırma",
   "sticky_sub": "iPhone ve iPad • Ücretsiz",
   "feature_badges": [
-    "Time Tracking • Live Activities",
-    "Bible Studies • Lesson Progress",
-    "Service Roles • 15 / 30 / 50 / 100 h",
-    "Service Year • Plan vs. Actual",
-    "Territory Log • Search & Alerts",
-    "On-Device Privacy • iCloud Backup"
+    "Sayaç • Live Activities",
+    "Tetkikler • Ders İlerlemesi",
+    "Roller • 15 / 30 / 50 / 100 sa.",
+    "Hizmet Yılı • Plan vs Gerçek",
+    "Sahalar • Arama ve Uyarılar",
+    "%100 Gizlilik • iCloud Yedek"
   ],
   "pillar_badges": [
-    "Regular & Special Pioneer Ministry",
-    "Auxiliary Pioneers & Publishers",
-    "House-to-House & Personal Territories",
-    "Bible Studies & Modern iOS Design"
+    "Daimi ve Özel Öncüler",
+    "Yardımcı Öncüler ve Müjdeciler",
+    "Evden Eve ve Kişisel Sahalar",
+    "Kutsal Kitap Tetkikleri ve iOS"
   ],
   "pillar_Checklists": [
     [
-      "Automatic 50 h monthly & 600 h September–August service year tracking",
-      "Custom monthly hour target override (e.g., 55 h/month)",
-      "Dual progress bar comparing scheduled vs. reported hours"
+      "Aylık 50 saat ve hizmet yılı 600 saat otomatik bakiye",
+      "Özel aylık saat hedefi (örn. 55 saat)",
+      "Planlanan vs bildirilen saatler için çift ilerleme çubuğu"
     ],
     [
-      "One-tap switch to 15 h or 30 h Auxiliary Pioneer goals",
-      "Instant monthly report formatting and sharing on the 1st",
-      "Gentle reminder notification on the 1st of each month at 20:00"
+      "15 veya 30 saatlik yardımcı öncü hedefine hızlı geçiş",
+      "Tek dokunuşla aylık rapor paylaşımı",
+      "Her ayın 1'inde saat 20:00 otomatik hatırlatma"
     ],
     [
-      "Multi-story apartment generator by entrances and floors",
-      "Territory map photos, 10 color themes & instant resident/address search",
-      "Automated return visit reminders after your chosen number of days"
+      "Giriş ve katlara göre apartman daire oluşturucu",
+      "Saha haritası fotoğrafları, 10 renk ve hızlı arama",
+      "Belirlenen gün sonrasında otomatik tekrar ziyaret bildirimi"
     ],
     [
-      "Track exact lessons in 'Enjoy Life Forever!' for every student",
-      "Built natively for iOS & iPadOS with Dynamic Island & OLED Dark Mode",
-      "Complete modern replacement for legacy ServicePlanner & MyTime apps"
+      "“Sonsuza Dek Mutlu Bir Yaşam!” ders ve kısım takibi",
+      "Widget'lar, Dynamic Island ve OLED karanlık mod",
+      "ServicePlanner ve MyTime için modern iOS alternatifi"
     ]
   ],
   "rev_title": "Müjdeci ve Öncülerin Yorumları",
   "rev_sub": "JW Ministry'yi günlük hizmetlerinde kullanan kardeşlerin görüşleri.",
   "reviews": [
     [
-      "Alex, Regular Pioneer",
-      "Having the monthly planned hours automatically totaled in the Calendar alongside my actual reported hours is a game changer for keeping my 50-hour schedule on track."
+      "Emre, Daimi Öncü",
+      "Takvimde planlanan saatlerin toplamını gerçekleşen saatlerle yan yana görmek 50 saatlik programımı korumamı çok kolaylaştırdı."
     ],
     [
-      "Sarah, Auxiliary Pioneer",
-      "The Lock Screen Live Activity timer and 1-swipe conversion from Calendar plans to Report entries make tracking 15 and 30 hours effortless. Clean, fast, and 100% private."
+      "Zeynep, Yardımcı Öncü",
+      "Kilit ekranındaki canlı sayaç ve Takvimdeki planı kaydırarak doğrudan rapora aktarma özelliği harika çalışıyor."
     ],
     [
-      "David, Congregation Publisher",
-      "The apartment building generator and instant search across territory notes replaced all my paper slips. Return visit reminders help me never miss a follow-up."
+      "Murat, Müjdeci",
+      "Apartman oluşturucu ve sahalarda isimle arama özelliği tüm kağıt notlarımın yerini aldı."
     ]
   ],
   "privacy_page": {

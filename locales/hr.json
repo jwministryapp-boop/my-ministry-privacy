@@ -19,89 +19,89 @@
   "cta_appstore": "Preuzmi u App Storeu",
   "cta_donate": "Podrži autora",
   "stat_1_val": "35+",
-  "stat_1_lbl": "Interface Languages",
+  "stat_1_lbl": "Jezika sučelja",
   "stat_2_val": "100%",
-  "stat_2_lbl": "Offline & Private Data",
-  "stat_3_val": "iOS & iPad",
-  "stat_3_lbl": "Native SwiftUI Design",
-  "stat_4_val": "0 Ads",
-  "stat_4_lbl": "Free, No Subscriptions",
+  "stat_2_lbl": "Lokalno i privatno",
+  "stat_3_val": "iPhone i iPad",
+  "stat_3_lbl": "Izvorni iOS dizajn",
+  "stat_4_val": "0 Reklama",
+  "stat_4_lbl": "Potpuno besplatno",
   "screens_title": "Istražite svaki zaslon aplikacije JW Ministry",
   "screens_sub": "Stvarne snimke zaslona na hrvatskom jeziku — od štoperice za službu i biblijskih tečajeva do kalendara pionira, područja i tamnog OLED načina.",
   "shots": [
     [
       "1.jpg",
-      "1. Start Tab & Live Timer",
-      "Track your ministry time down to the second (08:04:08). Pause, save to report, or reset in one tap. Increment Bible studies during the session, attach specific Bible students (e.g., Alex), write session notes (territory number, companion), and see total time spent today."
+      "1. Kartica Start i štoperica službe",
+      "Mjerite vrijeme službe u sekundu, dodajte biblijske tečajeve, odaberite interesenta i pišite bilješke s područja."
     ],
     [
       "2.jpg",
-      "2. Bible Students Manager",
-      "Keep an organized list of your Bible students. Record the exact study publication, lesson, and section (for example: 'Enjoy Life Forever!, lesson 24, section 3') and add new students in seconds."
+      "2. Evidencija biblijskih tečajeva",
+      "Spremite svakog interesenta uz trenutnu publikaciju, lekciju i odlomak (npr. „Sretan život – sada i zauvijek!, 24. lekcija”)."
     ],
     [
       "3.jpg",
-      "3. Service Year & Monthly Reports",
-      "Switch between service years (2025–2026, 2026–2027), monitor total service year hours and remaining hours, review every month with detailed session logs, study counts, student tags, and share your monthly report on the 1st."
+      "3. Mjesečni izvještaj i službena godina",
+      "Prebacujte se između službenih godina (2025–2026, 2026–2027), pratite ukupne sate i podijelite izvještaj 1. u mjesecu."
     ],
     [
       "4.jpg",
-      "4. Pioneer Calendar & Goal Progress",
-      "See your current role (Regular pioneer – 50 h, Auxiliary 15/30 h, or Publisher) and personal monthly target (e.g., 55 h). Visual progress bar shows hours completed this month, remaining monthly hours, and full service year balance alongside your daily schedule."
+      "4. Kalendar i cilj pionira",
+      "Odaberite svoje zaduženje (Stalni pionir – 50 h, Pomoćni – 15/30 h ili Objavitelj) ili postavite osobni mjesečni cilj."
     ],
     [
       "5.jpg",
-      "5. Territory Cards & Door-to-Door Log",
-      "Attach photos of territory maps or buildings (e.g., Territory A-8), filter addresses, and log every visit with date, visit status ('First visit', 'Not at home', 'Refusal'), and doorway notes like 'No intercom'."
+      "5. Kartice područja i od kuće do kuće",
+      "Priložite fotografije karte područja, filtrirajte adrese i bilježite svaki posjet („Prvi posjet”, „Nema nikoga”, „Odbijanje”)."
     ],
     [
       "6.jpg",
-      "6. Flexible Settings & Cloud Backup",
-      "Export or import full JSON backups via the top cloud buttons. Configure your service role, custom monthly hour target, September–August service year, 1st-of-the-month report reminders at 20:00, and return visit notifications after N days."
+      "6. Postavke, podsjetnici i iCloud sigurnosna kopija",
+      "Izvezite i uvezite potpune sigurnosne kopije, uključite podsjetnik 1. u mjesecu u 20:00 i obavijesti za ponovne posjete."
     ],
     [
       "7.jpg",
-      "7. True Black OLED Dark Mode (Timer)",
-      "Designed for comfort during evening witnessing and battery saving on OLED iPhones. High-contrast purple accents keep controls clear in any lighting."
+      "7. OLED Tamni način (Štoperica)",
+      "Ugodna tamna tema za večernje svjedočenje i uštedu baterije."
     ],
     [
       "8.jpg",
-      "8. OLED Dark Mode (Settings & Goals)",
-      "Every screen, sheet, and widget seamlessly adapts to iOS system Light and Dark appearances."
+      "8. OLED Tamni način (Postavke)",
+      "Potpuna prilagodba svijetlom i tamnom načinu sustava iOS."
     ]
   ],
   "feat_sec_title": "Sve što vam treba za organiziranu službu propovijedanja",
   "feat_sec_sub": "Izrađeno za objavitelje, pomoćne, stalne i specijalne pionire.",
   "features": [
     [
-      "⏱️",
-      "Smart Timer, Widgets & Live Activities",
-      "Start your ministry timer from the app, Home Screen widget, or Lock Screen. Your active timer stays visible on the Dynamic Island and Lock Screen even when your iPhone is locked."
+      "",
+      "Pametna štoperica, Widgeti i Dynamic Island",
+      "Pokrenite štopericu iz aplikacije, widgeta na početnom zaslonu ili zaključanog zaslona. Aktivno vrijeme uvijek je vidljivo na Dynamic Islandu."
     ],
     [
-      "📚",
-      "Bible Studies & Publication Progress",
-      "Link Bible studies directly to your daily report entries. Track each student's name and current lesson in 'Enjoy Life Forever!' or any other study aid."
+      "",
+      "Biblijski tečajevi i napredak u lekcijama",
+      "Povežite biblijske tečajeve izravno s unosima u izvještaju. Pratite lekciju svakog interesenta u knjizi „Sretan život – sada i zauvijek!”."
     ],
     [
-      "📊",
-      "Service Roles & Personal Hour Targets",
-      "Supports Publisher, Auxiliary Pioneer (15 or 30 hours), Regular Pioneer (50 hours), Special Pioneer / Missionary (90 / 100 hours), plus a custom 'Personal target' override (e.g., 55 hours/month)."
+      "",
+      "Uloge u službi i osobni ciljevi sati",
+      "Podržava Objavitelja, Pomoćnog pionira (15 ili 30 sati), Stalnog pionira (50 sati), Specijalnog pionira (90 / 100 sati) i osobni mjesečni cilj."
     ],
     [
-      "🗓️",
-      "Service Year (Sept–Aug) & Calendar",
-      "Plan ministry meetings, recurring schedules, and Family Worship in the Calendar. Compare planned vs. actual hours, convert planned sessions into report entries with a swipe, and track your annual pioneer goal."
+      "",
+      "Službena godina (rujan–kolovoz) i Kalendar",
+      "Planirajte sastanke za službu i obiteljsko proučavanje. Usporedite planirane i stvarne sate te pretvorite planove u izvještaj jednim potezom prsta."
     ],
     [
-      "🗺️",
-      "Territories, Apartments & Visit Reminders",
-      "Create cards for territories, multi-story apartment buildings, and private houses. Attach map photos, color-code cards, search by address or resident name, and receive automatic reminders to make return visits."
+      "",
+      "Područja, stambene zgrade i podsjetnici za posjete",
+      "Izradite kartice područja s fotografijama, 10 boja i generatorom stanova po ulazima i katovima. Pretražujte po adresi ili imenu."
     ],
     [
-      "🔒",
-      "100% On-Device Privacy & Full Backups",
-      "No registration, no accounts, no external servers, and zero analytics. All records and territory photos stay locally on your iPhone/iPad, with instant backup export & restore to iCloud Drive or Files."
+      "",
+      "100% privatnost na uređaju i iCloud sigurnosne kopije",
+      "Bez registracije i bez vanjskih poslužitelja. Svi podaci i fotografije područja ostaju lokalno na vašem iPhoneu/iPadu."
     ]
   ],
   "lang_sec_title": "Potpuno prevedeno na više od 35 jezika",
@@ -115,44 +115,28 @@
   "btn_patreon": "Podrži na Patreonu",
   "card_crypto_title": "Izravna kripto uplata (0% naknade)",
   "card_crypto_desc": "Izravno u novčanik programera:",
-  "usdt_label": "USDT (TRC-20 / TRON Network only):",
-  "ton_label": "TON / USDT (TON Network):",
+  "usdt_label": "USDT (samo TRC-20 / TRON mreža):",
+  "ton_label": "TON / USDT (TON mreža):",
   "copy_btn": "Kopiraj",
   "copied_msg": "Kopirano!",
-  "crypto_warn": "For the TQQx... address, send assets via TRON (TRC-20) network only.",
+  "crypto_warn": "Na adresu TQQx... šaljite isključivo sredstva putem TRON (TRC-20) mreže.",
   "faq_title": "Često postavljana pitanja (FAQ)",
   "faqs": [
     [
-      "How does JW Ministry complement JW Library for Jehovah's Witnesses?",
-      "While JW Library is used for reading the Bible, publications, and congregation meetings, JW Ministry is purpose-built for tracking your personal field ministry: logging field service report hours, planning your regular or auxiliary pioneer schedule (15, 30, 50, or 100 hours), managing personal territory records, and tracking Bible students."
+      "Kako JW Ministry nadopunjuje aplikaciju JW Library?",
+      "Dok JW Library služi za čitanje Biblije, publikacija i sastanke, JW Ministry je stvoren za evidenciju vaše osobne službe propovijedanja: mjerenje sati, raspored pionira (15, 30, 50 h), kartice područja i biblijske tečajeve."
     ],
     [
-      "Where are my ministry records and territory notes stored?",
-      "Exclusively on your device (iPhone or iPad). The app has no external database or cloud server, ensuring complete confidentiality of your personal notes and addresses."
+      "Gdje se spremaju moji izvještaji i bilješke s područja?",
+      "Isključivo lokalno u memoriji vašeg iPhonea ili iPada. Nikakvi podaci ne šalju se na vanjske poslužitelje."
     ],
     [
-      "How do I transfer my data to a new iPhone or iPad?",
-      "Open the Settings tab and tap the Cloud Upload icon in the top-right corner to export a full backup file (including territory photos) to iCloud Drive or AirDrop. On your new device, tap the Cloud Download icon to restore everything in one tap."
+      "Kako prenijeti podatke na novi iPhone?",
+      "U kartici Postavke dodirnite ikonu oblaka gore desno za izvoz potpune kopije na iCloud Drive i vratite je na novom uređaju."
     ],
     [
-      "How do automatic return visit reminders work?",
-      "In Settings → Notifications, enable 'Remind about return visits to addresses' and set the interval (for example, 3 days). If you haven't logged a follow-up visit to an address within that period, the app will gently remind you."
-    ],
-    [
-      "Does the app support the September–August Service Year?",
-      "Yes! Both the Report tab and the Calendar summary calculate monthly and annual hours across the official September–August service year, including remaining hours toward your annual pioneer goal."
-    ],
-    [
-      "Is JW Ministry a good replacement for ServicePlanner or MyTime on iPhone?",
-      "Yes! JW Ministry is actively maintained for the latest iOS and iPadOS releases, featuring Live Activities on the Lock Screen and Dynamic Island, interactive Home Screen widgets, an apartment building generator, Planned vs. Actual calendar tracking, and 1-tap iCloud Drive backups."
-    ],
-    [
-      "Does the app work completely offline during door-to-door ministry?",
-      "Absolutely. All timers, territory maps, apartment records, and Bible student notes work 100% offline without requiring mobile data or Wi-Fi."
-    ],
-    [
-      "Can I convert a planned ministry event in the Calendar into a Report entry?",
-      "Yes. Simply swipe on any planned ministry session in the Calendar and tap 'To Report' — the duration is automatically logged in your monthly report and deducted from your remaining planned hours."
+      "Radi li aplikacija u službi bez interneta?",
+      "Da, aplikacija radi 100% offline bez mobilnih podataka ili Wi-Fi mreže."
     ]
   ],
   "footer_privacy": "Pravila privatnosti",
@@ -162,20 +146,20 @@
   "seo_sec_sub": "Kako JW Ministry pomaže objaviteljima i pionirima tijekom cijele službene godine.",
   "seo_pillars": [
     [
-      "Regular & Special Pioneers (50, 90 & 100 Hours / 600-Hour Service Year)",
-      "Serving as a regular pioneer requires keeping track of both your 50-hour monthly target and your 600-hour September–August service year goal. JW Ministry automatically calculates your completed ministry hours, remaining monthly balance, and full service year progress. Set a custom personal monthly goal (e.g., 55 hours), schedule ministry days in the Calendar, and compare your planned hours against your actual reported time."
+      "Stalni i specijalni pioniri (50, 90 i 100 sati / Službena godina 600 sati)",
+      "Jednostavno pratite mjesečni cilj od 50 sati i godišnji cilj od 600 sati od rujna do kolovoza. Postavite osobni cilj (npr. 55 sati) i usporedite planirane sate sa stvarnima u Kalendaru."
     ],
     [
-      "Auxiliary Pioneers (15 & 30 Hours) and Congregation Publishers",
-      "Joining a special campaign, circuit overseer's visit, or Memorial season as an auxiliary pioneer? Switch your role to Auxiliary Pioneer (15 h or 30 h) in seconds. Congregation publishers can log daily ministry sessions, track Bible studies, and enable an automatic notification on the 1st of every month at 20:00 so you never forget to submit your field service report."
+      "Pomoćni pioniri (15 i 30 sati) i skupštinski objavitelji",
+      "Tijekom posebnih akcija ili razdoblja Спомен-svečanosti prebacite se na Pomoćnog pionira (15 ili 30 sati) jednim dodirom. Podsjetnik 1. u mjesecu u 20:00 pomaže vam da na vrijeme predate izvještaj."
     ],
     [
-      "House-to-House Territories, Apartment Generator & Return Visits",
-      "Replace paper slips with organized digital territory cards. Attach photos of territory maps, color-code cards with 10 stylish colors, and generate entire multi-story apartment buildings by entrances and floors in one tap. Record 'First visit', 'Not at home', or 'Refusal' statuses, search across all territories by street address or resident name, and receive automatic reminders when it is time to make a return visit."
+      "Područja od kuće do kuće, zgrade i ponovni posjeti",
+      "Izradite digitalne kartice područja s fotografijom karte, 10 boja i generatorom stanova. Bilježite „Nema nikoga” i brzo pretražujte po imenu ili adresi."
     ],
     [
-      "Bible Student Progress & Modern iOS Replacement for Legacy Apps",
-      "Maintain a detailed roster of your Bible students along with their current study publication (such as 'Enjoy Life Forever!'), lesson number, and section. Attach students directly to your timer session so your monthly study count is always accurate. Built natively with SwiftUI for the latest iPhone and iPad models, JW Ministry is the ideal modern alternative to discontinued apps like ServicePlanner or MyTime."
+      "Praćenje biblijskih tečajeva i moderna zamjena za ServicePlanner / MyTime",
+      "Spremite trenutnu lekciju svakog interesenta u knjizi „Sretan život – sada i zauvijek!”. Izrađeno za iPhone i iPad."
     ]
   ],
   "seo_tags_title": "Popularna pretraživanja vezana uz službu propovijedanja:",
@@ -202,46 +186,46 @@
   ],
   "comp_rows": [
     [
-      "Live Ministry Timer on Lock Screen & Dynamic Island",
-      "No",
-      "No",
-      "Yes (Live Activities)"
+      "Štoperica uživo na zaključanom zaslonu i Dynamic Islandu",
+      "Ne",
+      "Ne",
+      "Da (Live Activities)"
     ],
     [
-      "Pioneer Goal Calculator (15, 30, 50, 100h) & 600h Service Year",
-      "Manual calculation",
-      "Partial",
-      "Automatic + Custom Goal"
+      "Izračun sati pionira (15, 30, 50 h) i službene godine (600 h)",
+      "Ručno",
+      "Djelomično",
+      "Automatski + Osobni cilj"
     ],
     [
-      "Planned vs. Actual Calendar & Swipe-to-Report Conversion",
-      "No",
-      "No",
-      "Built-in 1-Swipe Workflow"
+      "Usporedba Plan vs. Stvarno u Kalendaru i potez u Izvještaj",
+      "Ne",
+      "Ne",
+      "Jednim potezom prsta"
     ],
     [
-      "Apartment Building Generator + Territory Photos & 10 Color Tags",
-      "Paper slips",
-      "Text only",
-      "Full Visual Cards + Search"
+      "Generator stambenih zgrada + Fotografije karata i 10 boja",
+      "Papirnati listići",
+      "Samo tekst",
+      "Vizualne kartice + Pretraga"
     ],
     [
-      "Return Visit Reminders & 1st-of-the-Month Report Notification",
-      "No",
-      "Basic",
-      "Smart iOS Notifications"
+      "Podsjetnici za ponovne posjete i predaju izvještaja 1. u mjesecu",
+      "Ne",
+      "Osnovno",
+      "Pametne iOS obavijesti"
     ],
     [
-      "100% On-Device Privacy & Full iCloud Drive Backup with Photos",
-      "Easy to lose",
-      "Often breaks on new iOS",
-      "Offline & Instant Restore"
+      "100% lokalna privatnost i potpuna kopija s fotografijama na iCloud Drive",
+      "Lako se izgubi",
+      "Greške pri promjeni iPhonea",
+      "100% Offline i sigurno"
     ],
     [
-      "Native Support for Latest iOS, iPad, OLED Dark Mode & 35+ Languages",
+      "Izvorna podrška za novi iOS, iPad, OLED tamni način i 35+ jezika",
       "—",
-      "Discontinued",
-      "Modern SwiftUI Architecture"
+      "Ne ažurira se",
+      "Moderan SwiftUI dizajn"
     ]
   ],
   "filter_all": "Sve (8)",
@@ -250,11 +234,11 @@
   "filter_ipad": "iPad",
   "wn_title": "Što je novo u verziji 1.8",
   "wn_items": [
-    "Automatic monthly planned-hours total in the Calendar with a dual Planned vs. Actual progress bar.",
-    "1-swipe conversion of any scheduled Calendar ministry session directly into a monthly Report entry.",
-    "Instant search by street address or resident name across Territories, plus 10 color themes for territory cards.",
-    "Upcoming Service Year (2026–2027) support in the Report tab with a sleek annual balance summary.",
-    "Full optimization for the latest iOS & iPadOS releases and enhanced on-device backup protection."
+    "Automatski zbroj planiranih sati u mjesecu u Kalendaru i dvostruka traka napretka (Planirano vs. Ostvareno).",
+    "Pretvaranje planiranog termina iz Kalendara izravno u unos Izvještaja jednim potezom prsta.",
+    "Trenutačna pretraga po adresi ili imenu stanara u svim područjima te 10 boja za kartice područja.",
+    "Podrška za nadolazeću službenu godinu (2026–2027) u kartici Izvještaj.",
+    "Potpuna optimizacija za najnoviji iOS i iPadOS te pojačana zaštita sigurnosnih kopija."
   ],
   "howto_name": "How to Track Field Service Hours & Pioneer Schedule on iPhone",
   "howto_steps": [
@@ -278,55 +262,55 @@
   "nav_comp": "Usporedba",
   "sticky_sub": "iPhone i iPad • Besplatno",
   "feature_badges": [
-    "Time Tracking • Live Activities",
-    "Bible Studies • Lesson Progress",
-    "Service Roles • 15 / 30 / 50 / 100 h",
-    "Service Year • Plan vs. Actual",
-    "Territory Log • Search & Alerts",
-    "On-Device Privacy • iCloud Backup"
+    "Štoperica • Live Activities",
+    "Biblijski tečajevi • Lekcije",
+    "Uloge • 15 / 30 / 50 / 100 h",
+    "Službena godina • Plan vs. Stvarno",
+    "Područja • Pretraga i obavijesti",
+    "100% Privatno • iCloud kopija"
   ],
   "pillar_badges": [
-    "Regular & Special Pioneer Ministry",
-    "Auxiliary Pioneers & Publishers",
-    "House-to-House & Personal Territories",
-    "Bible Studies & Modern iOS Design"
+    "Stalni i specijalni pioniri",
+    "Pomoćni pioniri i objavitelji",
+    "Od kuće do kuće i osobna područja",
+    "Biblijski tečajevi i iOS"
   ],
   "pillar_Checklists": [
     [
-      "Automatic 50 h monthly & 600 h September–August service year tracking",
-      "Custom monthly hour target override (e.g., 55 h/month)",
-      "Dual progress bar comparing scheduled vs. reported hours"
+      "Automatski saldo za 50 h mjesečno i 600 h u službenoj godini",
+      "Osobni mjesečni cilj sati (npr. 55 sati)",
+      "Dvostruka traka: planirani vs. prijavljeni sati"
     ],
     [
-      "One-tap switch to 15 h or 30 h Auxiliary Pioneer goals",
-      "Instant monthly report formatting and sharing on the 1st",
-      "Gentle reminder notification on the 1st of each month at 20:00"
+      "Brzo prebacivanje na cilj od 15 ili 30 sati",
+      "Dijeljenje mjesečnog izvještaja jednim dodirom",
+      "Automatski podsjetnik 1. u mjesecu u 20:00"
     ],
     [
-      "Multi-story apartment generator by entrances and floors",
-      "Territory map photos, 10 color themes & instant resident/address search",
-      "Automated return visit reminders after your chosen number of days"
+      "Generator stanova po ulazima i katovima",
+      "Fotografije karata, 10 boja i brza pretraga po imenu ili adresi",
+      "Automatske obavijesti za ponovne posjete"
     ],
     [
-      "Track exact lessons in 'Enjoy Life Forever!' for every student",
-      "Built natively for iOS & iPadOS with Dynamic Island & OLED Dark Mode",
-      "Complete modern replacement for legacy ServicePlanner & MyTime apps"
+      "Praćenje lekcija u knjizi „Sretan život – sada i zauvijek!”",
+      "Widgeti, Dynamic Island i OLED tamni način",
+      "Moderna zamjena za ServicePlanner i MyTime"
     ]
   ],
   "rev_title": "Iskustva objavitelja i pionira",
   "rev_sub": "Što kažu braća i sestre koji svakodnevno koriste JW Ministry u službi.",
   "reviews": [
     [
-      "Alex, Regular Pioneer",
-      "Having the monthly planned hours automatically totaled in the Calendar alongside my actual reported hours is a game changer for keeping my 50-hour schedule on track."
+      "Luka, stalni pionir",
+      "Automatski zbroj planiranih sati u Kalendaru usporedno sa stvarnim vremenom uvelike mi olakšava održavanje rasporeda od 50 sati."
     ],
     [
-      "Sarah, Auxiliary Pioneer",
-      "The Lock Screen Live Activity timer and 1-swipe conversion from Calendar plans to Report entries make tracking 15 and 30 hours effortless. Clean, fast, and 100% private."
+      "Ana, pomoćna pionirka",
+      "Štoperica na zaključanom zaslonu i prebacivanje plana iz Kalendara u izvještaj jednim potezom prsta rade izvrsno."
     ],
     [
-      "David, Congregation Publisher",
-      "The apartment building generator and instant search across territory notes replaced all my paper slips. Return visit reminders help me never miss a follow-up."
+      "Marko, objavitelj",
+      "Generator zgrada i pretraga po imenu u karticama područja zamijenili su sve moje papirnate bilješke."
     ]
   ],
   "privacy_page": {

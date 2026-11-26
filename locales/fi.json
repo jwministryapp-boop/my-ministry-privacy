@@ -19,89 +19,89 @@
   "cta_appstore": "Lataa App Storesta",
   "cta_donate": "Tue kehittäjää",
   "stat_1_val": "35+",
-  "stat_1_lbl": "Interface Languages",
+  "stat_1_lbl": "Kieltä",
   "stat_2_val": "100%",
-  "stat_2_lbl": "Offline & Private Data",
-  "stat_3_val": "iOS & iPad",
-  "stat_3_lbl": "Native SwiftUI Design",
-  "stat_4_val": "0 Ads",
-  "stat_4_lbl": "Free, No Subscriptions",
+  "stat_2_lbl": "Paikallinen & Yksityinen",
+  "stat_3_val": "iPhone & iPad",
+  "stat_3_lbl": "Aito iOS-ulkoasu",
+  "stat_4_val": "0 Mainoksia",
+  "stat_4_lbl": "Täysin ilmainen",
   "screens_title": "Tutustu JW Ministryn jokaiseen näkymään",
   "screens_sub": "Aidot suomenkieliset näyttökuvat — kenttäpalvelusajastimesta ja raamattukursseista tienraivaajan kalenteriin, aluekortteihin ja tummaan OLED-tilaan.",
   "shots": [
     [
       "1.jpg",
-      "1. Start Tab & Live Timer",
-      "Track your ministry time down to the second (08:04:08). Pause, save to report, or reset in one tap. Increment Bible studies during the session, attach specific Bible students (e.g., Alex), write session notes (territory number, companion), and see total time spent today."
+      "1. Aloita-välilehti & Palvelusajastin",
+      "Mittaa kenttäpalvelusaikasi sekunnin tarkkuudella, lisää raamattukursseja, valitse oppilas ja kirjoita aluemerkintöjä."
     ],
     [
       "2.jpg",
-      "2. Bible Students Manager",
-      "Keep an organized list of your Bible students. Record the exact study publication, lesson, and section (for example: 'Enjoy Life Forever!, lesson 24, section 3') and add new students in seconds."
+      "2. Raamattukurssioppilaat",
+      "Tallenna jokainen oppilas sekä nykyinen julkaisu, oppijakso ja kohta (esim. ”Onnellinen elämä nyt ja ikuisesti, oppijakso 24”)."
     ],
     [
       "3.jpg",
-      "3. Service Year & Monthly Reports",
-      "Switch between service years (2025–2026, 2026–2027), monitor total service year hours and remaining hours, review every month with detailed session logs, study counts, student tags, and share your monthly report on the 1st."
+      "3. Kuukausiraportti & Palvelusvuosi",
+      "Vaihda palvelusvuosien (2025–2026, 2026–2027) välillä, seuraa kokonaistunteja ja jaa raporttisi kuun 1. päivänä."
     ],
     [
       "4.jpg",
-      "4. Pioneer Calendar & Goal Progress",
-      "See your current role (Regular pioneer – 50 h, Auxiliary 15/30 h, or Publisher) and personal monthly target (e.g., 55 h). Visual progress bar shows hours completed this month, remaining monthly hours, and full service year balance alongside your daily schedule."
+      "4. Kalenteri & Tienraivaajan tavoite",
+      "Valitse tehtäväsi (Vakituinen tienraivaaja – 50 t, Osa-aikainen – 15/30 t tai Julistaja) tai aseta oma kuukausitavoite."
     ],
     [
       "5.jpg",
-      "5. Territory Cards & Door-to-Door Log",
-      "Attach photos of territory maps or buildings (e.g., Territory A-8), filter addresses, and log every visit with date, visit status ('First visit', 'Not at home', 'Refusal'), and doorway notes like 'No intercom'."
+      "5. Aluekortit & Talosta taloon",
+      "Liitä kuvia aluekartasta, suodata osoitteita ja kirjaa jokainen käynti (”Ensimmäinen käynti”, ”Ei kotona”, ”Kieltäytyi”)."
     ],
     [
       "6.jpg",
-      "6. Flexible Settings & Cloud Backup",
-      "Export or import full JSON backups via the top cloud buttons. Configure your service role, custom monthly hour target, September–August service year, 1st-of-the-month report reminders at 20:00, and return visit notifications after N days."
+      "6. Asetukset, Muistutukset & iCloud-varmuuskopio",
+      "Vie ja tuo täydet varmuuskopiot, ota käyttöön raporttimuistutus kuun 1. päivänä klo 20.00 ja uusintakäynti-ilmoitukset."
     ],
     [
       "7.jpg",
-      "7. True Black OLED Dark Mode (Timer)",
-      "Designed for comfort during evening witnessing and battery saving on OLED iPhones. High-contrast purple accents keep controls clear in any lighting."
+      "7. OLED Tumma tila (Ajastin)",
+      "Miellyttävä tumma teema iltatodistamiseen ja akun säästämiseen."
     ],
     [
       "8.jpg",
-      "8. OLED Dark Mode (Settings & Goals)",
-      "Every screen, sheet, and widget seamlessly adapts to iOS system Light and Dark appearances."
+      "8. OLED Tumma tila (Asetukset)",
+      "Mukautuu automaattisesti iOS:n vaaleaan ja tummaan tilaan."
     ]
   ],
   "feat_sec_title": "Kaikki mitä tarvitset järjestelmälliseen kenttäpalvelukseen",
   "feat_sec_sub": "Suunniteltu julistajille, osa-aikaisille, vakituisille ja erikoistienraivaajille.",
   "features": [
     [
-      "⏱️",
-      "Smart Timer, Widgets & Live Activities",
-      "Start your ministry timer from the app, Home Screen widget, or Lock Screen. Your active timer stays visible on the Dynamic Island and Lock Screen even when your iPhone is locked."
+      "",
+      "Älykäs ajastin, Widgetit & Dynamic Island",
+      "Käynnistä ajastin sovelluksesta, Koti-valikon widgetistä tai lukitusnäytöltä. Aktiivinen aika näkyy koko ajan Dynamic Islandissa."
     ],
     [
-      "📚",
-      "Bible Studies & Publication Progress",
-      "Link Bible studies directly to your daily report entries. Track each student's name and current lesson in 'Enjoy Life Forever!' or any other study aid."
+      "",
+      "Raamattukurssit & Julkaisujen edistyminen",
+      "Yhdistä raamattukurssit suoraan raporttimerkintöihin. Seuraa jokaisen oppilaan oppijaksoa ”Onnellinen elämä nyt ja ikuisesti” -kirjassa."
     ],
     [
-      "📊",
-      "Service Roles & Personal Hour Targets",
-      "Supports Publisher, Auxiliary Pioneer (15 or 30 hours), Regular Pioneer (50 hours), Special Pioneer / Missionary (90 / 100 hours), plus a custom 'Personal target' override (e.g., 55 hours/month)."
+      "",
+      "Palvelustehtävät & Omat tuntitavoitteet",
+      "Tukee Julistajaa, Osa-aikaista tienraivaajaa (15 tai 30 tuntia), Vakituista tienraivaajaa (50 tuntia), Erikoistienraivaajaa (90 / 100 tuntia) sekä omaa tavoitetta."
     ],
     [
-      "🗓️",
-      "Service Year (Sept–Aug) & Calendar",
-      "Plan ministry meetings, recurring schedules, and Family Worship in the Calendar. Compare planned vs. actual hours, convert planned sessions into report entries with a swipe, and track your annual pioneer goal."
+      "",
+      "Palvelusvuosi (syys–elo) & Kalenteri",
+      "Suunnittele kenttäpalvelustapaamiset ja perheen palvontailta. Vertaa suunniteltuja ja toteutuneita tunteja ja pyyhkäise suunnitelma suoraan raporttiin."
     ],
     [
-      "🗺️",
-      "Territories, Apartments & Visit Reminders",
-      "Create cards for territories, multi-story apartment buildings, and private houses. Attach map photos, color-code cards, search by address or resident name, and receive automatic reminders to make return visits."
+      "",
+      "Alueet, Kerrostalot & Uusintakäyntimuistutukset",
+      "Luo aluekortteja karttakuvilla, 10 värillä ja huoneistogeneraattorilla rappujen ja kerrosten mukaan. Hae osoitteella tai nimellä."
     ],
     [
-      "🔒",
-      "100% On-Device Privacy & Full Backups",
-      "No registration, no accounts, no external servers, and zero analytics. All records and territory photos stay locally on your iPhone/iPad, with instant backup export & restore to iCloud Drive or Files."
+      "",
+      "100 % Paikallinen tietosuoja & iCloud-varmuuskopiot",
+      "Ei rekisteröitymistä eikä ulkoisia palvelimia. Kaikki tiedot ja kuvat pysyvät paikallisesti iPhonessasi tai iPadissasi."
     ]
   ],
   "lang_sec_title": "Käännetty yli 35 kielelle",
@@ -115,44 +115,28 @@
   "btn_patreon": "Tue Patreonissa",
   "card_crypto_title": "Suora kryptosiirto (0 % kulu)",
   "card_crypto_desc": "Suoraan kehittäjän lompakkoon:",
-  "usdt_label": "USDT (TRC-20 / TRON Network only):",
-  "ton_label": "TON / USDT (TON Network):",
+  "usdt_label": "USDT (vain TRC-20 / TRON-verkko):",
+  "ton_label": "TON / USDT (TON-verkko):",
   "copy_btn": "Kopioi",
   "copied_msg": "Kopioitu!",
-  "crypto_warn": "For the TQQx... address, send assets via TRON (TRC-20) network only.",
+  "crypto_warn": "Lähetä osoitteeseen TQQx... varoja vain TRON (TRC-20) -verkon kautta.",
   "faq_title": "Usein kysytyt kysymykset (UKK)",
   "faqs": [
     [
-      "How does JW Ministry complement JW Library for Jehovah's Witnesses?",
-      "While JW Library is used for reading the Bible, publications, and congregation meetings, JW Ministry is purpose-built for tracking your personal field ministry: logging field service report hours, planning your regular or auxiliary pioneer schedule (15, 30, 50, or 100 hours), managing personal territory records, and tracking Bible students."
+      "Miten JW Ministry täydentää JW Library -sovellusta?",
+      "Kun JW Librarya käytetään Raamatun, julkaisujen lukemiseen ja kokouksiin, JW Ministry on tehty henkilökohtaisen kenttäpalveluksesi kirjaamiseen: tuntien ajastamiseen, tienraivaussuunnitelmaan (15, 30, 50 t), aluemerkintöihin ja raamattukursseihin."
     ],
     [
-      "Where are my ministry records and territory notes stored?",
-      "Exclusively on your device (iPhone or iPad). The app has no external database or cloud server, ensuring complete confidentiality of your personal notes and addresses."
+      "Missä raporttini ja aluemerkintäni säilytetään?",
+      "Yksinomaan paikallisesti omassa iPhonessasi tai iPadissasi. Mitään tietoja ei lähetetä ulkoisille palvelimille."
     ],
     [
-      "How do I transfer my data to a new iPhone or iPad?",
-      "Open the Settings tab and tap the Cloud Upload icon in the top-right corner to export a full backup file (including territory photos) to iCloud Drive or AirDrop. On your new device, tap the Cloud Download icon to restore everything in one tap."
+      "Miten siirrän tietoni uuteen iPhoneen?",
+      "Napauta Asetukset-välilehden oikeasta yläkulmasta pilvikuvaketta viedäksesi täyden varmuuskopion iCloud Driveen ja palauta se uudella laitteella."
     ],
     [
-      "How do automatic return visit reminders work?",
-      "In Settings → Notifications, enable 'Remind about return visits to addresses' and set the interval (for example, 3 days). If you haven't logged a follow-up visit to an address within that period, the app will gently remind you."
-    ],
-    [
-      "Does the app support the September–August Service Year?",
-      "Yes! Both the Report tab and the Calendar summary calculate monthly and annual hours across the official September–August service year, including remaining hours toward your annual pioneer goal."
-    ],
-    [
-      "Is JW Ministry a good replacement for ServicePlanner or MyTime on iPhone?",
-      "Yes! JW Ministry is actively maintained for the latest iOS and iPadOS releases, featuring Live Activities on the Lock Screen and Dynamic Island, interactive Home Screen widgets, an apartment building generator, Planned vs. Actual calendar tracking, and 1-tap iCloud Drive backups."
-    ],
-    [
-      "Does the app work completely offline during door-to-door ministry?",
-      "Absolutely. All timers, territory maps, apartment records, and Bible student notes work 100% offline without requiring mobile data or Wi-Fi."
-    ],
-    [
-      "Can I convert a planned ministry event in the Calendar into a Report entry?",
-      "Yes. Simply swipe on any planned ministry session in the Calendar and tap 'To Report' — the duration is automatically logged in your monthly report and deducted from your remaining planned hours."
+      "Toimiiko sovellus kenttäpalveluksessa ilman internetiä?",
+      "Kyllä, sovellus toimii 100 % offline-tilassa ilman mobiilidataa tai Wi-Fi-yhteyttä."
     ]
   ],
   "footer_privacy": "Tietosuojakäytäntö",
@@ -162,20 +146,20 @@
   "seo_sec_sub": "Miten JW Ministry auttaa julistajia ja tienraivaajia koko palvelusvuoden ajan.",
   "seo_pillars": [
     [
-      "Regular & Special Pioneers (50, 90 & 100 Hours / 600-Hour Service Year)",
-      "Serving as a regular pioneer requires keeping track of both your 50-hour monthly target and your 600-hour September–August service year goal. JW Ministry automatically calculates your completed ministry hours, remaining monthly balance, and full service year progress. Set a custom personal monthly goal (e.g., 55 hours), schedule ministry days in the Calendar, and compare your planned hours against your actual reported time."
+      "Vakituiset ja erikoistienraivaajat (50, 90 & 100 tuntia / Palvelusvuosi 600 tuntia)",
+      "Seuraa vaivattomasti 50 tunnin kuukausitavoitetta ja 600 tunnin vuositavoitetta syyskuusta elokuuhun. Aseta oma tavoite (esim. 55 tuntia) ja vertaa suunniteltuja tunteja toteutuneisiin Kalenterissa."
     ],
     [
-      "Auxiliary Pioneers (15 & 30 Hours) and Congregation Publishers",
-      "Joining a special campaign, circuit overseer's visit, or Memorial season as an auxiliary pioneer? Switch your role to Auxiliary Pioneer (15 h or 30 h) in seconds. Congregation publishers can log daily ministry sessions, track Bible studies, and enable an automatic notification on the 1st of every month at 20:00 so you never forget to submit your field service report."
+      "Osa-aikaiset tienraivaajat (15 & 30 tuntia) ja seurakunnan julistajat",
+      "Erikoiskampanjoiden tai muistojuhlan aikana voit vaihtaa Osa-aikaiseksi tienraivaajaksi (15 tai 30 tuntia) yhdellä napautuksella. Muistutus kuun 1. päivänä klo 20.00 auttaa muistamaan raportin."
     ],
     [
-      "House-to-House Territories, Apartment Generator & Return Visits",
-      "Replace paper slips with organized digital territory cards. Attach photos of territory maps, color-code cards with 10 stylish colors, and generate entire multi-story apartment buildings by entrances and floors in one tap. Record 'First visit', 'Not at home', or 'Refusal' statuses, search across all territories by street address or resident name, and receive automatic reminders when it is time to make a return visit."
+      "Talosta taloon -alueet, kerrostalot & uusintakäynnit",
+      "Luo digitaalisia aluekortteja karttakuvalla, 10 värillä ja huoneistogeneraattorilla. Merkitse ”Ei kotona” ja hae nopeasti nimellä tai kadulla."
     ],
     [
-      "Bible Student Progress & Modern iOS Replacement for Legacy Apps",
-      "Maintain a detailed roster of your Bible students along with their current study publication (such as 'Enjoy Life Forever!'), lesson number, and section. Attach students directly to your timer session so your monthly study count is always accurate. Built natively with SwiftUI for the latest iPhone and iPad models, JW Ministry is the ideal modern alternative to discontinued apps like ServicePlanner or MyTime."
+      "Raamattukurssien seuranta & moderni vaihtoehto ServicePlanner / MyTime -sovelluksille",
+      "Tallenna jokaisen oppilaan nykyinen oppijakso ”Onnellinen elämä nyt ja ikuisesti” -kirjassa. Suunniteltu iPhonelle ja iPadille."
     ]
   ],
   "seo_tags_title": "Suosittuja kenttäpalvelukseen liittyviä hakuja:",
@@ -202,46 +186,46 @@
   ],
   "comp_rows": [
     [
-      "Live Ministry Timer on Lock Screen & Dynamic Island",
-      "No",
-      "No",
-      "Yes (Live Activities)"
+      "Live-ajastin lukitusnäytöllä & Dynamic Islandissa",
+      "Ei",
+      "Ei",
+      "Kyllä (Live Activities)"
     ],
     [
-      "Pioneer Goal Calculator (15, 30, 50, 100h) & 600h Service Year",
-      "Manual calculation",
-      "Partial",
-      "Automatic + Custom Goal"
+      "Tienraivaajan tuntien (15, 30, 50 t) & palvelusvuoden (600 t) laskenta",
+      "Käsin",
+      "Osittain",
+      "Automaattinen + Oma tavoite"
     ],
     [
-      "Planned vs. Actual Calendar & Swipe-to-Report Conversion",
-      "No",
-      "No",
-      "Built-in 1-Swipe Workflow"
+      "Suunniteltu vs. Toteutunut Kalenterissa & pyyhkäisy Raporttiin",
+      "Ei",
+      "Ei",
+      "Yhdellä pyyhkäisyllä"
     ],
     [
-      "Apartment Building Generator + Territory Photos & 10 Color Tags",
-      "Paper slips",
-      "Text only",
-      "Full Visual Cards + Search"
+      "Kerrostalogeneraattori + Aluekuvat & 10 väriä",
+      "Paperilaput",
+      "Vain teksti",
+      "Kuvalliset kortit + Haku"
     ],
     [
-      "Return Visit Reminders & 1st-of-the-Month Report Notification",
-      "No",
-      "Basic",
-      "Smart iOS Notifications"
+      "Uusintakäyntimuistutukset & raporttimuistutus kuun 1. päivänä",
+      "Ei",
+      "Perustaso",
+      "Älykkäät iOS-ilmoitukset"
     ],
     [
-      "100% On-Device Privacy & Full iCloud Drive Backup with Photos",
-      "Easy to lose",
-      "Often breaks on new iOS",
-      "Offline & Instant Restore"
+      "100 % paikallinen tietosuoja & täysi iCloud Drive -varmuuskopio kuvineen",
+      "Helppo kadottaa",
+      "Virheitä puhelinta vaihtaessa",
+      "100 % Offline & turvallinen"
     ],
     [
-      "Native Support for Latest iOS, iPad, OLED Dark Mode & 35+ Languages",
+      "Tuki uusimmalle iOS:lle, iPadille, OLED-tilalle & yli 35 kielelle",
       "—",
-      "Discontinued",
-      "Modern SwiftUI Architecture"
+      "Ei päivityksiä",
+      "Moderni SwiftUI-ulkoasu"
     ]
   ],
   "filter_all": "Kaikki (8)",
@@ -250,11 +234,11 @@
   "filter_ipad": "iPad",
   "wn_title": "Uutta versiossa 1.8",
   "wn_items": [
-    "Automatic monthly planned-hours total in the Calendar with a dual Planned vs. Actual progress bar.",
-    "1-swipe conversion of any scheduled Calendar ministry session directly into a monthly Report entry.",
-    "Instant search by street address or resident name across Territories, plus 10 color themes for territory cards.",
-    "Upcoming Service Year (2026–2027) support in the Report tab with a sleek annual balance summary.",
-    "Full optimization for the latest iOS & iPadOS releases and enhanced on-device backup protection."
+    "Suunniteltujen kuukausituntien automaattinen summa Kalenterissa ja kaksinkertainen edistymispalkki (Suunniteltu vs. Toteutunut).",
+    "Muunna Kalenteriin suunniteltu palvelus suoraan raporttimerkinnäksi yhdellä pyyhkäisyllä.",
+    "Välitön haku osoitteen tai asukkaan nimen perusteella kaikilta alueilta sekä 10 väriteemaa aluekorteille.",
+    "Tuki tulevalle palvelusvuodelle (2026–2027) Raportti-välilehdellä.",
+    "Täysi optimointi uusimmille iOS- ja iPadOS-versioille sekä parannettu varmuuskopioiden suojaus."
   ],
   "howto_name": "How to Track Field Service Hours & Pioneer Schedule on iPhone",
   "howto_steps": [
@@ -278,55 +262,55 @@
   "nav_comp": "Vertailu",
   "sticky_sub": "iPhone ja iPad • Ilmainen",
   "feature_badges": [
-    "Time Tracking • Live Activities",
-    "Bible Studies • Lesson Progress",
-    "Service Roles • 15 / 30 / 50 / 100 h",
-    "Service Year • Plan vs. Actual",
-    "Territory Log • Search & Alerts",
-    "On-Device Privacy • iCloud Backup"
+    "Ajastin • Live Activities",
+    "Raamattukurssit • Oppijaksot",
+    "Tehtävät • 15 / 30 / 50 / 100 t",
+    "Palvelusvuosi • Suunnitelma vs. Toteutunut",
+    "Alueet • Haku & Muistutukset",
+    "100% Yksityinen • iCloud-varmuuskopio"
   ],
   "pillar_badges": [
-    "Regular & Special Pioneer Ministry",
-    "Auxiliary Pioneers & Publishers",
-    "House-to-House & Personal Territories",
-    "Bible Studies & Modern iOS Design"
+    "Vakituiset & Erikoistienraivaajat",
+    "Osa-aikaiset tienraivaajat & Julistajat",
+    "Talosta taloon & Omat alueet",
+    "Raamattukurssit & iOS"
   ],
   "pillar_Checklists": [
     [
-      "Automatic 50 h monthly & 600 h September–August service year tracking",
-      "Custom monthly hour target override (e.g., 55 h/month)",
-      "Dual progress bar comparing scheduled vs. reported hours"
+      "Automaattinen saldo 50 t/kk ja 600 t palvelusvuodessa",
+      "Oma kuukausittainen tuntitavoite (esim. 55 tuntia)",
+      "Kaksoispalkki: suunnitellut vs. raportoidut tunnit"
     ],
     [
-      "One-tap switch to 15 h or 30 h Auxiliary Pioneer goals",
-      "Instant monthly report formatting and sharing on the 1st",
-      "Gentle reminder notification on the 1st of each month at 20:00"
+      "Nopea vaihto 15 tai 30 tunnin osa-aikaiseen tavoitteeseen",
+      "Jaa kuukausiraportti yhdellä napautuksella",
+      "Automaattinen muistutus kuun 1. päivänä klo 20.00"
     ],
     [
-      "Multi-story apartment generator by entrances and floors",
-      "Territory map photos, 10 color themes & instant resident/address search",
-      "Automated return visit reminders after your chosen number of days"
+      "Huoneistogeneraattori rapun ja kerroksen mukaan",
+      "Aluekarttakuvat, 10 väriä ja nopea haku nimellä tai osoitteella",
+      "Automaattiset muistutukset uusintakäynneistä"
     ],
     [
-      "Track exact lessons in 'Enjoy Life Forever!' for every student",
-      "Built natively for iOS & iPadOS with Dynamic Island & OLED Dark Mode",
-      "Complete modern replacement for legacy ServicePlanner & MyTime apps"
+      "Seuraa oppijaksoja ”Onnellinen elämä nyt ja ikuisesti” -kirjassa",
+      "Widgetit, Dynamic Island ja tumma OLED-tila",
+      "Moderni korvaaja ServicePlanner- ja MyTime-sovelluksille"
     ]
   ],
   "rev_title": "Julistajien ja tienraivaajien kokemuksia",
   "rev_sub": "Mitä veljet ja sisaret kertovat JW Ministryn käytöstä palveluksessa.",
   "reviews": [
     [
-      "Alex, Regular Pioneer",
-      "Having the monthly planned hours automatically totaled in the Calendar alongside my actual reported hours is a game changer for keeping my 50-hour schedule on track."
+      "Matias, Vakituinen tienraivaaja",
+      "Suunniteltujen tuntien näkeminen Kalenterissa toteutuneiden tuntien rinnalla tekee 50 tunnin aikataulussa pysymisestä todella helppoa."
     ],
     [
-      "Sarah, Auxiliary Pioneer",
-      "The Lock Screen Live Activity timer and 1-swipe conversion from Calendar plans to Report entries make tracking 15 and 30 hours effortless. Clean, fast, and 100% private."
+      "Sofia, Osa-aikainen tienraivaaja",
+      "Lukitusnäytön ajastin ja suunnitelman pyyhkäisy Kalenterista suoraan raporttiin toimivat loistavasti."
     ],
     [
-      "David, Congregation Publisher",
-      "The apartment building generator and instant search across territory notes replaced all my paper slips. Return visit reminders help me never miss a follow-up."
+      "Aleksi, Julistaja",
+      "Kerrostalogeneraattori ja nimihaku aluekorteissa ovat korvanneet kaikki paperilappuni."
     ]
   ],
   "privacy_page": {
