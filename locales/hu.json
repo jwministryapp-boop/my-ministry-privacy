@@ -16,8 +16,8 @@
   "badge": "iPhone és iPad • 1.8-as verzió • 35+ Nyelv",
   "hero_title": "Teljes körű segítőtárs a szántóföldi és úttörőszolgálathoz",
   "hero_sub": "A JW Ministry Jehova Tanúi szántóföldi szolgálatához készült iPhone és iPad alkalmazás: Live Activities időzítő, bibliatanulmányozók nyilvántartása, szolgálati éves jelentések, úttörő óracélok és területkártyák.",
-  "cta_appstore": "Download on the App Store",
-  "cta_donate": "Support the Developer",
+  "cta_appstore": "Letöltés az App Store-ból",
+  "cta_donate": "Fejlesztő támogatása",
   "stat_1_val": "35+",
   "stat_1_lbl": "Interface Languages",
   "stat_2_val": "100%",
@@ -26,8 +26,8 @@
   "stat_3_lbl": "Native SwiftUI Design",
   "stat_4_val": "0 Ads",
   "stat_4_lbl": "Free, No Subscriptions",
-  "screens_title": "Explore Every Screen of JW Ministry",
-  "screens_sub": "Actual screenshots from the app. Browse all 8 screens — from the live ministry timer and Bible students list to pioneer calendar goals, territory cards, and OLED dark mode.",
+  "screens_title": "Ismerd meg a JW Ministry minden képernyőjét",
+  "screens_sub": "Valódi magyar nyelvű képernyőképek — a szántóföldi időzítőtől és bibliatanulmányozásoktól az úttörő naptárig, területkártyákig és az OLED sötét módig.",
   "shots": [
     [
       "1.jpg",
@@ -70,8 +70,8 @@
       "Every screen, sheet, and widget seamlessly adapts to iOS system Light and Dark appearances."
     ]
   ],
-  "feat_sec_title": "Everything You Need for Organized Ministry",
-  "feat_sec_sub": "Built specifically around the real workflow of publishers, auxiliary pioneers, regular pioneers, and special pioneers.",
+  "feat_sec_title": "Minden eszköz a jól szervezett szolgálathoz",
+  "feat_sec_sub": "Hírnökök, kisegítő, általános és különleges úttörők mindennapi igényeire szabva.",
   "features": [
     [
       "⏱️",
@@ -104,23 +104,23 @@
       "No registration, no accounts, no external servers, and zero analytics. All records and territory photos stay locally on your iPhone/iPad, with instant backup export & restore to iCloud Drive or Files."
     ]
   ],
-  "lang_sec_title": "Fully Localized into 35+ Languages",
-  "lang_sec_sub": "The app interface, widgets, and notifications automatically match your device language:",
-  "donate_badge": "Independent & Ad-Free Project",
-  "donate_title": "Support the Development of JW Ministry",
-  "donate_sub": "JW Ministry is created and maintained by an independent developer for personal use. There are no ads, no paid tiers, and no subscriptions. If the app makes your ministry easier, you can support future iOS updates and Apple Developer license renewal:",
-  "card_fiat_title": "Support by Card (Worldwide)",
-  "card_fiat_desc": "Quick one-time tip or monthly support from any country via Boosty or Patreon:",
-  "btn_boosty": "Support on Boosty (Cards / Apple Pay)",
-  "btn_patreon": "Support on Patreon",
-  "card_crypto_title": "Direct Crypto Transfer (0% Platform Fee)",
-  "card_crypto_desc": "Instant transfer directly to the developer's wallet:",
+  "lang_sec_title": "Teljesen lefordítva több mint 35 nyelvre",
+  "lang_sec_sub": "Az alkalmazás felülete, a widgetek és az értesítések automatikusan követik iPhone vagy iPad készüléked nyelvét:",
+  "donate_badge": "Független, reklámmentes projekt",
+  "donate_title": "Támogasd a JW Ministry fejlesztését",
+  "donate_sub": "A JW Ministry teljesen ingyenes, reklámok és előfizetés nélkül. Ha segít a szolgálatban, támogathatod a jövőbeli iOS-frissítéseket és az éves Apple Developer licencet:",
+  "card_fiat_title": "Támogatás kártyával (Világszerte)",
+  "card_fiat_desc": "Gyors támogatás Boosty-n vagy Patreonon keresztül:",
+  "btn_boosty": "Támogatás Boosty-n",
+  "btn_patreon": "Támogatás Patreonon",
+  "card_crypto_title": "Közvetlen kripto utalás (0% díj)",
+  "card_crypto_desc": "Közvetlenül a fejlesztő tárcájába:",
   "usdt_label": "USDT (TRC-20 / TRON Network only):",
   "ton_label": "TON / USDT (TON Network):",
-  "copy_btn": "Copy",
-  "copied_msg": "Copied!",
+  "copy_btn": "Másolás",
+  "copied_msg": "Másolva!",
   "crypto_warn": "For the TQQx... address, send assets via TRON (TRC-20) network only.",
-  "faq_title": "Frequently Asked Questions",
+  "faq_title": "Gyakran Ismételt Kérdések (GYIK)",
   "faqs": [
     [
       "How does JW Ministry complement JW Library for Jehovah's Witnesses?",
@@ -155,11 +155,11 @@
       "Yes. Simply swipe on any planned ministry session in the Calendar and tap 'To Report' — the duration is automatically logged in your monthly report and deducted from your remaining planned hours."
     ]
   ],
-  "footer_privacy": "Privacy Policy",
-  "footer_issues": "GitHub Support & Feedback",
-  "footer_contact": "Contact Developer",
-  "seo_sec_title": "Built for Jehovah's Witnesses Field Service & Pioneer Ministry",
-  "seo_sec_sub": "How JW Ministry helps publishers, auxiliary pioneers, regular pioneers, and special pioneers organize their service year.",
+  "footer_privacy": "Adatvédelmi irányelvek",
+  "footer_issues": "GitHub Támogatás",
+  "footer_contact": "Kapcsolat a fejlesztővel",
+  "seo_sec_title": "Jehova Tanúi szántóföldi és úttörőszolgálatához tervezve",
+  "seo_sec_sub": "Hogyan segíti a JW Ministry a hírnököket és úttörőket a teljes szolgálati év során.",
   "seo_pillars": [
     [
       "Regular & Special Pioneers (50, 90 & 100 Hours / 600-Hour Service Year)",
@@ -178,7 +178,7 @@
       "Maintain a detailed roster of your Bible students along with their current study publication (such as 'Enjoy Life Forever!'), lesson number, and section. Attach students directly to your timer session so your monthly study count is always accurate. Built natively with SwiftUI for the latest iPhone and iPad models, JW Ministry is the ideal modern alternative to discontinued apps like ServicePlanner or MyTime."
     ]
   ],
-  "seo_tags_title": "Popular Field Service Searches Covered by JW Ministry:",
+  "seo_tags_title": "Gyakori keresések a szántóföldi szolgálattal kapcsolatban:",
   "seo_tags": [
     "Jehova Tanúi szántóföldi szolgálat",
     "szántóföldi jelentés JW iPhone",
@@ -189,15 +189,15 @@
     "bibliatanulmányozások („Örülj az életnek örökké!”)",
     "JW Ministry App Store"
   ],
-  "qr_scan_title": "Scan with iPhone / iPad",
-  "qr_scan_sub": "Point your camera to open in the App Store",
-  "shot_lang_label": "Interface language on screenshots:",
-  "comp_title": "Why Publishers & Pioneers Switch to JW Ministry",
-  "comp_sub": "Side-by-side comparison for field service tracking, pioneer scheduling, and territory management.",
+  "qr_scan_title": "iPhone / iPad kamera",
+  "qr_scan_sub": "Olvasd be a kamerával az App Store megnyitásához",
+  "shot_lang_label": "Képernyőképek nyelve:",
+  "comp_title": "Miért választják a hírnökök és úttörők a JW Ministry-t",
+  "comp_sub": "Funkciók összehasonlítása a szántóföldi jelentéshez, úttörő tervezéshez és területekhez.",
   "comp_headers": [
-    "Feature",
-    "Paper Notebook",
-    "Legacy Apps",
+    "Funkció",
+    "Papír jegyzetek",
+    "Régebbi appok",
     "JW Ministry 1.8"
   ],
   "comp_rows": [
@@ -244,11 +244,11 @@
       "Modern SwiftUI Architecture"
     ]
   ],
-  "filter_all": "All (8)",
-  "filter_light": "Light (6)",
-  "filter_dark": "Dark (2)",
+  "filter_all": "Összes (8)",
+  "filter_light": "Világos (6)",
+  "filter_dark": "Sötét (2)",
   "filter_ipad": "iPad",
-  "wn_title": "What's New in Version 1.8",
+  "wn_title": "Újdonságok az 1.8-as verzióban",
   "wn_items": [
     "Automatic monthly planned-hours total in the Calendar with a dual Planned vs. Actual progress bar.",
     "1-swipe conversion of any scheduled Calendar ministry session directly into a monthly Report entry.",
@@ -276,7 +276,7 @@
     ]
   ],
   "nav_comp": "Összehasonlítás",
-  "sticky_sub": "iPhone & iPad • Free",
+  "sticky_sub": "iPhone és iPad • Ingyenes",
   "feature_badges": [
     "Time Tracking • Live Activities",
     "Bible Studies • Lesson Progress",
@@ -313,8 +313,8 @@
       "Complete modern replacement for legacy ServicePlanner & MyTime apps"
     ]
   ],
-  "rev_title": "Loved by Publishers & Pioneers Worldwide",
-  "rev_sub": "Real feedback from brothers and sisters using JW Ministry in their daily field service.",
+  "rev_title": "Hírnökök és úttörők véleménye",
+  "rev_sub": "Mit mondanak a testvérek, akik naponta használják a JW Ministry alkalmazást.",
   "reviews": [
     [
       "Alex, Regular Pioneer",
@@ -330,15 +330,15 @@
     ]
   ],
   "privacy_page": {
-    "page_title": "Privacy Policy & User Support — JW Ministry",
+    "page_title": "A „JW Ministry” alkalmazás adatvédelmi irányelvei — JW Ministry",
     "meta_desc": "Official Privacy Policy and User Support for the JW Ministry iOS & iPadOS app. 100% local on-device data storage with zero external servers.",
-    "back_home": "Back to Home",
-    "sup_title": "JW Ministry — User Support",
-    "sup_desc": "If you have questions, suggestions for new features, or found a bug in the app, feel free to contact the developer:",
+    "back_home": "Főoldal",
+    "sup_title": "JW Ministry — Felhasználói támogatás",
+    "sup_desc": "Ha kérdésed, javaslatod van, vagy hibát találtál az alkalmazásban, írj a fejlesztőnek:",
     "sup_issues": "Report an Issue (GitHub)",
     "sup_store": " JW Ministry on App Store",
     "updated": "Last updated: December 5, 2025",
-    "h1": "Privacy Policy for “JW Ministry”",
+    "h1": "A „JW Ministry” alkalmazás adatvédelmi irányelvei",
     "intro": "This Privacy Policy explains how the <strong>“JW Ministry”</strong> mobile application (“the App”) handles user information. Our core principle is <strong>100% privacy: all records you create are stored exclusively on your device</strong>.",
     "s1_t": "1. Data Created and Stored in the App",
     "s1_p": "All data in the App is entered voluntarily by the user for personal field service organization and planning:",

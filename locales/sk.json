@@ -16,8 +16,8 @@
   "badge": "Pre iPhone a iPad • Verzia 1.8 • 35+ Jazykov",
   "hero_title": "Váš kompletný pomocník pre zvestovateľskú a priekopnícku službu",
   "hero_sub": "JW Ministry je aplikácia pre zvestovateľskú službu Jehovových svedkov na iPhone a iPad: časovač s Live Activities, zoznam záujemcov, mesačné správy za služobný rok, ciele hodín priekopníka a karty obvodov.",
-  "cta_appstore": "Download on the App Store",
-  "cta_donate": "Support the Developer",
+  "cta_appstore": "Stiahnuť v App Store",
+  "cta_donate": "Podporiť vývojára",
   "stat_1_val": "35+",
   "stat_1_lbl": "Interface Languages",
   "stat_2_val": "100%",
@@ -26,8 +26,8 @@
   "stat_3_lbl": "Native SwiftUI Design",
   "stat_4_val": "0 Ads",
   "stat_4_lbl": "Free, No Subscriptions",
-  "screens_title": "Explore Every Screen of JW Ministry",
-  "screens_sub": "Actual screenshots from the app. Browse all 8 screens — from the live ministry timer and Bible students list to pioneer calendar goals, territory cards, and OLED dark mode.",
+  "screens_title": "Prezrite si každú obrazovku JW Ministry",
+  "screens_sub": "Skutočné snímky obrazovky v slovenčine — od časovača služby a biblických štúdií až po kalendár priekopníka, obvody a tmavý režim OLED.",
   "shots": [
     [
       "1.jpg",
@@ -70,8 +70,8 @@
       "Every screen, sheet, and widget seamlessly adapts to iOS system Light and Dark appearances."
     ]
   ],
-  "feat_sec_title": "Everything You Need for Organized Ministry",
-  "feat_sec_sub": "Built specifically around the real workflow of publishers, auxiliary pioneers, regular pioneers, and special pioneers.",
+  "feat_sec_title": "Všetko potrebné pre dobre zorganizovanú službu",
+  "feat_sec_sub": "Navrhnuté pre zvestovateľov, pomocných, pravidelných aj zvláštnych priekopníkov.",
   "features": [
     [
       "⏱️",
@@ -104,23 +104,23 @@
       "No registration, no accounts, no external servers, and zero analytics. All records and territory photos stay locally on your iPhone/iPad, with instant backup export & restore to iCloud Drive or Files."
     ]
   ],
-  "lang_sec_title": "Fully Localized into 35+ Languages",
-  "lang_sec_sub": "The app interface, widgets, and notifications automatically match your device language:",
-  "donate_badge": "Independent & Ad-Free Project",
-  "donate_title": "Support the Development of JW Ministry",
-  "donate_sub": "JW Ministry is created and maintained by an independent developer for personal use. There are no ads, no paid tiers, and no subscriptions. If the app makes your ministry easier, you can support future iOS updates and Apple Developer license renewal:",
-  "card_fiat_title": "Support by Card (Worldwide)",
-  "card_fiat_desc": "Quick one-time tip or monthly support from any country via Boosty or Patreon:",
-  "btn_boosty": "Support on Boosty (Cards / Apple Pay)",
-  "btn_patreon": "Support on Patreon",
-  "card_crypto_title": "Direct Crypto Transfer (0% Platform Fee)",
-  "card_crypto_desc": "Instant transfer directly to the developer's wallet:",
+  "lang_sec_title": "Plne preložené do viac ako 35 jazykov",
+  "lang_sec_sub": "Rozhranie aplikácie, widgety aj upozornenia sa automaticky prispôsobia jazyku vášho iPhonu alebo iPadu:",
+  "donate_badge": "Nezávislý projekt bez reklám a predplatného",
+  "donate_title": "Podporte vývoj aplikácie JW Ministry",
+  "donate_sub": "Aplikácia JW Ministry je úplne zadarmo, bez reklám a predplatného. Ak vám v službe pomáha, môžete podporiť ďalšie aktualizácie iOS a ročnú licenciu Apple Developer:",
+  "card_fiat_title": "Podpora kartou (Celosvetovo)",
+  "card_fiat_desc": "Rýchla podpora cez Boosty alebo Patreon:",
+  "btn_boosty": "Podporiť na Boosty",
+  "btn_patreon": "Podporiť na Patreone",
+  "card_crypto_title": "Kryptomeny priamo (0% poplatok)",
+  "card_crypto_desc": "Priamy prevod do peňaženky vývojára:",
   "usdt_label": "USDT (TRC-20 / TRON Network only):",
   "ton_label": "TON / USDT (TON Network):",
-  "copy_btn": "Copy",
-  "copied_msg": "Copied!",
+  "copy_btn": "Kopírovať",
+  "copied_msg": "Skopírované!",
   "crypto_warn": "For the TQQx... address, send assets via TRON (TRC-20) network only.",
-  "faq_title": "Frequently Asked Questions",
+  "faq_title": "Často kladené otázky (FAQ)",
   "faqs": [
     [
       "How does JW Ministry complement JW Library for Jehovah's Witnesses?",
@@ -155,11 +155,11 @@
       "Yes. Simply swipe on any planned ministry session in the Calendar and tap 'To Report' — the duration is automatically logged in your monthly report and deducted from your remaining planned hours."
     ]
   ],
-  "footer_privacy": "Privacy Policy",
-  "footer_issues": "GitHub Support & Feedback",
-  "footer_contact": "Contact Developer",
-  "seo_sec_title": "Built for Jehovah's Witnesses Field Service & Pioneer Ministry",
-  "seo_sec_sub": "How JW Ministry helps publishers, auxiliary pioneers, regular pioneers, and special pioneers organize their service year.",
+  "footer_privacy": "Zásady ochrany súkromia",
+  "footer_issues": "Podpora na GitHube",
+  "footer_contact": "Kontaktovať vývojára",
+  "seo_sec_title": "Vytvorené pre zvestovateľskú a priekopnícku službu Jehovových svedkov",
+  "seo_sec_sub": "Ako JW Ministry pomáha zvestovateľom a priekopníkom počas celého služobného roka.",
   "seo_pillars": [
     [
       "Regular & Special Pioneers (50, 90 & 100 Hours / 600-Hour Service Year)",
@@ -178,7 +178,7 @@
       "Maintain a detailed roster of your Bible students along with their current study publication (such as 'Enjoy Life Forever!'), lesson number, and section. Attach students directly to your timer session so your monthly study count is always accurate. Built natively with SwiftUI for the latest iPhone and iPad models, JW Ministry is the ideal modern alternative to discontinued apps like ServicePlanner or MyTime."
     ]
   ],
-  "seo_tags_title": "Popular Field Service Searches Covered by JW Ministry:",
+  "seo_tags_title": "Časté vyhľadávania týkajúce sa zvestovateľskej služby:",
   "seo_tags": [
     "Jehovových svedkov zvestovateľská služba",
     "správa zo zvestovateľskej služby JW iPhone",
@@ -189,15 +189,15 @@
     "biblické štúdiá („Tešte sa zo života navždy!“)",
     "JW Ministry App Store"
   ],
-  "qr_scan_title": "Scan with iPhone / iPad",
-  "qr_scan_sub": "Point your camera to open in the App Store",
-  "shot_lang_label": "Interface language on screenshots:",
-  "comp_title": "Why Publishers & Pioneers Switch to JW Ministry",
-  "comp_sub": "Side-by-side comparison for field service tracking, pioneer scheduling, and territory management.",
+  "qr_scan_title": "Fotoaparát iPhone / iPad",
+  "qr_scan_sub": "Namierte fotoaparát pre stiahnutie z App Store",
+  "shot_lang_label": "Jazyk rozhrania na snímkach:",
+  "comp_title": "Prečo si zvestovatelia a priekopníci vyberajú JW Ministry",
+  "comp_sub": "Porovnanie možností pri plánovaní služby, vedení obvodov a odovzdávaní správy.",
   "comp_headers": [
-    "Feature",
-    "Paper Notebook",
-    "Legacy Apps",
+    "Funkcia",
+    "Papierové poznámky",
+    "Staršie aplikácie",
     "JW Ministry 1.8"
   ],
   "comp_rows": [
@@ -244,11 +244,11 @@
       "Modern SwiftUI Architecture"
     ]
   ],
-  "filter_all": "All (8)",
-  "filter_light": "Light (6)",
-  "filter_dark": "Dark (2)",
+  "filter_all": "Všetky (8)",
+  "filter_light": "Svetlý (6)",
+  "filter_dark": "Tmavý (2)",
   "filter_ipad": "iPad",
-  "wn_title": "What's New in Version 1.8",
+  "wn_title": "Čo je nové vo verzii 1.8",
   "wn_items": [
     "Automatic monthly planned-hours total in the Calendar with a dual Planned vs. Actual progress bar.",
     "1-swipe conversion of any scheduled Calendar ministry session directly into a monthly Report entry.",
@@ -276,7 +276,7 @@
     ]
   ],
   "nav_comp": "Porovnanie",
-  "sticky_sub": "iPhone & iPad • Free",
+  "sticky_sub": "iPhone a iPad • Zadarmo",
   "feature_badges": [
     "Time Tracking • Live Activities",
     "Bible Studies • Lesson Progress",
@@ -313,8 +313,8 @@
       "Complete modern replacement for legacy ServicePlanner & MyTime apps"
     ]
   ],
-  "rev_title": "Loved by Publishers & Pioneers Worldwide",
-  "rev_sub": "Real feedback from brothers and sisters using JW Ministry in their daily field service.",
+  "rev_title": "Skúsenosti zvestovateľov a priekopníkov",
+  "rev_sub": "Čo hovoria bratia a sestry, ktorí používajú JW Ministry v každodennej službe.",
   "reviews": [
     [
       "Alex, Regular Pioneer",
@@ -330,15 +330,15 @@
     ]
   ],
   "privacy_page": {
-    "page_title": "Privacy Policy & User Support — JW Ministry",
+    "page_title": "Zásady ochrany súkromia aplikácie „JW Ministry“ — JW Ministry",
     "meta_desc": "Official Privacy Policy and User Support for the JW Ministry iOS & iPadOS app. 100% local on-device data storage with zero external servers.",
-    "back_home": "Back to Home",
-    "sup_title": "JW Ministry — User Support",
-    "sup_desc": "If you have questions, suggestions for new features, or found a bug in the app, feel free to contact the developer:",
+    "back_home": "Na hlavnú stránku",
+    "sup_title": "Podpora používateľov — JW Ministry",
+    "sup_desc": "Ak máte otázky, návrhy alebo ste našli chybu v aplikácii, napíšte vývojárovi:",
     "sup_issues": "Report an Issue (GitHub)",
     "sup_store": " JW Ministry on App Store",
     "updated": "Last updated: December 5, 2025",
-    "h1": "Privacy Policy for “JW Ministry”",
+    "h1": "Zásady ochrany súkromia aplikácie „JW Ministry“",
     "intro": "This Privacy Policy explains how the <strong>“JW Ministry”</strong> mobile application (“the App”) handles user information. Our core principle is <strong>100% privacy: all records you create are stored exclusively on your device</strong>.",
     "s1_t": "1. Data Created and Stored in the App",
     "s1_p": "All data in the App is entered voluntarily by the user for personal field service organization and planning:",
