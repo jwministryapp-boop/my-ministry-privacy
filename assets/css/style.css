@@ -1615,3 +1615,12 @@ header.topbar .container.topbar-inner {
   border-top: 1px solid rgba(108, 65, 143, 0.1);
   padding-top: 10px;
 }
+
+
+/* Scrollable 27-Language Dropdown Menu */
+.lang-menu {
+  max-height: 360px !important;
+  overflow-y: auto !important;
+  min-width: 195px !important;
+  -webkit-overflow-scrolling: touch;
+}

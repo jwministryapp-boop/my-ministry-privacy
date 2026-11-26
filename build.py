@@ -171,7 +171,7 @@ def render(code, d, is_root=False):
 
     redirect_js = ""
     if is_root:
-        redirect_js = """<script>(function(){try{var ua=(navigator.userAgent||'').toLowerCase();if(/bot|google|yandex|bing|duckduck|baidu|slurp|crawler|spider|applebot|facebook|embedly|quora|pinterest|slack|vkshare|telegram|whatsapp/i.test(ua)||navigator.webdriver)return;if(sessionStorage.getItem('jw_lang_selected'))return;var l=(navigator.language||'en').toLowerCase(),t=null;if(l.startsWith('ru')||l.startsWith('uk')||l.startsWith('be'))t='ru';else if(l.startsWith('es'))t='es';else if(l.startsWith('de'))t='de';else if(l.startsWith('pt'))t='pt';else if(l.startsWith('fr'))t='fr';if(t){sessionStorage.setItem('jw_lang_selected','1');window.location.replace('./'+t+'/index.html');}}catch(e){}})();</script>"""
+        redirect_js = """<script>(function(){try{var ua=(navigator.userAgent||'').toLowerCase();if(/bot|google|yandex|bing|duckduck|baidu|slurp|crawler|spider|applebot|facebook|embedly|quora|pinterest|slack|vkshare|telegram|whatsapp/i.test(ua)||navigator.webdriver)return;if(sessionStorage.getItem('jw_lang_selected'))return;var l=(navigator.language||'en').toLowerCase(),t=null;var map={'uk':'uk','ru':'ru','be':'ru','es':'es','de':'de','pt':'pt','fr':'fr','it':'it','pl':'pl','ja':'ja','ko':'ko','zh':'zh','nl':'nl','ro':'ro','cs':'cs','sk':'sk','hu':'hu','el':'el','tr':'tr','id':'id','th':'th','hi':'hi','da':'da','sv':'sv','nb':'nb','no':'nb','nn':'nb','fi':'fi','hr':'hr'};var p2=l.slice(0,2);if(map[p2]&&map[p2]!=='en')t=map[p2];if(t){sessionStorage.setItem('jw_lang_selected','1');window.location.replace('./'+t+'/index.html');}}catch(e){}})();</script>"""
 
     replacements = {
         "{{PREFIX}}": prefix,
@@ -272,7 +272,7 @@ def render_privacy(code, d, is_root=False):
 
     red_js = ""
     if is_root:
-        red_js = """<script>(function(){try{var ua=(navigator.userAgent||'').toLowerCase();if(/bot|google|yandex|bing|duckduck|crawler|spider|applebot/i.test(ua)||navigator.webdriver)return;if(sessionStorage.getItem('jw_priv_lang'))return;var l=(navigator.language||'en').toLowerCase(),t=null;if(l.startsWith('ru')||l.startsWith('uk')||l.startsWith('be'))t='ru';else if(l.startsWith('es'))t='es';else if(l.startsWith('de'))t='de';else if(l.startsWith('pt'))t='pt';else if(l.startsWith('fr'))t='fr';if(t){sessionStorage.setItem('jw_priv_lang','1');window.location.replace('./'+t+'/privacy-policy.html');}}catch(e){}})();</script>"""
+        red_js = """<script>(function(){try{var ua=(navigator.userAgent||'').toLowerCase();if(/bot|google|yandex|bing|duckduck|crawler|spider|applebot/i.test(ua)||navigator.webdriver)return;if(sessionStorage.getItem('jw_priv_lang'))return;var l=(navigator.language||'en').toLowerCase(),t=null;var map={'uk':'uk','ru':'ru','be':'ru','es':'es','de':'de','pt':'pt','fr':'fr','it':'it','pl':'pl','ja':'ja','ko':'ko','zh':'zh','nl':'nl','ro':'ro','cs':'cs','sk':'sk','hu':'hu','el':'el','tr':'tr','id':'id','th':'th','hi':'hi','da':'da','sv':'sv','nb':'nb','no':'nb','nn':'nb','fi':'fi','hr':'hr'};var p2=l.slice(0,2);if(map[p2]&&map[p2]!=='en')t=map[p2];if(t){sessionStorage.setItem('jw_priv_lang','1');window.location.replace('./'+t+'/privacy-policy.html');}}catch(e){}})();</script>"""
 
     rep = {
         "{{PREFIX}}": prefix,
