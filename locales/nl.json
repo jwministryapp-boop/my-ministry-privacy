@@ -16,353 +16,346 @@
   "badge": "Voor iPhone & iPad • Versie 1.8 • 35+ Talen",
   "hero_title": "Jouw complete hulpmiddel voor de velddienst en pioniersdienst",
   "hero_sub": "JW Ministry is een speciale velddienst-app voor Jehovah's Getuigen op iPhone en iPad: nauwkeurige timer met Live Activities, overzicht van Bijbelstudenten, dienstjaarrapporten, urendoelen voor pioniers en gebiedskaarten van huis tot huis.",
-  "cta_appstore": "Download on the App Store",
-  "cta_donate": "Support the Developer",
+  "cta_appstore": "Download in de App Store",
+  "cta_donate": "Steun de auteur",
   "stat_1_val": "35+",
-  "stat_1_lbl": "Interface Languages",
+  "stat_1_lbl": "Interfacetalen",
   "stat_2_val": "100%",
-  "stat_2_lbl": "Offline & Private Data",
-  "stat_3_val": "iOS & iPad",
-  "stat_3_lbl": "Native SwiftUI Design",
-  "stat_4_val": "0 Ads",
-  "stat_4_lbl": "Free, No Subscriptions",
-  "screens_title": "Explore Every Screen of JW Ministry",
-  "screens_sub": "Actual screenshots from the app. Browse all 8 screens — from the live ministry timer and Bible students list to pioneer calendar goals, territory cards, and OLED dark mode.",
+  "stat_2_lbl": "Lokaal en privé",
+  "stat_3_val": "iPhone & iPad",
+  "stat_3_lbl": "Soepele iOS-weergave",
+  "stat_4_val": "Geen reclame",
+  "stat_4_lbl": "Volledig gratis",
+  "screens_title": "Bekijk elk scherm van JW Ministry",
+  "screens_sub": "Echte schermafbeeldingen uit de App Store — van de velddiensttimer op het Dynamic Island tot gebiedskaarten en het dienstjaarrapport.",
   "shots": [
     [
       "1.jpg",
-      "1. Start Tab & Live Timer",
-      "Track your ministry time down to the second (08:04:08). Pause, save to report, or reset in one tap. Increment Bible studies during the session, attach specific Bible students (e.g., Alex), write session notes (territory number, companion), and see total time spent today."
+      "Velddiensttimer & Doelen",
+      "Nauwkeurige timer met Dynamic Island, bijbelstudieteller, notities en dubbele voortgangsring voor maand en dienstjaar."
     ],
     [
       "2.jpg",
-      "2. Bible Students Manager",
-      "Keep an organized list of your Bible students. Record the exact study publication, lesson, and section (for example: 'Enjoy Life Forever!, lesson 24, section 3') and add new students in seconds."
+      "Bijbelstudies & Nabezoeken",
+      "Overzicht van studenten met voortgang in het boek 'Gelukkig leven — nu en voor altijd!', les- en paragraafnummers en bezoekgeschiedenis."
     ],
     [
       "3.jpg",
-      "3. Service Year & Monthly Reports",
-      "Switch between service years (2025–2026, 2026–2027), monitor total service year hours and remaining hours, review every month with detailed session logs, study counts, student tags, and share your monthly report on the 1st."
+      "Rapport voor het dienstjaar",
+      "Overzichtelijke statistieken per maand en voor het hele dienstjaar (2025–2026 en 2026–2027) en direct delen van je rapport."
     ],
     [
       "4.jpg",
-      "4. Pioneer Calendar & Goal Progress",
-      "See your current role (Regular pioneer – 50 h, Auxiliary 15/30 h, or Publisher) and personal monthly target (e.g., 55 h). Visual progress bar shows hours completed this month, remaining monthly hours, and full service year balance alongside your daily schedule."
+      "Kalender: Plan vs. Werkelijk",
+      "Pioniersschema (15, 30, 50 of 100 uur), automatische som van geplande uren per maand en omzetten van afspraken naar het rapport."
     ],
     [
       "5.jpg",
-      "5. Territory Cards & Door-to-Door Log",
-      "Attach photos of territory maps or buildings (e.g., Territory A-8), filter addresses, and log every visit with date, visit status ('First visit', 'Not at home', 'Refusal'), and doorway notes like 'No intercom'."
+      "Gebieden & Huis-aan-huiskaarten",
+      "Slimme generator voor appartementen per verdieping, bezoekstatussen, opmerkingen bij deuren en zoeken op adres of naam."
     ],
     [
       "6.jpg",
-      "6. Flexible Settings & Cloud Backup",
-      "Export or import full JSON backups via the top cloud buttons. Configure your service role, custom monthly hour target, September–August service year, 1st-of-the-month report reminders at 20:00, and return visit notifications after N days."
+      "Instellingen & iCloud-back-up",
+      "Rolselectie (verkondiger, hulppionier, gewone of speciale pionier), herinnering op de 1e van de maand en volledige JSON-back-up."
     ],
     [
       "7.jpg",
-      "7. True Black OLED Dark Mode (Timer)",
-      "Designed for comfort during evening witnessing and battery saving on OLED iPhones. High-contrast purple accents keep controls clear in any lighting."
+      "Donkere OLED-modus — Start",
+      "Comfortabel donker thema met hoog contrast voor de avonduren en maximale batterijbesparing op iPhone."
     ],
     [
       "8.jpg",
-      "8. OLED Dark Mode (Settings & Goals)",
-      "Every screen, sheet, and widget seamlessly adapts to iOS system Light and Dark appearances."
+      "Donkere OLED-modus — Gebieden",
+      "Duidelijke kleurcodering van gebieden en appartementen, zowel in het lichte als in het donkere systeemthema."
     ]
   ],
   "feat_sec_title": "Everything You Need for Organized Ministry",
   "feat_sec_sub": "Built specifically around the real workflow of publishers, auxiliary pioneers, regular pioneers, and special pioneers.",
   "features": [
     [
-      "⏱️",
-      "Smart Timer, Widgets & Live Activities",
-      "Start your ministry timer from the app, Home Screen widget, or Lock Screen. Your active timer stays visible on the Dynamic Island and Lock Screen even when your iPhone is locked."
+      "",
+      "Velddiensttimer & Dynamic Island",
+      "Start de timer met één tik. Hij blijft nauwkeurig doorlopen op het toegangsscherm en het Dynamic Island, zelfs als je iPhone vergrendeld is of wordt herstart."
     ],
     [
-      "📚",
-      "Bible Studies & Publication Progress",
-      "Link Bible studies directly to your daily report entries. Track each student's name and current lesson in 'Enjoy Life Forever!' or any other study aid."
+      "",
+      "Pioniersdoelen op maat",
+      "Kies verkondiger, hulppionier (15 of 30 uur), gewone pionier (50 uur / 600 uur per jaar) of speciale pionier (90/100 uur) — of stel een eigen doel in."
     ],
     [
-      "📊",
-      "Service Roles & Personal Hour Targets",
-      "Supports Publisher, Auxiliary Pioneer (15 or 30 hours), Regular Pioneer (50 hours), Special Pioneer / Missionary (90 / 100 hours), plus a custom 'Personal target' override (e.g., 55 hours/month)."
+      "",
+      "Kalender met automatische urensom",
+      "Zie direct hoeveel uren je deze maand al hebt ingepland, vergelijk je planning met de werkelijke uren en zet een voltooide afspraak met één veeg om naar je rapport."
     ],
     [
-      "🗓️",
-      "Service Year (Sept–Aug) & Calendar",
-      "Plan ministry meetings, recurring schedules, and Family Worship in the Calendar. Compare planned vs. actual hours, convert planned sessions into report entries with a swipe, and track your annual pioneer goal."
+      "",
+      "Gebiedskaarten & Appartementgenerator",
+      "Maak binnen enkele seconden een compleet flatgebouw aan op basis van verdiepingen en voordeuren. Voeg foto's van de gebiedskaart toe, kies uit 10 kleuren en zoek direct op adres of naam."
     ],
     [
-      "🗺️",
-      "Territories, Apartments & Visit Reminders",
-      "Create cards for territories, multi-story apartment buildings, and private houses. Attach map photos, color-code cards, search by address or resident name, and receive automatic reminders to make return visits."
+      "",
+      "Bijbelstudies & Bezoekgeschiedenis",
+      "Houd elke student bij, noteer de huidige les en paragraaf en koppel bijbelstudies direct aan je velddienstrapport zonder dubbele telling."
     ],
     [
-      "🔒",
-      "100% On-Device Privacy & Full Backups",
-      "No registration, no accounts, no external servers, and zero analytics. All records and territory photos stay locally on your iPhone/iPad, with instant backup export & restore to iCloud Drive or Files."
+      "",
+      "100% Privé & Betrouwbare Back-ups",
+      "Geen accounts, geen externe servers en geen trackers. Al je gegevens blijven veilig op je iPhone en iPad, met volledige JSON-back-up (inclusief gebiedsfoto's) naar iCloud Drive."
     ]
   ],
-  "lang_sec_title": "Fully Localized into 35+ Languages",
-  "lang_sec_sub": "The app interface, widgets, and notifications automatically match your device language:",
-  "donate_badge": "Independent & Ad-Free Project",
-  "donate_title": "Support the Development of JW Ministry",
-  "donate_sub": "JW Ministry is created and maintained by an independent developer for personal use. There are no ads, no paid tiers, and no subscriptions. If the app makes your ministry easier, you can support future iOS updates and Apple Developer license renewal:",
-  "card_fiat_title": "Support by Card (Worldwide)",
-  "card_fiat_desc": "Quick one-time tip or monthly support from any country via Boosty or Patreon:",
-  "btn_boosty": "Support on Boosty (Cards / Apple Pay)",
-  "btn_patreon": "Support on Patreon",
-  "card_crypto_title": "Direct Crypto Transfer (0% Platform Fee)",
-  "card_crypto_desc": "Instant transfer directly to the developer's wallet:",
-  "usdt_label": "USDT (TRC-20 / TRON Network only):",
-  "ton_label": "TON / USDT (TON Network):",
-  "copy_btn": "Copy",
-  "copied_msg": "Copied!",
-  "crypto_warn": "For the TQQx... address, send assets via TRON (TRC-20) network only.",
-  "faq_title": "Frequently Asked Questions",
+  "lang_sec_title": "Volledig vertaald in meer dan 35 talen",
+  "lang_sec_sub": "Klik op een taal hieronder om de schermafbeeldingen van de app direct in die taal te bekijken:",
+  "donate_badge": "Onafhankelijk project zonder reclame",
+  "donate_title": "Steun de ontwikkeling van JW Ministry",
+  "donate_sub": "De app is en blijft 100% gratis, zonder abonnementen en zonder advertenties. Als JW Ministry je helpt in de bediening, kun je de ontwikkelaar steunen voor de jaarlijkse Apple Developer-kosten en verdere updates.",
+  "card_fiat_title": "Ondersteuning met betaalkaart",
+  "card_fiat_desc": "Snelle eenmalige of maandelijkse bijdrage via Boosty of Patreon vanaf elk apparaat:",
+  "btn_boosty": "Steun via Boosty",
+  "btn_patreon": "Steun via Patreon",
+  "card_crypto_title": "Cryptocurrency (USDT / TON)",
+  "card_crypto_desc": "Directe overboeking zonder tussenpersonen. Klik om het adres te kopiëren of de QR-code te openen:",
+  "usdt_label": "USDT (alleen TRON / TRC-20 netwerk)",
+  "ton_label": "TON / USDT (TON-netwerk)",
+  "copy_btn": "Kopiëren",
+  "copied_msg": "Gekopieerd!",
+  "crypto_warn": "Let op: stuur naar het TRON-adres uitsluitend activa via het TRC-20 (TRON) netwerk. Zendingen via andere netwerken gaan onherroepelijk verloren.",
+  "faq_title": "Veelgestelde vragen (FAQ)",
   "faqs": [
     [
-      "How does JW Ministry complement JW Library for Jehovah's Witnesses?",
-      "While JW Library is used for reading the Bible, publications, and congregation meetings, JW Ministry is purpose-built for tracking your personal field ministry: logging field service report hours, planning your regular or auxiliary pioneer schedule (15, 30, 50, or 100 hours), managing personal territory records, and tracking Bible students."
+      "Kan ik JW Ministry samen met JW Library gebruiken?",
+      "Ja, absoluut. JW Library is bedoeld voor het lezen van de Bijbel en publicaties, terwijl JW Ministry je persoonlijke hulpmiddel is voor je velddiensttimer, urenplanning, gebiedskaarten en maandrapport."
     ],
     [
-      "Where are my ministry records and territory notes stored?",
-      "Exclusively on your device (iPhone or iPad). The app has no external database or cloud server, ensuring complete confidentiality of your personal notes and addresses."
+      "Zijn mijn gegevens, notities en gebieden veilig en privé?",
+      "100%. JW Ministry verzamelt geen persoonlijke gegevens en heeft geen eigen servers. Alles wordt uitsluitend lokaal op je iPhone of iPad opgeslagen en is alleen toegankelijk voor jou."
     ],
     [
-      "How do I transfer my data to a new iPhone or iPad?",
-      "Open the Settings tab and tap the Cloud Upload icon in the top-right corner to export a full backup file (including territory photos) to iCloud Drive or AirDrop. On your new device, tap the Cloud Download icon to restore everything in one tap."
+      "Hoe zet ik mijn gegevens over naar een nieuwe iPhone of iPad?",
+      "Open in de app het tabblad 'Instellingen' → 'Reservekopie' → 'Maak back-up' en sla het bestand op in iCloud Drive. Op je nieuwe apparaat kies je eenvoudig 'Herstel vanuit back-up' — al je uren, studies en gebiedsfoto's worden direct hersteld."
     ],
     [
-      "How do automatic return visit reminders work?",
-      "In Settings → Notifications, enable 'Remind about return visits to addresses' and set the interval (for example, 3 days). If you haven't logged a follow-up visit to an address within that period, the app will gently remind you."
+      "Ondersteunt de app de doelen van 15, 30, 50 en 600 uur?",
+      "Ja! In de instellingen kies je jouw toewijzing: verkondiger, hulppionier (15 of 30 uur), gewone pionier (50 uur per maand / 600 uur per dienstjaar) of speciale pionier, of je vult handmatig een eigen urendoel in."
     ],
     [
-      "Does the app support the September–August Service Year?",
-      "Yes! Both the Report tab and the Calendar summary calculate monthly and annual hours across the official September–August service year, including remaining hours toward your annual pioneer goal."
+      "Blijft de timer doorlopen als mijn telefoon vergrendeld is of herstart?",
+      "Ja. De timer maakt gebruik van systeemtijdstempels en iOS Live Activities op het toegangsscherm en Dynamic Island, zodat er nooit een minuut verloren gaat."
     ],
     [
-      "Is JW Ministry a good replacement for ServicePlanner or MyTime on iPhone?",
-      "Yes! JW Ministry is actively maintained for the latest iOS and iPadOS releases, featuring Live Activities on the Lock Screen and Dynamic Island, interactive Home Screen widgets, an apartment building generator, Planned vs. Actual calendar tracking, and 1-tap iCloud Drive backups."
+      "Hoe werkt het omzetten van een kalenderafspraak naar het rapport?",
+      "Veeg in de kalender een voltooide velddienstafspraak naar links en tik op 'Naar rapport'. De uren worden direct toegevoegd aan je maandrapport en verwijderd uit de resterende geplande uren."
     ],
     [
-      "Does the app work completely offline during door-to-door ministry?",
-      "Absolutely. All timers, territory maps, apartment records, and Bible student notes work 100% offline without requiring mobile data or Wi-Fi."
-    ],
-    [
-      "Can I convert a planned ministry event in the Calendar into a Report entry?",
-      "Yes. Simply swipe on any planned ministry session in the Calendar and tap 'To Report' — the duration is automatically logged in your monthly report and deducted from your remaining planned hours."
+      "Is JW Ministry echt helemaal gratis?",
+      "Ja, alle functies van de app zijn volledig gratis beschikbaar, zonder reclame en zonder betaalde abonnementen."
     ]
   ],
-  "footer_privacy": "Privacy Policy",
-  "footer_issues": "GitHub Support & Feedback",
+  "footer_privacy": "Privacybeleid & Support",
+  "footer_issues": "Fout melden (GitHub)",
   "footer_contact": "Contact Developer",
-  "seo_sec_title": "Built for Jehovah's Witnesses Field Service & Pioneer Ministry",
-  "seo_sec_sub": "How JW Ministry helps publishers, auxiliary pioneers, regular pioneers, and special pioneers organize their service year.",
+  "seo_sec_title": "Ontwikkeld voor de velddienst en pioniersdienst van Jehovah's Getuigen",
+  "seo_sec_sub": "Alles wat je nodig hebt om je maandelijks velddienstrapport, pioniersschema, gebiedskaarten en bijbelstudies overzichtelijk bij te houden — naadloos naast JW Library.",
   "seo_pillars": [
     [
-      "Regular & Special Pioneers (50, 90 & 100 Hours / 600-Hour Service Year)",
-      "Serving as a regular pioneer requires keeping track of both your 50-hour monthly target and your 600-hour September–August service year goal. JW Ministry automatically calculates your completed ministry hours, remaining monthly balance, and full service year progress. Set a custom personal monthly goal (e.g., 55 hours), schedule ministry days in the Calendar, and compare your planned hours against your actual reported time."
+      "Nauwkeurig velddienstrapport zonder rekenfouten",
+      "Of je nu als verkondiger rapporteert of als hulppionier (15 of 30 uur) of gewone pionier (50 uur per maand) dient: JW Ministry telt automatisch al je minuten, bijbelstudies en opmerkingen op en stuurt op de 1e van de maand om 20:00 uur een herinnering."
     ],
     [
-      "Auxiliary Pioneers (15 & 30 Hours) and Congregation Publishers",
-      "Joining a special campaign, circuit overseer's visit, or Memorial season as an auxiliary pioneer? Switch your role to Auxiliary Pioneer (15 h or 30 h) in seconds. Congregation publishers can log daily ministry sessions, track Bible studies, and enable an automatic notification on the 1st of every month at 20:00 so you never forget to submit your field service report."
+      "Slimme urenplanning voor gewone en hulppioniers",
+      "Plan je velddienstdagen vooruit in de ingebouwde kalender. De app berekent direct of je geplande uren voldoende zijn voor je maanddoel van 15, 30 of 50 uur en houdt je voortgang voor het hele dienstjaar (september–augustus) bij."
     ],
     [
-      "House-to-House Territories, Apartment Generator & Return Visits",
-      "Replace paper slips with organized digital territory cards. Attach photos of territory maps, color-code cards with 10 stylish colors, and generate entire multi-story apartment buildings by entrances and floors in one tap. Record 'First visit', 'Not at home', or 'Refusal' statuses, search across all territories by street address or resident name, and receive automatic reminders when it is time to make a return visit."
+      "Digitale gebiedskaarten en werken van huis tot huis",
+      "Vervang papieren briefjes door overzichtelijke digitale gebieden. Genereer een heel appartementencomplex in enkele seconden, markeer 'niet thuis'-adressen, bewaar foto's van de gebiedskaart en vind elk adres of elke naam direct terug via de zoekbalk."
     ],
     [
-      "Bible Student Progress & Modern iOS Replacement for Legacy Apps",
-      "Maintain a detailed roster of your Bible students along with their current study publication (such as 'Enjoy Life Forever!'), lesson number, and section. Attach students directly to your timer session so your monthly study count is always accurate. Built natively with SwiftUI for the latest iPhone and iPad models, JW Ministry is the ideal modern alternative to discontinued apps like ServicePlanner or MyTime."
+      "Modern en betrouwbaar alternatief voor ServicePlanner & MyTime",
+      "Veel oudere velddienst-apps worden niet meer bijgewerkt. JW Ministry is volledig gebouwd in native SwiftUI voor moderne iPhones en iPads, werkt 100% offline zonder reclame en werkt perfect samen met JW Library."
     ]
   ],
-  "seo_tags_title": "Popular Field Service Searches Covered by JW Ministry:",
+  "seo_tags_title": "Populaire zoekopdrachten van verkondigers en pioniers:",
   "seo_tags": [
-    "Jehovah's Getuigen velddienst en prediking",
-    "velddienstrapport JW iPhone",
-    "gewone pionier (50 uur)",
-    "hulppionier (15 en 30 uur)",
-    "dienstjaar (september–augustus) 2026–2027",
-    "persoonlijk gebied en nabezoeken",
-    "Bijbelstudies (‘Gelukkig leven, nu en voor altijd!’)",
-    "JW Ministry App Store"
+    "JW Ministry app iPhone",
+    "velddienstrapport Jehovah's Getuigen",
+    "gewone pionier 50 uur schema",
+    "hulppionier 15 30 uur",
+    "dienstjaar 2026 2027 urenteller",
+    "gebiedskaarten huis aan huis app",
+    "bijbelstudies en nabezoeken bijhouden",
+    "ServicePlanner alternatief iOS",
+    "JW velddienst kalender"
   ],
-  "qr_scan_title": "Scan with iPhone / iPad",
-  "qr_scan_sub": "Point your camera to open in the App Store",
-  "shot_lang_label": "Interface language on screenshots:",
-  "comp_title": "Why Publishers & Pioneers Switch to JW Ministry",
-  "comp_sub": "Side-by-side comparison for field service tracking, pioneer scheduling, and territory management.",
+  "qr_scan_title": "Downloaden op iPhone",
+  "qr_scan_sub": "Richt de camera van je iPhone op de QR-code",
+  "shot_lang_label": "Taal van schermafbeeldingen in de app (35+):",
+  "comp_title": "Waarom verkondigers en pioniers overstappen op JW Ministry",
+  "comp_sub": "Vergelijking tussen een papieren notitieboekje, verouderde apps en JW Ministry 1.8",
   "comp_headers": [
-    "Feature",
-    "Paper Notebook",
-    "Legacy Apps",
+    "Functie",
+    "Notitieboekje / Oude apps",
     "JW Ministry 1.8"
   ],
   "comp_rows": [
     [
-      "Live Ministry Timer on Lock Screen & Dynamic Island",
-      "No",
-      "No",
-      "Yes (Live Activities)"
+      "Velddiensttimer op het toegangsscherm & Dynamic Island",
+      "Handmatig tellen of timer stopt op de achtergrond",
+      "Live Activities + widgets op het beginscherm"
     ],
     [
-      "Pioneer Goal Calculator (15, 30, 50, 100h) & 600h Service Year",
-      "Manual calculation",
-      "Partial",
-      "Automatic + Custom Goal"
+      "Controle van 15 / 30 / 50 uur & 600 uur voor het dienstjaar",
+      "Zelf uitrekenen met een rekenmachine",
+      "Dubbele voortgangsring (maand + dienstjaar Sept–Aug)"
     ],
     [
-      "Planned vs. Actual Calendar & Swipe-to-Report Conversion",
-      "No",
-      "No",
-      "Built-in 1-Swipe Workflow"
+      "Kalender: som van geplande uren vs. werkelijke uren",
+      "Geen koppeling tussen agenda en rapport",
+      "Automatische som per maand + omzetten met één veeg"
     ],
     [
-      "Apartment Building Generator + Territory Photos & 10 Color Tags",
-      "Paper slips",
-      "Text only",
-      "Full Visual Cards + Search"
+      "Huis-aan-huiskaarten & appartementgenerator",
+      "Papieren kaarten of handmatig elk huisnummer typen",
+      "Generator op verdiepingen, foto's, 10 kleuren & zoeken"
     ],
     [
-      "Return Visit Reminders & 1st-of-the-Month Report Notification",
-      "No",
-      "Basic",
-      "Smart iOS Notifications"
+      "Komend dienstjaar (2026–2027) vooruit plannen",
+      "Alleen de huidige maand beschikbaar",
+      "Volledige ondersteuning voor vorig, huidig en komend jaar"
     ],
     [
-      "100% On-Device Privacy & Full iCloud Drive Backup with Photos",
-      "Easy to lose",
-      "Often breaks on new iOS",
-      "Offline & Instant Restore"
-    ],
-    [
-      "Native Support for Latest iOS, iPad, OLED Dark Mode & 35+ Languages",
-      "—",
-      "Discontinued",
-      "Modern SwiftUI Architecture"
+      "Privacy & gegevensbehoud bij overstap naar nieuwe iPhone",
+      "Risico op verlies van notities of verlopen cloud",
+      "100% lokaal op het apparaat + volledige JSON-back-up in iCloud"
     ]
   ],
-  "filter_all": "All (8)",
-  "filter_light": "Light (6)",
-  "filter_dark": "Dark (2)",
+  "filter_all": "Alle (8)",
+  "filter_light": "Licht thema (6)",
+  "filter_dark": "Donker OLED (2)",
   "filter_ipad": "iPad",
-  "wn_title": "What's New in Version 1.8",
+  "wn_title": "Nieuw in versie 1.8",
   "wn_items": [
-    "Automatic monthly planned-hours total in the Calendar with a dual Planned vs. Actual progress bar.",
-    "1-swipe conversion of any scheduled Calendar ministry session directly into a monthly Report entry.",
-    "Instant search by street address or resident name across Territories, plus 10 color themes for territory cards.",
-    "Upcoming Service Year (2026–2027) support in the Report tab with a sleek annual balance summary.",
-    "Full optimization for the latest iOS & iPadOS releases and enhanced on-device backup protection."
+    [
+      "Automatische som van geplande uren",
+      "De kalender telt nu automatisch al je geplande uren voor de maand op en vergelijkt ze met je maanddoel en werkelijke tijd."
+    ],
+    [
+      "Met één veeg van Kalender naar Rapport",
+      "Veeg een voltooide velddienstafspraak naar links en tik op 'Naar rapport' — de uren worden direct bijgeschreven en uit de openstaande planning gehaald."
+    ],
+    [
+      "Zoeken in gebieden & 10 kleurthema's",
+      "Vind direct elk appartement of elke notitie op adres of naam en geef gebiedskaarten één van de 10 stijlvolle achtergrondkleuren."
+    ],
+    [
+      "Volledig geoptimaliseerd voor de nieuwste iOS & iPadOS",
+      "Vernieuwde voortgangsring, directe synchronisatie met widgets en maximale gegevensbescherming bij een lege batterij of herstart."
+    ]
   ],
-  "howto_name": "How to Track Field Service Hours & Pioneer Schedule on iPhone",
+  "howto_name": "Hoe je jouw velddienstrapport en pioniersuren bijhoudt in JW Ministry",
   "howto_steps": [
     [
-      "Set your service role and monthly target",
-      "Choose Publisher, Auxiliary Pioneer (15/30 h), or Regular Pioneer (50 h) in Settings, or set a custom monthly hour target."
+      "Stel je toewijzing en maanddoel in",
+      "Kies in de instellingen verkondiger, hulppionier (15/30 uur) of gewone pionier (50 uur)."
     ],
     [
-      "Run the live timer or schedule in the Calendar",
-      "Track field ministry on the Lock Screen & Dynamic Island, or swipe scheduled Calendar events directly into your Report."
+      "Plan je velddienstdagen in de kalender",
+      "Voeg je velddienstmomenten toe en bekijk direct de automatische som van geplande uren voor de maand."
     ],
     [
-      "Log territories and Bible studies",
-      "Record house-to-house visits, apartment statuses, and attach Bible students with their current lesson."
-    ],
-    [
-      "Share your monthly field service report",
-      "On the 1st of the month, open the Report tab to review and share your completed hours and Bible studies."
+      "Gebruik de timer of zet afspraken om naar het rapport",
+      "Start de Live Activity-timer tijdens de dienst of veeg een voltooide afspraak in de kalender direct naar je maandrapport."
     ]
   ],
   "nav_comp": "Vergelijking",
-  "sticky_sub": "iPhone & iPad • Free",
+  "sticky_sub": "Gratis in de App Store",
   "feature_badges": [
-    "Time Tracking • Live Activities",
-    "Bible Studies • Lesson Progress",
-    "Service Roles • 15 / 30 / 50 / 100 h",
-    "Service Year • Plan vs. Actual",
-    "Territory Log • Search & Alerts",
-    "On-Device Privacy • iCloud Backup"
+    "Tijdregistratie • Live Activities",
+    "Toewijzingen • 15 / 30 / 50 / 100 u",
+    "Planning • Plan vs. Werkelijk",
+    "Huis-aan-huis • Zoeken",
+    "Publicaties • Voortgang",
+    "Privacy • iCloud Drive"
   ],
   "pillar_badges": [
-    "Regular & Special Pioneer Ministry",
-    "Auxiliary Pioneers & Publishers",
-    "House-to-House & Personal Territories",
-    "Bible Studies & Modern iOS Design"
+    "Maandrapport • Dienstjaar",
+    "Pioniersschema • 50 & 600 u",
+    "Gebiedskaarten • Huis-aan-huis",
+    "Bijbelstudies • Nabezoeken"
   ],
   "pillar_Checklists": [
     [
-      "Automatic 50 h monthly & 600 h September–August service year tracking",
-      "Custom monthly hour target override (e.g., 55 h/month)",
-      "Dual progress bar comparing scheduled vs. reported hours"
+      "Automatische berekening voor verkondiger en pionier (15, 30, 50, 100 uur)",
+      "Volledig overzicht van het dienstjaar van september t/m augustus (600 uur)",
+      "Slimme herinnering voor het inleveren van je rapport op de 1e om 20:00 uur"
     ],
     [
-      "One-tap switch to 15 h or 30 h Auxiliary Pioneer goals",
-      "Instant monthly report formatting and sharing on the 1st",
-      "Gentle reminder notification on the 1st of each month at 20:00"
+      "Maandelijkse som van geplande uren direct zichtbaar boven de kalender",
+      "Vergelijkingsbalk tussen geplande tijd en werkelijk gepredikte uren",
+      "Zet een geplande afspraak met één veeg om in een rapportregistratie"
     ],
     [
-      "Multi-story apartment generator by entrances and floors",
-      "Territory map photos, 10 color themes & instant resident/address search",
-      "Automated return visit reminders after your chosen number of days"
+      "Automatische generator voor flatgebouwen per ingang en verdieping",
+      "Zoeken door al je gebieden op straatnaam, huisnummer of naam van de bewoner",
+      "Foto's van gebiedskaarten en 10 stijlvolle kleuraccenten per gebied"
     ],
     [
-      "Track exact lessons in 'Enjoy Life Forever!' for every student",
-      "Built natively for iOS & iPadOS with Dynamic Island & OLED Dark Mode",
-      "Complete modern replacement for legacy ServicePlanner & MyTime apps"
+      "Bijhouden van voortgang in het boek 'Gelukkig leven — nu en voor altijd!'",
+      "Volledige JSON-back-up inclusief foto's voor veilige overstap naar een nieuwe iPhone",
+      "100% privé: geen registratie, geen servers en volledig gratis zonder advertenties"
     ]
   ],
-  "rev_title": "Loved by Publishers & Pioneers Worldwide",
-  "rev_sub": "Real feedback from brothers and sisters using JW Ministry in their daily field service.",
+  "rev_title": "Geliefd bij verkondigers en pioniers wereldwijd",
+  "rev_sub": "Beoordelingen uit de App Store van broeders en zusters die JW Ministry dagelijks in de velddienst gebruiken.",
   "reviews": [
     [
-      "Alex, Regular Pioneer",
-      "Having the monthly planned hours automatically totaled in the Calendar alongside my actual reported hours is a game changer for keeping my 50-hour schedule on track."
+      "Eindelijk een moderne en overzichtelijke app voor het pionieren! De automatische som van geplande uren in de kalender helpt mij elke maand om precies op koers te blijven voor mijn 50 uur.",
+      "Thomas, gewone pionier"
     ],
     [
-      "Sarah, Auxiliary Pioneer",
-      "The Lock Screen Live Activity timer and 1-swipe conversion from Calendar plans to Report entries make tracking 15 and 30 hours effortless. Clean, fast, and 100% private."
+      "De appartementgenerator bij de gebieden bespaart enorm veel tijd in de huis-aan-huisprediking, en de timer op het Dynamic Island werkt feilloos.",
+      "Sanne, hulppionier"
     ],
     [
-      "David, Congregation Publisher",
-      "The apartment building generator and instant search across territory notes replaced all my paper slips. Return visit reminders help me never miss a follow-up."
+      "Ik ben overgestapt vanaf een oude app die niet meer werkte. De back-up via iCloud Drive en het overzicht van mijn bijbelstudies zijn precies wat ik zocht.",
+      "Milan, verkondiger"
     ]
   ],
   "privacy_page": {
-    "page_title": "Privacy Policy & User Support — JW Ministry",
-    "meta_desc": "Official Privacy Policy and User Support for the JW Ministry iOS & iPadOS app. 100% local on-device data storage with zero external servers.",
-    "back_home": "Back to Home",
-    "sup_title": "JW Ministry — User Support",
-    "sup_desc": "If you have questions, suggestions for new features, or found a bug in the app, feel free to contact the developer:",
-    "sup_issues": "Report an Issue (GitHub)",
-    "sup_store": " JW Ministry on App Store",
-    "updated": "Last updated: December 5, 2025",
-    "h1": "Privacy Policy for “JW Ministry”",
-    "intro": "This Privacy Policy explains how the <strong>“JW Ministry”</strong> mobile application (“the App”) handles user information. Our core principle is <strong>100% privacy: all records you create are stored exclusively on your device</strong>.",
-    "s1_t": "1. Data Created and Stored in the App",
-    "s1_p": "All data in the App is entered voluntarily by the user for personal field service organization and planning:",
+    "page_title": "Privacybeleid & Support — JW Ministry",
+    "meta_desc": "Officieel privacybeleid en gebruikersondersteuning van de iOS-app JW Ministry. 100% lokale gegevensopslag op je iPhone en iPad.",
+    "back_home": "Terug naar de startpagina",
+    "sup_title": "Gebruikersondersteuning van JW Ministry",
+    "sup_desc": "Heb je een vraag, suggestie of een fout gevonden in de app? Neem gerust contact met ons op:",
+    "sup_issues": "Melding maken op GitHub Issues",
+    "sup_store": "Pagina in de App Store",
+    "updated": "Laatst bijgewerkt: 05-12-2025",
+    "h1": "Privacybeleid van de app «JW Ministry»",
+    "intro": "Dit privacybeleid legt uit hoe de mobiele applicatie «JW Ministry» (hierna: de «App») omgaat met gegevens van de gebruiker. Wij hechten maximale waarde aan uw privacy: de App vereist geen account, verzamelt geen persoonsgegevens en verstuurt geen informatie naar de ontwikkelaar of derden.",
+    "s1_t": "1. Welke gegevens worden verwerkt en waar ze worden bewaard",
+    "s1_p": "Alle informatie die u in de App invoert, wordt uitsluitend lokaal op uw apparaat (iPhone of iPad) opgeslagen:",
     "s1_ul": [
-      "<strong>Service time entries & reports:</strong> dates, duration, Bible study counts, and session notes.",
-      "<strong>Calendar schedules:</strong> planned ministry events, dates, times, and recurrence settings.",
-      "<strong>Bible students list:</strong> student names/labels and study publication progress notes.",
-      "<strong>Territories & addresses:</strong> territory names, house/apartment lists, visit history, notes, and territory card photos selected by the user from the Photo Library.",
-      "<strong>App settings:</strong> selected service role, personal monthly hour target, and notification preferences."
+      "Tijdregistraties van de velddienst, kalenderplannen en maanddoelen;",
+      "Lijst van bijbelstudenten, bezoekgeschiedenis en persoonlijke notities;",
+      "Gebiedskaarten, adressen, bezoekstatussen en foto's die u zelf uit uw fotobibliotheek toevoegt;",
+      "App-instellingen en lokale reservekopieën (JSON-bestanden) die u zelf opslaat in bijvoorbeeld iCloud Drive of de Bestanden-app."
     ],
-    "s2_t": "2. 100% Local On-Device Storage & No Third-Party Sharing",
+    "s2_t": "2. Geen gegevensoverdracht aan derden",
     "s2_ul": [
-      "All data is stored <strong>solely on your iPhone or iPad</strong> within the secure iOS / iPadOS storage container.",
-      "The App requires <strong>no registration</strong> and no user account.",
-      "The developer has <strong>no access</strong> to your records, collects no analytics or location data, and <strong>never transmits or shares</strong> any data with external servers or third parties."
+      "De App maakt geen gebruik van externe databases, analysetrackers of advertentienetwerken.",
+      "De ontwikkelaar heeft op geen enkele wijze toegang tot uw aantekeningen, gebieden of rapporten.",
+      "Wanneer u zelf een back-upbestand opslaat in iCloud Drive, valt deze opslag onder het standaard beveiligings- en privacybeleid van Apple."
     ],
-    "s3_t": "3. Device Permissions (Photos & Notifications)",
+    "s3_t": "3. Toestemmingen op het apparaat",
     "s3_ul": [
-      "<strong>Photo Library:</strong> requested only when you choose to attach a map or building photo to a territory card. Selected images are stored locally inside the App folder on your device.",
-      "<strong>Notifications:</strong> used exclusively for local on-device reminders (such as the 1st-of-the-month report reminder or return visit reminders)."
+      "Fotobibliotheek: uitsluitend wanneer u zelf een afbeelding van een gebiedskaart wilt koppelen.",
+      "Meldingen & Live Activities: uitsluitend voor het tonen van de actieve velddiensttimer en lokale herinneringen (zoals de herinnering voor het maandrapport op de 1e van de maand)."
     ],
-    "s4_t": "4. Backups & Data Deletion",
-    "s4_p": "You may export a complete backup file (including territory photos) at any time via the standard iOS share sheet (for example, saving to your personal iCloud Drive or Files app). Uninstalling the App from your device permanently deletes all local App data.",
+    "s4_t": "4. Gegevens beheren en verwijderen",
+    "s4_p": "U hebt volledige controle over uw gegevens. U kunt elk item op elk moment in de App bewerken of verwijderen. Bij het verwijderen van de App van uw apparaat worden alle lokaal opgeslagen gegevens definitief gewist (met uitzondering van back-upbestanden die u zelf elders hebt bewaard).",
     "s5_t": "5. Contact",
-    "s5_p": "If you have any questions regarding this Privacy Policy or the App, please contact the developer at:"
-  }
+    "s5_p": "Voor vragen over dit privacybeleid of de werking van de App kunt u contact opnemen via e-mail:"
+  },
+  "feat_title": "Alle hulpmiddelen voor een georganiseerde bediening",
+  "feat_sub": "Speciaal ontworpen voor verkondigers, hulppioniers, gewone en speciale pioniers.",
+  "footer_copy": "© 2025–2026 JW Ministry. Alle rechten voorbehouden."
 }

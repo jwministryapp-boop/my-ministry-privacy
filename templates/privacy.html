@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="{{HTML_LANG}}">
 <head>
+  <script>if(window.location.pathname.endsWith('/index.html')){window.history.replaceState(null,'',window.location.pathname.slice(0,-10)+window.location.search+window.location.hash);}</script>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>{{P_TITLE}}</title>
@@ -79,12 +80,12 @@
 <body>
   <header class="topbar">
     <div class="container topbar-inner">
-      <a href="./index.html" class="brand">
+      <a href="./" class="brand">
         <img src="{{PREFIX}}/assets/logo.png" alt="JW Ministry" class="brand-logo" width="38" height="38" />
         <span>JW Ministry</span>
       </a>
       <div class="nav-right">
-        <a href="./index.html" class="back-pill">{{P_BACK_HOME}}</a>
+        <a href="./" class="back-pill">{{P_BACK_HOME}}</a>
         <div class="lang-dropdown" id="lang-dropdown">
           <button class="lang-trigger" onclick="toggleLangDropdown(event)" aria-label="Select language">
             <span>{{FLAG}}</span>
@@ -137,7 +138,7 @@
     <div class="container footer-inner">
       <div>© 2025–2026 JW Ministry. All rights reserved.</div>
       <div class="footer-links">
-        <a href="./index.html">{{P_BACK_HOME}}</a>
+        <a href="./">{{P_BACK_HOME}}</a>
         <a href="mailto:{{CONTACT_EMAIL}}">{{CONTACT_EMAIL}}</a>
       </div>
     </div>

@@ -76,7 +76,8 @@ def render(code, d, is_root=False):
 
     f_badges = d.get("feature_badges", [])
     feats_html = []
-    for idx, (_, ft, fd) in enumerate(d["features"]):
+    for idx, feat_item in enumerate(d["features"]):
+        ft, fd = feat_item[-2], feat_item[-1]
         svg_ic = SVG_ICONS[FEATURE_ICON_KEYS[idx % len(FEATURE_ICON_KEYS)]]
         kicker = f_badges[idx] if idx < len(f_badges) else ""
         feats_html.append(f'''<div class="feat-card">
