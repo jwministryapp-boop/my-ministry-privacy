@@ -31,11 +31,12 @@ if os.path.isdir(IPAD_DIR):
 def render(code, d, is_root=False):
     prefix = "." if is_root else ".."
     base_url = CFG["base_url"]
-    canonical = f"{base_url}/" if is_root else f"{base_url}/{code}/"
+    canonical = f"{base_url}/" if (is_root or code == "en") else f"{base_url}/{code}/"
 
     hreflangs = [f'<link rel="alternate" hreflang="x-default" href="{base_url}/" />']
     for lc in CFG["supported_langs"]:
-        hreflangs.append(f'<link rel="alternate" hreflang="{lc}" href="{base_url}/{lc}/" />')
+        h_url = f"{base_url}/" if lc == "en" else f"{base_url}/{lc}/"
+        hreflangs.append(f'<link rel="alternate" hreflang="{lc}" href="{h_url}" />')
 
     pills = []
     for lc, ld in LANGS.items():
@@ -125,6 +126,7 @@ def render(code, d, is_root=False):
     comp_table_html = f'<table class="comp-table"><thead><tr>{th_cells}</tr></thead><tbody>{"".join(tr_list)}</tbody></table>'
 
     faqs_html = [f'<details class="faq-item"><summary>{q}</summary><p>{a}</p></details>' for q, a in d["faqs"]]
+    reviews_html = [f'<article class="review-card"><div class="review-stars" aria-label="5 out of 5 stars">★★★★★</div><p class="review-text">“{rt}”</p><div class="review-author">{ra}</div></article>' for ra, rt in d.get("reviews", [])]
     wn_items_html = [f"<li>{item}</li>" for item in d.get("wn_items", [])]
 
     schema = [
@@ -140,7 +142,8 @@ def render(code, d, is_root=False):
             "description": d["description"],
             "softwareVersion": CFG["version"],
             "screenshot": schema_shots,
-            "offers": {"@type": "Offer", "price": "0", "priceCurrency": "USD"}
+            "offers": {"@type": "Offer", "price": "0", "priceCurrency": "USD"},
+            "aggregateRating": {"@type": "AggregateRating", "ratingValue": "5.0", "bestRating": "5", "ratingCount": "28"}
         },
         {
             "@context": "https://schema.org",
@@ -168,7 +171,7 @@ def render(code, d, is_root=False):
 
     redirect_js = ""
     if is_root:
-        redirect_js = """<script>(function(){try{if(sessionStorage.getItem('jw_lang_selected'))return;var l=(navigator.language||'en').toLowerCase(),t=null;if(l.startsWith('ru')||l.startsWith('uk')||l.startsWith('be'))t='ru';else if(l.startsWith('es'))t='es';else if(l.startsWith('de'))t='de';else if(l.startsWith('pt'))t='pt';else if(l.startsWith('fr'))t='fr';if(t){sessionStorage.setItem('jw_lang_selected','1');window.location.replace('./'+t+'/index.html');}}catch(e){}})();</script>"""
+        redirect_js = """<script>(function(){try{var ua=(navigator.userAgent||'').toLowerCase();if(/bot|google|yandex|bing|duckduck|baidu|slurp|crawler|spider|applebot|facebook|embedly|quora|pinterest|slack|vkshare|telegram|whatsapp/i.test(ua)||navigator.webdriver)return;if(sessionStorage.getItem('jw_lang_selected'))return;var l=(navigator.language||'en').toLowerCase(),t=null;if(l.startsWith('ru')||l.startsWith('uk')||l.startsWith('be'))t='ru';else if(l.startsWith('es'))t='es';else if(l.startsWith('de'))t='de';else if(l.startsWith('pt'))t='pt';else if(l.startsWith('fr'))t='fr';if(t){sessionStorage.setItem('jw_lang_selected','1');window.location.replace('./'+t+'/index.html');}}catch(e){}})();</script>"""
 
     replacements = {
         "{{PREFIX}}": prefix,
@@ -190,6 +193,7 @@ def render(code, d, is_root=False):
         "{{SEO_TAGS_CLOUD}}": "\n            ".join(seo_tags_html),
         "{{LANG_BADGES}}": "\n            ".join(badges_html),
         "{{FAQ_LIST}}": "\n          ".join(faqs_html),
+        "{{REVIEWS_GRID}}": "\n          ".join(reviews_html),
         "{{WN_LIST_ITEMS}}": "\n            ".join(wn_items_html),
         "{{APP_STORE_ID}}": CFG["app_store_id"],
         "{{APP_STORE_URL}}": CFG["app_store_url"],
@@ -225,7 +229,7 @@ print(f"✅ Сборка V2 завершена! Найдено скриншот�
 # Генерируем расширенный sitemap.xml с поддержкой Google Images (xmlns:image) и hreflang
 base_url = CFG["base_url"]
 url_blocks = []
-page_entries = [("", LANGS["en"])] + [(c, LANGS[c]) for c in CFG["supported_langs"]]
+page_entries = [("", LANGS["en"])] + [(c, LANGS[c]) for c in CFG["supported_langs"] if c != "en"]
 for sub, ldata in page_entries:
     loc = f"{base_url}/" if sub == "" else f"{base_url}/{sub}/"
     sfolder = quote(ldata["shot_folder"])
