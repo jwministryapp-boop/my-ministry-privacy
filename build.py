@@ -482,7 +482,7 @@ if os.path.exists(calc_tpl_file):
             lhref = "/pioneer-calculator/" if lc == "en" else f"/{lc}/pioneer-calculator/"
             hreflangs.append(f'<link rel="alternate" hreflang="{ld.get("html_lang", lc)}" href="{lurl}">')
             active_style = 'background:#f3ecff;font-weight:700;' if lc == code else ''
-            lang_links.append(f'<a href="{lhref}" style="text-decoration:none;color:#1f2937;padding:6px 8px;border-radius:8px;font-size:13px;white-space:nowrap;{active_style}">{ld.get("flag","")} {ld.get("name", lc)}</a>')
+            lang_links.append(f'<a href="{lhref}" style="display:flex;align-items:center;gap:10px;text-decoration:none;color:#111827;padding:10px 14px;border-radius:10px;font-size:15px;font-weight:600;white-space:nowrap;{active_style}">{ld.get("flag","")} {ld.get("name", lc)}</a>')
         page_html = calc_tpl
         back_home = "← На главную" if code == "ru" else "← Home"
         opt_custom = "Своя цель" if code == "ru" else "Custom goal"

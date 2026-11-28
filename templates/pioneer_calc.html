@@ -54,8 +54,8 @@
       </a>
       <div class="nav-right">
         <div style="display:flex;align-items:center;gap:10px;"><a href="{{HOME_LINK}}" class="back-pill" style="padding:7px 14px;border-radius:999px;background:var(--accent-soft);color:var(--accent-dark);font-weight:700;font-size:0.85rem;">{{BACK_HOME}}</a><div class="lang-picker" style="position:relative;display:inline-block;">
-        <button type="button" onclick="var m=document.getElementById('calc-lang-dd');event.stopPropagation();m.style.display=(m.style.display==='flex'?'none':'flex')" style="background:rgba(107,66,176,0.08);border:1px solid rgba(107,66,176,0.2);color:#4A2588;padding:6px 12px;border-radius:10px;font-weight:600;cursor:pointer;font-size:14px;">{{CURRENT_LANG_LABEL}} ▾</button>
-        <div id="calc-lang-dd" style="display:none;flex-direction:column;position:absolute;right:0;top:calc(100% + 8px);min-width:210px;background:#fff;border:1px solid #e5e7eb;border-radius:14px;box-shadow:0 12px 32px rgba(0,0,0,0.12);padding:6px;gap:2px;z-index:99;max-height:360px;overflow-y:auto;">
+        <button type="button" onclick="event.stopPropagation();var m=document.getElementById('calc-lang-dd');var c=this.querySelector('svg');var open=(m.style.display!=='flex');m.style.display=open?'flex':'none';if(c)c.style.transform=open?'rotate(180deg)':'rotate(0deg)';" style="display:inline-flex;align-items:center;gap:8px;background:#fff;border:1.5px solid #d1d5db;color:#111827;padding:8px 15px;border-radius:999px;font-weight:600;cursor:pointer;font-size:14px;line-height:1.2;transition:border-color .15s ease;"><span>{{CURRENT_LANG_LABEL}}</span><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="#4b5563" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" style="transition:transform .15s ease;"><polyline points="6 9 12 15 18 9"></polyline></svg></button>
+        <div id="calc-lang-dd" style="display:none;flex-direction:column;position:absolute;right:0;top:calc(100% + 8px);min-width:225px;background:#fff;border:1px solid #e5e7eb;border-radius:18px;box-shadow:0 14px 36px rgba(0,0,0,0.12);padding:8px;gap:2px;z-index:99;max-height:380px;overflow-y:auto;">
           {{LANG_LINKS}}
         </div>
       </div></div>
@@ -155,6 +155,6 @@
     }
     calcPioneer();
   </script>
-<script>document.addEventListener('click',function(){var m=document.getElementById('calc-lang-dd');if(m)m.style.display='none';});</script>
+<script>document.addEventListener('click',function(){var m=document.getElementById('calc-lang-dd');if(m)m.style.display='none';var s=document.querySelector('.lang-picker svg');if(s)s.style.transform='rotate(0deg)';});</script>
 </body>
 </html>
