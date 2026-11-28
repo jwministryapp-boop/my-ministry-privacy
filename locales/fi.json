@@ -4,18 +4,18 @@
   "og_locale": "fi_FI",
   "name": "Suomi",
   "flag": "🇫🇮",
-  "title": "JW Ministry — Jehovan todistajien: Kenttäpalvelusraportti, Vakituinen tienraivaaja (50 tuntia), Omat alueet ja uusintakäynnit (iPhone & iPad)",
-  "description": "JW Ministry on Jehovan todistajien kenttäpalvelukseen suunniteltu iPhone- ja iPad-sovellus: ajastin Live Activities -tuella, raamattukurssien seuranta, palvelusvuoden raportit, tienraivaajan tuntitavoitteet ja aluekortit. vakituinen tienraivaaja (50 tuntia), osa-aikainen tienraivaaja (15 ja 30 tuntia), palvelusvuosi (syyskuu–elokuu), omat alueet ja uusintakäynnit, raamattukurssit (”Onnellinen elämä nyt ja ikuisesti”).",
-  "keywords": "JW Ministry, Jehovan todistajien, kenttäpalvelus, kenttäpalvelusraportti, vakituinen tienraivaaja (50 tuntia), osa-aikainen tienraivaaja (15 ja 30 tuntia), palvelusvuosi (syyskuu–elokuu), omat alueet ja uusintakäynnit, raamattukurssit (”Onnellinen elämä nyt ja ikuisesti”), iPhone, iPad, iOS",
+  "title": "JW Ministry — Sovellus Jehovan todistajille: kenttäpalvelus, raportti ja alueet",
+  "description": "Ilmainen sovellus Jehovan todistajille iPhonelle ja iPadille: ajastin, kuukausiraportti, tienraivaajan tunnit, kalenteri, Raamatun lukemisaikataulu, tavat ja aluekortit.",
+  "keywords": "JW Ministry, jehovan, todistajat, kenttäpalvelus, alueet, raportti, tienraivaaja, tunnit, raamattu, tutkistelu, uusintakäynti, kalenteri, ajastin",
   "nav_screens": "Näyttökuvat",
   "nav_features": "Ominaisuudet",
   "nav_languages": "35+ Kieltä",
   "nav_privacy": "Tietosuoja",
   "nav_donate": "Tue",
   "nav_faq": "UKK",
-  "badge": "Saatavilla iPhonelle ja iPadille • Versio 1.8 • 35+ Kieltä",
-  "hero_title": "Kattava apuväline kenttäpalvelukseen ja tienraivaukseen",
-  "hero_sub": "JW Ministry on Jehovan todistajien kenttäpalvelukseen suunniteltu iPhone- ja iPad-sovellus: ajastin Live Activities -tuella, raamattukurssien seuranta, palvelusvuoden raportit, tienraivaajan tuntitavoitteet ja aluekortit.",
+  "badge": "Saatavilla iPhonelle ja iPadille • Versio 2.0.1 • 35+ Kieltä",
+  "hero_title": "Kenttäpalvelus, raportti, tienraivaus, alueet ja Raamatun lukeminen",
+  "hero_sub": "Ilmainen ja yksityinen sovellus Jehovan todistajille iPhonelle ja iPadille: ajastin widgeteillä, kuukausiraportti, tienraivaajan kalenteri, aluekortit, uusintakäynnit, raamattukurssit, hengelliset tavat ja lukemisaikataulu.",
   "cta_appstore": "Lataa App Storesta",
   "cta_donate": "Tue kehittäjää",
   "stat_1_val": "35+",
@@ -33,6 +33,16 @@
       "1.jpg",
       "1. Aloita-välilehti & Palvelusajastin",
       "Mittaa kenttäpalvelusaikasi sekunnin tarkkuudella, lisää raamattukursseja, valitse oppilas ja kirjoita aluemerkintöjä."
+    ],
+    [
+      "1-1.jpg",
+      "Hengelliset tavat ja edistymisrenkaat",
+      "Seuraa päivittäisiä, viikoittaisia ja kuukausittaisia tapoja (päivän teksti, Raamatun lukeminen, kokouksiin valmistautuminen, perheen palvontailta), avaa päivän teksti suoraan JW Libraryssa ja lisää omia tapoja."
+    ],
+    [
+      "1-2.jpg",
+      "Raamatun lukemisaikataulu",
+      "Interaktiivinen ruudukko kaikista 66 Raamatun kirjasta, 5 lukureittiä (Klassinen, Kronologinen, Evankeliumit ensin, Tasapainotettu, Lyhyet ensin), arvioitu valmistumispäivä ja suora linkki JW Libraryyn."
     ],
     [
       "2.jpg",
@@ -119,7 +129,7 @@
   "ton_label": "TON / USDT (TON-verkko):",
   "copy_btn": "Kopioi",
   "copied_msg": "Kopioitu!",
-  "crypto_warn": "Lähetä osoitteeseen TQQx... varoja vain TRON (TRC-20) -verkon kautta.",
+  "crypto_warn": "Lähetä USDT (TRC-20) -varat vain TRON-verkon kautta.",
   "faq_title": "Usein kysytyt kysymykset (UKK)",
   "faqs": [
     [
@@ -182,7 +192,7 @@
     "Ominaisuus",
     "Paperimuistiinpanot",
     "Vanhat sovellukset",
-    "JW Ministry 1.8"
+    "JW Ministry 2.0.1"
   ],
   "comp_rows": [
     [
@@ -228,35 +238,35 @@
       "Moderni SwiftUI-ulkoasu"
     ]
   ],
-  "filter_all": "Kaikki (8)",
-  "filter_light": "Vaalea (6)",
+  "filter_all": "Kaikki (10)",
+  "filter_light": "Vaalea (8)",
   "filter_dark": "Tumma (2)",
   "filter_ipad": "iPad",
-  "wn_title": "Uutta versiossa 1.8",
+  "wn_title": "Uutta versiossa 2.0.1",
   "wn_items": [
-    "Suunniteltujen kuukausituntien automaattinen summa Kalenterissa ja kaksinkertainen edistymispalkki (Suunniteltu vs. Toteutunut).",
-    "Muunna Kalenteriin suunniteltu palvelus suoraan raporttimerkinnäksi yhdellä pyyhkäisyllä.",
-    "Välitön haku osoitteen tai asukkaan nimen perusteella kaikilta alueilta sekä 10 väriteemaa aluekorteille.",
-    "Tuki tulevalle palvelusvuodelle (2026–2027) Raportti-välilehdellä.",
-    "Täysi optimointi uusimmille iOS- ja iPadOS-versioille sekä parannettu varmuuskopioiden suojaus."
+    "Uusi «Hengelliset tavat» -osio Aloita-välilehdellä: edistymisrenkaat (Päivä / Viikko / Kuukausi), omat tavat, siviilisäätyasetus perheen palvontailtaa varten ja kiireellinen muistutus kuun 5. päivänä.",
+    "Raamatun lukemisaikataulu: 5 lukureittiä, lukujen seuranta kaikissa 66 kirjassa, valmistumisennuste ja «Lue JW Libraryssa» -painike.",
+    "Kaksoistavoite Kalenterissa ja widgeteissä: näytä sekä tienraivaajatavoite (30 tai 50 t) että oma kuukausitavoite kaksoisrenkaassa.",
+    "Täysi käyttöliittymän optimointi taittuvalle iPhone Duo -näytölle ja iPadOS:lle.",
+    "Lisätty «Jaa sovellus»- ja «Verkkosivusto»-painikkeet Asetuksiin."
   ],
-  "howto_name": "How to Track Field Service Hours & Pioneer Schedule on iPhone",
+  "howto_name": "Kuinka seurata kenttähuoltotunteja ja pioneerien aikataulua iPhonessa",
   "howto_steps": [
     [
-      "Set your service role and monthly target",
-      "Choose Publisher, Auxiliary Pioneer (15/30 h), or Regular Pioneer (50 h) in Settings, or set a custom monthly hour target."
+      "Aseta palvelurooli ja kuukausitavoite",
+      "Valitse asetuksista Publisher, Auxiliary Pioneer (15/30 h) tai Regular Pioneer (50 h) tai aseta mukautettu kuukausittainen tuntitavoite."
     ],
     [
-      "Run the live timer or schedule in the Calendar",
-      "Track field ministry on the Lock Screen & Dynamic Island, or swipe scheduled Calendar events directly into your Report."
+      "Suorita live-ajastin tai aikataulu kalenterissa",
+      "Seuraa kenttätyötä Lukitusnäytössä ja Dynamic Islandissa tai pyyhkäise ajoitettuja kalenteritapahtumia suoraan raporttiin."
     ],
     [
-      "Log territories and Bible studies",
-      "Record house-to-house visits, apartment statuses, and attach Bible students with their current lesson."
+      "Lokialueet ja raamatuntutkistelut",
+      "Tallenna talosta taloon käynnit, asuntojen tilat ja liitä raamatuntutkijoille heidän meneillään oleva oppitunti."
     ],
     [
-      "Share your monthly field service report",
-      "On the 1st of the month, open the Report tab to review and share your completed hours and Bible studies."
+      "Jaa kuukausittainen kenttäpalveluraporttisi",
+      "Kuukauden 1. päivänä avaa Raportti-välilehti, jossa voit tarkastella ja jakaa suoritettuja tuntejasi ja raamatuntutkistelujasi."
     ]
   ],
   "nav_comp": "Vertailu",
@@ -315,38 +325,98 @@
   ],
   "privacy_page": {
     "page_title": "”JW Ministry” -sovelluksen tietosuojakäytäntö — JW Ministry",
-    "meta_desc": "Official Privacy Policy and User Support for the JW Ministry iOS & iPadOS app. 100% local on-device data storage with zero external servers.",
+    "meta_desc": "Virallinen tietosuojakäytäntö ja käyttäjätuki JW Ministry iOS- ja iPadOS-sovellukselle. 100 % paikallinen tietojen tallennus laitteessa ilman ulkoisia palvelimia.",
     "back_home": "Etusivulle",
     "sup_title": "JW Ministry — Käyttäjätuki",
     "sup_desc": "Jos sinulla on kysyttävää, kehitysehdotuksia tai löysit virheen sovelluksesta, ota yhteyttä:",
-    "sup_issues": "Report an Issue (GitHub)",
-    "sup_store": " JW Ministry on App Store",
-    "updated": "Last updated: December 5, 2025",
+    "sup_issues": "Ilmoita ongelmasta (GitHub)",
+    "sup_store": " JW Ministry App Storessa",
+    "updated": "Viimeksi päivitetty: 5. joulukuuta 2025",
     "h1": "”JW Ministry” -sovelluksen tietosuojakäytäntö",
-    "intro": "This Privacy Policy explains how the <strong>“JW Ministry”</strong> mobile application (“the App”) handles user information. Our core principle is <strong>100% privacy: all records you create are stored exclusively on your device</strong>.",
-    "s1_t": "1. Data Created and Stored in the App",
-    "s1_p": "All data in the App is entered voluntarily by the user for personal field service organization and planning:",
+    "intro": "Tämä tietosuojakäytäntö selittää, kuinka <strong>\"JW Ministry\"</strong> -mobiilisovellus (\"sovellus\") käsittelee käyttäjätietoja. Perusperiaatteemme on <strong>100 % tietosuoja: kaikki luomasi tietueet tallennetaan yksinomaan laitteellesi</strong>.",
+    "s1_t": "1. Sovelluksessa luodut ja tallennetut tiedot",
+    "s1_p": "Käyttäjä syöttää kaikki sovelluksessa olevat tiedot vapaaehtoisesti henkilökohtaiseen kenttäpalveluiden järjestämiseen ja suunnitteluun:",
     "s1_ul": [
-      "<strong>Service time entries & reports:</strong> dates, duration, Bible study counts, and session notes.",
-      "<strong>Calendar schedules:</strong> planned ministry events, dates, times, and recurrence settings.",
-      "<strong>Bible students list:</strong> student names/labels and study publication progress notes.",
-      "<strong>Territories & addresses:</strong> territory names, house/apartment lists, visit history, notes, and territory card photos selected by the user from the Photo Library.",
-      "<strong>App settings:</strong> selected service role, personal monthly hour target, and notification preferences."
+      "<strong>Palveluajan merkinnät ja raportit:</strong> päivämäärät, kesto, raamatuntutkistelumäärät ja istuntojen muistiinpanot.",
+      "<strong>Kalenterin aikataulut:</strong> suunnitellut ministeriötapahtumat, päivämäärät, kellonajat ja toistumisasetukset.",
+      "<strong>Raamattuopiskelijoiden luettelo:</strong> opiskelijoiden nimet/tarrat ja opintojen julkaisun edistymistiedot.",
+      "<strong>Alueet ja osoitteet:</strong> alueiden nimet, talo-/asuntoluettelot, käyntihistoria, muistiinpanot ja aluekorttien kuvat, jotka käyttäjä on valinnut valokuvakirjastosta.",
+      "<strong>Sovellusasetukset:</strong> valittu palvelurooli, henkilökohtainen kuukausitavoite ja ilmoitusasetukset."
     ],
-    "s2_t": "2. 100% Local On-Device Storage & No Third-Party Sharing",
+    "s2_t": "2. 100 % paikallinen laitteen tallennustila ja ei kolmannen osapuolen jakamista",
     "s2_ul": [
-      "All data is stored <strong>solely on your iPhone or iPad</strong> within the secure iOS / iPadOS storage container.",
-      "The App requires <strong>no registration</strong> and no user account.",
-      "The developer has <strong>no access</strong> to your records, collects no analytics or location data, and <strong>never transmits or shares</strong> any data with external servers or third parties."
+      "Kaikki tiedot tallennetaan <strong>ainoastaan ​​iPhoneen tai iPadiin</strong> suojattuun iOS-/iPadOS-tallennussäiliöön.",
+      "Sovellus edellyttää <strong>ei rekisteröintiä</strong> eikä käyttäjätiliä.",
+      "Kehittäjällä <strong>ei ole pääsyä</strong> tietueihisi, hän ei kerää analytiikka- tai sijaintitietoja ja <strong>ei koskaan lähetä tai jaa</strong> tietoja ulkoisten palvelimien tai kolmansien osapuolien kanssa."
     ],
-    "s3_t": "3. Device Permissions (Photos & Notifications)",
+    "s3_t": "3. Laitteen käyttöoikeudet (valokuvat ja ilmoitukset)",
     "s3_ul": [
-      "<strong>Photo Library:</strong> requested only when you choose to attach a map or building photo to a territory card. Selected images are stored locally inside the App folder on your device.",
-      "<strong>Notifications:</strong> used exclusively for local on-device reminders (such as the 1st-of-the-month report reminder or return visit reminders)."
+      "<strong>Valokuvakirjasto:</strong> pyydetään vain, kun päätät liittää kartta- tai rakennuskuvan aluekorttiin. Valitut kuvat tallennetaan paikallisesti laitteesi App-kansioon.",
+      "<strong>Ilmoitukset:</strong> käytetään vain paikallisiin laitteisiin liittyviin muistutuksiin (kuten kuukauden ensimmäisen raporttimuistutuksen tai uusintakäynnin muistutuksiin)."
     ],
-    "s4_t": "4. Backups & Data Deletion",
-    "s4_p": "You may export a complete backup file (including territory photos) at any time via the standard iOS share sheet (for example, saving to your personal iCloud Drive or Files app). Uninstalling the App from your device permanently deletes all local App data.",
-    "s5_t": "5. Contact",
-    "s5_p": "If you have any questions regarding this Privacy Policy or the App, please contact the developer at:"
+    "s4_t": "4. Varmuuskopiot ja tietojen poistaminen",
+    "s4_p": "Voit viedä täydellisen varmuuskopiotiedoston (mukaan lukien aluekuvat) milloin tahansa tavallisen iOS-jakoarkin kautta (esimerkiksi tallentamalla henkilökohtaiseen iCloud Driveen tai Tiedostot-sovellukseen). Sovelluksen poistaminen laitteestasi poistaa pysyvästi kaikki paikalliset sovellustiedot.",
+    "s5_t": "5. Ota yhteyttä",
+    "s5_p": "Jos sinulla on kysyttävää tästä tietosuojakäytännöstä tai sovelluksesta, ota yhteyttä kehittäjään osoitteessa:"
+  },
+  "filter_duo": "iPhone Duo",
+  "wn_items_18": [
+    "Suunniteltujen kuukausituntien automaattinen summa Kalenterissa ja kaksinkertainen edistymispalkki (Suunniteltu vs. Toteutunut).",
+    "Muunna Kalenteriin suunniteltu palvelus suoraan raporttimerkinnäksi yhdellä pyyhkäisyllä.",
+    "Välitön haku osoitteen tai asukkaan nimen perusteella kaikilta alueilta sekä 10 väriteemaa aluekorteille.",
+    "Tuki tulevalle palvelusvuodelle (2026–2027) Raportti-välilehdellä.",
+    "Täysi optimointi uusimmille iOS- ja iPadOS-versioille sekä parannettu varmuuskopioiden suojaus."
+  ],
+  "bible_page": {
+    "title": "5 Raamatun lukemisaikataulua & hengellisten tapojen seuranta | JW Ministry",
+    "desc": "Kätevä päivittäinen Raamatun lukemisaikataulu iPhonelle ja iPadille: kaikki 66 kirjaa, 5 vaihtoehtoa (klassinen, kronologinen ym.), ennuste ja JW Library -integraatio.",
+    "h1": "5 Raamatun lukemisaikataulua & hengellisten tapojen seuranta",
+    "intro": "Kätevä päivittäinen Raamatun lukemisaikataulu iPhonelle ja iPadille: kaikki 66 kirjaa, 5 vaihtoehtoa (klassinen, kronologinen ym.), ennuste ja JW Library -integraatio.",
+    "routes_title": "5 sisäänrakennettua Raamatun lukusuunnitelmaa",
+    "s1_t": "66 kirjaa interaktiivinen ruudukko",
+    "s1_d": "Tarkista luvut ja seuraa edistymistä Raamatun heprealaisissa ja kreikkalaisissa kirjoituksissa.",
+    "s2_t": "Päivittäiset henkiset tavat",
+    "s2_d": "Edistyminen soi päivälle, viikolle ja kuukaudelle sekä 1-napainen Daily Text JW Library.",
+    "routes": [
+      [
+        "1. Klassikko",
+        "Mooseksen kirjasta Ilmestyskirjaan – koko Raamatun peräkkäinen lukeminen."
+      ],
+      [
+        "2. Kronologinen",
+        "Kirjat on järjestetty historiallisten tapahtumien ja kirjoitusten järjestykseen."
+      ],
+      [
+        "3. Evankeliumit ensin",
+        "Aloita Raamatun kreikkalaisista kirjoituksista ja siirry sitten heprealaisiin kirjoituksiin."
+      ],
+      [
+        "4. Tasapainoinen sekoitus",
+        "Vuorotteleva historia, runous ja evankeliumit päivittäiseen vaihteluun."
+      ],
+      [
+        "5. Lyhyin ensin",
+        "Lyhyimmistä kirjoista pisimpiin saadakseen nopean edistymisen tunteen."
+      ]
+    ]
+  },
+  "calc_page": {
+    "title": "Pioneerin aikataululaskin (15, 30, 50 & 600 tuntia) | JW Ministry",
+    "desc": "Ilmainen online-pioneerituntilaskuri Jehovan todistajille. Laske viikoittainen ja päivittäinen kenttäpalvelusaikataulusi 15 tunnin, 30 tunnin osa- tai 50 tunnin tienraivaajalle (600 tunnin palveluvuosi).",
+    "h1": "Pioneerin aikataululaskin",
+    "intro": "Suunnittele kenttäpalvelutunnit 15 tunnin tai 30 tunnin aputienraivaajaksi, 50 tunnin varsinaiselle tienraivaajalle (600 tuntia palveluvuodessa) tai mukautetun tavoitteen mukaan.",
+    "label_goal": "Kuukauden tavoite",
+    "opt_15": "Apu-pioneer - 15 h/kk",
+    "opt_30": "Apu-pioneer — 30 h/kk",
+    "opt_50": "Tavallinen Pioneer – 50 h/kk",
+    "opt_90": "Special Pioneer – 90 h/kk",
+    "opt_100": "Special Pioneer – 100 h/kk",
+    "label_days": "Palveluspäiviä viikossa",
+    "res_week": "Tunteja viikossa",
+    "res_day": "Tuntia per palveluspäivä",
+    "res_year": "Per palveluvuosi",
+    "unit_h": "h",
+    "cta_app": "Rata-aikataulu JW Ministry",
+    "cta_bible": "Raamatun lukuaikataulu"
   }
 }

@@ -2,11 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://jwministry.org/</loc>
+    <lastmod>2026-11-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
     <image:image>
       <image:loc>https://jwministry.org/screenshots/English/1.jpg</image:loc>
       <image:title>1. Start Tab &amp; Live Timer — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/English/1-1.jpg</image:loc>
+      <image:title>Spiritual Habits &amp; Progress Rings — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/English/1-2.jpg</image:loc>
+      <image:title>Bible Reading Schedule — JW Ministry</image:title>
     </image:image>
     <image:image>
       <image:loc>https://jwministry.org/screenshots/English/2.jpg</image:loc>
@@ -38,678 +47,67 @@
     </image:image>
   </url>
   <url>
-    <loc>https://jwministry.org/ru/</loc>
+    <loc>https://jwministry.org/af/</loc>
+    <lastmod>2026-11-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.95</priority>
     <image:image>
-      <image:loc>https://jwministry.org/screenshots/Russian/1.jpg</image:loc>
-      <image:title>1. Вкладка «Старт» и таймер служения — JW Ministry</image:title>
+      <image:loc>https://jwministry.org/screenshots/Afrikaans/1.jpg</image:loc>
+      <image:title>1. Begin Tab &amp; Live Timer — JW Ministry</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://jwministry.org/screenshots/Russian/2.jpg</image:loc>
-      <image:title>2. Список изучающих Библию — JW Ministry</image:title>
+      <image:loc>https://jwministry.org/screenshots/Afrikaans/1-1.jpg</image:loc>
+      <image:title>Geestelike gewoontes en vordering lui — JW Ministry</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://jwministry.org/screenshots/Russian/3.jpg</image:loc>
-      <image:title>3. Отчёт за месяц и служебный год — JW Ministry</image:title>
+      <image:loc>https://jwministry.org/screenshots/Afrikaans/1-2.jpg</image:loc>
+      <image:title>Bybelleesrooster — JW Ministry</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://jwministry.org/screenshots/Russian/4.jpg</image:loc>
-      <image:title>4. Календарь, планы и норма пионера — JW Ministry</image:title>
+      <image:loc>https://jwministry.org/screenshots/Afrikaans/2.jpg</image:loc>
+      <image:title>2. Bybelstudentebestuurder — JW Ministry</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://jwministry.org/screenshots/Russian/5.jpg</image:loc>
-      <image:title>5. Карточки участков и учёт по домам — JW Ministry</image:title>
+      <image:loc>https://jwministry.org/screenshots/Afrikaans/3.jpg</image:loc>
+      <image:title>3. Diensjaar- en maandelikse verslae — JW Ministry</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://jwministry.org/screenshots/Russian/6.jpg</image:loc>
-      <image:title>6. Настройки, напоминания и бэкап в iCloud — JW Ministry</image:title>
+      <image:loc>https://jwministry.org/screenshots/Afrikaans/4.jpg</image:loc>
+      <image:title>4. Pionier-kalender en doelwitvordering — JW Ministry</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://jwministry.org/screenshots/Russian/7.jpg</image:loc>
-      <image:title>7. Ночной режим OLED (Экран таймера) — JW Ministry</image:title>
+      <image:loc>https://jwministry.org/screenshots/Afrikaans/5.jpg</image:loc>
+      <image:title>5. Gebiedskaarte en deur-tot-deur-logboek — JW Ministry</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://jwministry.org/screenshots/Russian/8.jpg</image:loc>
-      <image:title>8. Ночной режим OLED (Экран настроек) — JW Ministry</image:title>
+      <image:loc>https://jwministry.org/screenshots/Afrikaans/6.jpg</image:loc>
+      <image:title>6. Buigsame instellings en wolkrugsteun — JW Ministry</image:title>
     </image:image>
-  </url>
-  <url>
-    <loc>https://jwministry.org/es/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.95</priority>
     <image:image>
-      <image:loc>https://jwministry.org/screenshots/Spanish/1.jpg</image:loc>
-      <image:title>1. Temporizador de ministerio en vivo — JW Ministry</image:title>
+      <image:loc>https://jwministry.org/screenshots/Afrikaans/7.jpg</image:loc>
+      <image:title>7. Ware Swart OLED-donkermodus (Timer) — JW Ministry</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://jwministry.org/screenshots/Spanish/2.jpg</image:loc>
-      <image:title>2. Gestión de estudiantes de la Biblia — JW Ministry</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://jwministry.org/screenshots/Spanish/3.jpg</image:loc>
-      <image:title>3. Informe mensual y por año de servicio — JW Ministry</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://jwministry.org/screenshots/Spanish/4.jpg</image:loc>
-      <image:title>4. Calendario y meta de precursor — JW Ministry</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://jwministry.org/screenshots/Spanish/5.jpg</image:loc>
-      <image:title>5. Territorios y registro de casa en casa — JW Ministry</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://jwministry.org/screenshots/Spanish/6.jpg</image:loc>
-      <image:title>6. Ajustes, recordatorios y copia en la nube — JW Ministry</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://jwministry.org/screenshots/Spanish/7.jpg</image:loc>
-      <image:title>7. Modo oscuro OLED (Temporizador) — JW Ministry</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://jwministry.org/screenshots/Spanish/8.jpg</image:loc>
-      <image:title>8. Modo oscuro OLED (Ajustes) — JW Ministry</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://jwministry.org/de/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.95</priority>
-    <image:image>
-      <image:loc>https://jwministry.org/screenshots/German/1.jpg</image:loc>
-      <image:title>1. Start-Tab &amp; Predigtdienst-Timer — JW Ministry</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://jwministry.org/screenshots/German/2.jpg</image:loc>
-      <image:title>2. Bibelstudien-Verwaltung — JW Ministry</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://jwministry.org/screenshots/German/3.jpg</image:loc>
-      <image:title>3. Monats- &amp; Dienstjahresbericht — JW Ministry</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://jwministry.org/screenshots/German/4.jpg</image:loc>
-      <image:title>4. Pionier-Kalender &amp; Monatsziel — JW Ministry</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://jwministry.org/screenshots/German/5.jpg</image:loc>
-      <image:title>5. Gebietskarten &amp; Haus-zu-Haus-Notizen — JW Ministry</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://jwministry.org/screenshots/German/6.jpg</image:loc>
-      <image:title>6. Einstellungen, Erinnerungen &amp; Cloud-Backup — JW Ministry</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://jwministry.org/screenshots/German/7.jpg</image:loc>
-      <image:title>7. OLED-Dunkelmodus (Timer) — JW Ministry</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://jwministry.org/screenshots/German/8.jpg</image:loc>
-      <image:title>8. OLED-Dunkelmodus (Einstellungen) — JW Ministry</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://jwministry.org/pt/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.95</priority>
-    <image:image>
-      <image:loc>https://jwministry.org/screenshots/Portuguese%20%28Brazil%29/1.jpg</image:loc>
-      <image:title>1. Aba Iniciar e Cronômetro de Campo — JW Ministry</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://jwministry.org/screenshots/Portuguese%20%28Brazil%29/2.jpg</image:loc>
-      <image:title>2. Lista de Estudantes da Bíblia — JW Ministry</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://jwministry.org/screenshots/Portuguese%20%28Brazil%29/3.jpg</image:loc>
-      <image:title>3. Relatório Mensal e Ano de Serviço — JW Ministry</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://jwministry.org/screenshots/Portuguese%20%28Brazil%29/4.jpg</image:loc>
-      <image:title>4. Calendário e Meta de Pioneiro — JW Ministry</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://jwministry.org/screenshots/Portuguese%20%28Brazil%29/5.jpg</image:loc>
-      <image:title>5. Cartões de Território e Casa em Casa — JW Ministry</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://jwministry.org/screenshots/Portuguese%20%28Brazil%29/6.jpg</image:loc>
-      <image:title>6. Ajustes, Lembretes e Backup na Nuvem — JW Ministry</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://jwministry.org/screenshots/Portuguese%20%28Brazil%29/7.jpg</image:loc>
-      <image:title>7. Modo Escuro OLED (Cronômetro) — JW Ministry</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://jwministry.org/screenshots/Portuguese%20%28Brazil%29/8.jpg</image:loc>
-      <image:title>8. Modo Escuro OLED (Ajustes) — JW Ministry</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://jwministry.org/fr/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.95</priority>
-    <image:image>
-      <image:loc>https://jwministry.org/screenshots/French/1.jpg</image:loc>
-      <image:title>1. Onglet Début &amp; Chronomètre en direct — JW Ministry</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://jwministry.org/screenshots/French/2.jpg</image:loc>
-      <image:title>2. Gestion des étudiants de la Bible — JW Ministry</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://jwministry.org/screenshots/French/3.jpg</image:loc>
-      <image:title>3. Rapport mensuel et année de service — JW Ministry</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://jwministry.org/screenshots/French/4.jpg</image:loc>
-      <image:title>4. Calendrier &amp; Objectif de pionnier — JW Ministry</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://jwministry.org/screenshots/French/5.jpg</image:loc>
-      <image:title>5. Fiches de territoires &amp; Porte-à-porte — JW Ministry</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://jwministry.org/screenshots/French/6.jpg</image:loc>
-      <image:title>6. Réglages, Rappels &amp; Sauvegarde Cloud — JW Ministry</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://jwministry.org/screenshots/French/7.jpg</image:loc>
-      <image:title>7. Mode Sombre OLED (Chronomètre) — JW Ministry</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://jwministry.org/screenshots/French/8.jpg</image:loc>
-      <image:title>8. Mode Sombre OLED (Réglages) — JW Ministry</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://jwministry.org/it/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.95</priority>
-    <image:image>
-      <image:loc>https://jwministry.org/screenshots/Italian/1.jpg</image:loc>
-      <image:title>1. Scheda Inizia e Timer del ministero — JW Ministry</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://jwministry.org/screenshots/Italian/2.jpg</image:loc>
-      <image:title>2. Gestione studenti biblici — JW Ministry</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://jwministry.org/screenshots/Italian/3.jpg</image:loc>
-      <image:title>3. Rapporto mensile e Anno di servizio — JW Ministry</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://jwministry.org/screenshots/Italian/4.jpg</image:loc>
-      <image:title>4. Calendario e obiettivo del pioniere — JW Ministry</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://jwministry.org/screenshots/Italian/5.jpg</image:loc>
-      <image:title>5. Schede territorio e di casa in casa — JW Ministry</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://jwministry.org/screenshots/Italian/6.jpg</image:loc>
-      <image:title>6. Impostazioni, promemoria e backup iCloud — JW Ministry</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://jwministry.org/screenshots/Italian/7.jpg</image:loc>
-      <image:title>7. Modalità scura OLED (Timer) — JW Ministry</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://jwministry.org/screenshots/Italian/8.jpg</image:loc>
-      <image:title>8. Modalità scura OLED (Impostazioni) — JW Ministry</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://jwministry.org/pl/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.95</priority>
-    <image:image>
-      <image:loc>https://jwministry.org/screenshots/Polish/1.jpg</image:loc>
-      <image:title>1. Zakładka Start i minutnik służby — JW Ministry</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://jwministry.org/screenshots/Polish/2.jpg</image:loc>
-      <image:title>2. Lista zainteresowanych (Studia biblijne) — JW Ministry</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://jwministry.org/screenshots/Polish/3.jpg</image:loc>
-      <image:title>3. Sprawozdanie miesięczne i rok służbowy — JW Ministry</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://jwministry.org/screenshots/Polish/4.jpg</image:loc>
-      <image:title>4. Kalendarz i cel godzin pioniera — JW Ministry</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://jwministry.org/screenshots/Polish/5.jpg</image:loc>
-      <image:title>5. Karty terenów i zapiski od domu do domu — JW Ministry</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://jwministry.org/screenshots/Polish/6.jpg</image:loc>
-      <image:title>6. Ustawienia, przypomnienia i kopia iCloud — JW Ministry</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://jwministry.org/screenshots/Polish/7.jpg</image:loc>
-      <image:title>7. Tryb ciemny OLED (Minutnik) — JW Ministry</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://jwministry.org/screenshots/Polish/8.jpg</image:loc>
-      <image:title>8. Tryb ciemny OLED (Ustawienia) — JW Ministry</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://jwministry.org/uk/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.95</priority>
-    <image:image>
-      <image:loc>https://jwministry.org/screenshots/Ukrainian/1.jpg</image:loc>
-      <image:title>1. Вкладка «Старт» і таймер служіння — JW Ministry</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://jwministry.org/screenshots/Ukrainian/2.jpg</image:loc>
-      <image:title>2. Список тих, хто вивчає Біблію — JW Ministry</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://jwministry.org/screenshots/Ukrainian/3.jpg</image:loc>
-      <image:title>3. Звіт за місяць і службовий рік — JW Ministry</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://jwministry.org/screenshots/Ukrainian/4.jpg</image:loc>
-      <image:title>4. Календар, плани та норма піонера — JW Ministry</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://jwministry.org/screenshots/Ukrainian/5.jpg</image:loc>
-      <image:title>5. Картки дільниць і служіння по домах — JW Ministry</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://jwministry.org/screenshots/Ukrainian/6.jpg</image:loc>
-      <image:title>6. Налаштування, нагадування та бекап в iCloud — JW Ministry</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://jwministry.org/screenshots/Ukrainian/7.jpg</image:loc>
-      <image:title>7. Нічний режим OLED (Таймер) — JW Ministry</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://jwministry.org/screenshots/Ukrainian/8.jpg</image:loc>
-      <image:title>8. Нічний режим OLED (Налаштування) — JW Ministry</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://jwministry.org/ja/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.95</priority>
-    <image:image>
-      <image:loc>https://jwministry.org/screenshots/Japanese/1.jpg</image:loc>
-      <image:title>1. スタートタブ＆奉仕タイマー — JW Ministry</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://jwministry.org/screenshots/Japanese/2.jpg</image:loc>
-      <image:title>2. 聖書研究生の管理 — JW Ministry</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://jwministry.org/screenshots/Japanese/3.jpg</image:loc>
-      <image:title>3. 月間報告＆奉仕年度サマリー — JW Ministry</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://jwministry.org/screenshots/Japanese/4.jpg</image:loc>
-      <image:title>4. 開拓者カレンダー＆目標進捗バー — JW Ministry</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://jwministry.org/screenshots/Japanese/5.jpg</image:loc>
-      <image:title>5. 区域カード＆家から家の記録 — JW Ministry</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://jwministry.org/screenshots/Japanese/6.jpg</image:loc>
-      <image:title>6. 設定・リマインダー・iCloudバックアップ — JW Ministry</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://jwministry.org/screenshots/Japanese/7.jpg</image:loc>
-      <image:title>7. OLEDダークモード（タイマー画面） — JW Ministry</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://jwministry.org/screenshots/Japanese/8.jpg</image:loc>
-      <image:title>8. OLEDダークモード（設定画面） — JW Ministry</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://jwministry.org/ko/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.95</priority>
-    <image:image>
-      <image:loc>https://jwministry.org/screenshots/Korean/1.jpg</image:loc>
-      <image:title>1. 시작 탭 및 실시간 봉사 타이머 — JW Ministry</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://jwministry.org/screenshots/Korean/2.jpg</image:loc>
-      <image:title>2. 성서 연구생 관리 — JW Ministry</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://jwministry.org/screenshots/Korean/3.jpg</image:loc>
-      <image:title>3. 월별 보고서 및 봉사 연도 요약 — JW Ministry</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://jwministry.org/screenshots/Korean/4.jpg</image:loc>
-      <image:title>4. 파이오니아 캘린더 및 목표 달성률 — JW Ministry</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://jwministry.org/screenshots/Korean/5.jpg</image:loc>
-      <image:title>5. 구역 카드 및 호별 방문 기록 — JW Ministry</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://jwministry.org/screenshots/Korean/6.jpg</image:loc>
-      <image:title>6. 설정, 알림 및 iCloud 백업 — JW Ministry</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://jwministry.org/screenshots/Korean/7.jpg</image:loc>
-      <image:title>7. OLED 다크 모드 (타이머) — JW Ministry</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://jwministry.org/screenshots/Korean/8.jpg</image:loc>
-      <image:title>8. OLED 다크 모드 (설정) — JW Ministry</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://jwministry.org/zh/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.95</priority>
-    <image:image>
-      <image:loc>https://jwministry.org/screenshots/Chinese%2C%20Traditional/1.jpg</image:loc>
-      <image:title>1. 開始分頁與即時傳道計時器 — JW Ministry</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://jwministry.org/screenshots/Chinese%2C%20Traditional/2.jpg</image:loc>
-      <image:title>2. 聖經學生管理 — JW Ministry</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://jwministry.org/screenshots/Chinese%2C%20Traditional/3.jpg</image:loc>
-      <image:title>3. 月度報告與服務年度總覽 — JW Ministry</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://jwministry.org/screenshots/Chinese%2C%20Traditional/4.jpg</image:loc>
-      <image:title>4. 先驅日曆與時數目標進度 — JW Ministry</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://jwministry.org/screenshots/Chinese%2C%20Traditional/5.jpg</image:loc>
-      <image:title>5. 地區卡與逐家逐戶記錄 — JW Ministry</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://jwministry.org/screenshots/Chinese%2C%20Traditional/6.jpg</image:loc>
-      <image:title>6. 設定、提醒與 iCloud 雲端備份 — JW Ministry</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://jwministry.org/screenshots/Chinese%2C%20Traditional/7.jpg</image:loc>
-      <image:title>7. OLED 深色模式（計時器） — JW Ministry</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://jwministry.org/screenshots/Chinese%2C%20Traditional/8.jpg</image:loc>
-      <image:title>8. OLED 深色模式（設定） — JW Ministry</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://jwministry.org/nl/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.95</priority>
-    <image:image>
-      <image:loc>https://jwministry.org/screenshots/Dutch/1.jpg</image:loc>
-      <image:title>Velddiensttimer &amp; Doelen — JW Ministry</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://jwministry.org/screenshots/Dutch/2.jpg</image:loc>
-      <image:title>Bijbelstudies &amp; Nabezoeken — JW Ministry</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://jwministry.org/screenshots/Dutch/3.jpg</image:loc>
-      <image:title>Rapport voor het dienstjaar — JW Ministry</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://jwministry.org/screenshots/Dutch/4.jpg</image:loc>
-      <image:title>Kalender: Plan vs. Werkelijk — JW Ministry</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://jwministry.org/screenshots/Dutch/5.jpg</image:loc>
-      <image:title>Gebieden &amp; Huis-aan-huiskaarten — JW Ministry</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://jwministry.org/screenshots/Dutch/6.jpg</image:loc>
-      <image:title>Instellingen &amp; iCloud-back-up — JW Ministry</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://jwministry.org/screenshots/Dutch/7.jpg</image:loc>
-      <image:title>Donkere OLED-modus — Start — JW Ministry</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://jwministry.org/screenshots/Dutch/8.jpg</image:loc>
-      <image:title>Donkere OLED-modus — Gebieden — JW Ministry</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://jwministry.org/ro/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.95</priority>
-    <image:image>
-      <image:loc>https://jwministry.org/screenshots/Romanian/1.jpg</image:loc>
-      <image:title>1. Start Tab &amp; Live Timer — JW Ministry</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://jwministry.org/screenshots/Romanian/2.jpg</image:loc>
-      <image:title>2. Bible Students Manager — JW Ministry</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://jwministry.org/screenshots/Romanian/3.jpg</image:loc>
-      <image:title>3. Service Year &amp; Monthly Reports — JW Ministry</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://jwministry.org/screenshots/Romanian/4.jpg</image:loc>
-      <image:title>4. Pioneer Calendar &amp; Goal Progress — JW Ministry</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://jwministry.org/screenshots/Romanian/5.jpg</image:loc>
-      <image:title>5. Territory Cards &amp; Door-to-Door Log — JW Ministry</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://jwministry.org/screenshots/Romanian/6.jpg</image:loc>
-      <image:title>6. Flexible Settings &amp; Cloud Backup — JW Ministry</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://jwministry.org/screenshots/Romanian/7.jpg</image:loc>
-      <image:title>7. True Black OLED Dark Mode (Timer) — JW Ministry</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://jwministry.org/screenshots/Romanian/8.jpg</image:loc>
-      <image:title>8. OLED Dark Mode (Settings &amp; Goals) — JW Ministry</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://jwministry.org/cs/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.95</priority>
-    <image:image>
-      <image:loc>https://jwministry.org/screenshots/Czech/1.jpg</image:loc>
-      <image:title>1. Start Tab &amp; Live Timer — JW Ministry</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://jwministry.org/screenshots/Czech/2.jpg</image:loc>
-      <image:title>2. Bible Students Manager — JW Ministry</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://jwministry.org/screenshots/Czech/3.jpg</image:loc>
-      <image:title>3. Service Year &amp; Monthly Reports — JW Ministry</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://jwministry.org/screenshots/Czech/4.jpg</image:loc>
-      <image:title>4. Pioneer Calendar &amp; Goal Progress — JW Ministry</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://jwministry.org/screenshots/Czech/5.jpg</image:loc>
-      <image:title>5. Territory Cards &amp; Door-to-Door Log — JW Ministry</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://jwministry.org/screenshots/Czech/6.jpg</image:loc>
-      <image:title>6. Flexible Settings &amp; Cloud Backup — JW Ministry</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://jwministry.org/screenshots/Czech/7.jpg</image:loc>
-      <image:title>7. True Black OLED Dark Mode (Timer) — JW Ministry</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://jwministry.org/screenshots/Czech/8.jpg</image:loc>
-      <image:title>8. OLED Dark Mode (Settings &amp; Goals) — JW Ministry</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://jwministry.org/sk/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.95</priority>
-    <image:image>
-      <image:loc>https://jwministry.org/screenshots/Slovak/1.jpg</image:loc>
-      <image:title>1. Start Tab &amp; Live Timer — JW Ministry</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://jwministry.org/screenshots/Slovak/2.jpg</image:loc>
-      <image:title>2. Bible Students Manager — JW Ministry</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://jwministry.org/screenshots/Slovak/3.jpg</image:loc>
-      <image:title>3. Service Year &amp; Monthly Reports — JW Ministry</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://jwministry.org/screenshots/Slovak/4.jpg</image:loc>
-      <image:title>4. Pioneer Calendar &amp; Goal Progress — JW Ministry</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://jwministry.org/screenshots/Slovak/5.jpg</image:loc>
-      <image:title>5. Territory Cards &amp; Door-to-Door Log — JW Ministry</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://jwministry.org/screenshots/Slovak/6.jpg</image:loc>
-      <image:title>6. Flexible Settings &amp; Cloud Backup — JW Ministry</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://jwministry.org/screenshots/Slovak/7.jpg</image:loc>
-      <image:title>7. True Black OLED Dark Mode (Timer) — JW Ministry</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://jwministry.org/screenshots/Slovak/8.jpg</image:loc>
-      <image:title>8. OLED Dark Mode (Settings &amp; Goals) — JW Ministry</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://jwministry.org/hu/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.95</priority>
-    <image:image>
-      <image:loc>https://jwministry.org/screenshots/Hungarian/1.jpg</image:loc>
-      <image:title>1. Start Tab &amp; Live Timer — JW Ministry</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://jwministry.org/screenshots/Hungarian/2.jpg</image:loc>
-      <image:title>2. Bible Students Manager — JW Ministry</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://jwministry.org/screenshots/Hungarian/3.jpg</image:loc>
-      <image:title>3. Service Year &amp; Monthly Reports — JW Ministry</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://jwministry.org/screenshots/Hungarian/4.jpg</image:loc>
-      <image:title>4. Pioneer Calendar &amp; Goal Progress — JW Ministry</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://jwministry.org/screenshots/Hungarian/5.jpg</image:loc>
-      <image:title>5. Territory Cards &amp; Door-to-Door Log — JW Ministry</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://jwministry.org/screenshots/Hungarian/6.jpg</image:loc>
-      <image:title>6. Flexible Settings &amp; Cloud Backup — JW Ministry</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://jwministry.org/screenshots/Hungarian/7.jpg</image:loc>
-      <image:title>7. True Black OLED Dark Mode (Timer) — JW Ministry</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://jwministry.org/screenshots/Hungarian/8.jpg</image:loc>
-      <image:title>8. OLED Dark Mode (Settings &amp; Goals) — JW Ministry</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://jwministry.org/el/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.95</priority>
-    <image:image>
-      <image:loc>https://jwministry.org/screenshots/Greek/1.jpg</image:loc>
-      <image:title>1. Start Tab &amp; Live Timer — JW Ministry</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://jwministry.org/screenshots/Greek/2.jpg</image:loc>
-      <image:title>2. Bible Students Manager — JW Ministry</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://jwministry.org/screenshots/Greek/3.jpg</image:loc>
-      <image:title>3. Service Year &amp; Monthly Reports — JW Ministry</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://jwministry.org/screenshots/Greek/4.jpg</image:loc>
-      <image:title>4. Pioneer Calendar &amp; Goal Progress — JW Ministry</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://jwministry.org/screenshots/Greek/5.jpg</image:loc>
-      <image:title>5. Territory Cards &amp; Door-to-Door Log — JW Ministry</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://jwministry.org/screenshots/Greek/6.jpg</image:loc>
-      <image:title>6. Flexible Settings &amp; Cloud Backup — JW Ministry</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://jwministry.org/screenshots/Greek/7.jpg</image:loc>
-      <image:title>7. True Black OLED Dark Mode (Timer) — JW Ministry</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://jwministry.org/screenshots/Greek/8.jpg</image:loc>
-      <image:title>8. OLED Dark Mode (Settings &amp; Goals) — JW Ministry</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://jwministry.org/tr/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.95</priority>
-    <image:image>
-      <image:loc>https://jwministry.org/screenshots/Turkish/1.jpg</image:loc>
-      <image:title>1. Başlangıç Sekmesi ve Hizmet Sayacı — JW Ministry</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://jwministry.org/screenshots/Turkish/2.jpg</image:loc>
-      <image:title>2. Kutsal Kitap Tetkik Öğrencileri — JW Ministry</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://jwministry.org/screenshots/Turkish/3.jpg</image:loc>
-      <image:title>3. Aylık Rapor ve Hizmet Yılı — JW Ministry</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://jwministry.org/screenshots/Turkish/4.jpg</image:loc>
-      <image:title>4. Takvim ve Öncü Saat Hedefi — JW Ministry</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://jwministry.org/screenshots/Turkish/5.jpg</image:loc>
-      <image:title>5. Saha Kartları ve Evden Eve Kayıt — JW Ministry</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://jwministry.org/screenshots/Turkish/6.jpg</image:loc>
-      <image:title>6. Ayarlar, Hatırlatıcılar ve iCloud Yedekleme — JW Ministry</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://jwministry.org/screenshots/Turkish/7.jpg</image:loc>
-      <image:title>7. OLED Karanlık Mod (Sayaç) — JW Ministry</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://jwministry.org/screenshots/Turkish/8.jpg</image:loc>
-      <image:title>8. OLED Karanlık Mod (Ayarlar) — JW Ministry</image:title>
+      <image:loc>https://jwministry.org/screenshots/Afrikaans/8.jpg</image:loc>
+      <image:title>8. OLED-donkermodus (instellings en doelwitte) — JW Ministry</image:title>
     </image:image>
   </url>
   <url>
     <loc>https://jwministry.org/id/</loc>
+    <lastmod>2026-11-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.95</priority>
     <image:image>
       <image:loc>https://jwministry.org/screenshots/Indonesian/1.jpg</image:loc>
       <image:title>1. Tab Mulai &amp; Timer Dinas — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Indonesian/1-1.jpg</image:loc>
+      <image:title>Kebiasaan rohani &amp; cincin progres — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Indonesian/1-2.jpg</image:loc>
+      <image:title>Jadwal Pembacaan Alkitab — JW Ministry</image:title>
     </image:image>
     <image:image>
       <image:loc>https://jwministry.org/screenshots/Indonesian/2.jpg</image:loc>
@@ -741,86 +139,21 @@
     </image:image>
   </url>
   <url>
-    <loc>https://jwministry.org/th/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.95</priority>
-    <image:image>
-      <image:loc>https://jwministry.org/screenshots/Thai/1.jpg</image:loc>
-      <image:title>1. แท็บเริ่มต้นและตัวจับเวลาการรับใช้ — JW Ministry</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://jwministry.org/screenshots/Thai/2.jpg</image:loc>
-      <image:title>2. จัดการรายชื่อนักศึกษาคัมภีร์ไบเบิล — JW Ministry</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://jwministry.org/screenshots/Thai/3.jpg</image:loc>
-      <image:title>3. รายงานประจำเดือนและปีการรับใช้ — JW Ministry</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://jwministry.org/screenshots/Thai/4.jpg</image:loc>
-      <image:title>4. ปฏิทินและเป้าหมายชั่วโมงไพโอเนียร์ — JW Ministry</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://jwministry.org/screenshots/Thai/5.jpg</image:loc>
-      <image:title>5. บัตรเขตประกาศและบันทึกตามบ้าน — JW Ministry</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://jwministry.org/screenshots/Thai/6.jpg</image:loc>
-      <image:title>6. การตั้งค่า การแจ้งเตือน และสำรองข้อมูล iCloud — JW Ministry</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://jwministry.org/screenshots/Thai/7.jpg</image:loc>
-      <image:title>7. โหมดมืด OLED (ตัวจับเวลา) — JW Ministry</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://jwministry.org/screenshots/Thai/8.jpg</image:loc>
-      <image:title>8. โหมดมืด OLED (การตั้งค่า) — JW Ministry</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://jwministry.org/hi/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.95</priority>
-    <image:image>
-      <image:loc>https://jwministry.org/screenshots/Hindi/1.jpg</image:loc>
-      <image:title>1. स्टार्ट टैब और प्रचार सेवा टाइमर — JW Ministry</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://jwministry.org/screenshots/Hindi/2.jpg</image:loc>
-      <image:title>2. बाइबल विद्यार्थियों की सूची — JW Ministry</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://jwministry.org/screenshots/Hindi/3.jpg</image:loc>
-      <image:title>3. मासिक रिपोर्ट और सेवा वर्ष — JW Ministry</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://jwministry.org/screenshots/Hindi/4.jpg</image:loc>
-      <image:title>4. कैलेंडर और पायनियर घंटों का लक्ष्य — JW Ministry</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://jwministry.org/screenshots/Hindi/5.jpg</image:loc>
-      <image:title>5. इलाके के कार्ड और घर-घर का रिकॉर्ड — JW Ministry</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://jwministry.org/screenshots/Hindi/6.jpg</image:loc>
-      <image:title>6. सेटिंग्स, रिमाइंडर और iCloud बैकअप — JW Ministry</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://jwministry.org/screenshots/Hindi/7.jpg</image:loc>
-      <image:title>7. OLED डार्क मोड (टाइमर) — JW Ministry</image:title>
-    </image:image>
-    <image:image>
-      <image:loc>https://jwministry.org/screenshots/Hindi/8.jpg</image:loc>
-      <image:title>8. OLED डार्क मोड (सेटिंग्स) — JW Ministry</image:title>
-    </image:image>
-  </url>
-  <url>
     <loc>https://jwministry.org/da/</loc>
+    <lastmod>2026-11-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.95</priority>
     <image:image>
       <image:loc>https://jwministry.org/screenshots/Danish/1.jpg</image:loc>
       <image:title>1. Start-fanen &amp; Tjenestetimer — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Danish/1-1.jpg</image:loc>
+      <image:title>Åndelige vaner &amp; fremskridtsringe — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Danish/1-2.jpg</image:loc>
+      <image:title>Bibellæseplan — JW Ministry</image:title>
     </image:image>
     <image:image>
       <image:loc>https://jwministry.org/screenshots/Danish/2.jpg</image:loc>
@@ -852,123 +185,205 @@
     </image:image>
   </url>
   <url>
-    <loc>https://jwministry.org/sv/</loc>
+    <loc>https://jwministry.org/de/</loc>
+    <lastmod>2026-11-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.95</priority>
     <image:image>
-      <image:loc>https://jwministry.org/screenshots/Swedish/1.jpg</image:loc>
-      <image:title>1. Startflik &amp; Tjänstetimer — JW Ministry</image:title>
+      <image:loc>https://jwministry.org/screenshots/German/1.jpg</image:loc>
+      <image:title>1. Start-Tab &amp; Predigtdienst-Timer — JW Ministry</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://jwministry.org/screenshots/Swedish/2.jpg</image:loc>
-      <image:title>2. Hantera bibelkurselever — JW Ministry</image:title>
+      <image:loc>https://jwministry.org/screenshots/German/1-1.jpg</image:loc>
+      <image:title>Geistige Gewohnheiten &amp; Fortschrittsringe — JW Ministry</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://jwministry.org/screenshots/Swedish/3.jpg</image:loc>
-      <image:title>3. Månadsrapport &amp; Tjänsteår — JW Ministry</image:title>
+      <image:loc>https://jwministry.org/screenshots/German/1-2.jpg</image:loc>
+      <image:title>Bibelleseplan (66 Bücher) — JW Ministry</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://jwministry.org/screenshots/Swedish/4.jpg</image:loc>
-      <image:title>4. Kalender &amp; Pionjärmål — JW Ministry</image:title>
+      <image:loc>https://jwministry.org/screenshots/German/2.jpg</image:loc>
+      <image:title>2. Bibelstudien-Verwaltung — JW Ministry</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://jwministry.org/screenshots/Swedish/5.jpg</image:loc>
-      <image:title>5. Distriktskort &amp; Från hus till hus — JW Ministry</image:title>
+      <image:loc>https://jwministry.org/screenshots/German/3.jpg</image:loc>
+      <image:title>3. Monats- &amp; Dienstjahresbericht — JW Ministry</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://jwministry.org/screenshots/Swedish/6.jpg</image:loc>
-      <image:title>6. Inställningar, Påminnelser &amp; iCloud-backup — JW Ministry</image:title>
+      <image:loc>https://jwministry.org/screenshots/German/4.jpg</image:loc>
+      <image:title>4. Pionier-Kalender &amp; Monatsziel — JW Ministry</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://jwministry.org/screenshots/Swedish/7.jpg</image:loc>
-      <image:title>7. OLED Mörkt läge (Timer) — JW Ministry</image:title>
+      <image:loc>https://jwministry.org/screenshots/German/5.jpg</image:loc>
+      <image:title>5. Gebietskarten &amp; Haus-zu-Haus-Notizen — JW Ministry</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://jwministry.org/screenshots/Swedish/8.jpg</image:loc>
-      <image:title>8. OLED Mörkt läge (Inställningar) — JW Ministry</image:title>
+      <image:loc>https://jwministry.org/screenshots/German/6.jpg</image:loc>
+      <image:title>6. Einstellungen, Erinnerungen &amp; Cloud-Backup — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/German/7.jpg</image:loc>
+      <image:title>7. OLED-Dunkelmodus (Timer) — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/German/8.jpg</image:loc>
+      <image:title>8. OLED-Dunkelmodus (Einstellungen) — JW Ministry</image:title>
     </image:image>
   </url>
   <url>
-    <loc>https://jwministry.org/nb/</loc>
+    <loc>https://jwministry.org/es/</loc>
+    <lastmod>2026-11-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.95</priority>
     <image:image>
-      <image:loc>https://jwministry.org/screenshots/Norwegian%20Bokm%C3%A5l/1.jpg</image:loc>
-      <image:title>1. Start-fanen &amp; Tjenestetidtaker — JW Ministry</image:title>
+      <image:loc>https://jwministry.org/screenshots/Spanish/1.jpg</image:loc>
+      <image:title>1. Temporizador de ministerio en vivo — JW Ministry</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://jwministry.org/screenshots/Norwegian%20Bokm%C3%A5l/2.jpg</image:loc>
-      <image:title>2. Bibelkurselever — JW Ministry</image:title>
+      <image:loc>https://jwministry.org/screenshots/Spanish/1-1.jpg</image:loc>
+      <image:title>Hábitos espirituales y anillos de progreso — JW Ministry</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://jwministry.org/screenshots/Norwegian%20Bokm%C3%A5l/3.jpg</image:loc>
-      <image:title>3. Månedsrapport &amp; Tjenesteår — JW Ministry</image:title>
+      <image:loc>https://jwministry.org/screenshots/Spanish/1-2.jpg</image:loc>
+      <image:title>Programa de lectura de la Biblia — JW Ministry</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://jwministry.org/screenshots/Norwegian%20Bokm%C3%A5l/4.jpg</image:loc>
-      <image:title>4. Kalender &amp; Pionermål — JW Ministry</image:title>
+      <image:loc>https://jwministry.org/screenshots/Spanish/2.jpg</image:loc>
+      <image:title>2. Gestión de estudiantes de la Biblia — JW Ministry</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://jwministry.org/screenshots/Norwegian%20Bokm%C3%A5l/5.jpg</image:loc>
-      <image:title>5. Distriktskort &amp; Fra hus til hus — JW Ministry</image:title>
+      <image:loc>https://jwministry.org/screenshots/Spanish/3.jpg</image:loc>
+      <image:title>3. Informe mensual y por año de servicio — JW Ministry</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://jwministry.org/screenshots/Norwegian%20Bokm%C3%A5l/6.jpg</image:loc>
-      <image:title>6. Innstillinger, Påminnelser &amp; iCloud-backup — JW Ministry</image:title>
+      <image:loc>https://jwministry.org/screenshots/Spanish/4.jpg</image:loc>
+      <image:title>4. Calendario y meta de precursor — JW Ministry</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://jwministry.org/screenshots/Norwegian%20Bokm%C3%A5l/7.jpg</image:loc>
-      <image:title>7. OLED Mørk modus (Tidtaker) — JW Ministry</image:title>
+      <image:loc>https://jwministry.org/screenshots/Spanish/5.jpg</image:loc>
+      <image:title>5. Territorios y registro de casa en casa — JW Ministry</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://jwministry.org/screenshots/Norwegian%20Bokm%C3%A5l/8.jpg</image:loc>
-      <image:title>8. OLED Mørk modus (Innstillinger) — JW Ministry</image:title>
+      <image:loc>https://jwministry.org/screenshots/Spanish/6.jpg</image:loc>
+      <image:title>6. Ajustes, recordatorios y copia en la nube — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Spanish/7.jpg</image:loc>
+      <image:title>7. Modo oscuro OLED (Temporizador) — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Spanish/8.jpg</image:loc>
+      <image:title>8. Modo oscuro OLED (Ajustes) — JW Ministry</image:title>
     </image:image>
   </url>
   <url>
-    <loc>https://jwministry.org/fi/</loc>
+    <loc>https://jwministry.org/fil/</loc>
+    <lastmod>2026-11-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.95</priority>
     <image:image>
-      <image:loc>https://jwministry.org/screenshots/Finnish/1.jpg</image:loc>
-      <image:title>1. Aloita-välilehti &amp; Palvelusajastin — JW Ministry</image:title>
+      <image:loc>https://jwministry.org/screenshots/Filipino/1.jpg</image:loc>
+      <image:title>1. Simulan ang Tab at Live Timer — JW Ministry</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://jwministry.org/screenshots/Finnish/2.jpg</image:loc>
-      <image:title>2. Raamattukurssioppilaat — JW Ministry</image:title>
+      <image:loc>https://jwministry.org/screenshots/Filipino/1-1.jpg</image:loc>
+      <image:title>Mga Espirituwal na Gawi at Pag-unlad — JW Ministry</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://jwministry.org/screenshots/Finnish/3.jpg</image:loc>
-      <image:title>3. Kuukausiraportti &amp; Palvelusvuosi — JW Ministry</image:title>
+      <image:loc>https://jwministry.org/screenshots/Filipino/1-2.jpg</image:loc>
+      <image:title>Iskedyul sa Pagbasa ng Bibliya — JW Ministry</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://jwministry.org/screenshots/Finnish/4.jpg</image:loc>
-      <image:title>4. Kalenteri &amp; Tienraivaajan tavoite — JW Ministry</image:title>
+      <image:loc>https://jwministry.org/screenshots/Filipino/2.jpg</image:loc>
+      <image:title>2. Tagapamahala ng mga Estudyante ng Bibliya — JW Ministry</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://jwministry.org/screenshots/Finnish/5.jpg</image:loc>
-      <image:title>5. Aluekortit &amp; Talosta taloon — JW Ministry</image:title>
+      <image:loc>https://jwministry.org/screenshots/Filipino/3.jpg</image:loc>
+      <image:title>3. Taon ng Serbisyo at Buwanang Ulat — JW Ministry</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://jwministry.org/screenshots/Finnish/6.jpg</image:loc>
-      <image:title>6. Asetukset, Muistutukset &amp; iCloud-varmuuskopio — JW Ministry</image:title>
+      <image:loc>https://jwministry.org/screenshots/Filipino/4.jpg</image:loc>
+      <image:title>4. Pioneer Calendar at Pag-unlad ng Layunin — JW Ministry</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://jwministry.org/screenshots/Finnish/7.jpg</image:loc>
-      <image:title>7. OLED Tumma tila (Ajastin) — JW Ministry</image:title>
+      <image:loc>https://jwministry.org/screenshots/Filipino/5.jpg</image:loc>
+      <image:title>5. Mga Territory Card at Door-to-Door Log — JW Ministry</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://jwministry.org/screenshots/Finnish/8.jpg</image:loc>
-      <image:title>8. OLED Tumma tila (Asetukset) — JW Ministry</image:title>
+      <image:loc>https://jwministry.org/screenshots/Filipino/6.jpg</image:loc>
+      <image:title>6. Mga Flexible na Setting at Cloud Backup — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Filipino/7.jpg</image:loc>
+      <image:title>7. True Black OLED Dark Mode (Timer) — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Filipino/8.jpg</image:loc>
+      <image:title>8. OLED Dark Mode (Mga Setting at Layunin) — JW Ministry</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://jwministry.org/fr/</loc>
+    <lastmod>2026-11-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.95</priority>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/French/1.jpg</image:loc>
+      <image:title>1. Onglet Début &amp; Chronomètre en direct — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/French/1-1.jpg</image:loc>
+      <image:title>Habitudes spirituelles et anneaux de progrès — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/French/1-2.jpg</image:loc>
+      <image:title>Programme de lecture de la Bible — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/French/2.jpg</image:loc>
+      <image:title>2. Gestion des étudiants de la Bible — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/French/3.jpg</image:loc>
+      <image:title>3. Rapport mensuel et année de service — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/French/4.jpg</image:loc>
+      <image:title>4. Calendrier &amp; Objectif de pionnier — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/French/5.jpg</image:loc>
+      <image:title>5. Fiches de territoires &amp; Porte-à-porte — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/French/6.jpg</image:loc>
+      <image:title>6. Réglages, Rappels &amp; Sauvegarde Cloud — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/French/7.jpg</image:loc>
+      <image:title>7. Mode Sombre OLED (Chronomètre) — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/French/8.jpg</image:loc>
+      <image:title>8. Mode Sombre OLED (Réglages) — JW Ministry</image:title>
     </image:image>
   </url>
   <url>
     <loc>https://jwministry.org/hr/</loc>
+    <lastmod>2026-11-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.95</priority>
     <image:image>
       <image:loc>https://jwministry.org/screenshots/Croatian/1.jpg</image:loc>
       <image:title>1. Kartica Start i štoperica službe — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Croatian/1-1.jpg</image:loc>
+      <image:title>Duhovne navike i prstenovi napretka — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Croatian/1-2.jpg</image:loc>
+      <image:title>Raspored čitanja Biblije — JW Ministry</image:title>
     </image:image>
     <image:image>
       <image:loc>https://jwministry.org/screenshots/Croatian/2.jpg</image:loc>
@@ -1000,7 +415,1434 @@
     </image:image>
   </url>
   <url>
+    <loc>https://jwministry.org/rw/</loc>
+    <lastmod>2026-11-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.95</priority>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Kinyarwanda/1.jpg</image:loc>
+      <image:title>1. Tangira Tab &amp; Live Timer — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Kinyarwanda/1-1.jpg</image:loc>
+      <image:title>Ingeso zo mu mwuka &amp; Impeta ziterambere — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Kinyarwanda/1-2.jpg</image:loc>
+      <image:title>Gahunda yo Gusoma Bibiliya — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Kinyarwanda/2.jpg</image:loc>
+      <image:title>2. Umuyobozi w'abanyeshuri ba Bibiliya — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Kinyarwanda/3.jpg</image:loc>
+      <image:title>3. Umwaka wa serivisi &amp; Raporo ya buri kwezi — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Kinyarwanda/4.jpg</image:loc>
+      <image:title>4. Kalendari y'abapayiniya &amp; Intego y'Iterambere — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Kinyarwanda/5.jpg</image:loc>
+      <image:title>5. Ikarita yintara &amp; Urugi-Kuri-Urugi — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Kinyarwanda/6.jpg</image:loc>
+      <image:title>6. Igenamiterere ryoroshye &amp; Igicu kibitse — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Kinyarwanda/7.jpg</image:loc>
+      <image:title>7. Umukara nyawe OLED Yijimye (Timer) — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Kinyarwanda/8.jpg</image:loc>
+      <image:title>8. OLED Yijimye (Igenamiterere &amp; Intego) — JW Ministry</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://jwministry.org/it/</loc>
+    <lastmod>2026-11-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.95</priority>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Italian/1.jpg</image:loc>
+      <image:title>1. Scheda Inizia e Timer del ministero — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Italian/1-1.jpg</image:loc>
+      <image:title>Abitudini spirituali e anelli di progresso — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Italian/1-2.jpg</image:loc>
+      <image:title>Programma di lettura della Bibbia — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Italian/2.jpg</image:loc>
+      <image:title>2. Gestione studenti biblici — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Italian/3.jpg</image:loc>
+      <image:title>3. Rapporto mensile e Anno di servizio — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Italian/4.jpg</image:loc>
+      <image:title>4. Calendario e obiettivo del pioniere — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Italian/5.jpg</image:loc>
+      <image:title>5. Schede territorio e di casa in casa — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Italian/6.jpg</image:loc>
+      <image:title>6. Impostazioni, promemoria e backup iCloud — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Italian/7.jpg</image:loc>
+      <image:title>7. Modalità scura OLED (Timer) — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Italian/8.jpg</image:loc>
+      <image:title>8. Modalità scura OLED (Impostazioni) — JW Ministry</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://jwministry.org/lt/</loc>
+    <lastmod>2026-11-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.95</priority>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Lithuanian/1.jpg</image:loc>
+      <image:title>1. Start Tab &amp; Live Timer — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Lithuanian/1-1.jpg</image:loc>
+      <image:title>Dvasinių įpročių ir pažangos žiedai — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Lithuanian/1-2.jpg</image:loc>
+      <image:title>Bible Reading Schedule — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Lithuanian/2.jpg</image:loc>
+      <image:title>2. Bible Students Manager — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Lithuanian/3.jpg</image:loc>
+      <image:title>3. Service Year &amp; Monthly Reports — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Lithuanian/4.jpg</image:loc>
+      <image:title>4. Pioneer Calendar &amp; Goal Progress — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Lithuanian/5.jpg</image:loc>
+      <image:title>5. Territory Cards &amp; Door-to-Door Log — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Lithuanian/6.jpg</image:loc>
+      <image:title>6. Flexible Settings &amp; Cloud Backup — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Lithuanian/7.jpg</image:loc>
+      <image:title>7. True Black OLED Dark Mode (Timer) — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Lithuanian/8.jpg</image:loc>
+      <image:title>8. OLED Dark Mode (Settings &amp; Goals) — JW Ministry</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://jwministry.org/hu/</loc>
+    <lastmod>2026-11-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.95</priority>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Hungarian/1.jpg</image:loc>
+      <image:title>1. Indítsa el a Tab &amp; Live Timer alkalmazást — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Hungarian/1-1.jpg</image:loc>
+      <image:title>Szellemi szokások és haladási gyűrűk — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Hungarian/1-2.jpg</image:loc>
+      <image:title>Bibliaolvasási ütemterv — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Hungarian/2.jpg</image:loc>
+      <image:title>2. Bibliakutatók menedzsere — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Hungarian/3.jpg</image:loc>
+      <image:title>3. Szolgáltatási év és havi jelentések — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Hungarian/4.jpg</image:loc>
+      <image:title>4. Úttörő naptár és a célok előrehaladása — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Hungarian/5.jpg</image:loc>
+      <image:title>5. Területkártyák és háztól-házig napló — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Hungarian/6.jpg</image:loc>
+      <image:title>6. Rugalmas beállítások és Cloud Backup — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Hungarian/7.jpg</image:loc>
+      <image:title>7. Valódi fekete OLED sötét mód (időzítő) — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Hungarian/8.jpg</image:loc>
+      <image:title>8. OLED sötét mód (beállítások és célok) — JW Ministry</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://jwministry.org/nl/</loc>
+    <lastmod>2026-11-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.95</priority>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Dutch/1.jpg</image:loc>
+      <image:title>Velddiensttimer &amp; Doelen — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Dutch/1-1.jpg</image:loc>
+      <image:title>Geestelijke gewoonten &amp; voortgangsringen — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Dutch/1-2.jpg</image:loc>
+      <image:title>Bijbelleesschema — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Dutch/2.jpg</image:loc>
+      <image:title>Bijbelstudies &amp; Nabezoeken — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Dutch/3.jpg</image:loc>
+      <image:title>Rapport voor het dienstjaar — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Dutch/4.jpg</image:loc>
+      <image:title>Kalender: Plan vs. Werkelijk — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Dutch/5.jpg</image:loc>
+      <image:title>Gebieden &amp; Huis-aan-huiskaarten — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Dutch/6.jpg</image:loc>
+      <image:title>Instellingen &amp; iCloud-back-up — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Dutch/7.jpg</image:loc>
+      <image:title>Donkere OLED-modus — Start — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Dutch/8.jpg</image:loc>
+      <image:title>Donkere OLED-modus — Gebieden — JW Ministry</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://jwministry.org/nb/</loc>
+    <lastmod>2026-11-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.95</priority>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Norwegian%20Bokm%C3%A5l/1.jpg</image:loc>
+      <image:title>1. Start-fanen &amp; Tjenestetidtaker — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Norwegian%20Bokm%C3%A5l/1-1.jpg</image:loc>
+      <image:title>Åndelige vaner og fremdriftsringer — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Norwegian%20Bokm%C3%A5l/1-2.jpg</image:loc>
+      <image:title>Bibelleseplan — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Norwegian%20Bokm%C3%A5l/2.jpg</image:loc>
+      <image:title>2. Bibelkurselever — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Norwegian%20Bokm%C3%A5l/3.jpg</image:loc>
+      <image:title>3. Månedsrapport &amp; Tjenesteår — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Norwegian%20Bokm%C3%A5l/4.jpg</image:loc>
+      <image:title>4. Kalender &amp; Pionermål — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Norwegian%20Bokm%C3%A5l/5.jpg</image:loc>
+      <image:title>5. Distriktskort &amp; Fra hus til hus — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Norwegian%20Bokm%C3%A5l/6.jpg</image:loc>
+      <image:title>6. Innstillinger, Påminnelser &amp; iCloud-backup — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Norwegian%20Bokm%C3%A5l/7.jpg</image:loc>
+      <image:title>7. OLED Mørk modus (Tidtaker) — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Norwegian%20Bokm%C3%A5l/8.jpg</image:loc>
+      <image:title>8. OLED Mørk modus (Innstillinger) — JW Ministry</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://jwministry.org/pl/</loc>
+    <lastmod>2026-11-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.95</priority>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Polish/1.jpg</image:loc>
+      <image:title>1. Zakładka Start i minutnik służby — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Polish/1-1.jpg</image:loc>
+      <image:title>Zwyczaje duchowe i pierścienie postępu — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Polish/1-2.jpg</image:loc>
+      <image:title>Plan czytania Biblii — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Polish/2.jpg</image:loc>
+      <image:title>2. Lista zainteresowanych (Studia biblijne) — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Polish/3.jpg</image:loc>
+      <image:title>3. Sprawozdanie miesięczne i rok służbowy — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Polish/4.jpg</image:loc>
+      <image:title>4. Kalendarz i cel godzin pioniera — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Polish/5.jpg</image:loc>
+      <image:title>5. Karty terenów i zapiski od domu do domu — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Polish/6.jpg</image:loc>
+      <image:title>6. Ustawienia, przypomnienia i kopia iCloud — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Polish/7.jpg</image:loc>
+      <image:title>7. Tryb ciemny OLED (Minutnik) — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Polish/8.jpg</image:loc>
+      <image:title>8. Tryb ciemny OLED (Ustawienia) — JW Ministry</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://jwministry.org/pt/</loc>
+    <lastmod>2026-11-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.95</priority>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Portuguese%20%28Brazil%29/1.jpg</image:loc>
+      <image:title>1. Aba Iniciar e Cronômetro de Campo — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Portuguese%20%28Brazil%29/1-1.jpg</image:loc>
+      <image:title>Hábitos espirituais e anéis de progresso — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Portuguese%20%28Brazil%29/1-2.jpg</image:loc>
+      <image:title>Programação de leitura da Bíblia — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Portuguese%20%28Brazil%29/2.jpg</image:loc>
+      <image:title>2. Lista de Estudantes da Bíblia — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Portuguese%20%28Brazil%29/3.jpg</image:loc>
+      <image:title>3. Relatório Mensal e Ano de Serviço — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Portuguese%20%28Brazil%29/4.jpg</image:loc>
+      <image:title>4. Calendário e Meta de Pioneiro — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Portuguese%20%28Brazil%29/5.jpg</image:loc>
+      <image:title>5. Cartões de Território e Casa em Casa — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Portuguese%20%28Brazil%29/6.jpg</image:loc>
+      <image:title>6. Ajustes, Lembretes e Backup na Nuvem — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Portuguese%20%28Brazil%29/7.jpg</image:loc>
+      <image:title>7. Modo Escuro OLED (Cronômetro) — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Portuguese%20%28Brazil%29/8.jpg</image:loc>
+      <image:title>8. Modo Escuro OLED (Ajustes) — JW Ministry</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://jwministry.org/ro/</loc>
+    <lastmod>2026-11-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.95</priority>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Romanian/1.jpg</image:loc>
+      <image:title>1. Start Tab &amp; Live Timer — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Romanian/1-1.jpg</image:loc>
+      <image:title>Obiceiuri spirituale și inele de progres — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Romanian/1-2.jpg</image:loc>
+      <image:title>Program de citire a Bibliei — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Romanian/2.jpg</image:loc>
+      <image:title>2. Manager Studenți în Biblie — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Romanian/3.jpg</image:loc>
+      <image:title>3. Anul serviciului și rapoarte lunare — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Romanian/4.jpg</image:loc>
+      <image:title>4. Calendar Pioneer și progresul obiectivelor — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Romanian/5.jpg</image:loc>
+      <image:title>5. Carduri de teritoriu și jurnal de la ușă la ușă — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Romanian/6.jpg</image:loc>
+      <image:title>6. Setări flexibile și backup în cloud — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Romanian/7.jpg</image:loc>
+      <image:title>7. True Black OLED Dark Mode (Timer) — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Romanian/8.jpg</image:loc>
+      <image:title>8. OLED Dark Mode (Setări și obiective) — JW Ministry</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://jwministry.org/sq/</loc>
+    <lastmod>2026-11-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.95</priority>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Albanian/1.jpg</image:loc>
+      <image:title>1. Filloni Tab &amp; Live Timer — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Albanian/1-1.jpg</image:loc>
+      <image:title>Zakonet shpirtërore dhe Unazat e Përparimit — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Albanian/1-2.jpg</image:loc>
+      <image:title>Orari i leximit të Biblës — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Albanian/2.jpg</image:loc>
+      <image:title>2. Menaxher i Studentëve të Biblës — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Albanian/3.jpg</image:loc>
+      <image:title>3. Raportet mujore dhe viti i shërbimit — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Albanian/4.jpg</image:loc>
+      <image:title>4. Kalendari Pioneer &amp; Progresi i Objektivit — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Albanian/5.jpg</image:loc>
+      <image:title>5. Kartat e territorit dhe regjistri derë më derë — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Albanian/6.jpg</image:loc>
+      <image:title>6. Cilësimet fleksibël dhe kopje rezervë në renë kompjuterike — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Albanian/7.jpg</image:loc>
+      <image:title>7. Modaliteti i errët OLED i vërtetë i zi (Timer) — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Albanian/8.jpg</image:loc>
+      <image:title>8. Modaliteti i errët OLED (Cilësimet dhe objektivat) — JW Ministry</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://jwministry.org/sk/</loc>
+    <lastmod>2026-11-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.95</priority>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Slovak/1.jpg</image:loc>
+      <image:title>1. Spustite funkciu Tab &amp; Live Timer — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Slovak/1-1.jpg</image:loc>
+      <image:title>Duchovné návyky a kruhy pokroku — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Slovak/1-2.jpg</image:loc>
+      <image:title>Plán čítania Biblie — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Slovak/2.jpg</image:loc>
+      <image:title>2. Manažér Bádateľov Biblie — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Slovak/3.jpg</image:loc>
+      <image:title>3. Servisný rok a mesačné správy — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Slovak/4.jpg</image:loc>
+      <image:title>4. Kalendár Pioneer a pokrok v cieľoch — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Slovak/5.jpg</image:loc>
+      <image:title>5. Karty území a denník od dverí k dverám — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Slovak/6.jpg</image:loc>
+      <image:title>6. Flexibilné nastavenia a zálohovanie v cloude — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Slovak/7.jpg</image:loc>
+      <image:title>7. Tmavý režim True Black OLED (časovač) — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Slovak/8.jpg</image:loc>
+      <image:title>8. Tmavý režim OLED (Nastavenia a ciele) — JW Ministry</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://jwministry.org/sr/</loc>
+    <lastmod>2026-11-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.95</priority>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Serbian%20%28Latin%29/1.jpg</image:loc>
+      <image:title>1. Старт Таб &amp; Ливе Тимер — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Serbian%20%28Latin%29/1-1.jpg</image:loc>
+      <image:title>Spiritual Habits &amp; Progress Rings — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Serbian%20%28Latin%29/1-2.jpg</image:loc>
+      <image:title>Распоред читања Библије — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Serbian%20%28Latin%29/2.jpg</image:loc>
+      <image:title>2. Менаџер за проучавање Библије — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Serbian%20%28Latin%29/3.jpg</image:loc>
+      <image:title>3. Годишњи и месечни извештаји услуге — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Serbian%20%28Latin%29/4.jpg</image:loc>
+      <image:title>4. Пионеер календар и напредак у циљу — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Serbian%20%28Latin%29/5.jpg</image:loc>
+      <image:title>5. Територијалне карте и дневник од врата до врата — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Serbian%20%28Latin%29/6.jpg</image:loc>
+      <image:title>6. Флексибилна подешавања и резервна копија у облаку — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Serbian%20%28Latin%29/7.jpg</image:loc>
+      <image:title>7. Прави црни ОЛЕД тамни режим (тајмер) — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Serbian%20%28Latin%29/8.jpg</image:loc>
+      <image:title>8. ОЛЕД тамни режим (Подешавања и циљеви) — JW Ministry</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://jwministry.org/fi/</loc>
+    <lastmod>2026-11-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.95</priority>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Finnish/1.jpg</image:loc>
+      <image:title>1. Aloita-välilehti &amp; Palvelusajastin — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Finnish/1-1.jpg</image:loc>
+      <image:title>Hengelliset tavat ja edistymisrenkaat — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Finnish/1-2.jpg</image:loc>
+      <image:title>Raamatun lukemisaikataulu — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Finnish/2.jpg</image:loc>
+      <image:title>2. Raamattukurssioppilaat — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Finnish/3.jpg</image:loc>
+      <image:title>3. Kuukausiraportti &amp; Palvelusvuosi — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Finnish/4.jpg</image:loc>
+      <image:title>4. Kalenteri &amp; Tienraivaajan tavoite — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Finnish/5.jpg</image:loc>
+      <image:title>5. Aluekortit &amp; Talosta taloon — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Finnish/6.jpg</image:loc>
+      <image:title>6. Asetukset, Muistutukset &amp; iCloud-varmuuskopio — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Finnish/7.jpg</image:loc>
+      <image:title>7. OLED Tumma tila (Ajastin) — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Finnish/8.jpg</image:loc>
+      <image:title>8. OLED Tumma tila (Asetukset) — JW Ministry</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://jwministry.org/sv/</loc>
+    <lastmod>2026-11-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.95</priority>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Swedish/1.jpg</image:loc>
+      <image:title>1. Startflik &amp; Tjänstetimer — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Swedish/1-1.jpg</image:loc>
+      <image:title>Andliga vanor &amp; framstegsringar — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Swedish/1-2.jpg</image:loc>
+      <image:title>Bibelläsningsschema — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Swedish/2.jpg</image:loc>
+      <image:title>2. Hantera bibelkurselever — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Swedish/3.jpg</image:loc>
+      <image:title>3. Månadsrapport &amp; Tjänsteår — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Swedish/4.jpg</image:loc>
+      <image:title>4. Kalender &amp; Pionjärmål — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Swedish/5.jpg</image:loc>
+      <image:title>5. Distriktskort &amp; Från hus till hus — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Swedish/6.jpg</image:loc>
+      <image:title>6. Inställningar, Påminnelser &amp; iCloud-backup — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Swedish/7.jpg</image:loc>
+      <image:title>7. OLED Mörkt läge (Timer) — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Swedish/8.jpg</image:loc>
+      <image:title>8. OLED Mörkt läge (Inställningar) — JW Ministry</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://jwministry.org/tr/</loc>
+    <lastmod>2026-11-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.95</priority>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Turkish/1.jpg</image:loc>
+      <image:title>1. Başlangıç Sekmesi ve Hizmet Sayacı — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Turkish/1-1.jpg</image:loc>
+      <image:title>Ruhi alışkanlıklar ve ilerleme halkaları — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Turkish/1-2.jpg</image:loc>
+      <image:title>Kutsal Kitap Okuma Programı — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Turkish/2.jpg</image:loc>
+      <image:title>2. Kutsal Kitap Tetkik Öğrencileri — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Turkish/3.jpg</image:loc>
+      <image:title>3. Aylık Rapor ve Hizmet Yılı — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Turkish/4.jpg</image:loc>
+      <image:title>4. Takvim ve Öncü Saat Hedefi — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Turkish/5.jpg</image:loc>
+      <image:title>5. Saha Kartları ve Evden Eve Kayıt — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Turkish/6.jpg</image:loc>
+      <image:title>6. Ayarlar, Hatırlatıcılar ve iCloud Yedekleme — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Turkish/7.jpg</image:loc>
+      <image:title>7. OLED Karanlık Mod (Sayaç) — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Turkish/8.jpg</image:loc>
+      <image:title>8. OLED Karanlık Mod (Ayarlar) — JW Ministry</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://jwministry.org/cs/</loc>
+    <lastmod>2026-11-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.95</priority>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Czech/1.jpg</image:loc>
+      <image:title>1. Spusťte kartu &amp; Live Timer — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Czech/1-1.jpg</image:loc>
+      <image:title>Duchovní návyky a kruhy pokroku — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Czech/1-2.jpg</image:loc>
+      <image:title>Plán čtení Bible — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Czech/2.jpg</image:loc>
+      <image:title>2. Manažer studentů Bible — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Czech/3.jpg</image:loc>
+      <image:title>3. Servisní rok a měsíční zprávy — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Czech/4.jpg</image:loc>
+      <image:title>4. Kalendář Pioneer a plnění cílů — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Czech/5.jpg</image:loc>
+      <image:title>5. Karty území a protokol od dveří ke dveřím — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Czech/6.jpg</image:loc>
+      <image:title>6. Flexibilní nastavení a zálohování do cloudu — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Czech/7.jpg</image:loc>
+      <image:title>7. Tmavý režim True Black OLED (časovač) — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Czech/8.jpg</image:loc>
+      <image:title>8. Tmavý režim OLED (Nastavení a cíle) — JW Ministry</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://jwministry.org/el/</loc>
+    <lastmod>2026-11-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.95</priority>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Greek/1.jpg</image:loc>
+      <image:title>1. Εκκίνηση Tab &amp; Live Timer — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Greek/1-1.jpg</image:loc>
+      <image:title>Πνευματικές συνήθειες &amp; δακτύλιοι προόδου — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Greek/1-2.jpg</image:loc>
+      <image:title>Πρόγραμμα ανάγνωσης της Γραφής — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Greek/2.jpg</image:loc>
+      <image:title>2. Διευθυντής Σπουδαστών της Αγίας Γραφής — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Greek/3.jpg</image:loc>
+      <image:title>3. Έτος Υπηρεσίας &amp; Μηνιαίες Εκθέσεις — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Greek/4.jpg</image:loc>
+      <image:title>4. Ημερολόγιο Pioneer &amp; Πρόοδος Στόχων — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Greek/5.jpg</image:loc>
+      <image:title>5. Κάρτες επικράτειας &amp; ημερολόγιο από πόρτα σε πόρτα — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Greek/6.jpg</image:loc>
+      <image:title>6. Ευέλικτες ρυθμίσεις &amp; δημιουργία αντιγράφων ασφαλείας στο cloud — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Greek/7.jpg</image:loc>
+      <image:title>7. True Black OLED Dark Mode (Χρονόμετρο) — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Greek/8.jpg</image:loc>
+      <image:title>8. OLED Dark Mode (Ρυθμίσεις &amp; Στόχοι) — JW Ministry</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://jwministry.org/bg/</loc>
+    <lastmod>2026-11-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.95</priority>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Bulgarian/1.jpg</image:loc>
+      <image:title>1. Раздел Старт &amp; Таймер на живо — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Bulgarian/1-1.jpg</image:loc>
+      <image:title>Духовни навици и пръстени за напредък — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Bulgarian/1-2.jpg</image:loc>
+      <image:title>График за четене на Библията — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Bulgarian/2.jpg</image:loc>
+      <image:title>2. Мениджър Изследователи на Библията — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Bulgarian/3.jpg</image:loc>
+      <image:title>3. Години на обслужване и месечни отчети — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Bulgarian/4.jpg</image:loc>
+      <image:title>4. Календар на Pioneer &amp; Напредък на целта — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Bulgarian/5.jpg</image:loc>
+      <image:title>5. Териториални карти и дневник от врата до врата — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Bulgarian/6.jpg</image:loc>
+      <image:title>6. Гъвкави настройки и архивиране в облак — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Bulgarian/7.jpg</image:loc>
+      <image:title>7. Истински черен OLED тъмен режим (таймер) — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Bulgarian/8.jpg</image:loc>
+      <image:title>8. Тъмен OLED режим (Настройки и цели) — JW Ministry</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://jwministry.org/ru/</loc>
+    <lastmod>2026-11-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.95</priority>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Russian/1.jpg</image:loc>
+      <image:title>1. Вкладка «Старт» и таймер служения — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Russian/1-1.jpg</image:loc>
+      <image:title>Духовные привычки и кольца прогресса — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Russian/1-2.jpg</image:loc>
+      <image:title>График чтения Библии — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Russian/2.jpg</image:loc>
+      <image:title>2. Список изучающих Библию — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Russian/3.jpg</image:loc>
+      <image:title>3. Отчёт за месяц и служебный год — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Russian/4.jpg</image:loc>
+      <image:title>4. Календарь, планы и норма пионера — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Russian/5.jpg</image:loc>
+      <image:title>5. Карточки участков и учёт по домам — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Russian/6.jpg</image:loc>
+      <image:title>6. Настройки, напоминания и бэкап в iCloud — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Russian/7.jpg</image:loc>
+      <image:title>7. Ночной режим OLED (Экран таймера) — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Russian/8.jpg</image:loc>
+      <image:title>8. Ночной режим OLED (Экран настроек) — JW Ministry</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://jwministry.org/uk/</loc>
+    <lastmod>2026-11-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.95</priority>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Ukrainian/1.jpg</image:loc>
+      <image:title>1. Вкладка «Старт» і таймер служіння — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Ukrainian/1-1.jpg</image:loc>
+      <image:title>Духовні звички та кільця прогресу — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Ukrainian/1-2.jpg</image:loc>
+      <image:title>Графік читання Біблії — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Ukrainian/2.jpg</image:loc>
+      <image:title>2. Список тих, хто вивчає Біблію — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Ukrainian/3.jpg</image:loc>
+      <image:title>3. Звіт за місяць і службовий рік — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Ukrainian/4.jpg</image:loc>
+      <image:title>4. Календар, плани та норма піонера — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Ukrainian/5.jpg</image:loc>
+      <image:title>5. Картки дільниць і служіння по домах — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Ukrainian/6.jpg</image:loc>
+      <image:title>6. Налаштування, нагадування та бекап в iCloud — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Ukrainian/7.jpg</image:loc>
+      <image:title>7. Нічний режим OLED (Таймер) — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Ukrainian/8.jpg</image:loc>
+      <image:title>8. Нічний режим OLED (Налаштування) — JW Ministry</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://jwministry.org/hi/</loc>
+    <lastmod>2026-11-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.95</priority>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Hindi/1.jpg</image:loc>
+      <image:title>1. स्टार्ट टैब और प्रचार सेवा टाइमर — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Hindi/1-1.jpg</image:loc>
+      <image:title>आध्यात्मिक आदतें और प्रोग्रेस रिंग्स — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Hindi/1-2.jpg</image:loc>
+      <image:title>बाइबल पढ़ने की समय-सारणी — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Hindi/2.jpg</image:loc>
+      <image:title>2. बाइबल विद्यार्थियों की सूची — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Hindi/3.jpg</image:loc>
+      <image:title>3. मासिक रिपोर्ट और सेवा वर्ष — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Hindi/4.jpg</image:loc>
+      <image:title>4. कैलेंडर और पायनियर घंटों का लक्ष्य — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Hindi/5.jpg</image:loc>
+      <image:title>5. इलाके के कार्ड और घर-घर का रिकॉर्ड — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Hindi/6.jpg</image:loc>
+      <image:title>6. सेटिंग्स, रिमाइंडर और iCloud बैकअप — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Hindi/7.jpg</image:loc>
+      <image:title>7. OLED डार्क मोड (टाइमर) — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Hindi/8.jpg</image:loc>
+      <image:title>8. OLED डार्क मोड (सेटिंग्स) — JW Ministry</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://jwministry.org/th/</loc>
+    <lastmod>2026-11-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.95</priority>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Thai/1.jpg</image:loc>
+      <image:title>1. แท็บเริ่มต้นและตัวจับเวลาการรับใช้ — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Thai/1-1.jpg</image:loc>
+      <image:title>กิจวัตรฝ่ายวิญญาณและวงแหวนความคืบหน้า — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Thai/1-2.jpg</image:loc>
+      <image:title>ตารางการอ่านคัมภีร์ไบเบิล — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Thai/2.jpg</image:loc>
+      <image:title>2. จัดการรายชื่อนักศึกษาคัมภีร์ไบเบิล — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Thai/3.jpg</image:loc>
+      <image:title>3. รายงานประจำเดือนและปีการรับใช้ — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Thai/4.jpg</image:loc>
+      <image:title>4. ปฏิทินและเป้าหมายชั่วโมงไพโอเนียร์ — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Thai/5.jpg</image:loc>
+      <image:title>5. บัตรเขตประกาศและบันทึกตามบ้าน — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Thai/6.jpg</image:loc>
+      <image:title>6. การตั้งค่า การแจ้งเตือน และสำรองข้อมูล iCloud — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Thai/7.jpg</image:loc>
+      <image:title>7. โหมดมืด OLED (ตัวจับเวลา) — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Thai/8.jpg</image:loc>
+      <image:title>8. โหมดมืด OLED (การตั้งค่า) — JW Ministry</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://jwministry.org/ka/</loc>
+    <lastmod>2026-11-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.95</priority>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Georgian/1.jpg</image:loc>
+      <image:title>1. დაიწყეთ Tab &amp; Live Timer — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Georgian/1-1.jpg</image:loc>
+      <image:title>სულიერი ჩვევები და პროგრესის რგოლები — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Georgian/1-2.jpg</image:loc>
+      <image:title>ბიბლიის კითხვის განრიგი — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Georgian/2.jpg</image:loc>
+      <image:title>2. ბიბლიის მკვლევარების მენეჯერი — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Georgian/3.jpg</image:loc>
+      <image:title>3. მომსახურების წელი და ყოველთვიური ანგარიშები — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Georgian/4.jpg</image:loc>
+      <image:title>4. Pioneer Calendar &amp; Goal Progress — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Georgian/5.jpg</image:loc>
+      <image:title>5. ტერიტორიის ბარათები და კარდაკარ ჟურნალი — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Georgian/6.jpg</image:loc>
+      <image:title>6. მოქნილი პარამეტრები და Cloud Backup — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Georgian/7.jpg</image:loc>
+      <image:title>7. ნამდვილი შავი OLED მუქი რეჟიმი (ტაიმერი) — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Georgian/8.jpg</image:loc>
+      <image:title>8. OLED მუქი რეჟიმი (პარამეტრები და მიზნები) — JW Ministry</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://jwministry.org/ja/</loc>
+    <lastmod>2026-11-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.95</priority>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Japanese/1.jpg</image:loc>
+      <image:title>1. スタートタブ＆奉仕タイマー — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Japanese/1-1.jpg</image:loc>
+      <image:title>霊的な習慣と進捗リング — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Japanese/1-2.jpg</image:loc>
+      <image:title>聖書通読スケジュール — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Japanese/2.jpg</image:loc>
+      <image:title>2. 聖書研究生の管理 — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Japanese/3.jpg</image:loc>
+      <image:title>3. 月間報告＆奉仕年度サマリー — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Japanese/4.jpg</image:loc>
+      <image:title>4. 開拓者カレンダー＆目標進捗バー — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Japanese/5.jpg</image:loc>
+      <image:title>5. 区域カード＆家から家の記録 — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Japanese/6.jpg</image:loc>
+      <image:title>6. 設定・リマインダー・iCloudバックアップ — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Japanese/7.jpg</image:loc>
+      <image:title>7. OLEDダークモード（タイマー画面） — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Japanese/8.jpg</image:loc>
+      <image:title>8. OLEDダークモード（設定画面） — JW Ministry</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://jwministry.org/zh/</loc>
+    <lastmod>2026-11-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.95</priority>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Chinese%2C%20Traditional/1.jpg</image:loc>
+      <image:title>1. 開始分頁與即時傳道計時器 — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Chinese%2C%20Traditional/1-1.jpg</image:loc>
+      <image:title>屬靈習慣與進度環 — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Chinese%2C%20Traditional/1-2.jpg</image:loc>
+      <image:title>聖經閱讀計畫表 — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Chinese%2C%20Traditional/2.jpg</image:loc>
+      <image:title>2. 聖經學生管理 — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Chinese%2C%20Traditional/3.jpg</image:loc>
+      <image:title>3. 月度報告與服務年度總覽 — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Chinese%2C%20Traditional/4.jpg</image:loc>
+      <image:title>4. 先驅日曆與時數目標進度 — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Chinese%2C%20Traditional/5.jpg</image:loc>
+      <image:title>5. 地區卡與逐家逐戶記錄 — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Chinese%2C%20Traditional/6.jpg</image:loc>
+      <image:title>6. 設定、提醒與 iCloud 雲端備份 — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Chinese%2C%20Traditional/7.jpg</image:loc>
+      <image:title>7. OLED 深色模式（計時器） — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Chinese%2C%20Traditional/8.jpg</image:loc>
+      <image:title>8. OLED 深色模式（設定） — JW Ministry</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://jwministry.org/ko/</loc>
+    <lastmod>2026-11-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.95</priority>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Korean/1.jpg</image:loc>
+      <image:title>1. 시작 탭 및 실시간 봉사 타이머 — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Korean/1-1.jpg</image:loc>
+      <image:title>영적 습관 및 진행률 링 — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Korean/1-2.jpg</image:loc>
+      <image:title>성경 읽기 계획표 — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Korean/2.jpg</image:loc>
+      <image:title>2. 성서 연구생 관리 — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Korean/3.jpg</image:loc>
+      <image:title>3. 월별 보고서 및 봉사 연도 요약 — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Korean/4.jpg</image:loc>
+      <image:title>4. 파이오니아 캘린더 및 목표 달성률 — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Korean/5.jpg</image:loc>
+      <image:title>5. 구역 카드 및 호별 방문 기록 — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Korean/6.jpg</image:loc>
+      <image:title>6. 설정, 알림 및 iCloud 백업 — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Korean/7.jpg</image:loc>
+      <image:title>7. OLED 다크 모드 (타이머) — JW Ministry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://jwministry.org/screenshots/Korean/8.jpg</image:loc>
+      <image:title>8. OLED 다크 모드 (설정) — JW Ministry</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://jwministry.org/pioneer-calculator/</loc>
+    <lastmod>2026-11-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://jwministry.org/ru/pioneer-calculator/</loc>
+    <lastmod>2026-11-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://jwministry.org/bible-reading-schedule/</loc>
+    <lastmod>2026-11-28</lastmod>
+    <lastmod>2026-11-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://jwministry.org/ru/bible-reading-schedule/</loc>
+    <lastmod>2026-11-28</lastmod>
+    <lastmod>2026-11-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
     <loc>https://jwministry.org/privacy-policy.html</loc>
+    <lastmod>2026-11-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://jwministry.org/af/privacy-policy.html</loc>
+    <lastmod>2026-11-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://jwministry.org/id/privacy-policy.html</loc>
+    <lastmod>2026-11-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://jwministry.org/da/privacy-policy.html</loc>
+    <lastmod>2026-11-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://jwministry.org/de/privacy-policy.html</loc>
+    <lastmod>2026-11-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://jwministry.org/es/privacy-policy.html</loc>
+    <lastmod>2026-11-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://jwministry.org/fil/privacy-policy.html</loc>
+    <lastmod>2026-11-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://jwministry.org/fr/privacy-policy.html</loc>
+    <lastmod>2026-11-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://jwministry.org/hr/privacy-policy.html</loc>
+    <lastmod>2026-11-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://jwministry.org/rw/privacy-policy.html</loc>
+    <lastmod>2026-11-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://jwministry.org/it/privacy-policy.html</loc>
+    <lastmod>2026-11-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://jwministry.org/lt/privacy-policy.html</loc>
+    <lastmod>2026-11-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://jwministry.org/hu/privacy-policy.html</loc>
+    <lastmod>2026-11-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://jwministry.org/nl/privacy-policy.html</loc>
+    <lastmod>2026-11-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://jwministry.org/nb/privacy-policy.html</loc>
+    <lastmod>2026-11-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://jwministry.org/pl/privacy-policy.html</loc>
+    <lastmod>2026-11-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://jwministry.org/pt/privacy-policy.html</loc>
+    <lastmod>2026-11-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://jwministry.org/ro/privacy-policy.html</loc>
+    <lastmod>2026-11-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://jwministry.org/sq/privacy-policy.html</loc>
+    <lastmod>2026-11-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://jwministry.org/sk/privacy-policy.html</loc>
+    <lastmod>2026-11-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://jwministry.org/sr/privacy-policy.html</loc>
+    <lastmod>2026-11-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://jwministry.org/fi/privacy-policy.html</loc>
+    <lastmod>2026-11-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://jwministry.org/sv/privacy-policy.html</loc>
+    <lastmod>2026-11-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://jwministry.org/tr/privacy-policy.html</loc>
+    <lastmod>2026-11-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://jwministry.org/cs/privacy-policy.html</loc>
+    <lastmod>2026-11-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://jwministry.org/el/privacy-policy.html</loc>
+    <lastmod>2026-11-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://jwministry.org/bg/privacy-policy.html</loc>
+    <lastmod>2026-11-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://jwministry.org/ru/privacy-policy.html</loc>
+    <lastmod>2026-11-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://jwministry.org/uk/privacy-policy.html</loc>
+    <lastmod>2026-11-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://jwministry.org/hi/privacy-policy.html</loc>
+    <lastmod>2026-11-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://jwministry.org/th/privacy-policy.html</loc>
+    <lastmod>2026-11-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://jwministry.org/ka/privacy-policy.html</loc>
+    <lastmod>2026-11-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://jwministry.org/ja/privacy-policy.html</loc>
+    <lastmod>2026-11-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://jwministry.org/zh/privacy-policy.html</loc>
+    <lastmod>2026-11-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://jwministry.org/ko/privacy-policy.html</loc>
+    <lastmod>2026-11-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>

@@ -4,18 +4,18 @@
   "og_locale": "tr_TR",
   "name": "Türkçe",
   "flag": "🇹🇷",
-  "title": "JW Ministry — Yehova'nın Şahitleri: Tarla hizmeti raporu, Daimi öncü (50 saat), Kişisel sahalar ve tekrar ziyaretler (iPhone & iPad)",
-  "description": "JW Ministry, Yehova'nın Şahitlerinin tarla hizmeti için tasarlanmış iPhone ve iPad uygulamasıdır: Live Activities destekli sayaç, Kutsal Kitap tetkik öğrencileri, hizmet yılı raporları, öncü saat hedefleri ve saha kartları. daimi öncü (50 saat), yardımcı öncü (15 ve 30 saat), hizmet yılı (Eylül–Ağustos), kişisel sahalar ve tekrar ziyaretler, Kutsal Kitap tetkikleri (“Sonsuza Dek Mutlu Bir Yaşam!”).",
-  "keywords": "JW Ministry, Yehova'nın Şahitleri, tarla hizmeti, tarla hizmeti raporu, daimi öncü (50 saat), yardımcı öncü (15 ve 30 saat), hizmet yılı (Eylül–Ağustos), kişisel sahalar ve tekrar ziyaretler, Kutsal Kitap tetkikleri (“Sonsuza Dek Mutlu Bir Yaşam!”), iPhone, iPad, iOS",
+  "title": "JW Ministry — Yehova'nın Şahitleri için uygulama: tarla hizmeti, rapor ve sahalar",
+  "description": "iPhone ve iPad için ücretsiz Yehova'nın Şahitleri uygulaması: sayaç, aylık rapor, öncü saatleri, takvim, Kutsal Kitap okuma programı, ruhi alışkanlıklar, sahalar ve tetkikler.",
+  "keywords": "JW Ministry, yehova, şahitleri, tarla hizmeti, sahalar, rapor, öncü, saat, kutsal kitap, tetkik, tekrar ziyaret, takvim, zamanlayıcı, notlar",
   "nav_screens": "Ekranlar",
   "nav_features": "Özellikler",
   "nav_languages": "35+ Dil",
   "nav_privacy": "Gizlilik",
   "nav_donate": "Destek Ol",
   "nav_faq": "SSS",
-  "badge": "iPhone ve iPad • Sürüm 1.8 • 35+ Dil",
-  "hero_title": "Tarla Hizmeti ve Öncülük İçin Eksiksiz Yardımcınız",
-  "hero_sub": "JW Ministry, Yehova'nın Şahitlerinin tarla hizmeti için tasarlanmış iPhone ve iPad uygulamasıdır: Live Activities destekli sayaç, Kutsal Kitap tetkik öğrencileri, hizmet yılı raporları, öncü saat hedefleri ve saha kartları.",
+  "badge": "iPhone ve iPad • Sürüm 2.0.1 • 35+ Dil",
+  "hero_title": "Tarla hizmeti, rapor, öncülük, sahalar ve Kutsal Kitap okuma",
+  "hero_sub": "iPhone ve iPad için ücretsiz ve gizli Yehova'nın Şahitleri uygulaması: widget'lı sayaç, aylık rapor, öncü takvimi, saha kartları, tekrar ziyaretler, Kutsal Kitap tetkikleri, ruhi alışkanlıklar ve okuma programı.",
   "cta_appstore": "App Store'dan İndir",
   "cta_donate": "Geliştiriciyi Destekle",
   "stat_1_val": "35+",
@@ -33,6 +33,16 @@
       "1.jpg",
       "1. Başlangıç Sekmesi ve Hizmet Sayacı",
       "Hizmet sürenizi saniyesine kadar ölçün, Kutsal Kitap tetkikleri ekleyin, öğrenci seçin ve saha notları yazın."
+    ],
+    [
+      "1-1.jpg",
+      "Ruhi alışkanlıklar ve ilerleme halkaları",
+      "Günlük, haftalık ve aylık alışkanlıkları (günün ayeti, Kutsal Kitap okuma, ibadet hazırlığı, Aile İbadeti) takip edin, günün ayetini doğrudan JW Library'de açın ve kendi alışkanlıklarınızı ekleyin."
+    ],
+    [
+      "1-2.jpg",
+      "Kutsal Kitap Okuma Programı",
+      "66 Kutsal Kitap kitabının tamamını içeren etkileşimli tablo, 5 okuma rotası (Klasik, Kronolojik, Önce İnciller, Dengeli, Önce Kısa Kitaplar), tahmini bitiş tarihi ve JW Library kısayolu."
     ],
     [
       "2.jpg",
@@ -119,7 +129,7 @@
   "ton_label": "TON / USDT (TON ağı):",
   "copy_btn": "Kopyala",
   "copied_msg": "Kopyalandı!",
-  "crypto_warn": "TQQx... adresine yalnızca TRON (TRC-20) ağı üzerinden varlık gönderin.",
+  "crypto_warn": "USDT (TRC-20) için yalnızca TRON ağı üzerinden varlık gönderin.",
   "faq_title": "Sıkça Sorulan Sorular (SSS)",
   "faqs": [
     [
@@ -182,7 +192,7 @@
     "Özellik",
     "Kağıt Notlar",
     "Eski Uygulamalar",
-    "JW Ministry 1.8"
+    "JW Ministry 2.0.1"
   ],
   "comp_rows": [
     [
@@ -228,35 +238,35 @@
       "Modern SwiftUI tasarımı"
     ]
   ],
-  "filter_all": "Tümü (8)",
-  "filter_light": "Açık (6)",
+  "filter_all": "Tümü (10)",
+  "filter_light": "Açık (8)",
   "filter_dark": "Koyu (2)",
   "filter_ipad": "iPad",
-  "wn_title": "Sürüm 1.8 Yenilikleri",
+  "wn_title": "Sürüm 2.0.1 Yenilikleri",
   "wn_items": [
-    "Takvimde aylık planlanan saatlerin otomatik toplamı ve çift Plan vs Gerçek ilerleme çubuğu.",
-    "Takvimdeki planlanan bir hizmeti tek kaydırmayla doğrudan Rapor kaydına dönüştürme.",
-    "Tüm sahalarda adres veya isimle anında arama ve saha kartları için 10 renk teması.",
-    "Rapor sekmesinde gelecek hizmet yılı (2026–2027) desteği.",
-    "En yeni iOS ve iPadOS sürümleri için tam optimizasyon ve güçlendirilmiş yedekleme koruması."
+    "Başlangıç sekmesinde yeni «Ruhi Alışkanlıklar» bölümü: ilerleme halkaları (Gün / Hafta / Ay), özel alışkanlıklar, Aile İbadeti için medeni durum ayarı ve ayın 5'inde acil rapor hatırlatıcısı.",
+    "Kutsal Kitap Okuma Programı: 5 okuma rotası, 66 kitapta bölüm takibi, bitiş tarihi tahmini ve «JW Library'de Oku» düğmesi.",
+    "Takvim ve araç takımlarında çift hedef: öncü hedefini (30 veya 50 sa.) ve kişisel aylık hedefi çift halkada birlikte görüntüleme.",
+    "Katlanabilir iPhone Duo ekranı ve iPadOS için tam arayüz uyumu.",
+    "Ayarlara «Uygulamayı Paylaş» ve «Web Sitesi» bağlantıları eklendi."
   ],
-  "howto_name": "How to Track Field Service Hours & Pioneer Schedule on iPhone",
+  "howto_name": "iPhone'da Saha Servis Saatleri ve Öncü Programını Takip Etme",
   "howto_steps": [
     [
-      "Set your service role and monthly target",
-      "Choose Publisher, Auxiliary Pioneer (15/30 h), or Regular Pioneer (50 h) in Settings, or set a custom monthly hour target."
+      "Hizmet rolünüzü ve aylık hedefinizi belirleyin",
+      "Ayarlar'da Yayıncı, Yardımcı Öncü (15/30 saat) veya Normal Öncü (50 saat) seçeneğini seçin veya özel bir aylık saat hedefi belirleyin."
     ],
     [
-      "Run the live timer or schedule in the Calendar",
-      "Track field ministry on the Lock Screen & Dynamic Island, or swipe scheduled Calendar events directly into your Report."
+      "Takvim'de canlı zamanlayıcıyı veya programı çalıştırın",
+      "Kilit Ekranı ve Dynamic Island'da saha hizmetini takip edin veya planlanmış Takvim etkinliklerini doğrudan Raporunuza kaydırın."
     ],
     [
-      "Log territories and Bible studies",
-      "Record house-to-house visits, apartment statuses, and attach Bible students with their current lesson."
+      "Bölgeleri ve İncil çalışmalarını günlüğe kaydedin",
+      "Evden eve ziyaretleri, apartman durumlarını kaydedin ve Mukaddes Kitap öğrencilerini mevcut derslerine ekleyin."
     ],
     [
-      "Share your monthly field service report",
-      "On the 1st of the month, open the Report tab to review and share your completed hours and Bible studies."
+      "Aylık saha hizmeti raporunuzu paylaşın",
+      "Ayın 1'inde, tamamladığınız çalışma saatlerini ve Kutsal Kitap çalışmalarınızı gözden geçirmek ve paylaşmak için Rapor sekmesini açın."
     ]
   ],
   "nav_comp": "Karşılaştırma",
@@ -315,38 +325,98 @@
   ],
   "privacy_page": {
     "page_title": "“JW Ministry” Gizlilik Politikası — JW Ministry",
-    "meta_desc": "Official Privacy Policy and User Support for the JW Ministry iOS & iPadOS app. 100% local on-device data storage with zero external servers.",
+    "meta_desc": "JW Ministry iOS ve iPadOS uygulaması için Resmi Gizlilik Politikası ve Kullanıcı Desteği. Sıfır harici sunucuyla %100 yerel cihaz içi veri depolama.",
     "back_home": "Ana Sayfa",
     "sup_title": "JW Ministry — Kullanıcı Desteği",
     "sup_desc": "Sorularınız, yeni özellik önerileriniz veya hata bildirimleriniz için geliştiriciye yazabilirsiniz:",
-    "sup_issues": "Report an Issue (GitHub)",
-    "sup_store": " JW Ministry on App Store",
-    "updated": "Last updated: December 5, 2025",
+    "sup_issues": "Sorun Bildir (GitHub)",
+    "sup_store": " JW Ministry App Store'da",
+    "updated": "Son güncelleme: 5 Aralık 2025",
     "h1": "“JW Ministry” Gizlilik Politikası",
-    "intro": "This Privacy Policy explains how the <strong>“JW Ministry”</strong> mobile application (“the App”) handles user information. Our core principle is <strong>100% privacy: all records you create are stored exclusively on your device</strong>.",
-    "s1_t": "1. Data Created and Stored in the App",
-    "s1_p": "All data in the App is entered voluntarily by the user for personal field service organization and planning:",
+    "intro": "Bu Gizlilik Politikası, <strong>“JW Ministry”</strong> mobil uygulamasının (“Uygulama”) kullanıcı bilgilerini nasıl işlediğini açıklamaktadır. Temel prensibimiz <strong>%100 gizliliktir: oluşturduğunuz tüm kayıtlar yalnızca cihazınızda saklanır</strong>.",
+    "s1_t": "1. Uygulamada Oluşturulan ve Saklanan Veriler",
+    "s1_p": "Uygulamadaki tüm veriler, kişisel saha hizmeti organizasyonu ve planlaması için kullanıcı tarafından gönüllü olarak girilir:",
     "s1_ul": [
-      "<strong>Service time entries & reports:</strong> dates, duration, Bible study counts, and session notes.",
-      "<strong>Calendar schedules:</strong> planned ministry events, dates, times, and recurrence settings.",
-      "<strong>Bible students list:</strong> student names/labels and study publication progress notes.",
-      "<strong>Territories & addresses:</strong> territory names, house/apartment lists, visit history, notes, and territory card photos selected by the user from the Photo Library.",
-      "<strong>App settings:</strong> selected service role, personal monthly hour target, and notification preferences."
+      "<strong>Hizmet süresi girişleri ve raporları:</strong> tarihler, süre, Kutsal Kitap tetkiki sayıları ve oturum notları.",
+      "<strong>Takvim programları:</strong> planlanan bakanlık etkinlikleri, tarihler, saatler ve yinelenme ayarları.",
+      "<strong>İncil öğrencileri listesi:</strong> öğrenci adları/etiketleri ve çalışma yayın ilerleme notları.",
+      "<strong>Bölgeler ve adresler:</strong> bölge adları, ev/apartman listeleri, ziyaret geçmişi, notlar ve kullanıcı tarafından Fotoğraf Kitaplığı'ndan seçilen bölge kartı fotoğrafları.",
+      "<strong>Uygulama ayarları:</strong> seçilen hizmet rolü, kişisel aylık saat hedefi ve bildirim tercihleri."
     ],
-    "s2_t": "2. 100% Local On-Device Storage & No Third-Party Sharing",
+    "s2_t": "2. %100 Yerel Cihaz İçi Depolama ve Üçüncü Taraf Paylaşımı Yok",
     "s2_ul": [
-      "All data is stored <strong>solely on your iPhone or iPad</strong> within the secure iOS / iPadOS storage container.",
-      "The App requires <strong>no registration</strong> and no user account.",
-      "The developer has <strong>no access</strong> to your records, collects no analytics or location data, and <strong>never transmits or shares</strong> any data with external servers or third parties."
+      "Tüm veriler <strong>yalnızca iPhone veya iPad'inizde</strong> güvenli iOS / iPadOS depolama konteynerinde saklanır.",
+      "Uygulama <strong>kayıt gerektirmez</strong> ve kullanıcı hesabı gerektirmez.",
+      "Geliştiricinin kayıtlarınıza <strong>erişimi</strong> yoktur, hiçbir analiz veya konum verisi toplamaz ve herhangi bir veriyi harici sunucularla veya üçüncü taraflarla <strong>asla iletmez veya paylaşmaz</strong>."
     ],
-    "s3_t": "3. Device Permissions (Photos & Notifications)",
+    "s3_t": "3. Cihaz İzinleri (Fotoğraflar ve Bildirimler)",
     "s3_ul": [
-      "<strong>Photo Library:</strong> requested only when you choose to attach a map or building photo to a territory card. Selected images are stored locally inside the App folder on your device.",
-      "<strong>Notifications:</strong> used exclusively for local on-device reminders (such as the 1st-of-the-month report reminder or return visit reminders)."
+      "<strong>Fotoğraf Kitaplığı:</strong> yalnızca bölge kartına harita veya bina fotoğrafı eklemeyi seçtiğinizde istenir. Seçilen görüntüler yerel olarak cihazınızdaki Uygulama klasöründe saklanır.",
+      "<strong>Bildirimler:</strong> yalnızca yerel cihaz içi hatırlatıcılar için kullanılır (örneğin ayın 1'i rapor hatırlatıcısı veya tekrar ziyaret hatırlatıcıları)."
     ],
-    "s4_t": "4. Backups & Data Deletion",
-    "s4_p": "You may export a complete backup file (including territory photos) at any time via the standard iOS share sheet (for example, saving to your personal iCloud Drive or Files app). Uninstalling the App from your device permanently deletes all local App data.",
-    "s5_t": "5. Contact",
-    "s5_p": "If you have any questions regarding this Privacy Policy or the App, please contact the developer at:"
+    "s4_t": "4. Yedeklemeler ve Verilerin Silinmesi",
+    "s4_p": "Tam bir yedekleme dosyasını (bölge fotoğrafları dahil) istediğiniz zaman standart iOS paylaşım sayfası aracılığıyla (örneğin, kişisel iCloud Drive'ınıza veya Dosyalar uygulamanıza kaydederek) dışa aktarabilirsiniz. Uygulamanın cihazınızdan kaldırılması tüm yerel Uygulama verilerini kalıcı olarak siler.",
+    "s5_t": "5. İletişim",
+    "s5_p": "Bu Gizlilik Politikasına veya Uygulamaya ilişkin herhangi bir sorunuz varsa lütfen şu adresten geliştiriciyle iletişime geçin:"
+  },
+  "filter_duo": "iPhone Duo",
+  "wn_items_18": [
+    "Takvimde aylık planlanan saatlerin otomatik toplamı ve çift Plan vs Gerçek ilerleme çubuğu.",
+    "Takvimdeki planlanan bir hizmeti tek kaydırmayla doğrudan Rapor kaydına dönüştürme.",
+    "Tüm sahalarda adres veya isimle anında arama ve saha kartları için 10 renk teması.",
+    "Rapor sekmesinde gelecek hizmet yılı (2026–2027) desteği.",
+    "En yeni iOS ve iPadOS sürümleri için tam optimizasyon ve güçlendirilmiş yedekleme koruması."
+  ],
+  "bible_page": {
+    "title": "5 Kutsal Kitap okuma programı ve ruhi alışkanlık takibi | JW Ministry",
+    "desc": "iPhone ve iPad için kullanışlı günlük Kutsal Kitap okuma programı: 66 kitabın tamamı, 5 seçenek (klasik, kronolojik ve diğerleri), bitiş tahmini ve JW Library entegrasyonu.",
+    "h1": "5 Kutsal Kitap okuma programı ve ruhi alışkanlık takibi",
+    "intro": "iPhone ve iPad için kullanışlı günlük Kutsal Kitap okuma programı: 66 kitabın tamamı, 5 seçenek (klasik, kronolojik ve diğerleri), bitiş tahmini ve JW Library entegrasyonu.",
+    "routes_title": "5 Yerleşik İncil Okuma Planı",
+    "s1_t": "66 Kitap İnteraktif Izgara",
+    "s1_d": "Bölümleri işaretleyin ve İbranice ve Yunanca Kutsal Yazılardaki ilerlemeyi takip edin.",
+    "s2_t": "Günlük Manevi Alışkanlıklar",
+    "s2_d": "Gün, Hafta ve Ay için ilerleme zilleri ve ayrıca JW Library'de tek dokunuşla Günlük Metin.",
+    "routes": [
+      [
+        "1. Klasik",
+        "Yaratılış'tan Vahiy'e - tüm İncil'in sıralı okunması."
+      ],
+      [
+        "2. Kronolojik",
+        "Kitaplar tarihi olay ve yazı sırasına göre düzenlenmiştir."
+      ],
+      [
+        "3. Önce İnciller",
+        "Yunanca Kutsal Yazılarla başlayın, ardından İbranice Kutsal Yazılara geçin."
+      ],
+      [
+        "4. Dengeli Karışım",
+        "Günlük çeşitlilik için alternatif tarih, şiir ve İnciller."
+      ],
+      [
+        "5. Önce En Kısa",
+        "Hızlı bir ilerleme hissi için en kısa kitaplardan en uzunlarına kadar."
+      ]
+    ]
+  },
+  "calc_page": {
+    "title": "Pioneer Program Hesaplayıcısı (15, 30, 50 ve 600 Saat) | JW Ministry",
+    "desc": "Yehova'nın Şahitleri için ücretsiz çevrimiçi öncü saatleri hesaplayıcısı. 15 saat, 30 saat yardımcı veya 50 saat daimi öncü (600 saat hizmet yılı) için haftalık ve günlük tarla hizmeti programınızı hesaplayın.",
+    "h1": "Pioneer Program Hesaplayıcı",
+    "intro": "Saha hizmeti saatlerinizi 15 saatlik veya 30 saatlik Yardımcı Öncü, 50 saatlik Düzenli Öncü (hizmet yılı başına 600 saat) veya özel bir hedef için planlayın.",
+    "label_goal": "Aylık hedef",
+    "opt_15": "Yardımcı Öncü - 15 saat/ay",
+    "opt_30": "Yardımcı Öncü - 30 saat/ay",
+    "opt_50": "Normal Pioneer — 50 saat/ay",
+    "opt_90": "Özel Öncü — 90 saat/ay",
+    "opt_100": "Özel Öncü — 100 saat/ay",
+    "label_days": "Haftanın bakanlık günleri",
+    "res_week": "Haftalık saat",
+    "res_day": "Bakanlık günü başına saat",
+    "res_year": "Hizmet yılı başına",
+    "unit_h": "sa",
+    "cta_app": "JW Ministry Takip Programı",
+    "cta_bible": "İncil Okuma Programı"
   }
 }

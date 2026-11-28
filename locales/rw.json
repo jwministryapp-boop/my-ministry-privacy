@@ -1,0 +1,453 @@
+{
+  "shot_folder": "Kinyarwanda",
+  "html_lang": "rw",
+  "og_locale": "rw_RW",
+  "name": "Ikinyarwanda",
+  "flag": "🇷🇼",
+  "title": "JW Ministry - Gusaba Abahamya ba Yehova: Serivise yo mu murima, Raporo & Intara",
+  "description": "Porogaramu y'Abahamya ba Yehova ku buntu kuri iPhone & iPad: igihe cyo gutanga serivisi mu murima, raporo ya buri kwezi, amasaha y'abapayiniya, ikirangaminsi, gahunda yo gusoma Bibiliya, ingeso zo mu mwuka n'uturere.",
+  "keywords": "JW Ministry, Yehova, umutangabuhamya, umurimo wo mu murima, raporo, igihe, umupayiniya, amasaha, bibiliya, kwiga, ikirangaminsi, gusura, uturere, ingeso zumwuka, gahunda yo gusoma bibiliya, widget, umuteguro, inyandiko",
+  "nav_screens": "Mugaragaza",
+  "nav_features": "Ibiranga byose",
+  "nav_languages": "Indimi 35+",
+  "nav_privacy": "Amabanga",
+  "nav_donate": "Umushinga",
+  "nav_faq": "Ibibazo",
+  "badge": "Iraboneka kuri iPhone & iPad • Version 2.0.1 • 35+ Indimi",
+  "hero_title": "Serivisi yo mu murima, Amasaha yubupayiniya, Intara & Gusoma Bibiliya",
+  "hero_sub": "Ubuntu, porogaramu 100% yigenga kubatangabuhamya ba Yehova kuri iPhone na iPad: igihe cya serivisi kizima hamwe na widgets, raporo ya buri kwezi, ikirangaminsi cyabapayiniya, uturere ku nzu, gusura, kwiga Bibiliya, ingeso zumwuka, hamwe na gahunda yo gusoma Bibiliya y'ibitabo 66.",
+  "cta_appstore": "Kuramo App Store",
+  "cta_donate": "Shyigikira Iterambere",
+  "stat_1_val": "35+",
+  "stat_1_lbl": "Indimi",
+  "stat_2_val": "100%",
+  "stat_2_lbl": "Offline & Amakuru yihariye",
+  "stat_3_val": "iOS & iPad",
+  "stat_3_lbl": "Igishushanyo kavukire cya SwiftUI",
+  "stat_4_val": "0 Ads",
+  "stat_4_lbl": "Ubuntu, Nta Kwiyandikisha",
+  "screens_title": "Shakisha buri Mugaragaza wa JW Ministry",
+  "screens_sub": "Amashusho nyayo avuye muri porogaramu. Reba kuri ecran 8 zose - uhereye kumurimo wa minisiteri nzima hamwe nabanyeshuri ba Bibiliya kurutonde rwintego za kalendari, amakarita yubutaka, nuburyo bwa OLED bwijimye.",
+  "shots": [
+    [
+      "1.jpg",
+      "1. Tangira Tab & Live Timer",
+      "Kurikirana igihe cyawe cyo gukora kugeza kumunsi wa kabiri (08:04:08). Kuruhuka, kubika kubika raporo, cyangwa gusubiramo kanda imwe. Ongera wige Bibiliya mugihe cyamasomo, shyiramo abanyeshuri ba Bibiliya (urugero, Alex), andika inyandiko zamasomo (nimero yintara, umufasha), hanyuma urebe igihe cyose cyakoreshejwe uyumunsi."
+    ],
+    [
+      "1-1.jpg",
+      "Ingeso zo mu mwuka & Impeta ziterambere",
+      "Kurikirana ingeso za buri munsi, buri cyumweru, na buri kwezi (Umwandiko wa buri munsi, gusoma Bibiliya, gutegura inama, Gusenga Imiryango), fungura inyandiko ya buri munsi mu JW Library, hanyuma wongere ingeso gakondo."
+    ],
+    [
+      "1-2.jpg",
+      "Gahunda yo Gusoma Bibiliya",
+      "Urusobekerane rwibitabo 66 byose bya Bibiliya hamwe ninzira 5 zo gusoma (Classic, Chronologie, Amavanjiri Yambere, Iringaniza, Icya mbere), itariki yo kurangiriraho, hamwe no gusoma kanda 1 mubitabo bya JW."
+    ],
+    [
+      "2.jpg",
+      "2. Umuyobozi w'abanyeshuri ba Bibiliya",
+      "Komeza urutonde rwabanyeshuri bawe ba Bibiliya. Andika neza ibyatangajwe, isomo, nigice (urugero: 'Ishimire Ubuzima Iteka!, Isomo rya 24, igice cya 3') hanyuma wongere abanyeshuri bashya mumasegonda."
+    ],
+    [
+      "3.jpg",
+      "3. Umwaka wa serivisi & Raporo ya buri kwezi",
+      "Hindura hagati yumwaka wa serivisi (2025–2026, 2026–2027), ukurikirane amasaha yumurimo wose hamwe namasaha asigaye, suzuma buri kwezi ukoresheje ibisobanuro birambuye byamasomo, ibarwa yo kwiga, ibirango byabanyeshuri, hanyuma usangire raporo yawe ya buri kwezi kumunsi wa 1."
+    ],
+    [
+      "4.jpg",
+      "4. Kalendari y'abapayiniya & Intego y'Iterambere",
+      "Reba uruhare rwawe muri iki gihe (Umupayiniya usanzwe - 50 h, Umufasha 15/30 h, cyangwa Publisher) n'intego yawe ya buri kwezi (urugero, 55 h). Amashusho agaragara yerekana amasaha yarangiye muri uku kwezi, amasaha asigaye ya buri kwezi, hamwe numwaka wuzuye wa serivisi hamwe na gahunda yawe ya buri munsi."
+    ],
+    [
+      "5.jpg",
+      "5. Ikarita yintara & Urugi-Kuri-Urugi",
+      "Ongeraho amafoto yikarita yubutaka cyangwa inyubako (urugero, Teritwari A-8), aderesi ya aderesi, hanyuma wandike buri sura ufite itariki, gusura imiterere ('Gusura bwa mbere', 'Ntabwo ari murugo', 'Kwanga'), hamwe ninoti zumuryango nka 'Nta intercom'."
+    ],
+    [
+      "6.jpg",
+      "6. Igenamiterere ryoroshye & Igicu kibitse",
+      "Kwohereza cyangwa gutumiza muri JSON yuzuye ibicishije hejuru yibicu byo hejuru. Shyiramo uruhare rwa serivise, intego yisaha ya buri kwezi, Nzeri-Kanama umwaka wa serivisi, 1-ukwezi-kwibutsa raporo yibutsa 20h00, hanyuma usubire kumenyesha gusura nyuma yiminsi N."
+    ],
+    [
+      "7.jpg",
+      "7. Umukara nyawe OLED Yijimye (Timer)",
+      "Yagenewe guhumurizwa mugihe cyo guhamya nimugoroba no kubika bateri kuri iPhone ya OLED. Ibinyuranyo-bitandukanye cyane byijimye byijimye bikomeza kugenzura neza mumuri ayo ari yo yose."
+    ],
+    [
+      "8.jpg",
+      "8. OLED Yijimye (Igenamiterere & Intego)",
+      "Buri ecran, urupapuro, na widget ihuza neza na sisitemu ya iOS Umucyo n'umwijima."
+    ]
+  ],
+  "feat_sec_title": "Ikintu cyose Ukeneye muri Minisiteri Yateguwe",
+  "feat_sec_sub": "Yubatswe cyane cyane mubikorwa nyabyo byabamamaji, abapayiniya bafasha, abapayiniya basanzwe, nabapayiniya badasanzwe.",
+  "features": [
+    [
+      "⏱️",
+      "Ibihe Byubwenge, Widgets & Ibikorwa bya Live",
+      "Tangira igihe cyawe cya minisiteri uhereye kuri porogaramu, Widget yo murugo, cyangwa Gufunga Mugaragaza. Igihe cyawe gikora kiguma kugaragara kuri Dynamic Island na Lock Screen nubwo iPhone yawe ifunze."
+    ],
+    [
+      "📚",
+      "Kwiga Bibiliya & Gutangaza Amajyambere",
+      "Huza ibyigisho bya Bibiliya neza na raporo yawe ya buri munsi. Kurikirana izina rya buri munyeshuri nisomo ryubu muri 'Ishimire Ubuzima Iteka!' cyangwa izindi mfashanyo zose zo kwiga."
+    ],
+    [
+      "📊",
+      "Inshingano za serivisi & Intego zamasaha yumuntu",
+      "Shyigikira Publisher, Umupayiniya wungirije (amasaha 15 cyangwa 30), Umupayiniya usanzwe (amasaha 50), Umupayiniya udasanzwe / Umumisiyoneri (amasaha 90/100), hiyongereyeho 'Intego yihariye' yihariye (urugero, amasaha 55 / ukwezi)."
+    ],
+    [
+      "🗓️",
+      "Umwaka wa serivisi (Nzeri - Kanama) & Kalendari",
+      "Tegura inama zumurimo, gahunda zisubirwamo, hamwe no Gusenga Imiryango muri Kalendari. Gereranya amasaha ateganijwe n'amasaha nyayo, hindura amasomo ateganijwe muri raporo yinjira hamwe no guhanagura, hanyuma ukurikirane intego yawe ya buri mwaka."
+    ],
+    [
+      "🗺️",
+      "Intara, Amazu & Gusura Ibutsa",
+      "Kora amakarita kubutaka, inyubako zamagorofa menshi, namazu yigenga. Ongeraho amafoto yikarita, amakarita-kode, shakisha ukoresheje aderesi cyangwa izina ryumuturage, kandi wakire ibyibutsa byikora kugirango usure."
+    ],
+    [
+      "🔒",
+      "100% Kumurongo wibanga & Ububiko bwuzuye",
+      "Nta kwiyandikisha, nta konti, nta seriveri yo hanze, na analyse zeru. Amafoto yose hamwe nubutaka byamafoto biguma kumurongo kuri iPhone / iPad yawe, hamwe no guhita usubiza hanze no kugarura iCloud Drive cyangwa Fayili."
+    ]
+  ],
+  "lang_sec_title": "Byuzuye Byuzuye Indimi 35+",
+  "lang_sec_sub": "Imigaragarire ya porogaramu, widgets, hamwe no kumenyesha bihita bihuza ururimi rwibikoresho byawe:",
+  "donate_badge": "Yigenga & Ad-Umushinga Umushinga",
+  "donate_title": "Shigikira Iterambere rya JW Ministry",
+  "donate_sub": "JW Ministry yashizweho kandi ikomezwa niterambere ryigenga kugirango rikoreshwe kugiti cyawe. Nta matangazo yamamaza, nta byiciro byishyuwe, kandi nta abiyandikisha. Niba porogaramu yorohereza umurimo wawe, urashobora gushyigikira ivugurura rya iOS hamwe no kuvugurura uruhushya rwa Apple Developer:",
+  "card_fiat_title": "Inkunga n'ikarita (Kwisi yose)",
+  "card_fiat_desc": "Byihuse inshuro imwe cyangwa inkunga ya buri kwezi kuva mugihugu icyo aricyo cyose ukoresheje Boosty cyangwa Patreon:",
+  "btn_boosty": "Inkunga kuri Boosty (Ikarita / Kwishura Apple)",
+  "btn_patreon": "Inkunga kuri Patreon",
+  "card_crypto_title": "Iyimurwa rya Crypto itaziguye (0% Amafaranga ya platform)",
+  "card_crypto_desc": "Kwimura ako kanya mu gikapo cyabatezimbere:",
+  "usdt_label": "USDT (Umuyoboro wa TRC-20 / TRON gusa):",
+  "ton_label": "TON / USDT (Umuyoboro wa TON):",
+  "copy_btn": "Gukoporora",
+  "copied_msg": "Yandukuwe!",
+  "crypto_warn": "Kuri USDT (TRC-20), ohereza umutungo ukoresheje umuyoboro wa TRON gusa.",
+  "faq_title": "Ibibazo Bikunze Kubazwa",
+  "faqs": [
+    [
+      "Nigute JW Ministry yuzuza JW Library kubahamya ba Yehova?",
+      "Mugihe JW Library rikoreshwa mugusoma Bibiliya, ibitabo, ninama zitorero, JW Ministry yubatswe mugukurikirana umurimo wawe wihariye: gutondekanya amasaha ya raporo yumurimo wo mu murima, gutegura gahunda yawe yubupayiniya isanzwe cyangwa igufasha (amasaha 15, 30, 50, cyangwa 100), gucunga inyandiko z’ubutaka bwite, no gukurikirana abanyeshuri ba Bibiliya."
+    ],
+    [
+      "Ni hehe inyandiko zanjye za minisiteri hamwe n'inoti z'ubutaka zibitswe?",
+      "Byumwihariko kubikoresho byawe (iPhone cyangwa iPad). Porogaramu nta base base yo hanze cyangwa seriveri yibicu, byemeza ibanga ryuzuye ry'inyandiko zawe na aderesi."
+    ],
+    [
+      "Nigute nshobora kohereza amakuru yanjye kuri iPhone cyangwa iPad nshya?",
+      "Fungura igenamiterere hanyuma ukande ahanditse Cloud Upload mugice cyo hejuru-iburyo kugirango wohereze dosiye yuzuye (harimo amafoto yubutaka) kuri iCloud Drive cyangwa AirDrop. Ku gikoresho cyawe gishya, kanda igishushanyo cya Cloud kugirango ugarure ibintu byose muri kanda imwe."
+    ],
+    [
+      "Nigute gusubiramo gusubira kwibutsa gukora?",
+      "Muri Igenamiterere → Kumenyesha, gushoboza 'Kwibutsa ibyerekeye gusubira kuri aderesi' hanyuma ushireho intera (urugero, iminsi 3). Niba utarigeze winjira gusura kuri aderesi muri kiriya gihe, porogaramu irakwibutsa witonze."
+    ],
+    [
+      "Porogaramu ishyigikira umwaka wa serivisi ya Nzeri - Kanama?",
+      "Yego! Byombi Raporo ya Raporo hamwe na Kalendari incamake ibara amasaha ya buri mwaka na buri mwaka mu mwaka wa serivisi wemewe wa Nzeri - Kanama, harimo amasaha asigaye ugana ku ntego yawe ya buri mwaka."
+    ],
+    [
+      "JW Ministry isimburwa neza kuri ServicePlanner cyangwa MyTime kuri iPhone?",
+      "Yego! JW Ministry irabungabunzwe cyane kubijyanye na iOS na iPadOS iheruka gusohora, hagaragaramo ibikorwa bya Live kuri Lock Screen na Dynamic Island, widgets yo murugo ya interineti, imashini itanga inyubako, Igenamigambi na Kalendari nyayo ikurikirana, hamwe na 1-kanda iCloud Drive."
+    ],
+    [
+      "Porogaramu ikora kumurongo rwose mugihe cyo gukora inzu ku nzu?",
+      "Rwose. Ibihe byose, ikarita yubutaka, inyandiko zamazu, hamwe ninyandiko zabanyeshuri ba Bibiliya zikora 100% kumurongo udakeneye amakuru ya mobile cyangwa Wi-Fi."
+    ],
+    [
+      "Nshobora guhindura ibikorwa byateganijwe muri minisiteri muri Kalendari mubyinjira muri Raporo?",
+      "Yego. Ihanagura gusa kuri gahunda iteganijwe ya minisiteri muri Kalendari hanyuma ukande 'Kumenyesha' - igihe kirahita cyinjira muri raporo yawe ya buri kwezi kandi kigakurwa mu masaha yawe asigaye."
+    ],
+    [
+      "JW Ministry ikubiyemo Gahunda yo Gusoma Bibiliya ihujwe na JW Library?",
+      "Yego! Munsi ya tab ya Habits kuri ecran yo gutangira, urabona igitabo cyibitabo 66-Gahunda yo Gusoma Bibiliya hamwe ninzira 5 zo gusoma (Classic, Chronologie, Amavanjiri Yambere, Kuringaniza Kuvanga, Bigufi Bwa mbere), itariki yo kurangiriraho, hamwe na kanda 1 'Soma muri JW Library' kumutwe utaha udasomwe hamwe na Text Daily."
+    ],
+    [
+      "Nigute abakurikirana ingeso zumwuka bakora?",
+      "Iragufasha kugenzura ingeso zo mu mwuka za buri munsi, buri cyumweru, na buri kwezi (Umwandiko wa buri munsi, gusoma Bibiliya, gutegura amateraniro, Kwiga ku giti cyawe, Gusenga Umuryango, JW Broadcasting, no gutanga raporo) hamwe nimpeta zerekana iterambere hamwe no gushyigikira ingeso gakondo."
+    ]
+  ],
+  "footer_privacy": "Politiki Yibanga",
+  "footer_issues": "Inkunga ya GitHub & Ibitekerezo",
+  "footer_contact": "Menyesha Iterambere",
+  "seo_sec_title": "Yubatswe kubatangabuhamya ba Yehova Umurimo wo mu murima & Umupayiniya",
+  "seo_sec_sub": "Uburyo Minisiteri JW ifasha abamamaji, abapayiniya bufasha, abapayiniya basanzwe, nabapayiniya badasanzwe gutegura umwaka wabo.",
+  "seo_pillars": [
+    [
+      "Abapayiniya Bisanzwe & Bidasanzwe (Amasaha 50, 90 & 100 / Umwaka wa serivisi-Amasaha 600)",
+      "Gukora nk'umupayiniya usanzwe bisaba gukurikirana intego zawe zamasaha 50 buri kwezi hamwe nintego yawe yamasaha 600 Nzeri-Kanama. JW Ministry ihita ibara amasaha yawe yuzuye ya minisiteri, asigaye asigaye buri kwezi, hamwe niterambere ryumwaka wa serivisi. Shiraho intego yihariye ya buri kwezi (urugero, amasaha 55), teganya iminsi yumurimo muri Kalendari, kandi ugereranye amasaha yawe yateganijwe nigihe cyawe cyatanzwe."
+    ],
+    [
+      "Abapayiniya Bafasha (Amasaha 15 & 30) hamwe nabatangaza itorero",
+      "Kwinjira mubukangurambaga budasanzwe, gusura umugenzuzi wumuzunguruko, cyangwa igihe cyUrwibutso nkumupayiniya wungirije? Hindura uruhare rwawe kuri Pioneer Auxiliary (15 h cyangwa 30 h) mumasegonda. Abamamaji b'itorero barashobora kwandikisha amasomo ya buri munsi, bagakurikirana amasomo ya Bibiliya, kandi bagashobora kumenyesha mu buryo bwikora ku ya 1 ya buri kwezi saa 20h00 bityo ntuzibagirwe gutanga raporo yumurimo wawe."
+    ],
+    [
+      "Intara ku nzu n'inzu, Imashini itanga amazu & Gusura",
+      "Simbuza impapuro impapuro hamwe namakarita yububiko bwa sisitemu. Ongeraho amafoto yikarita yubutaka, amakarita-kode yamakarita afite amabara 10 yuburyo bwiza, kandi utange inyubako zamagorofa yose yinjirira hamwe na etage muri kanda imwe. Andika 'Gusura Bwa mbere', 'Ntabwo ari murugo', cyangwa 'Kwanga', shakisha mu turere twose ukoresheje aderesi y'umuhanda cyangwa izina ry'umuturage, kandi wakire ibyibutsa byikora mugihe kigeze cyo gusubirayo."
+    ],
+    [
+      "Iterambere ryabanyeshuri ba Bibiliya & Igezweho rya iOS gusimbuza umurage",
+      "Komeza urutonde rurambuye rwabanyeshuri bawe ba Bibiliya hamwe nibisohokayandikiro byabo (nka 'Ishimire Ubuzima Iteka!'), Umubare w'isomo, hamwe nigice. Ongeraho abanyeshuri muburyo bwigihe kugirango amasomo yawe yo kwiga buri kwezi arukuri. Yubatswe kavukire hamwe na SwiftUI kubintu bigezweho bya iPhone na iPad, JW Ministry nuburyo bwiza bugezweho bwo gukoresha porogaramu zahagaritswe nka ServicePlanner, MyTime, NW Publisher, My Service & Bible, Assistant Service Service, hamwe na Assistant Assistant."
+    ]
+  ],
+  "seo_tags_title": "Ibyamamare Byamamare Byakorewe Kumurongo Byakozwe na JW Ministry:",
+  "seo_tags": [
+    "porogaramu ya serivise yumurima wa Yehova",
+    "abatangabuhamya ba Yehova raporo yumurimo wo murwego",
+    "umuhamya wa Yehova amasaha yubupayiniya",
+    "jw amasaha yambere yubupayiniya & gahunda",
+    "jw umupayiniya wungirije amasaha 15 & 30",
+    "jw idasanzwe yubupayiniya amasaha akurikirana",
+    "umwaka w'abatangabuhamya ba Yehova",
+    "jw & gahunda yumwaka utegura",
+    "jw serivisi ya raporo yumurima porogaramu ikuramo ubuntu",
+    "jw agace k'umuyobozi ushinzwe porogaramu iOS",
+    "umuteguro wa serivisi jw & igihe cyanjye jw ubundi",
+    "jw gahunda yo gusoma Bibiliya",
+    "burimunsi gusoma bibiliya ikurikirana iPhone",
+    "jw ingeso zumwuka & abakurikirana bisanzwe",
+    "gahunda yo gusoma bibiliya ikurikirana gahunda ya iOS"
+  ],
+  "qr_scan_title": "Sikana hamwe na iPhone / iPad",
+  "qr_scan_sub": "Erekana kamera yawe kugirango ufungure mububiko bwa App",
+  "shot_lang_label": "Imvugo yimbere kuri ecran:",
+  "comp_title": "Impamvu Abamamaji & Abapayiniya Bahindukira muri JW Ministry",
+  "comp_sub": "Kugereranya impande zose kubikorwa byo murwego rwo gukurikirana, gahunda yabapayiniya, no gucunga ifasi.",
+  "comp_headers": [
+    "Ikiranga",
+    "Ikaye",
+    "Porogaramu Umurage",
+    "JW Ministry 2.0.1"
+  ],
+  "comp_rows": [
+    [
+      "Ubuzima bwa Minisiteri Yigihe Kuri Gufunga Mugaragaza & Dynamic Island",
+      "No",
+      "No",
+      "Yego (Ibikorwa bya Live)"
+    ],
+    [
+      "Intego ya Pioneer Intego (15, 30, 50, 100h) & 600h Umwaka wa serivisi",
+      "Kubara intoki",
+      "Igice",
+      "Automatic + Intego yihariye"
+    ],
+    [
+      "Biteganijwe na Kalendari Ifatika & Guhanagura-Kuri-Raporo Guhindura",
+      "No",
+      "No",
+      "Yubatswe muri 1-Guhanagura Akazi"
+    ],
+    [
+      "Inyubako ya Amazu yububiko + Amafoto yintara & 10 Ibara",
+      "Impapuro",
+      "Inyandiko gusa",
+      "Ikarita Yuzuye Yuzuye + Shakisha"
+    ],
+    [
+      "Garuka Gusura Kwibutsa & 1-y-ukwezi-kumenyesha Raporo",
+      "No",
+      "Shingiro",
+      "Amatangazo ya iOS meza"
+    ],
+    [
+      "100% Kumurongo Wibanga & Byuzuye iCloud Drive Ububiko hamwe namafoto",
+      "Kubura byoroshye",
+      "Akenshi gucika kuri iOS nshya",
+      "Offline & Ako kanya Kugarura"
+    ],
+    [
+      "Inkunga kavukire ya iOS igezweho, iPad, OLED Dark Mode & 35+ Indimi",
+      "—",
+      "Yahagaritswe",
+      "Ubwubatsi bugezweho bwa SwiftUI"
+    ]
+  ],
+  "filter_all": "Byose (10)",
+  "filter_light": "Umucyo (8)",
+  "filter_dark": "Umwijima (2)",
+  "filter_ipad": "iPad",
+  "wn_title": "Ibishya muri verisiyo 2.0.1",
+  "wn_items": [
+    "Imyitwarire mishya yumwuka muburyo bwo gutangira: Buri munsi / Icyumweru / Buri kwezi impeta yiterambere, ingeso gakondo, Imiterere yumubano wo gusenga umuryango, hamwe nibutsa raporo yihutirwa kumunsi wa 5.",
+    "Gahunda yo Gusoma Bibiliya: Inzira 5 zo gusoma, igice gikurikirana mubitabo 66 byose, itariki yo kurangiriraho, hamwe na kanda 1 'Soma muri JW Library'.",
+    "Intego ebyiri zikurikirana muri Kalendari & Widgets: reba inshingano zawe zisabwa (urugero, 30 h / 50 h) hamwe ninyongera yumuntu ku giti cye buri kwezi murwego rwo gutera imbere.",
+    "Inkunga yuzuye yo guhuza n'imiterere ya ecran ya iPhone Duo ishobora kugurishwa hamwe na iPadOS.",
+    "Wongeyeho 'Gusangira Porogaramu' na 'Urubuga rwa porogaramu' ihuza Igenamiterere."
+  ],
+  "howto_name": "Nigute Ukurikirana Amasaha Yumurimo Wumwanya & Gahunda ya Pioneer kuri iPhone",
+  "howto_steps": [
+    [
+      "Shiraho uruhare rwa serivisi hamwe nintego ya buri kwezi",
+      "Hitamo Umwanditsi, Umupayiniya wungirije (15/30 h), cyangwa Umupayiniya usanzwe (50 h) muri Igenamiterere, cyangwa ushireho intego yisaha ya buri kwezi."
+    ],
+    [
+      "Koresha igihe kizima cyangwa gahunda muri Kalendari",
+      "Kurikirana umurimo wumurima kuri Lock Screen & Dynamic Island, cyangwa guhanagura ibyateganijwe kuri Kalendari muri Raporo yawe."
+    ],
+    [
+      "Andika uturere hamwe no kwiga Bibiliya",
+      "Andika gusura inzu ku nzu, uko amazu atuye, kandi uhuze abanyeshuri ba Bibiliya hamwe nisomo ryabo."
+    ],
+    [
+      "Sangira raporo yumurimo wa buri kwezi",
+      "Ku ya 1 z'ukwezi, fungura Raporo kugirango usubiremo kandi usangire amasaha yawe yuzuye hamwe n'amasomo ya Bibiliya."
+    ]
+  ],
+  "nav_comp": "Kugereranya",
+  "sticky_sub": "iPhone & iPad • Ubuntu",
+  "feature_badges": [
+    "Gukurikirana Igihe • Ibikorwa bya Live",
+    "Kwiga Bibiliya • Isomo ryiterambere",
+    "Inshingano za serivisi • 15/30/50/100 h",
+    "Umwaka wa serivisi • Gahunda nukuri",
+    "Ifasi yintara • Shakisha & Imenyesha",
+    "Kumurongo wibanga • Kubika iCloud"
+  ],
+  "pillar_badges": [
+    "Minisiteri isanzwe kandi idasanzwe",
+    "Abafasha b'abapayiniya n'abamamaza",
+    "Inzu-Kuri-Inzu & Ifasi Yumuntu",
+    "Inyigisho za Bibiliya & Igishushanyo cya iOS"
+  ],
+  "pillar_Checklists": [
+    [
+      "Automatic 50 h buri kwezi & 600 h Nzeri - Kanama umwaka wa serivisi ukurikirana",
+      "Guhitamo isaha ya buri kwezi intego irenga (urugero, 55 h / ukwezi)",
+      "Amajyambere abiri yo kugereranya ugereranije namasaha yatanzwe"
+    ],
+    [
+      "Kanda kanda imwe kuri 15 h cyangwa 30 h Intego zubufasha bwa Pioneer",
+      "Guhita ukora raporo ya buri kwezi no kugabana ku ya 1",
+      "Kumenyesha kwibutsa witonze ku ya 1 ya buri kwezi saa 20h00"
+    ],
+    [
+      "Amashanyarazi menshi yamagorofa kubwinjiriro no hasi",
+      "Amafoto yikarita yintara, insanganyamatsiko 10 yamabara & ako kanya umuturage / gushakisha aderesi",
+      "Gusubira mu buryo bwikora gusura kwibutsa nyuma yumubare wahisemo"
+    ],
+    [
+      "Kurikirana amasomo nyayo muri 'Ishimire Ubuzima Iteka!' kuri buri munyeshuri",
+      "Yubatswe kavukire ya iOS & iPadOS hamwe na Dynamic Island & OLED Dark Mode",
+      "Uzuza ibyasimbuwe bigezweho kumurage ServicePlanner & MyTime porogaramu"
+    ]
+  ],
+  "rev_title": "Ukundwa nabatangaza & Abapayiniya kwisi yose",
+  "rev_sub": "Ibitekerezo nyabyo byabavandimwe dukoresha JW Ministry muri serivisi zabo za buri munsi.",
+  "reviews": [
+    [
+      "Alex, Umupayiniya usanzwe",
+      "Kugira amasaha ateganijwe buri kwezi ahita yuzuza muri Kalendari hamwe namasaha yanjye yatangajwe ni uguhindura umukino kugirango gahunda yanjye yamasaha 50 ikurikirane."
+    ],
+    [
+      "Sarah, Umupayiniya wungirije",
+      "Gufunga Mugaragaza Live Ibikorwa byigihe hamwe na 1-guhanagura kuva kuri Kalendari gahunda yo Gutanga Raporo ibyanditswe bituma gukurikirana amasaha 15 na 30 bitagoranye. Isuku, byihuse, na 100% wenyine."
+    ],
+    [
+      "David, Umwanditsi w'itorero",
+      "Imashini itanga inyubako hamwe nubushakashatsi bwihuse hejuru yubutaka bwasimbuye impapuro zanjye zose. Garuka gusura kwibutsa bimfasha kutigera mbura gukurikirana."
+    ]
+  ],
+  "privacy_page": {
+    "page_title": "Politiki Yibanga & Inkunga y'abakoresha - JW Ministry",
+    "meta_desc": "Politiki Yibanga Yemewe nubufasha bwabakoresha kuri JW Ministry ya iOS & iPadOS. 100% byibanze kubikoresho byabitswe hamwe na zeru zo hanze.",
+    "back_home": "Subira Murugo",
+    "sup_title": "JW Ministry - Inkunga y'abakoresha",
+    "sup_desc": "Niba ufite ibibazo, ibyifuzo kubintu bishya, cyangwa wasanze ikosa muri porogaramu, wumve neza kuvugana nuwitezimbere:",
+    "sup_issues": "Menyesha Ikibazo (GitHub)",
+    "sup_store": "JW Ministry ku App Store",
+    "updated": "Ibiherutse kuvugururwa: 5 Ukuboza 2025",
+    "h1": "Politiki y’ibanga ya “JW Ministry”",
+    "intro": "Iyi Politiki Yibanga isobanura uburyo <strong> “JW Ministry” </strong> porogaramu igendanwa (“Porogaramu”) ikoresha amakuru y’abakoresha. Ihame ryibanze ni <strong> 100% ubuzima bwite: inyandiko zose wakoze zibikwa gusa kubikoresho byawe </strong>.",
+    "s1_t": "1. Amakuru Yakozwe kandi Yabitswe muri Porogaramu",
+    "s1_p": "Amakuru yose muri App yinjizwa kubushake numukoresha kumurwi wihariye wa serivise yumurima no gutegura:",
+    "s1_ul": [
+      "<strong> Igihe cya serivisi cyinjira & raporo: </strong> amatariki, igihe bimara, kubara Bibiliya, hamwe ninyandiko zamasomo.",
+      "<strong> Ingengabihe ya Kalendari: </strong> gahunda y'ibikorwa bya minisiteri, amatariki, ibihe, hamwe nibisubirwamo.",
+      "<strong> Urutonde rwabanyeshuri ba Bibiliya: </strong> amazina yabanyeshuri / ibirango hamwe ninyandiko zerekana iterambere.",
+      "<strong> Intara & aderesi: </strong> amazina yubutaka, urutonde rwinzu / igorofa, sura amateka, inoti, namafoto yikarita yubutaka byatoranijwe numukoresha mubitabo byamafoto.",
+      "<strong> Igenamiterere rya porogaramu: </strong> uruhare rwa serivisi rwatoranijwe, intego yisaha yumuntu kugiti cye, hamwe nibyifuzo byo kumenyesha."
+    ],
+    "s2_t": "2. 100% Byibanze Kubikoresho-Kubika & Nta Mugabane wa gatatu",
+    "s2_ul": [
+      "Amakuru yose abitswe <strong> gusa kuri iPhone cyangwa iPad </strong> mububiko bwizewe bwa iOS / iPadOS.",
+      "Porogaramu isaba <strong> nta kwiyandikisha </strong> kandi nta konte y'abakoresha.",
+      "Iterambere rifite <strong> ntagishobora kubona </strong> inyandiko zawe, ntikusanya isesengura cyangwa amakuru yaho, kandi <strong> ntabwo yigeze yohereza cyangwa kugabana </strong> amakuru ayo ari yo yose hamwe na seriveri yo hanze cyangwa abandi bantu."
+    ],
+    "s3_t": "3. Uruhushya rwibikoresho (Amafoto & Kumenyesha)",
+    "s3_ul": [
+      "<strong> Isomero ry'amafoto: </strong> ryasabwe gusa mugihe uhisemo guhuza ikarita cyangwa ifoto yo kubaka ikarita yubutaka. Amashusho yatoranijwe abikwa mugace imbere mububiko bwa App kubikoresho byawe.",
+      "<strong> Amatangazo: </strong> yakoreshejwe gusa kubibutsa byibikoresho byibikoresho (nka 1-ukwezi-kwibutsa raporo yibutsa cyangwa kwibutsa gusura)."
+    ],
+    "s4_t": "4. Ibikubiyemo no gusiba amakuru",
+    "s4_p": "Urashobora kohereza hanze dosiye yububiko bwuzuye (harimo amafoto yubutaka) umwanya uwariwo wose ukoresheje urupapuro rusanzwe rwa iOS (urugero, kubika kuri porogaramu yawe bwite ya iCloud cyangwa porogaramu ya Fayili). Kuramo porogaramu mubikoresho byawe bisiba burundu amakuru yose yaho.",
+    "s5_t": "5. Twandikire",
+    "s5_p": "Niba ufite ikibazo kijyanye niyi Politiki Yibanga cyangwa Porogaramu, nyamuneka hamagara uwatezimbere kuri:"
+  },
+  "filter_duo": "iPhone Duo",
+  "wn_items_18": [
+    "Automatic buri kwezi iteganijwe-amasaha yose hamwe muri Kalendari hamwe na Byombi Byateguwe na vyukuri gutera imbere.",
+    "1-guhanagura guhindura gahunda iyo ari yo yose ya Kalendari ya minisiteri mu buryo butaziguye muri raporo yinjira buri kwezi.",
+    "Shakisha ako kanya ukoresheje aderesi cyangwa izina ryumuturage hirya no hino, wongeyeho insanganyamatsiko 10 zamabara kumarita yubutaka.",
+    "Umwaka wa serivisi utaha (2026–2027) inkunga muri tab ya Raporo hamwe nincamake yumwaka.",
+    "Gutezimbere byuzuye kuri iOS & iPadOS iheruka gusohora kandi byongerewe ibikoresho kurinda ibikoresho."
+  ],
+  "bible_page": {
+    "title": "Gahunda yo Gusoma Bibiliya 5 Gahunda & Ingeso Yumwuka Mukurikirana | JW Ministry",
+    "desc": "Gahunda yo gusoma Bibiliya ya buri munsi ya iPhone & iPad: ibitabo 66 byose, gahunda 5 (Classic, Chronologie, nibindi), iteganyagihe rirangira, hamwe na JW Library.",
+    "h1": "Gahunda yo Gusoma Bibiliya & Ingeso Yumwuka",
+    "intro": "Kurikirana buri gice mubitabo 66 byose bya Bibiliya, hitamo muri gahunda 5 yo gusoma, reba itariki yawe yo kurangiriraho, hanyuma ufungure igice gikurikira kidasomwe cyangwa inyandiko ya buri munsi mubitabo bya JW.",
+    "routes_title": "5 Yubatswe muri Gahunda yo Gusoma Bibiliya",
+    "s1_t": "66 Ibitabo bikorana",
+    "s1_d": "Reba ibice hanyuma ukurikirane iterambere mu Byanditswe bya Giheburayo na Gikristo.",
+    "s2_t": "Ingeso Yumwuka Yumunsi",
+    "s2_d": "Iterambere ryumunsi, Icyumweru, Ukwezi wongeyeho 1-kanda Umwandiko wa buri munsi mubitabo bya JW.",
+    "routes": [
+      [
+        "1. Ibisanzwe",
+        "Kuva mu Itangiriro kugeza mu Byahishuwe - gusoma bikurikiranye Bibiliya yose."
+      ],
+      [
+        "2. Ikurikiranyabihe",
+        "Ibitabo byateguwe bikurikirana ibyabaye mumateka no kwandika."
+      ],
+      [
+        "3. Amavanjiri Mbere",
+        "Tangirira ku Byanditswe bya Gikristo, hanyuma wimuke mu Byanditswe bya Giheburayo."
+      ],
+      [
+        "4. Kuvangavanze",
+        "Guhinduranya amateka, imivugo, nubutumwa bwiza bwa buri munsi."
+      ],
+      [
+        "5. Bugufi Bwa mbere",
+        "Kuva mubitabo bigufi kugeza birebire kugirango byihute byiterambere."
+      ]
+    ]
+  },
+  "calc_page": {
+    "title": "Ingengabihe Yabapayiniya (Amasaha 15, 30, 50 & 600) | JW Ministry",
+    "desc": "Kubara amasaha yubupayiniya kubuntu kubatangabuhamya ba Yehova. Kubara gahunda yawe ya buri cyumweru na buri munsi ya serivisi ya 15h, 30h umufasha cyangwa 50h ubupayiniya busanzwe (umwaka wa serivisi 600h).",
+    "h1": "Ingengabihe Yabapayiniya",
+    "intro": "Tegura amasaha yumurimo wawe kuri 15h cyangwa 30h Umupayiniya wungirije, 50h Umupayiniya usanzwe (amasaha 600 kumwaka wa serivisi), cyangwa intego yihariye.",
+    "label_goal": "Intego ya buri kwezi",
+    "opt_15": "Umupayiniya wungirije - 15 h / mo",
+    "opt_30": "Umupayiniya wungirije - 30 h / mo",
+    "opt_50": "Ubupayiniya busanzwe - 50 h / mo",
+    "opt_90": "Umupayiniya udasanzwe - 90 h / mo",
+    "opt_100": "Umupayiniya udasanzwe - 100 h / mo",
+    "label_days": "Iminsi yumurimo buri cyumweru",
+    "res_week": "Amasaha buri cyumweru",
+    "res_day": "Amasaha kumunsi wumurimo",
+    "res_year": "Umwaka wa serivisi",
+    "unit_h": "h",
+    "cta_app": "Kurikirana Gahunda muri JW Ministry",
+    "cta_bible": "Gahunda yo Gusoma Bibiliya"
+  }
+}

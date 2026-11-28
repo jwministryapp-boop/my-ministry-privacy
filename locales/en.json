@@ -4,18 +4,18 @@
   "og_locale": "en_US",
   "name": "English",
   "flag": "🇺🇸",
-  "title": "JW Ministry — Jehovah's Witnesses Field Service App, Pioneer Hours, Schedule & Territory Manager for iPhone & iPad",
-  "description": "Download JW Ministry — the complete Jehovah's Witnesses field service app for iOS & iPadOS. Track field service report hours, regular pioneer (50h) & auxiliary pioneer (15h / 30h) schedules, 2025–2026 & 2026–2027 service year goals, personal territories, and Bible studies.",
-  "keywords": "jehovah's witness field service app, jehovah's witnesses field service report, jehovah's witness pioneer hours, jehovah witness regular pioneer, jehovah witness auxiliary pioneer, jehovah's witnesses service year, jw field service report app download free, jw pioneer hour requirement, jw pioneer schedule, jw special pioneer hours, jw, jw service year planner, jw territory manager app, service planner jw, my time jw app",
+  "title": "JW Ministry — App for Jehovah's Witnesses: Field Service, Report & Territories",
+  "description": "Free Jehovah's Witnesses app for iPhone & iPad: field service timer, monthly report, pioneer hours, calendar, Bible reading schedule, spiritual habits & territories.",
+  "keywords": "JW Ministry, jehovah, witness, field service, report, timer, pioneer, hours, bible, study, calendar, return visit, territories, spiritual habits, bible reading schedule, widget, planner, notes",
   "nav_screens": "App Screens",
   "nav_features": "All Features",
   "nav_languages": "35+ Languages",
   "nav_privacy": "Privacy",
   "nav_donate": "Support Project",
   "nav_faq": "FAQ",
-  "badge": "Available for iPhone & iPad • Version 1.8 • 35+ Languages",
-  "hero_title": "Your Complete Field Service & Pioneer Companion",
-  "hero_sub": "JW Ministry is a dedicated Jehovah's Witnesses field service app for iPhone and iPad: live ministry timer with Dynamic Island, Bible study tracker, monthly field service reports, regular & auxiliary pioneer hour schedules, and personal territory cards.",
+  "badge": "Available for iPhone & iPad • Version 2.0.1 • 35+ Languages",
+  "hero_title": "Field Service, Pioneer Hours, Territories & Bible Reading",
+  "hero_sub": "Free, 100% private app for Jehovah's Witnesses on iPhone and iPad: live service timer with widgets, monthly report, pioneer calendar, house-to-house territories, return visits, Bible studies, spiritual habits, and a 66-book Bible reading schedule.",
   "cta_appstore": "Download on the App Store",
   "cta_donate": "Support the Developer",
   "stat_1_val": "35+",
@@ -33,6 +33,16 @@
       "1.jpg",
       "1. Start Tab & Live Timer",
       "Track your ministry time down to the second (08:04:08). Pause, save to report, or reset in one tap. Increment Bible studies during the session, attach specific Bible students (e.g., Alex), write session notes (territory number, companion), and see total time spent today."
+    ],
+    [
+      "1-1.jpg",
+      "Spiritual Habits & Progress Rings",
+      "Track daily, weekly, and monthly spiritual habits (Daily Text, Bible reading, meeting prep, Family Worship), open the Daily Text directly in JW Library, and add custom habits."
+    ],
+    [
+      "1-2.jpg",
+      "Bible Reading Schedule",
+      "Interactive grid of all 66 Bible books with 5 reading routes (Classic, Chronological, Gospels First, Balanced, Shortest First), completion date forecast, and 1-tap reading in JW Library."
     ],
     [
       "2.jpg",
@@ -119,7 +129,7 @@
   "ton_label": "TON / USDT (TON Network):",
   "copy_btn": "Copy",
   "copied_msg": "Copied!",
-  "crypto_warn": "For the TQQx... address, send assets via TRON (TRC-20) network only.",
+  "crypto_warn": "For USDT (TRC-20), send assets via the TRON network only.",
   "faq_title": "Frequently Asked Questions",
   "faqs": [
     [
@@ -153,6 +163,14 @@
     [
       "Can I convert a planned ministry event in the Calendar into a Report entry?",
       "Yes. Simply swipe on any planned ministry session in the Calendar and tap 'To Report' — the duration is automatically logged in your monthly report and deducted from your remaining planned hours."
+    ],
+    [
+      "Does JW Ministry include a Bible Reading Schedule integrated with JW Library?",
+      "Yes! Under the Habits tab on the Start screen, you get an interactive 66-book Bible Reading Schedule with 5 reading routes (Classic, Chronological, Gospels First, Balanced Mix, Shortest First), a completion date forecast, and 1-tap 'Read in JW Library' links for the next unread chapter and Daily Text."
+    ],
+    [
+      "How does the Spiritual Habits tracker work?",
+      "It lets you check off daily, weekly, and monthly spiritual habits (Daily Text, Bible reading, meeting preparation, Personal Study, Family Worship, JW Broadcasting, and report submission) with visual progress rings and support for custom habits."
     ]
   ],
   "footer_privacy": "Privacy Policy",
@@ -175,7 +193,7 @@
     ],
     [
       "Bible Student Progress & Modern iOS Replacement for Legacy Apps",
-      "Maintain a detailed roster of your Bible students along with their current study publication (such as 'Enjoy Life Forever!'), lesson number, and section. Attach students directly to your timer session so your monthly study count is always accurate. Built natively with SwiftUI for the latest iPhone and iPad models, JW Ministry is the ideal modern alternative to discontinued apps like ServicePlanner or MyTime."
+      "Maintain a detailed roster of your Bible students along with their current study publication (such as 'Enjoy Life Forever!'), lesson number, and section. Attach students directly to your timer session so your monthly study count is always accurate. Built natively with SwiftUI for the latest iPhone and iPad models, JW Ministry is the ideal modern alternative to discontinued apps like ServicePlanner, MyTime, NW Publisher, My Service & Bible, Field Service Assistant, and Ministry Assistant."
     ]
   ],
   "seo_tags_title": "Popular Field Service Searches Covered by JW Ministry:",
@@ -190,7 +208,11 @@
     "jw & service year planner",
     "jw field service report app download free",
     "jw territory manager app iOS",
-    "service planner jw & my time jw alternative"
+    "service planner jw & my time jw alternative",
+    "jw bible reading schedule app",
+    "daily bible reading tracker iPhone",
+    "jw spiritual habits & routine tracker",
+    "chronological bible reading plan iOS"
   ],
   "qr_scan_title": "Scan with iPhone / iPad",
   "qr_scan_sub": "Point your camera to open in the App Store",
@@ -201,7 +223,7 @@
     "Feature",
     "Paper Notebook",
     "Legacy Apps",
-    "JW Ministry 1.8"
+    "JW Ministry 2.0.1"
   ],
   "comp_rows": [
     [
@@ -247,17 +269,17 @@
       "Modern SwiftUI Architecture"
     ]
   ],
-  "filter_all": "All (8)",
-  "filter_light": "Light (6)",
+  "filter_all": "All (10)",
+  "filter_light": "Light (8)",
   "filter_dark": "Dark (2)",
   "filter_ipad": "iPad",
-  "wn_title": "What's New in Version 1.8",
+  "wn_title": "What's New in Version 2.0.1",
   "wn_items": [
-    "Automatic monthly planned-hours total in the Calendar with a dual Planned vs. Actual progress bar.",
-    "1-swipe conversion of any scheduled Calendar ministry session directly into a monthly Report entry.",
-    "Instant search by street address or resident name across Territories, plus 10 color themes for territory cards.",
-    "Upcoming Service Year (2026–2027) support in the Report tab with a sleek annual balance summary.",
-    "Full optimization for the latest iOS & iPadOS releases and enhanced on-device backup protection."
+    "New Spiritual Habits tracker on the Start tab: Daily/Weekly/Monthly progress rings, custom habits, Marital Status setting for Family Worship, and an urgent report reminder on the 5th.",
+    "Bible Reading Schedule: 5 reading routes, chapter tracking across all 66 books, completion date forecast, and 1-tap 'Read in JW Library' links.",
+    "Dual Goal tracking in Calendar & Widgets: view both your role requirement (e.g., 30 h / 50 h) and an additional personal monthly target in a dual progress ring.",
+    "Full adaptive layout support for foldable iPhone Duo screens and iPadOS.",
+    "Added 'Share App' and 'App Website' links in Settings."
   ],
   "howto_name": "How to Track Field Service Hours & Pioneer Schedule on iPhone",
   "howto_steps": [
@@ -367,5 +389,65 @@
     "s4_p": "You may export a complete backup file (including territory photos) at any time via the standard iOS share sheet (for example, saving to your personal iCloud Drive or Files app). Uninstalling the App from your device permanently deletes all local App data.",
     "s5_t": "5. Contact",
     "s5_p": "If you have any questions regarding this Privacy Policy or the App, please contact the developer at:"
+  },
+  "filter_duo": "iPhone Duo",
+  "wn_items_18": [
+    "Automatic monthly planned-hours total in the Calendar with a dual Planned vs. Actual progress bar.",
+    "1-swipe conversion of any scheduled Calendar ministry session directly into a monthly Report entry.",
+    "Instant search by street address or resident name across Territories, plus 10 color themes for territory cards.",
+    "Upcoming Service Year (2026–2027) support in the Report tab with a sleek annual balance summary.",
+    "Full optimization for the latest iOS & iPadOS releases and enhanced on-device backup protection."
+  ],
+  "bible_page": {
+    "title": "5 Bible Reading Schedule Plans & Spiritual Habits Tracker | JW Ministry",
+    "desc": "Convenient daily Bible reading schedule for iPhone & iPad: all 66 books, 5 plans (Classic, Chronological, and more), completion forecast, and JW Library integration.",
+    "h1": "Bible Reading Schedule & Spiritual Habits Tracker",
+    "intro": "Track every chapter across all 66 Bible books, choose from 5 reading plans, see your estimated completion date, and open the next unread chapter or Daily Text directly in JW Library.",
+    "routes_title": "5 Built-in Bible Reading Plans",
+    "s1_t": "66 Books Interactive Grid",
+    "s1_d": "Check off chapters and track progress across Hebrew and Christian Greek Scriptures.",
+    "s2_t": "Daily Spiritual Habits",
+    "s2_d": "Progress rings for Day, Week, and Month plus 1-tap Daily Text in JW Library.",
+    "routes": [
+      [
+        "1. Classic",
+        "From Genesis to Revelation — sequential reading of the entire Bible."
+      ],
+      [
+        "2. Chronological",
+        "Books arranged in the order of historical events and writing."
+      ],
+      [
+        "3. Gospels First",
+        "Start with the Christian Greek Scriptures, then move to the Hebrew Scriptures."
+      ],
+      [
+        "4. Balanced Mix",
+        "Alternating history, poetry, and Gospels for daily variety."
+      ],
+      [
+        "5. Shortest First",
+        "From the shortest books to the longest for a quick sense of progress."
+      ]
+    ]
+  },
+  "calc_page": {
+    "title": "Pioneer Schedule Calculator (15, 30, 50 & 600 Hours) | JW Ministry",
+    "desc": "Free online pioneer hours calculator for Jehovah's Witnesses. Calculate your weekly and daily field service schedule for 15h, 30h auxiliary or 50h regular pioneer (600h service year).",
+    "h1": "Pioneer Schedule Calculator",
+    "intro": "Plan your field service hours for 15h or 30h Auxiliary Pioneer, 50h Regular Pioneer (600 hours per service year), or a custom goal.",
+    "label_goal": "Monthly goal",
+    "opt_15": "Auxiliary Pioneer — 15 h/mo",
+    "opt_30": "Auxiliary Pioneer — 30 h/mo",
+    "opt_50": "Regular Pioneer — 50 h/mo",
+    "opt_90": "Special Pioneer — 90 h/mo",
+    "opt_100": "Special Pioneer — 100 h/mo",
+    "label_days": "Ministry days per week",
+    "res_week": "Hours per week",
+    "res_day": "Hours per ministry day",
+    "res_year": "Per service year",
+    "unit_h": "h",
+    "cta_app": "Track Schedule in JW Ministry",
+    "cta_bible": "Bible Reading Schedule"
   }
 }

@@ -4,18 +4,18 @@
   "og_locale": "de_DE",
   "name": "Deutsch",
   "flag": "🇩🇪",
-  "title": "JW Ministry — Predigtdienst-App für Zeugen Jehovas: Predigtdienstbericht, Pionierdienst & Gebiete (iPhone / iPad)",
-  "description": "Predigtdienst-App für Zeugen Jehovas (JW) auf iOS & iPadOS. Predigtdienstbericht, Stundenplaner für Pionierdienst (Allgemeiner Pionier 50 Std., Hilfspionier 15 & 30 Std.), Dienstjahr Jehovas Zeugen, persönliche Gebietsbearbeitung und Bibelstudien.",
-  "keywords": "zeugen jehovas predigtdienst, predigtdienstbericht zeugen jehovas, zeugen jehovas pionierdienst, zeugen jehovas pionier, hilfspionier zeugen jehovas, allgemeiner pionier 50 stunden, dienstjahr jehovas zeugen, jw predigtdienst app iphone, gebietsbearbeitung haus zu haus, rückbesuche bibelstudien app",
+  "title": "JW Ministry — App für Zeugen Jehovas: Predigtdienst, Bericht & Gebiete",
+  "description": "Kostenlose App für Zeugen Jehovas auf iPhone & iPad: Dienst-Timer, Monatsbericht, Pionierstunden, Kalender, Bibelleseplan, geistige Gewohnheiten, Gebiete und Bibelstudien.",
+  "keywords": "JW Ministry, zeugen, jehovas, predigtdienst, gebiete, bericht, pionier, stunden, bibel, bibelleseplan, studium, rückbesuch, kalender, timer, planer, notizen",
   "nav_screens": "Screenshots",
   "nav_features": "Funktionen",
   "nav_languages": "35+ Sprachen",
   "nav_privacy": "Datenschutz",
   "nav_donate": "Unterstützen",
   "nav_faq": "FAQ",
-  "badge": "Für iPhone & iPad • Version 1.8 • 35+ Sprachen",
-  "hero_title": "Dein kompletter Begleiter für Predigtdienst & Pionierdienst",
-  "hero_sub": "JW Ministry ist dein persönlicher Begleiter für den Predigtdienst und Pionierdienst der Zeugen Jehovas auf iPhone und iPad: präziser Timer, Monatsbericht, Dienstjahresübersicht, Pionier-Stundenziele und Gebietskarten.",
+  "badge": "Für iPhone & iPad • Version 2.0.1 • 35+ Sprachen",
+  "hero_title": "Predigtdienst, Bericht, Pionierstunden, Gebiete & Bibelleseplan",
+  "hero_sub": "Kostenlose, 100 % private App für Zeugen Jehovas auf iPhone & iPad: Dienst-Timer mit Widgets, Monatsbericht, Pionier-Kalender, persönliche Gebiete, Rückbesuche, Bibelstudien, geistige Gewohnheiten und Bibelleseplan.",
   "cta_appstore": "Im App Store laden",
   "cta_donate": "Entwickler unterstützen",
   "stat_1_val": "35+",
@@ -33,6 +33,16 @@
       "1.jpg",
       "1. Start-Tab & Predigtdienst-Timer",
       "Erfasse deine Dienstzeit sekundengenau, füge Bibelstudien hinzu, wähle den Studierenden aus und notiere Details zum Einsatz."
+    ],
+    [
+      "1-1.jpg",
+      "Geistige Gewohnheiten & Fortschrittsringe",
+      "Verfolge tägliche, wöchentliche und monatliche Gewohnheiten (Tagestext, Bibellesen, Zusammenkunftsvorbereitung, Familienabend), öffne den Tagestext direkt in JW Library und füge eigene Gewohnheiten hinzu."
+    ],
+    [
+      "1-2.jpg",
+      "Bibelleseplan (66 Bücher)",
+      "Interaktives Raster aller 66 Bibelbücher mit 5 Leseplänen (Klassisch, Chronologisch, Evangelien zuerst, Ausgewogen, Kurze zuerst), voraussichtlichem Abschlussdatum und Direktlink zu JW Library."
     ],
     [
       "2.jpg",
@@ -119,7 +129,7 @@
   "ton_label": "TON / USDT (TON-Netzwerk):",
   "copy_btn": "Kopieren",
   "copied_msg": "Kopiert!",
-  "crypto_warn": "Sende an die Adresse TQQx... ausschließlich Token im TRON-Netzwerk (TRC-20).",
+  "crypto_warn": "Sende für USDT (TRC-20) ausschließlich Token über das TRON-Netzwerk.",
   "faq_title": "Häufig gestellte Fragen",
   "faqs": [
     [
@@ -194,7 +204,7 @@
     "Funktion",
     "Papiernotizen",
     "Ältere Apps",
-    "JW Ministry 1.8"
+    "JW Ministry 2.0.1"
   ],
   "comp_rows": [
     [
@@ -240,17 +250,17 @@
       "Modernes SwiftUI-Design"
     ]
   ],
-  "filter_all": "Alle (8)",
-  "filter_light": "Hell (6)",
+  "filter_all": "Alle (10)",
+  "filter_light": "Hell (8)",
   "filter_dark": "Dunkel (2)",
   "filter_ipad": "iPad",
-  "wn_title": "Neu in Version 1.8",
+  "wn_title": "Neu in Version 2.0.1",
   "wn_items": [
-    "Automatische Summe der geplanten Monatsstunden im Kalender mit doppeltem Plan-vs.-Ist-Fortschrittsbalken.",
-    "Geplante Predigtdiensttermine im Kalender per Wischgeste direkt in den Monatsbericht übernehmen.",
-    "Sofortsuche nach Adresse oder Namen in allen Gebieten sowie 10 Farbthemen für Gebietskarten.",
-    "Unterstützung für das kommende Dienstjahr (2026–2027) im Bericht-Tab.",
-    "Vollständige Anpassung an die neuesten iOS- & iPadOS-Versionen und verbesserter Backup-Schutz."
+    "Neuer Bereich „Geistige Gewohnheiten“ im Start-Tab: Fortschrittsringe (Tag / Woche / Monat), eigene Gewohnheiten, Familienstand-Option für den Familienabend und dringende Erinnerung am 5. des Monats.",
+    "Bibelleseplan: 5 Lesepläne, Kapitel-Fortschritt für alle 66 Bücher, Abschlussprognose und „In JW Library lesen“-Button.",
+    "Doppeltes Ziel in Kalender & Widgets: Zeigt gleichzeitig dein Pionierziel (z. B. 30 oder 50 Std.) und ein persönliches Monatsziel im Doppelring.",
+    "Vollständige Layout-Anpassung für faltbare iPhone Duo-Displays und iPadOS.",
+    "Neue Buttons „App teilen“ und „App-Website“ in den Einstellungen."
   ],
   "howto_name": "Wie man Predigtdienststunden und Pionierdienst auf dem iPhone plant",
   "howto_steps": [
@@ -360,5 +370,65 @@
     "s4_p": "Du kannst jederzeit über das Standard-Menü von iOS eine vollständige Backup-Datei exportieren (z. B. in deinem persönlichen iCloud Drive oder in der Dateien-App sichern). Beim Löschen der App vom Gerät werden alle lokalen Daten vollständig entfernt.",
     "s5_t": "5. Kontakt",
     "s5_p": "Bei Fragen zu dieser Datenschutzerklärung oder zur App erreichst du den Entwickler unter:"
+  },
+  "filter_duo": "iPhone Duo",
+  "wn_items_18": [
+    "Automatische Summe der geplanten Monatsstunden im Kalender mit doppeltem Plan-vs.-Ist-Fortschrittsbalken.",
+    "Geplante Predigtdiensttermine im Kalender per Wischgeste direkt in den Monatsbericht übernehmen.",
+    "Sofortsuche nach Adresse oder Namen in allen Gebieten sowie 10 Farbthemen für Gebietskarten.",
+    "Unterstützung für das kommende Dienstjahr (2026–2027) im Bericht-Tab.",
+    "Vollständige Anpassung an die neuesten iOS- & iPadOS-Versionen und verbesserter Backup-Schutz."
+  ],
+  "bible_page": {
+    "title": "5 Bibellesepläne & Tracker für geistige Gewohnheiten | JW Ministry",
+    "desc": "Praktischer täglicher Bibelleseplan für iPhone & iPad: alle 66 Bücher, 5 Optionen (klassisch, chronologisch und mehr), Abschlussprognose und JW Library-Integration.",
+    "h1": "Bibelleseplan & Tracker für geistige Gewohnheiten",
+    "intro": "Hake jedes Kapitel aller 66 Bibelbücher ab, wähle aus 5 Leseplänen, sieh dein voraussichtliches Abschlussdatum und öffne das nächste Kapitel oder den Tagestext direkt in JW Library.",
+    "routes_title": "5 integrierte Bibellesepläne",
+    "s1_t": "Interaktives 66-Bücher-Raster",
+    "s1_d": "Kapitel abhaken und Fortschritt in der gesamten Bibel verfolgen.",
+    "s2_t": "Geistige Gewohnheiten",
+    "s2_d": "Fortschrittsringe (Tag, Woche, Monat) und Direktlink zu JW Library.",
+    "routes": [
+      [
+        "1. Klassisch",
+        "Von 1. Mose bis Offenbarung — fortlaufendes Lesen der ganzen Bibel."
+      ],
+      [
+        "2. Chronologisch",
+        "Bücher in der Reihenfolge historischer Ereignisse und Entstehung."
+      ],
+      [
+        "3. Evangelien zuerst",
+        "Starte mit den Christlichen Griechischen Schriften, dann die Hebräischen."
+      ],
+      [
+        "4. Ausgewogen",
+        "Wechsel zwischen Geschichte, Poesie und Evangelien für Abwechslung."
+      ],
+      [
+        "5. Kurze zuerst",
+        "Von den kürzesten zu den längsten Büchern für schnellen Fortschritt."
+      ]
+    ]
+  },
+  "calc_page": {
+    "title": "Pioneer-Zeitplanrechner (15, 30, 50 und 600 Stunden) | JW Ministry",
+    "desc": "Kostenloser Online-Pionierstundenrechner für Zeugen Jehovas. Berechnen Sie Ihren wöchentlichen und täglichen Predigtdienstplan für 15 Stunden, 30 Stunden Hilfspionier oder 50 Stunden allgemeiner Pionier (600 Stunden Dienstjahr).",
+    "h1": "Pioneer-Fahrplanrechner",
+    "intro": "Planen Sie Ihre Außendienststunden für 15 oder 30 Stunden Hilfspionier, 50 Stunden regulärer Pionier (600 Stunden pro Dienstjahr) oder ein individuelles Ziel.",
+    "label_goal": "Monatsziel",
+    "opt_15": "Hilfspionier – 15 Std./Monat",
+    "opt_30": "Hilfspionier – 30 Std./Monat",
+    "opt_50": "Regulärer Pionier – 50 Std./Monat",
+    "opt_90": "Special Pioneer – 90 Std./Monat",
+    "opt_100": "Spezialpionier – 100 Std./Monat",
+    "label_days": "Diensttage pro Woche",
+    "res_week": "Stunden pro Woche",
+    "res_day": "Stunden pro Diensttag",
+    "res_year": "Pro Dienstjahr",
+    "unit_h": "h",
+    "cta_app": "Verfolgen Sie den Zeitplan im JW Ministry",
+    "cta_bible": "Bibelleseplan"
   }
 }

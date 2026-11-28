@@ -4,70 +4,80 @@
   "og_locale": "hu_HU",
   "name": "Magyar",
   "flag": "🇭🇺",
-  "title": "JW Ministry — Jehova Tanúi: Szántóföldi jelentés, Általános úttörő (50 óra), Személyes területek és újralátogatások (iPhone & iPad)",
-  "description": "A JW Ministry Jehova Tanúi szántóföldi szolgálatához készült iPhone és iPad alkalmazás: Live Activities időzítő, bibliatanulmányozók nyilvántartása, szolgálati éves jelentések, úttörő óracélok és területkártyák. általános úttörő (50 óra), kisegítő úttörő (15 és 30 óra), szolgálati év (szeptember–augusztus), személyes területek és újralátogatások, bibliatanulmányozások („Örülj az életnek örökké!”).",
-  "keywords": "JW Ministry, Jehova Tanúi, szántóföldi szolgálat, szántóföldi jelentés, általános úttörő (50 óra), kisegítő úttörő (15 és 30 óra), szolgálati év (szeptember–augusztus), személyes területek és újralátogatások, bibliatanulmányozások („Örülj az életnek örökké!”), iPhone, iPad, iOS",
+  "title": "JW Ministry — Alkalmazás Jehova Tanúinak: szolgálat, jelentés és területek",
+  "description": "Ingyenes alkalmazás Jehova Tanúinak iPhone-ra és iPadre: időzítő, havi jelentés, úttörő órák, naptár, Bibliaolvasási ütemterv, szellemi szokások, területek és bibliatanulmányozás.",
+  "keywords": "JW Ministry, jehova, tanui, szolgálat, jelentés, terület, úttörő, órák, biblia, tanulmányozás, újralátogatás, naptár, időzítő, tervező, jegyzetek",
   "nav_screens": "Képernyők",
   "nav_features": "Funkciók",
   "nav_languages": "35+ Nyelv",
   "nav_privacy": "Adatvédelem",
   "nav_donate": "Támogatás",
   "nav_faq": "GYIK",
-  "badge": "iPhone és iPad • 1.8-as verzió • 35+ Nyelv",
-  "hero_title": "Teljes körű segítőtárs a szántóföldi és úttörőszolgálathoz",
-  "hero_sub": "A JW Ministry Jehova Tanúi szántóföldi szolgálatához készült iPhone és iPad alkalmazás: Live Activities időzítő, bibliatanulmányozók nyilvántartása, szolgálati éves jelentések, úttörő óracélok és területkártyák.",
+  "badge": "iPhone és iPad • 2.0.1-as verzió • 35+ Nyelv",
+  "hero_title": "Szolgálat, jelentés, úttörő órák, területek és Bibliaolvasás",
+  "hero_sub": "Ingyenes, 100%-ban privát alkalmazás Jehova Tanúinak iPhone-ra és iPadre: időzítő widgetekkel, havi jelentés, úttörő naptár, területkártyák, újralátogatások, bibliatanulmányozások, szellemi szokások és Bibliaolvasási ütemterv.",
   "cta_appstore": "Letöltés az App Store-ból",
   "cta_donate": "Fejlesztő támogatása",
   "stat_1_val": "35+",
-  "stat_1_lbl": "Interface Languages",
+  "stat_1_lbl": "Interfész nyelvei",
   "stat_2_val": "100%",
-  "stat_2_lbl": "Offline & Private Data",
+  "stat_2_lbl": "Offline és privát adatok",
   "stat_3_val": "iOS & iPad",
-  "stat_3_lbl": "Native SwiftUI Design",
+  "stat_3_lbl": "Natív SwiftUI tervezés",
   "stat_4_val": "0 Ads",
-  "stat_4_lbl": "Free, No Subscriptions",
+  "stat_4_lbl": "Ingyenes, előfizetés nélkül",
   "screens_title": "Ismerd meg a JW Ministry minden képernyőjét",
   "screens_sub": "Valódi magyar nyelvű képernyőképek — a szántóföldi időzítőtől és bibliatanulmányozásoktól az úttörő naptárig, területkártyákig és az OLED sötét módig.",
   "shots": [
     [
       "1.jpg",
-      "1. Start Tab & Live Timer",
-      "Track your ministry time down to the second (08:04:08). Pause, save to report, or reset in one tap. Increment Bible studies during the session, attach specific Bible students (e.g., Alex), write session notes (territory number, companion), and see total time spent today."
+      "1. Indítsa el a Tab & Live Timer alkalmazást",
+      "Kövesse nyomon a szolgálati időt a másodpercig (08:04:08). Szünet, mentés jelentéshez vagy alaphelyzetbe állítás egyetlen érintéssel. Növelje a bibliatanulmányozást a foglalkozás során, csatoljon konkrét bibliatanulmányokat (pl. Alex), írjon jegyzeteket a foglalkozásról (területszám, kísérő), és nézze meg a ma eltöltött teljes időt."
+    ],
+    [
+      "1-1.jpg",
+      "Szellemi szokások és haladási gyűrűk",
+      "Kövesd nyomon napi, heti és havi szokásaidat (napiszöveg, Bibliaolvasás, felkészülés az összejövetelekre, családi imádat), nyisd meg a napiszöveget közvetlenül a JW Library-ben, és adj hozzá saját szokásokat."
+    ],
+    [
+      "1-2.jpg",
+      "Bibliaolvasási ütemterv",
+      "Interaktív rács a Biblia mind a 66 könyvével, 5 olvasási útvonallal (Klasszikus, Időrendi, Evangéliumok először, Kiegyensúlyozott, Rövidek először), várható befejezési dátummal és JW Library hivatkozással."
     ],
     [
       "2.jpg",
-      "2. Bible Students Manager",
-      "Keep an organized list of your Bible students. Record the exact study publication, lesson, and section (for example: 'Enjoy Life Forever!, lesson 24, section 3') and add new students in seconds."
+      "2. Bibliakutatók menedzsere",
+      "Vezess rendszerezett listát bibliatanulmányozóidról. Jegyezze fel a pontos tanulmányi kiadványt, leckét és részt (például: „Élvezd az életet örökké!”, 24. lecke, 3. rész), és adj hozzá új tanulókat másodpercek alatt."
     ],
     [
       "3.jpg",
-      "3. Service Year & Monthly Reports",
-      "Switch between service years (2025–2026, 2026–2027), monitor total service year hours and remaining hours, review every month with detailed session logs, study counts, student tags, and share your monthly report on the 1st."
+      "3. Szolgáltatási év és havi jelentések",
+      "Váltson a szolgálati évek (2025–2026, 2026–2027) között, kövesse nyomon a szolgálati év összes óráját és a hátralévő órákat, tekintse át minden hónapban részletes munkamenet-naplókat, tanulmányi számokat, hallgatói címkéket, és ossza meg havi jelentését 1. napján."
     ],
     [
       "4.jpg",
-      "4. Pioneer Calendar & Goal Progress",
-      "See your current role (Regular pioneer – 50 h, Auxiliary 15/30 h, or Publisher) and personal monthly target (e.g., 55 h). Visual progress bar shows hours completed this month, remaining monthly hours, and full service year balance alongside your daily schedule."
+      "4. Úttörő naptár és a célok előrehaladása",
+      "Tekintse meg jelenlegi szerepkörét (Rendszeres úttörő – 50 óra, 15/30 óra kisegítő vagy kiadó) és személyes havi célját (pl. 55 óra). A vizuális folyamatjelző sáv az ebben a hónapban teljesített órákat, a fennmaradó havi órákat és a teljes szolgáltatási év egyenlegét mutatja a napi ütemezés mellett."
     ],
     [
       "5.jpg",
-      "5. Territory Cards & Door-to-Door Log",
-      "Attach photos of territory maps or buildings (e.g., Territory A-8), filter addresses, and log every visit with date, visit status ('First visit', 'Not at home', 'Refusal'), and doorway notes like 'No intercom'."
+      "5. Területkártyák és háztól-házig napló",
+      "Csatoljon fényképeket a területtérképekről vagy épületekről (pl. A-8 terület), szűrje ki a címeket, és naplózza az összes látogatást dátummal, a látogatás állapotával (\"Első látogatás\", \"Nincs otthon\", \"Megtagadás\") és az ajtóra vonatkozó megjegyzésekkel, például \"Nincs kaputelefon\"."
     ],
     [
       "6.jpg",
-      "6. Flexible Settings & Cloud Backup",
-      "Export or import full JSON backups via the top cloud buttons. Configure your service role, custom monthly hour target, September–August service year, 1st-of-the-month report reminders at 20:00, and return visit notifications after N days."
+      "6. Rugalmas beállítások és Cloud Backup",
+      "Exportálhatja vagy importálhatja a teljes JSON biztonsági másolatokat a felső felhőgombokkal. Konfigurálja a szolgáltatási szerepkört, az egyéni havi óraszámot, a szeptember–augusztusi szolgáltatási évet, a hónap 1. jelentésének emlékeztetőit 20:00-kor, és a visszatérő látogatásokról szóló értesítéseket N nap után."
     ],
     [
       "7.jpg",
-      "7. True Black OLED Dark Mode (Timer)",
-      "Designed for comfort during evening witnessing and battery saving on OLED iPhones. High-contrast purple accents keep controls clear in any lighting."
+      "7. Valódi fekete OLED sötét mód (időzítő)",
+      "Úgy tervezték, hogy kényelmes legyen az esti tanúskodás során, és kíméli az akkumulátort az OLED iPhone-okon. A nagy kontrasztú lila akcentusok tisztán tartják a kezelőszerveket bármilyen megvilágítás mellett."
     ],
     [
       "8.jpg",
-      "8. OLED Dark Mode (Settings & Goals)",
-      "Every screen, sheet, and widget seamlessly adapts to iOS system Light and Dark appearances."
+      "8. OLED sötét mód (beállítások és célok)",
+      "Minden képernyő, lap és widget zökkenőmentesen alkalmazkodik az iOS rendszer világos és sötét megjelenéséhez."
     ]
   ],
   "feat_sec_title": "Minden eszköz a jól szervezett szolgálathoz",
@@ -75,33 +85,33 @@
   "features": [
     [
       "⏱️",
-      "Smart Timer, Widgets & Live Activities",
-      "Start your ministry timer from the app, Home Screen widget, or Lock Screen. Your active timer stays visible on the Dynamic Island and Lock Screen even when your iPhone is locked."
+      "Intelligens időzítő, widgetek és élő tevékenységek",
+      "Indítsa el a minisztérium időzítőjét az alkalmazásból, a Kezdőképernyő widgetből vagy a Lezárási képernyőről. Az aktív időzítő akkor is látható marad a Dynamic Island és a lezárási képernyőn, ha iPhone-ja le van zárva."
     ],
     [
       "📚",
-      "Bible Studies & Publication Progress",
-      "Link Bible studies directly to your daily report entries. Track each student's name and current lesson in 'Enjoy Life Forever!' or any other study aid."
+      "Bibliatanulmányozás és publikálási folyamat",
+      "Kapcsolja össze a bibliatanulmányokat közvetlenül a napi jelentés bejegyzéseivel. Kövesse nyomon az egyes tanulók nevét és az aktuális leckét az \"Élvezd az életet örökké!\" vagy bármilyen más tanulmányi segédlet."
     ],
     [
       "📊",
-      "Service Roles & Personal Hour Targets",
-      "Supports Publisher, Auxiliary Pioneer (15 or 30 hours), Regular Pioneer (50 hours), Special Pioneer / Missionary (90 / 100 hours), plus a custom 'Personal target' override (e.g., 55 hours/month)."
+      "Szolgáltatási szerepkörök és személyes óracélok",
+      "Támogatja a kiadót, a segédúttörőt (15 vagy 30 óra), a rendes úttörőt (50 óra), a különleges úttörőt/misszionáriust (90/100 óra), valamint az egyéni „személyes cél” felülírást (pl. 55 óra/hó)."
     ],
     [
       "🗓️",
-      "Service Year (Sept–Aug) & Calendar",
-      "Plan ministry meetings, recurring schedules, and Family Worship in the Calendar. Compare planned vs. actual hours, convert planned sessions into report entries with a swipe, and track your annual pioneer goal."
+      "Szolgáltatási év (szept.–augusztus) és naptár",
+      "Tervezze meg a szolgálati találkozókat, az ismétlődő ütemterveket és a családi istentiszteletet a naptárban. Hasonlítsa össze a tervezett és a tényleges órákat, alakítsa át a tervezett munkameneteket jelentésbejegyzésekké egyetlen csúsztatással, és kövesse nyomon éves úttörő célját."
     ],
     [
       "🗺️",
-      "Territories, Apartments & Visit Reminders",
-      "Create cards for territories, multi-story apartment buildings, and private houses. Attach map photos, color-code cards, search by address or resident name, and receive automatic reminders to make return visits."
+      "Területek, apartmanok és látogatási emlékeztetők",
+      "Hozzon létre kártyákat területekhez, többszintes lakóházakhoz és magánházakhoz. Csatoljon térképfotókat, színkódkártyákat, keressen cím vagy lakos neve alapján, és automatikus emlékeztetőket kapjon az ismételt látogatásokról."
     ],
     [
       "🔒",
-      "100% On-Device Privacy & Full Backups",
-      "No registration, no accounts, no external servers, and zero analytics. All records and territory photos stay locally on your iPhone/iPad, with instant backup export & restore to iCloud Drive or Files."
+      "100%-os adatvédelem az eszközön és teljes biztonsági mentés",
+      "Nincs regisztráció, nincsenek fiókok, nincsenek külső szerverek és nulla elemzés. Minden rekord és területi fotó helyben marad az iPhone/iPad eszközén, azonnali biztonsági másolat exportálással és visszaállítással az iCloud Drive-ra vagy a Files-ba."
     ]
   ],
   "lang_sec_title": "Teljesen lefordítva több mint 35 nyelvre",
@@ -115,44 +125,44 @@
   "btn_patreon": "Támogatás Patreonon",
   "card_crypto_title": "Közvetlen kripto utalás (0% díj)",
   "card_crypto_desc": "Közvetlenül a fejlesztő tárcájába:",
-  "usdt_label": "USDT (TRC-20 / TRON Network only):",
-  "ton_label": "TON / USDT (TON Network):",
+  "usdt_label": "USDT (csak TRC-20 / TRON hálózat):",
+  "ton_label": "TON / USDT (TON hálózat):",
   "copy_btn": "Másolás",
   "copied_msg": "Másolva!",
-  "crypto_warn": "For the TQQx... address, send assets via TRON (TRC-20) network only.",
+  "crypto_warn": "USDT (TRC-20) esetén kizárólag a TRON hálózaton keresztül küldj eszközöket.",
   "faq_title": "Gyakran Ismételt Kérdések (GYIK)",
   "faqs": [
     [
-      "How does JW Ministry complement JW Library for Jehovah's Witnesses?",
-      "While JW Library is used for reading the Bible, publications, and congregation meetings, JW Ministry is purpose-built for tracking your personal field ministry: logging field service report hours, planning your regular or auxiliary pioneer schedule (15, 30, 50, or 100 hours), managing personal territory records, and tracking Bible students."
+      "Hogyan egészíti ki a JW Ministry a JW Library for Jehova Tanúi szolgáltatást?",
+      "Míg a JW Library-t a Biblia, a kiadványok és a gyülekezeti összejövetelek olvasására használják, a JW-szolgálat célja a személyes szántóföldi szolgálat nyomon követése: a szántóföldi szolgálati órák naplózása, a szokásos vagy kisegítő úttörői ütemterv (15, 30, 50 vagy 100 óra), személyes területi nyilvántartások kezelése és bibliatanulmányozók nyomon követése."
     ],
     [
-      "Where are my ministry records and territory notes stored?",
-      "Exclusively on your device (iPhone or iPad). The app has no external database or cloud server, ensuring complete confidentiality of your personal notes and addresses."
+      "Hol tárolják a minisztériumi feljegyzéseimet és területi feljegyzéseimet?",
+      "Kizárólag az Ön eszközén (iPhone vagy iPad). Az alkalmazásnak nincs külső adatbázisa vagy felhőkiszolgálója, így biztosítva a személyes feljegyzések és címek teljes bizalmasságát."
     ],
     [
-      "How do I transfer my data to a new iPhone or iPad?",
-      "Open the Settings tab and tap the Cloud Upload icon in the top-right corner to export a full backup file (including territory photos) to iCloud Drive or AirDrop. On your new device, tap the Cloud Download icon to restore everything in one tap."
+      "Hogyan vigyem át az adataimat egy új iPhone-ra vagy iPadre?",
+      "Nyissa meg a Beállítások lapot, és koppintson a Felhőfeltöltés ikonra a jobb felső sarokban a teljes biztonsági másolat (beleértve a területi fényképeket) iCloud Drive-ba vagy AirDrop-ba exportálásához. Új eszközén koppintson a Felhőletöltés ikonra, hogy egyetlen érintéssel visszaállítson mindent."
     ],
     [
-      "How do automatic return visit reminders work?",
-      "In Settings → Notifications, enable 'Remind about return visits to addresses' and set the interval (for example, 3 days). If you haven't logged a follow-up visit to an address within that period, the app will gently remind you."
+      "Hogyan működnek az automatikus visszatérési emlékeztetők?",
+      "A Beállítások → Értesítések menüpontban engedélyezze az „Emlékeztessen a címek visszatérő látogatásaira” lehetőséget, és állítsa be az intervallumot (például 3 nap). Ha ezen időszakon belül nem naplózott egy utólagos látogatást egy címre, az alkalmazás óvatosan emlékezteti Önt."
     ],
     [
-      "Does the app support the September–August Service Year?",
-      "Yes! Both the Report tab and the Calendar summary calculate monthly and annual hours across the official September–August service year, including remaining hours toward your annual pioneer goal."
+      "Támogatja az alkalmazás a szeptember–augusztusi szolgáltatási évet?",
+      "Igen! A Jelentés lap és a Naptár összefoglalója is kiszámítja a havi és éves órákat a hivatalos szeptember–augusztusi szolgálati év során, beleértve az éves úttörő cél eléréséhez még hátralévő órákat."
     ],
     [
-      "Is JW Ministry a good replacement for ServicePlanner or MyTime on iPhone?",
-      "Yes! JW Ministry is actively maintained for the latest iOS and iPadOS releases, featuring Live Activities on the Lock Screen and Dynamic Island, interactive Home Screen widgets, an apartment building generator, Planned vs. Actual calendar tracking, and 1-tap iCloud Drive backups."
+      "A JW Ministry jó helyettesíti a ServicePlannert vagy a MyTime-ot iPhone-on?",
+      "Igen! A JW Ministry aktívan karbantartják a legújabb iOS és iPadOS kiadásokhoz, amelyek tartalmazzák az Élő tevékenységeket a lezárási képernyőn és a Dynamic Island, interaktív kezdőképernyő widgeteket, lakóépület-generátort, tervezett és tényleges naptárkövetést, valamint egy koppintással iCloud Drive biztonsági mentéseket."
     ],
     [
-      "Does the app work completely offline during door-to-door ministry?",
-      "Absolutely. All timers, territory maps, apartment records, and Bible student notes work 100% offline without requiring mobile data or Wi-Fi."
+      "Teljesen offline módban működik az alkalmazás a háztól-házig szolgálat során?",
+      "Teljesen. Minden időzítő, területtérkép, lakásnyilvántartás és bibliatanulmányi jegyzet 100%-ban offline módban működik, mobiladat- vagy Wi-Fi-kapcsolat nélkül."
     ],
     [
-      "Can I convert a planned ministry event in the Calendar into a Report entry?",
-      "Yes. Simply swipe on any planned ministry session in the Calendar and tap 'To Report' — the duration is automatically logged in your monthly report and deducted from your remaining planned hours."
+      "Átalakíthatok egy tervezett minisztériumi eseményt a naptárban jelentésbejegyzéssé?",
+      "Igen. Egyszerűen csúsztassa az ujját bármelyik tervezett minisztériumi munkamenetre a Naptárban, és érintse meg a „Jelentés” elemet – az időtartamot a rendszer automatikusan naplózza a havi jelentésben, és levonja a hátralévő tervezett órákból."
     ]
   ],
   "footer_privacy": "Adatvédelmi irányelvek",
@@ -162,19 +172,19 @@
   "seo_sec_sub": "Hogyan segíti a JW Ministry a hírnököket és úttörőket a teljes szolgálati év során.",
   "seo_pillars": [
     [
-      "Regular & Special Pioneers (50, 90 & 100 Hours / 600-Hour Service Year)",
-      "Serving as a regular pioneer requires keeping track of both your 50-hour monthly target and your 600-hour September–August service year goal. JW Ministry automatically calculates your completed ministry hours, remaining monthly balance, and full service year progress. Set a custom personal monthly goal (e.g., 55 hours), schedule ministry days in the Calendar, and compare your planned hours against your actual reported time."
+      "Rendszeres és különleges úttörők (50, 90 és 100 óra / 600 órás szolgálati év)",
+      "A rendszeres úttörő szolgálat megköveteli mind a havi 50 órás, mind a 600 órás szeptember–augusztusi szolgálati év céljának nyomon követését. A JW Ministry automatikusan kiszámolja a teljesített szolgálati órákat, a fennmaradó havi egyenleget és a teljes szolgálati év előrehaladását. Állítson be egyéni személyes havi célt (pl. 55 óra), ütemezze be a szolgálati napokat a Naptárban, és hasonlítsa össze tervezett óráit a ténylegesen bejelentett idővel."
     ],
     [
-      "Auxiliary Pioneers (15 & 30 Hours) and Congregation Publishers",
-      "Joining a special campaign, circuit overseer's visit, or Memorial season as an auxiliary pioneer? Switch your role to Auxiliary Pioneer (15 h or 30 h) in seconds. Congregation publishers can log daily ministry sessions, track Bible studies, and enable an automatic notification on the 1st of every month at 20:00 so you never forget to submit your field service report."
+      "Kisegítő úttörők (15 és 30 óra) és a gyülekezeti kiadók",
+      "Kisegítő úttörőként csatlakozik egy különleges kampányhoz, a körzetfelvigyázó látogatásához vagy az emlékünnephez? Másodpercek alatt váltson kisegítő úttörőre (15 vagy 30 óra). A gyülekezeti hírnökök naplózhatják a napi szolgálati üléseket, nyomon követhetik a bibliatanulmányozást, és minden hónap 1-jén 20:00-kor engedélyezhetik az automatikus értesítést, hogy soha ne felejtse el benyújtani szántóföldi szolgálati jelentését."
     ],
     [
-      "House-to-House Territories, Apartment Generator & Return Visits",
-      "Replace paper slips with organized digital territory cards. Attach photos of territory maps, color-code cards with 10 stylish colors, and generate entire multi-story apartment buildings by entrances and floors in one tap. Record 'First visit', 'Not at home', or 'Refusal' statuses, search across all territories by street address or resident name, and receive automatic reminders when it is time to make a return visit."
+      "Háztól-házig terjedő területek, lakásgenerátor és visszatérő látogatások",
+      "Cserélje ki a papírszelvényeket rendezett digitális területkártyákra. Csatoljon fényképeket területtérképekről, színkódkártyákat 10 stílusos színnel, és egyetlen érintéssel generáljon teljes többszintes lakóházakat a bejáratok és az emeletek alapján. Rögzítse az „Első látogatás”, „Nincs otthon” vagy „Elutasított” állapotokat, keressen az összes területen utcanév vagy lakónév alapján, és automatikus emlékeztetőket kapjon, amikor elérkezett az új látogatás ideje."
     ],
     [
-      "Bible Student Progress & Modern iOS Replacement for Legacy Apps",
+      "A bibliatanulmányozók fejlődése és modern iOS-csere a régi alkalmazásokhoz",
       "Maintain a detailed roster of your Bible students along with their current study publication (such as 'Enjoy Life Forever!'), lesson number, and section. Attach students directly to your timer session so your monthly study count is always accurate. Built natively with SwiftUI for the latest iPhone and iPad models, JW Ministry is the ideal modern alternative to discontinued apps like ServicePlanner or MyTime."
     ]
   ],
@@ -198,171 +208,231 @@
     "Funkció",
     "Papír jegyzetek",
     "Régebbi appok",
-    "JW Ministry 1.8"
+    "JW Ministry 2.0.1"
   ],
   "comp_rows": [
     [
-      "Live Ministry Timer on Lock Screen & Dynamic Island",
+      "Élő minisztériumi időzítő a lezárási képernyőn és a Dynamic Island",
       "No",
       "No",
-      "Yes (Live Activities)"
+      "Igen (élő tevékenységek)"
     ],
     [
-      "Pioneer Goal Calculator (15, 30, 50, 100h) & 600h Service Year",
-      "Manual calculation",
-      "Partial",
-      "Automatic + Custom Goal"
+      "Pioneer célkalkulátor (15, 30, 50, 100 óra) és 600 óra szolgálati év",
+      "Kézi számítás",
+      "Részleges",
+      "Automatikus + Egyéni cél"
     ],
     [
-      "Planned vs. Actual Calendar & Swipe-to-Report Conversion",
+      "Tervezett és tényleges naptár és Csúsztatás a jelentéshez konverzió",
       "No",
       "No",
-      "Built-in 1-Swipe Workflow"
+      "Beépített 1-swipe munkafolyamat"
     ],
     [
-      "Apartment Building Generator + Territory Photos & 10 Color Tags",
-      "Paper slips",
-      "Text only",
-      "Full Visual Cards + Search"
+      "Lakóház generátor + Területi fotók és 10 színes címke",
+      "Papírcédulák",
+      "Csak szöveg",
+      "Teljes vizuális kártyák + keresés"
     ],
     [
-      "Return Visit Reminders & 1st-of-the-Month Report Notification",
+      "Visszatérő látogatási emlékeztetők és értesítés a hónap 1. napjáról",
       "No",
-      "Basic",
-      "Smart iOS Notifications"
+      "Alapvető",
+      "Intelligens iOS értesítések"
     ],
     [
-      "100% On-Device Privacy & Full iCloud Drive Backup with Photos",
-      "Easy to lose",
-      "Often breaks on new iOS",
-      "Offline & Instant Restore"
+      "100%-os adatvédelem az eszközön és teljes iCloud Drive-mentés fotókkal",
+      "Könnyű elveszíteni",
+      "Gyakran elromlik az új iOS rendszeren",
+      "Offline és azonnali visszaállítás"
     ],
     [
-      "Native Support for Latest iOS, iPad, OLED Dark Mode & 35+ Languages",
+      "Natív támogatás a legújabb iOS, iPad, OLED sötét mód és 35+ nyelvek számára",
       "—",
-      "Discontinued",
-      "Modern SwiftUI Architecture"
+      "Megszakított",
+      "Modern SwiftUI architektúra"
     ]
   ],
-  "filter_all": "Összes (8)",
-  "filter_light": "Világos (6)",
+  "filter_all": "Összes (10)",
+  "filter_light": "Világos (8)",
   "filter_dark": "Sötét (2)",
   "filter_ipad": "iPad",
-  "wn_title": "Újdonságok az 1.8-as verzióban",
+  "wn_title": "Újdonságok az 2.0.1-as verzióban",
   "wn_items": [
-    "Automatic monthly planned-hours total in the Calendar with a dual Planned vs. Actual progress bar.",
-    "1-swipe conversion of any scheduled Calendar ministry session directly into a monthly Report entry.",
-    "Instant search by street address or resident name across Territories, plus 10 color themes for territory cards.",
-    "Upcoming Service Year (2026–2027) support in the Report tab with a sleek annual balance summary.",
-    "Full optimization for the latest iOS & iPadOS releases and enhanced on-device backup protection."
+    "Új „Szellemi szokások” rész a Start fülön: haladási gyűrűk (Nap / Hét / Hónap), egyéni szokások, családi állapot opció a Családi imádathoz és sürgős emlékeztető a hónap 5. napján.",
+    "Bibliaolvasási ütemterv: 5 olvasási terv, fejezetek követése mind a 66 könyvben, befejezési előrejelzés és „Olvasás a JW Library-ben” gomb.",
+    "Kettős cél a Naptárban és a widgetekben: egyszerre láthatod az úttörő órakeretet (30 vagy 50 óra) és az egyéni havi célt kettős gyűrűben.",
+    "Teljes körű felületi optimalizálás az összehajtható iPhone Duo kijelzőre és iPadOS-re.",
+    "„Alkalmazás megosztása” és „Weboldal” gombok hozzáadva a Beállításokhoz."
   ],
-  "howto_name": "How to Track Field Service Hours & Pioneer Schedule on iPhone",
+  "howto_name": "Hogyan lehet nyomon követni a terepszolgálati órákat és a Pioneer ütemtervét iPhone-on",
   "howto_steps": [
     [
-      "Set your service role and monthly target",
-      "Choose Publisher, Auxiliary Pioneer (15/30 h), or Regular Pioneer (50 h) in Settings, or set a custom monthly hour target."
+      "Állítsa be szolgáltatási szerepkörét és havi célját",
+      "A Beállításokban válassza a Publisher, Auxiliary Pioneer (15/30 óra) vagy a Regular Pioneer (50 óra) lehetőséget, vagy állítson be egyéni havi óracélt."
     ],
     [
-      "Run the live timer or schedule in the Calendar",
-      "Track field ministry on the Lock Screen & Dynamic Island, or swipe scheduled Calendar events directly into your Report."
+      "Futtassa az élő időzítőt vagy ütemezést a Naptárban",
+      "Kövesse nyomon a szolgálatot a Lezárási képernyőn és a Dynamic Island, vagy csúsztassa az ütemezett naptári eseményeket közvetlenül a jelentésbe."
     ],
     [
-      "Log territories and Bible studies",
-      "Record house-to-house visits, apartment statuses, and attach Bible students with their current lesson."
+      "Napló területek és bibliatanulmányozások",
+      "Rögzítse a házról házra tett látogatásokat, lakásállapotokat, és csatolja a bibliatanulmányozók aktuális leckéjét."
     ],
     [
-      "Share your monthly field service report",
-      "On the 1st of the month, open the Report tab to review and share your completed hours and Bible studies."
+      "Ossza meg havi szántóföldi szolgálati jelentését",
+      "A hónap 1-jén nyissa meg a Jelentés lapot, ahol áttekintheti és megoszthatja az elvégzett órákat és bibliatanulmányozásokat."
     ]
   ],
   "nav_comp": "Összehasonlítás",
   "sticky_sub": "iPhone és iPad • Ingyenes",
   "feature_badges": [
-    "Time Tracking • Live Activities",
-    "Bible Studies • Lesson Progress",
-    "Service Roles • 15 / 30 / 50 / 100 h",
-    "Service Year • Plan vs. Actual",
-    "Territory Log • Search & Alerts",
-    "On-Device Privacy • iCloud Backup"
+    "Időkövetés • Élő tevékenységek",
+    "Bibliatanulmányozások • Leckék haladása",
+    "Szolgáltatási szerepkörök • 15/30/50/100 óra",
+    "Szolgáltatási év • Terv vs. tényleges",
+    "Területnapló • Keresés és figyelmeztetések",
+    "Adatvédelem az eszközön • iCloud biztonsági mentés"
   ],
   "pillar_badges": [
-    "Regular & Special Pioneer Ministry",
-    "Auxiliary Pioneers & Publishers",
-    "House-to-House & Personal Territories",
-    "Bible Studies & Modern iOS Design"
+    "Rendszeres és különleges úttörőszolgálat",
+    "Kisegítő úttörők és kiadók",
+    "Háztól-házig és személyes területek",
+    "Bibliatanulmányok és modern iOS-tervezés"
   ],
   "pillar_Checklists": [
     [
-      "Automatic 50 h monthly & 600 h September–August service year tracking",
-      "Custom monthly hour target override (e.g., 55 h/month)",
-      "Dual progress bar comparing scheduled vs. reported hours"
+      "Automatikus 50 órás havi és 600 órás szeptember-augusztusi szolgáltatási évkövetés",
+      "Egyéni havi óra cél felülbírálása (pl. 55 óra/hó)",
+      "Kettős folyamatjelző, amely összehasonlítja az ütemezett és a jelentett órákat"
     ],
     [
-      "One-tap switch to 15 h or 30 h Auxiliary Pioneer goals",
-      "Instant monthly report formatting and sharing on the 1st",
-      "Gentle reminder notification on the 1st of each month at 20:00"
+      "Egy koppintással válthat 15 vagy 30 órás segédútvonal-gólokra",
+      "Azonnali havi jelentés formázás és megosztás 1-jén",
+      "Gyengéd emlékeztető értesítés minden hónap 1-jén 20:00-kor"
     ],
     [
-      "Multi-story apartment generator by entrances and floors",
-      "Territory map photos, 10 color themes & instant resident/address search",
-      "Automated return visit reminders after your chosen number of days"
+      "Többszintes lakásgenerátor bejáratokkal és emeletekkel",
+      "Területtérkép fotók, 10 színes téma és azonnali lakos/címkeresés",
+      "Automatikus visszatérési emlékeztetők a kiválasztott napok után"
     ],
     [
-      "Track exact lessons in 'Enjoy Life Forever!' for every student",
-      "Built natively for iOS & iPadOS with Dynamic Island & OLED Dark Mode",
-      "Complete modern replacement for legacy ServicePlanner & MyTime apps"
+      "Kövesse nyomon a pontos leckéket az \"Élvezd az életet örökké!\" minden diák számára",
+      "Natívan iOS és iPadOS számára készült Dynamic Island és OLED sötét móddal",
+      "Teljes modern helyettesítő a régi ServicePlanner és MyTime alkalmazásokhoz"
     ]
   ],
   "rev_title": "Hírnökök és úttörők véleménye",
   "rev_sub": "Mit mondanak a testvérek, akik naponta használják a JW Ministry alkalmazást.",
   "reviews": [
     [
-      "Alex, Regular Pioneer",
-      "Having the monthly planned hours automatically totaled in the Calendar alongside my actual reported hours is a game changer for keeping my 50-hour schedule on track."
+      "Alex, rendszeres úttörő",
+      "Ha a naptárban automatikusan összesítik a havi tervezett órákat a ténylegesen jelentett órákkal együtt, az egy változást jelent az 50 órás ütemezésem helyes tartásában."
     ],
     [
-      "Sarah, Auxiliary Pioneer",
-      "The Lock Screen Live Activity timer and 1-swipe conversion from Calendar plans to Report entries make tracking 15 and 30 hours effortless. Clean, fast, and 100% private."
+      "Sarah, kisegítő úttörő",
+      "A Lezárási képernyő Élő tevékenység időzítője és a naptári tervekből a jelentésbejegyzésekbe történő 1 csúsztatással történő átalakítás megkönnyíti a 15 és 30 órás követést. Tiszta, gyors és 100%-ban privát."
     ],
     [
-      "David, Congregation Publisher",
-      "The apartment building generator and instant search across territory notes replaced all my paper slips. Return visit reminders help me never miss a follow-up."
+      "David, a gyülekezeti kiadó",
+      "A lakóépület generátora és az azonnali keresés a területek között felváltotta az összes cédulámat. A visszatérő látogatások emlékeztetői segítenek, hogy soha ne hagyjak ki egy nyomon követést."
     ]
   ],
   "privacy_page": {
     "page_title": "A „JW Ministry” alkalmazás adatvédelmi irányelvei — JW Ministry",
-    "meta_desc": "Official Privacy Policy and User Support for the JW Ministry iOS & iPadOS app. 100% local on-device data storage with zero external servers.",
+    "meta_desc": "Hivatalos adatvédelmi szabályzat és felhasználói támogatás a JW Ministry iOS és iPadOS alkalmazáshoz. 100%-ban helyi adattárolás az eszközön nulla külső szerverrel.",
     "back_home": "Főoldal",
     "sup_title": "JW Ministry — Felhasználói támogatás",
     "sup_desc": "Ha kérdésed, javaslatod van, vagy hibát találtál az alkalmazásban, írj a fejlesztőnek:",
-    "sup_issues": "Report an Issue (GitHub)",
-    "sup_store": " JW Ministry on App Store",
-    "updated": "Last updated: December 5, 2025",
+    "sup_issues": "Probléma bejelentése (GitHub)",
+    "sup_store": " JW Ministry az App Store-ban",
+    "updated": "Utolsó frissítés: 2025. december 5",
     "h1": "A „JW Ministry” alkalmazás adatvédelmi irányelvei",
-    "intro": "This Privacy Policy explains how the <strong>“JW Ministry”</strong> mobile application (“the App”) handles user information. Our core principle is <strong>100% privacy: all records you create are stored exclusively on your device</strong>.",
-    "s1_t": "1. Data Created and Stored in the App",
-    "s1_p": "All data in the App is entered voluntarily by the user for personal field service organization and planning:",
+    "intro": "Ez az adatvédelmi szabályzat elmagyarázza, hogy a <strong>„JW Ministry”</strong> mobilalkalmazás („az alkalmazás”) hogyan kezeli a felhasználói információkat. Alapelvünk a <strong>100%-os adatvédelem: az Ön által létrehozott összes rekordot kizárólag az Ön eszközén tároljuk</strong>.",
+    "s1_t": "1. Az alkalmazásban létrehozott és tárolt adatok",
+    "s1_p": "Az Alkalmazásban található összes adatot a felhasználó önkéntesen adja meg személyes helyszíni szolgáltatásszervezés és tervezés céljából:",
     "s1_ul": [
-      "<strong>Service time entries & reports:</strong> dates, duration, Bible study counts, and session notes.",
-      "<strong>Calendar schedules:</strong> planned ministry events, dates, times, and recurrence settings.",
-      "<strong>Bible students list:</strong> student names/labels and study publication progress notes.",
-      "<strong>Territories & addresses:</strong> territory names, house/apartment lists, visit history, notes, and territory card photos selected by the user from the Photo Library.",
-      "<strong>App settings:</strong> selected service role, personal monthly hour target, and notification preferences."
+      "<strong>Szolgálati idő bejegyzései és jelentései:</strong> dátumok, időtartam, bibliatanulmányozási számok és ülésjegyzetek.",
+      "<strong>Naptári ütemezések:</strong> tervezett minisztériumi események, dátumok, időpontok és ismétlődési beállítások.",
+      "<strong>Bibliatanulmányozók listája:</strong> a tanulók nevei/címkéi és a tanulmányi publikáció előrehaladási megjegyzései.",
+      "<strong>Területek és címek:</strong> területnevek, házak/lakások listája, látogatási előzmények, jegyzetek és területkártyák fotók, amelyeket a felhasználó választott ki a Fotótárból.",
+      "<strong>Alkalmazásbeállítások:</strong> kiválasztott szolgáltatási szerepkör, személyes havi óraszám és értesítési beállítások."
     ],
-    "s2_t": "2. 100% Local On-Device Storage & No Third-Party Sharing",
+    "s2_t": "2. 100%-os helyi eszköztárhely és nincs harmadik fél általi megosztás",
     "s2_ul": [
-      "All data is stored <strong>solely on your iPhone or iPad</strong> within the secure iOS / iPadOS storage container.",
-      "The App requires <strong>no registration</strong> and no user account.",
-      "The developer has <strong>no access</strong> to your records, collects no analytics or location data, and <strong>never transmits or shares</strong> any data with external servers or third parties."
+      "Az összes adat <strong>kizárólag iPhone-ján vagy iPadjén</strong> a biztonságos iOS/iPadOS tárolótárolóban tárolódik.",
+      "Az alkalmazáshoz <strong>nincs regisztráció</strong> és felhasználói fiók.",
+      "A fejlesztő <strong>nincs hozzáférése</strong> az Ön nyilvántartásaihoz, nem gyűjt analitikai vagy helyadatokat, és <strong>soha nem továbbít vagy oszt meg</strong> semmilyen adatot külső szerverekkel vagy harmadik felekkel."
     ],
-    "s3_t": "3. Device Permissions (Photos & Notifications)",
+    "s3_t": "3. Eszközengedélyek (fotók és értesítések)",
     "s3_ul": [
-      "<strong>Photo Library:</strong> requested only when you choose to attach a map or building photo to a territory card. Selected images are stored locally inside the App folder on your device.",
-      "<strong>Notifications:</strong> used exclusively for local on-device reminders (such as the 1st-of-the-month report reminder or return visit reminders)."
+      "<strong>Fotótár:</strong> csak akkor kérhető, ha úgy dönt, hogy térképet vagy épületfotót csatol egy területkártyához. A kiválasztott képeket a készülék helyileg, az App mappában tárolja.",
+      "<strong>Értesítések:</strong> kizárólag az eszközön található helyi emlékeztetőkhöz (például a hónap 1. jelentésére vagy a visszatérő látogatásra vonatkozó emlékeztetőkre) használható."
     ],
-    "s4_t": "4. Backups & Data Deletion",
-    "s4_p": "You may export a complete backup file (including territory photos) at any time via the standard iOS share sheet (for example, saving to your personal iCloud Drive or Files app). Uninstalling the App from your device permanently deletes all local App data.",
-    "s5_t": "5. Contact",
-    "s5_p": "If you have any questions regarding this Privacy Policy or the App, please contact the developer at:"
+    "s4_t": "4. Biztonsági mentések és adatok törlése",
+    "s4_p": "Bármikor exportálhat egy teljes biztonsági másolatot (beleértve a területi fényképeket is) az iOS szabványos megosztási lapján keresztül (például személyes iCloud Drive-ra vagy Fájlok alkalmazásba mentve). Az alkalmazás eltávolítása az eszközről véglegesen törli az összes helyi alkalmazásadatot.",
+    "s5_t": "5. Kapcsolat",
+    "s5_p": "Ha bármilyen kérdése van a jelen Adatvédelmi szabályzattal vagy az alkalmazással kapcsolatban, forduljon a fejlesztőhöz a következő címen:"
+  },
+  "filter_duo": "iPhone Duo",
+  "wn_items_18": [
+    "Automatikus havi tervezett munkaórák összesítése a naptárban kettős Tervezett és tényleges folyamatjelző sávval.",
+    "Bármely ütemezett naptári szolgálati munkamenet egy csúsztatással közvetlenül havi jelentés bejegyzéssé konvertálható.",
+    "Azonnali keresés utcacím vagy lakos név alapján az egyes területeken, valamint 10 színes téma a területkártyákhoz.",
+    "Közelgő szolgáltatási év (2026–2027) támogatása a Jelentés lapon, elegáns éves egyenleg-összefoglalóval.",
+    "Teljes optimalizálás a legújabb iOS és iPadOS kiadásokhoz, valamint továbbfejlesztett biztonsági mentési védelem az eszközön."
+  ],
+  "bible_page": {
+    "title": "5 bibliaolvasási ütemterv és szellemi szokások követője | JW Ministry",
+    "desc": "Kényelmes napi bibliaolvasási terv iPhone-ra és iPadre: mind a 66 könyv, 5 változat (klasszikus, időrendi stb.), befejezési előrejelzés és JW Library-integráció.",
+    "h1": "5 bibliaolvasási ütemterv és szellemi szokások követője",
+    "intro": "Kényelmes napi bibliaolvasási terv iPhone-ra és iPadre: mind a 66 könyv, 5 változat (klasszikus, időrendi stb.), befejezési előrejelzés és JW Library-integráció.",
+    "routes_title": "5 beépített bibliaolvasási terv",
+    "s1_t": "66 Könyvek Interaktív rács",
+    "s1_d": "Tekintse meg a fejezeteket, és kövesse nyomon a haladást a Héber és a Keresztény Görög Iratokban.",
+    "s2_t": "Napi spirituális szokások",
+    "s2_d": "A haladás a nap, a hét és a hónap alatt csenget, valamint egy koppintással a napi szöveget a JW Library-ben.",
+    "routes": [
+      [
+        "1. Klasszikus",
+        "A Teremtés könyvétől a Jelenések könyvéig – a teljes Biblia szekvenciális olvasata."
+      ],
+      [
+        "2. Időrendi",
+        "Könyvek a történelmi események és írások sorrendjében."
+      ],
+      [
+        "3. Evangéliumok először",
+        "Kezdje a Keresztény Görög Iratokkal, majd lépjen a Héber Iratokra."
+      ],
+      [
+        "4. Kiegyensúlyozott keverék",
+        "Váltakozó történelem, költészet és evangéliumok a napi változatosság érdekében."
+      ],
+      [
+        "5. A legrövidebb első",
+        "A legrövidebb könyvektől a leghosszabbakig a haladás gyors érzékeléséhez."
+      ]
+    ]
+  },
+  "calc_page": {
+    "title": "Pioneer Menetrend kalkulátor (15, 30, 50 és 600 óra) | JW Ministry",
+    "desc": "Ingyenes online úttörőóra-kalkulátor Jehova Tanúi számára. Számítsa ki a heti és napi szántóföldi szolgálati ütemtervét 15 órás, 30 órás kisegítő vagy 50 órás rendes úttörőként (600 órás szolgálati év).",
+    "h1": "Pioneer Menetrend kalkulátor",
+    "intro": "Tervezze meg szántóföldi szolgálati idejét 15 vagy 30 órás kisegítő úttörőre, 50 órás rendes úttörőre (600 óra szolgálati évenként), vagy egyéni célra.",
+    "label_goal": "Havi cél",
+    "opt_15": "Kisegítő úttörő – 15 óra/hó",
+    "opt_30": "Kisegítő úttörő – 30 óra/hó",
+    "opt_50": "Normál Pioneer – 50 óra/hó",
+    "opt_90": "Special Pioneer – 90 óra/hó",
+    "opt_100": "Special Pioneer – 100 óra/hó",
+    "label_days": "Szolgálati napok hetente",
+    "res_week": "Heti óra",
+    "res_day": "Órák szolgálati naponként",
+    "res_year": "Szolgálati évenként",
+    "unit_h": "h",
+    "cta_app": "Pályarend a JW Ministry",
+    "cta_bible": "Bibliaolvasási ütemterv"
   }
 }

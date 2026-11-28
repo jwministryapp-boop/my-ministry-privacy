@@ -1,3 +1,4 @@
+from datetime import date
 #!/usr/bin/env python3
 import os
 import json
@@ -27,6 +28,39 @@ if os.path.isdir(IPAD_DIR):
         fn for fn in os.listdir(IPAD_DIR)
         if fn.lower().endswith((".jpg", ".jpeg", ".png", ".webp"))
     ])
+
+
+# Проверяем наличие скриншотов в папке screenshots/Duo (iPhone Duo)
+DUO_DIR = os.path.join(BASE, "screenshots", "Duo")
+DUO_FILES = []
+if os.path.isdir(DUO_DIR):
+    DUO_FILES = sorted([
+        fn for fn in os.listdir(DUO_DIR)
+        if fn.lower().endswith((".jpg", ".jpeg", ".png", ".webp"))
+    ])
+
+
+def get_ga_script():
+    ga_id = CFG.get("ga_measurement_id", "").strip()
+    if not ga_id or "XXXX" in ga_id:
+        return ""
+    if ga_id.startswith("GTM-"):
+        return f"""<!-- Google Tag Manager -->
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    window.dataLayer.push({{'gtm.start': new Date().getTime(), event: 'gtm.js'}});
+    function gtag(){{dataLayer.push(arguments);}}
+    gtag('js', new Date());
+  </script>
+  <script async src="https://www.googletagmanager.com/gtm.js?id={ga_id}"></script>"""
+    return f"""<!-- Google Analytics 4 -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id={ga_id}"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){{dataLayer.push(arguments);}}
+    gtag('js', new Date());
+    gtag('config', '{ga_id}');
+  </script>"""
 
 def render(code, d, is_root=False):
     prefix = "." if is_root else ".."
@@ -72,6 +106,21 @@ def render(code, d, is_root=False):
             ipad_shots_html.append(f"""<article class="shot-card ipad-card" data-theme-shot="ipad">
               <div class="ipad-frame"><img src="{isrc}" alt="{ititle} — iPad" loading="lazy" /></div>
               <div class="shot-meta"><h3>iPad • {ititle}</h3><p>{idesc}</p></div>
+            </article>""")
+
+
+    # iPhone Duo screenshots
+    duo_btn_html = ""
+    duo_shots_html = []
+    if DUO_FILES:
+        duo_lbl = d.get("filter_duo", "iPhone Duo")
+        duo_btn_html = f'<button class="filter-btn" onclick="filterScreenshots(\'duo\', this)">{duo_lbl} ({len(DUO_FILES)})</button>'
+        for idx, dfile in enumerate(DUO_FILES, 1):
+            dsrc = f"{prefix}/screenshots/Duo/{quote(dfile)}"
+            schema_shots.append(f"{base_url}/screenshots/Duo/{quote(dfile)}")
+            duo_shots_html.append(f"""<article class="shot-card duo-card" data-theme-shot="duo">
+              <div class="duo-frame"><img src="{dsrc}" alt="iPhone Duo — #{idx} — JW Ministry" loading="lazy" /></div>
+              <div class="shot-meta"><h3>iPhone Duo • #{idx}</h3><p>JW Ministry — Adaptive Foldable Layout</p></div>
             </article>""")
 
     f_badges = d.get("feature_badges", [])
@@ -129,6 +178,7 @@ def render(code, d, is_root=False):
     faqs_html = [f'<details class="faq-item"><summary>{q}</summary><p>{a}</p></details>' for q, a in d["faqs"]]
     reviews_html = [f'<article class="review-card"><div class="review-stars" aria-label="5 out of 5 stars">★★★★★</div><p class="review-text">“{rt}”</p><div class="review-author">{ra}</div></article>' for ra, rt in d.get("reviews", [])]
     wn_items_html = [f"<li>{item}</li>" for item in d.get("wn_items", [])]
+    wn_items_18_html = [f"<li>{item}</li>" for item in d.get("wn_items_18", [])]
 
     schema = [
         {
@@ -188,6 +238,8 @@ def render(code, d, is_root=False):
         "{{SHOTS_GRID}}": "\n          ".join(shots_html),
         "{{IPAD_FILTER_BTN}}": ipad_btn_html,
         "{{IPAD_SHOTS_GRID}}": "\n          ".join(ipad_shots_html),
+        "{{DUO_FILTER_BTN}}": duo_btn_html,
+        "{{DUO_SHOTS_GRID}}": "\n          ".join(duo_shots_html),
         "{{FEATURES_GRID}}": "\n          ".join(feats_html),
         "{{COMPARISON_TABLE}}": comp_table_html,
         "{{SEO_PILLARS_GRID}}": "\n          ".join(seo_pillars_html),
@@ -196,6 +248,8 @@ def render(code, d, is_root=False):
         "{{FAQ_LIST}}": "\n          ".join(faqs_html),
         "{{REVIEWS_GRID}}": "\n          ".join(reviews_html),
         "{{WN_LIST_ITEMS}}": "\n            ".join(wn_items_html),
+        "{{WN_LIST_ITEMS_18}}": "\n            ".join(wn_items_18_html),
+        "{{GA_SCRIPT}}": get_ga_script(),
         "{{APP_STORE_ID}}": CFG["app_store_id"],
         "{{APP_STORE_URL}}": CFG["app_store_url"],
         "{{APP_STORE_URL_ENCODED}}": quote(CFG["app_store_url"], safe=""),
@@ -241,9 +295,17 @@ for sub, ldata in page_entries:
         img_tags.append(f"    <image:image>\n      <image:loc>{img_url}</image:loc>\n      <image:title>{safe_title} — JW Ministry</image:title>\n    </image:image>")
     imgs_joined = "\n".join(img_tags)
     prio = "1.0" if sub == "" else "0.95"
-    url_blocks.append(f"  <url>\n    <loc>{loc}</loc>\n    <changefreq>weekly</changefreq>\n    <priority>{prio}</priority>\n{imgs_joined}\n  </url>")
+    url_blocks.append(f"  <url>\n    <loc>{loc}</loc>\n    <lastmod>{date.today().isoformat()}</lastmod>\n    <changefreq>weekly</changefreq>\n    <priority>{prio}</priority>\n{imgs_joined}\n  </url>")
 
-url_blocks.append(f"  <url>\n    <loc>{base_url}/privacy-policy.html</loc>\n    <changefreq>monthly</changefreq>\n    <priority>0.5</priority>\n  </url>")
+today_iso = date.today().isoformat()
+url_blocks.append(f"  <url>\n    <loc>{base_url}/pioneer-calculator/</loc>\n    <lastmod>{today_iso}</lastmod>\n    <changefreq>monthly</changefreq>\n    <priority>0.9</priority>\n  </url>")
+url_blocks.append(f"  <url>\n    <loc>{base_url}/ru/pioneer-calculator/</loc>\n    <lastmod>{today_iso}</lastmod>\n    <changefreq>monthly</changefreq>\n    <priority>0.9</priority>\n  </url>")
+url_blocks.append(f"  <url>\n    <loc>{base_url}/bible-reading-schedule/</loc>\n    <lastmod>{today_iso}</lastmod>\n    <lastmod>{date.today().isoformat()}</lastmod>\n    <changefreq>weekly</changefreq>\n    <priority>0.9</priority>\n  </url>")
+url_blocks.append(f"  <url>\n    <loc>{base_url}/ru/bible-reading-schedule/</loc>\n    <lastmod>{today_iso}</lastmod>\n    <lastmod>{date.today().isoformat()}</lastmod>\n    <changefreq>weekly</changefreq>\n    <priority>0.9</priority>\n  </url>")
+url_blocks.append(f"  <url>\n    <loc>{base_url}/privacy-policy.html</loc>\n    <lastmod>{today_iso}</lastmod>\n    <changefreq>monthly</changefreq>\n    <priority>0.5</priority>\n  </url>")
+for lc in CFG["supported_langs"]:
+    if lc != "en":
+        url_blocks.append(f"  <url>\n    <loc>{base_url}/{lc}/privacy-policy.html</loc>\n    <lastmod>{today_iso}</lastmod>\n    <changefreq>monthly</changefreq>\n    <priority>0.5</priority>\n  </url>")
 
 sitemap_content = '<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">\n' + "\n".join(url_blocks) + "\n</urlset>\n"
 with open(os.path.join(BASE, "sitemap.xml"), "w", encoding="utf-8") as f:
@@ -307,7 +369,8 @@ def render_privacy(code, d, is_root=False):
         "{{P_S5_P}}": p["s5_p"],
         "{{CONTACT_EMAIL}}": CFG["contact_email"],
         "{{GITHUB_ISSUES_URL}}": CFG["github_issues_url"],
-        "{{APP_STORE_URL}}": CFG["app_store_url"]
+        "{{APP_STORE_URL}}": CFG["app_store_url"],
+        "{{GA_SCRIPT}}": get_ga_script()
     }
     html = PRIV_TPL
     for k, v in rep.items():
@@ -322,3 +385,158 @@ for code, data in LANGS.items():
         f.write(render_privacy(code, data, is_root=False))
 
 print("✅ Политика конфиденциальности и Поддержка сгенерированы на всех 6 языках!")
+
+
+# Генерируем посадочные страницы «График чтения Библии» для всех 27 языков
+with open(os.path.join(BASE, "templates/bible_schedule.html"), "r", encoding="utf-8") as f:
+    BIBLE_TPL = f.read()
+
+def render_bible_page(code, d, is_root=False):
+    prefix = ".." if is_root else "../.."
+    home_link = "../" if is_root else "../"
+    priv_link = "../privacy-policy.html"
+    canonical = f"{base_url}/bible-reading-schedule/" if (is_root or code == "en") else f"{base_url}/{code}/bible-reading-schedule/"
+
+    hreflangs = [f'<link rel="alternate" hreflang="x-default" href="{base_url}/bible-reading-schedule/" />']
+    for lc in CFG["supported_langs"]:
+        hu = f"{base_url}/bible-reading-schedule/" if lc == "en" else f"{base_url}/{lc}/bible-reading-schedule/"
+        hreflangs.append(f'<link rel="alternate" hreflang="{lc}" href="{hu}" />')
+
+    pills = []
+    for lc, ld in LANGS.items():
+        act = "active" if lc == code else ""
+        href = f"{prefix}/bible-reading-schedule/index.html" if lc == "en" else f"{prefix}/{lc}/bible-reading-schedule/index.html"
+        pills.append(f'<a href="{href}" class="lang-pill {act}"><span>{ld["flag"]}</span> {ld["name"]}</a>')
+
+    bp = d.get("bible_page", LANGS["en"]["bible_page"])
+    sfolder = d["shot_folder"]
+    if not os.path.isdir(os.path.join(BASE, "screenshots", sfolder)):
+        sfolder = "English"
+
+    cards = "".join([f'<div class="feat-card"><h3>{rt}</h3><p>{rd}</p></div>' for rt, rd in bp["routes"]])
+    html = BIBLE_TPL
+    reps = {
+        "{{LANG}}": d["html_lang"], "{{PREFIX}}": prefix, "{{HOME_LINK}}": home_link,
+        "{{PRIV_LINK}}": priv_link, "{{PRIV_LABEL}}": d.get("footer_privacy", "Privacy Policy"),
+        "{{FLAG}}": d["flag"], "{{NAME}}": d["name"],
+        "{{CANONICAL}}": canonical, "{{HREFLANGS}}": "\n  ".join(hreflangs),
+        "{{LANG_PILLS}}": "\n            ".join(pills),
+        "{{BADGE}}": d.get("badge", "JW Ministry 2.0.1"),
+        "{{TITLE}}": bp["title"], "{{DESC}}": bp["desc"], "{{H1}}": bp["h1"],
+        "{{INTRO}}": bp["intro"], "{{CTA}}": d.get("cta_appstore", "Download on the App Store"),
+        "{{BACK_HOME}}": d.get("privacy_page", {}).get("back_home", "Home"),
+        "{{ALL_FEATURES}}": d.get("nav_features", "Features"),
+        "{{SHOT_FOLDER}}": quote(sfolder),
+        "{{SHOT1_T}}": bp["s1_t"], "{{SHOT1_D}}": bp["s1_d"],
+        "{{SHOT2_T}}": bp["s2_t"], "{{SHOT2_D}}": bp["s2_d"],
+        "{{ROUTES_TITLE}}": bp["routes_title"], "{{ROUTES_CARDS}}": cards,
+        "{{APP_STORE_URL}}": CFG["app_store_url"], "{{GA_SCRIPT}}": get_ga_script()
+    }
+    for k, v in reps.items():
+        html = html.replace(k, v)
+    return html
+
+os.makedirs(os.path.join(BASE, "bible-reading-schedule"), exist_ok=True)
+with open(os.path.join(BASE, "bible-reading-schedule", "index.html"), "w", encoding="utf-8") as f:
+    f.write(render_bible_page("en", LANGS["en"], is_root=True))
+
+for code, data in LANGS.items():
+    out_dir = os.path.join(BASE, code, "bible-reading-schedule")
+    os.makedirs(out_dir, exist_ok=True)
+    with open(os.path.join(out_dir, "index.html"), "w", encoding="utf-8") as f:
+        f.write(render_bible_page(code, data, is_root=False))
+
+print("✅ Посадочные страницы bible-reading-schedule сгенерированы на всех 27 языках!")
+
+
+# Генерируем интерактивный Калькулятор часов пионера (EN и RU)
+with open(os.path.join(BASE, "templates/pioneer_calc.html"), "r", encoding="utf-8") as f:
+    CALC_TPL = f.read()
+
+# === Pioneer Calculator (all supported langs) ===
+SITE_URL = CFG.get("site_url", "https://jwministry.org").rstrip("/")
+calc_tpl_file = os.path.join(BASE, "templates/pioneer_calc.html")
+if os.path.exists(calc_tpl_file):
+    with open(calc_tpl_file, "r", encoding="utf-8") as f:
+        calc_tpl = f.read()
+    for code in CFG["supported_langs"]:
+        with open(os.path.join(BASE, f"locales/{code}.json"), "r", encoding="utf-8") as _f: d = json.load(_f)
+        cp = d.get("calc_page")
+        if not cp:
+            continue
+        is_root = (code == "en")
+        out_dir = os.path.join(BASE, "pioneer-calculator" if is_root else f"{code}/pioneer-calculator")
+        os.makedirs(out_dir, exist_ok=True)
+        canonical = f"{SITE_URL}/pioneer-calculator/" if is_root else f"{SITE_URL}/{code}/pioneer-calculator/"
+        home_url = "/" if is_root else f"/{code}/"
+        bible_url = "/bible-reading-schedule/" if is_root else f"/{code}/bible-reading-schedule/"
+        hreflangs = [f'<link rel="alternate" hreflang="x-default" href="{SITE_URL}/pioneer-calculator/">']
+        lang_links = []
+        for lc in CFG["supported_langs"]:
+            with open(os.path.join(BASE, f"locales/{lc}.json"), "r", encoding="utf-8") as _lf: ld = json.load(_lf)
+            lurl = f"{SITE_URL}/pioneer-calculator/" if lc == "en" else f"{SITE_URL}/{lc}/pioneer-calculator/"
+            lhref = "/pioneer-calculator/" if lc == "en" else f"/{lc}/pioneer-calculator/"
+            hreflangs.append(f'<link rel="alternate" hreflang="{ld.get("html_lang", lc)}" href="{lurl}">')
+            active_style = 'background:#f3ecff;font-weight:700;' if lc == code else ''
+            lang_links.append(f'<a href="{lhref}" style="text-decoration:none;color:#1f2937;padding:6px 8px;border-radius:8px;font-size:13px;white-space:nowrap;{active_style}">{ld.get("flag","")} {ld.get("name", lc)}</a>')
+        page_html = calc_tpl
+        repl = {
+            "{{HTML_LANG}}": d.get("html_lang", code),
+            "{{TITLE}}": cp["title"],
+            "{{DESC}}": cp["desc"],
+            "{{CANONICAL}}": canonical,
+            "{{HREFLANGS}}": "\n  ".join(hreflangs),
+            "{{GA_SCRIPT}}": get_ga_script() if "get_ga_script" in globals() else "",
+            "{{HOME_URL}}": home_url,
+            "{{BIBLE_URL}}": bible_url,
+            "{{APP_STORE_URL}}": CFG.get("app_store_url", "https://apps.apple.com/us/app/jw-ministry/id6756040136"),
+            "{{CURRENT_LANG_LABEL}}": f'{d.get("flag","")} {d.get("name", code)}',
+            "{{LANG_LINKS}}": "\n".join(lang_links),
+            "{{H1}}": cp["h1"],
+            "{{INTRO}}": cp["intro"],
+            "{{LABEL_GOAL}}": cp["label_goal"],
+            "{{OPT_15}}": cp["opt_15"],
+            "{{OPT_30}}": cp["opt_30"],
+            "{{OPT_50}}": cp["opt_50"],
+            "{{OPT_90}}": cp["opt_90"],
+            "{{OPT_100}}": cp["opt_100"],
+            "{{LABEL_DAYS}}": cp["label_days"],
+            "{{RES_WEEK}}": cp["res_week"],
+            "{{RES_DAY}}": cp["res_day"],
+            "{{RES_YEAR}}": cp["res_year"],
+            "{{UNIT_H}}": cp["unit_h"],
+            "{{CTA_APP}}": cp["cta_app"],
+            "{{CTA_BIBLE}}": cp["cta_bible"],
+        }
+        for k, v in repl.items():
+            page_html = page_html.replace(k, str(v))
+        with open(os.path.join(out_dir, "index.html"), "w", encoding="utf-8") as f:
+            f.write(page_html)
+
+# === Internal Linking Bar (Tools) ===
+for code in CFG["supported_langs"]:
+    with open(os.path.join(BASE, f"locales/{code}.json"), "r", encoding="utf-8") as _f:
+        _d = json.load(_f)
+    _cp = _d.get("calc_page", {})
+    _bible_lbl = _cp.get("cta_bible", "Bible Reading Schedule")
+    _calc_lbl = _cp.get("h1", "Pioneer Schedule Calculator")
+    _bible_href = "/bible-reading-schedule/" if code == "en" else f"/{code}/bible-reading-schedule/"
+    _calc_href = "/pioneer-calculator/" if code == "en" else f"/{code}/pioneer-calculator/"
+    _idx_path = os.path.join(BASE, "index.html" if code == "en" else f"{code}/index.html")
+    if os.path.exists(_idx_path):
+        with open(_idx_path, "r", encoding="utf-8") as _hf:
+            _html = _hf.read()
+        if "jw-tools-bar" not in _html and "<footer" in _html:
+            _bar = f"""
+  <section class="jw-tools-bar" style="max-width:960px;margin:0 auto 36px;padding:0 20px;text-align:center;">
+    <div style="display:flex;flex-wrap:wrap;justify-content:center;gap:12px;">
+      <a href="{_bible_href}" style="display:inline-flex;align-items:center;gap:8px;padding:12px 20px;border-radius:14px;background:rgba(107,66,176,0.08);border:1px solid rgba(107,66,176,0.22);color:#4A2588;font-weight:600;font-size:15px;text-decoration:none;transition:all .2s ease;">📖 {_bible_lbl} →</a>
+      <a href="{_calc_href}" style="display:inline-flex;align-items:center;gap:8px;padding:12px 20px;border-radius:14px;background:rgba(107,66,176,0.08);border:1px solid rgba(107,66,176,0.22);color:#4A2588;font-weight:600;font-size:15px;text-decoration:none;transition:all .2s ease;">⏱ {_calc_lbl} →</a>
+    </div>
+  </section>
+"""
+            _html = _html.replace("<footer", _bar + "<footer", 1)
+            with open(_idx_path, "w", encoding="utf-8") as _hf:
+                _hf.write(_html)
+print(f"✅ Перелинковка на График чтения и Калькулятор добавлена на все {len(CFG['supported_langs'])} главных страниц!")
+# === End Internal Linking Bar ===

@@ -1,0 +1,453 @@
+{
+  "shot_folder": "Lithuanian",
+  "html_lang": "lt",
+  "og_locale": "lt_LT",
+  "name": "Lietuvių",
+  "flag": "🇱🇹",
+  "title": "JW Ministry – programa Jehovos liudytojams: lauko tarnyba, ataskaitos ir teritorijos",
+  "description": "Free Jehovah's Witnesses app for iPhone & iPad: field service timer, monthly report, pioneer hours, calendar, Bible reading schedule, spiritual habits & territories.",
+  "keywords": "JW Ministry, Jehova, liudytojas, lauko tarnyba, ataskaita, laikmatis, pionierius, valandos, Biblija, studijos, kalendorius, pakartotinis apsilankymas, teritorijos, dvasiniai įpročiai, Biblijos skaitymo tvarkaraštis, valdiklis, planuotojas, užrašai",
+  "nav_screens": "App Screens",
+  "nav_features": "All Features",
+  "nav_languages": "35+ Languages",
+  "nav_privacy": "Privatumas",
+  "nav_donate": "Paramos projektas",
+  "nav_faq": "FAQ",
+  "badge": "Available for iPhone & iPad • Version 2.0.1 • 35+ Languages",
+  "hero_title": "Field Service, Pioneer Hours, Territories & Bible Reading",
+  "hero_sub": "Free, 100% private app for Jehovah's Witnesses on iPhone and iPad: live service timer with widgets, monthly report, pioneer calendar, house-to-house territories, return visits, Bible studies, spiritual habits, and a 66-book Bible reading schedule.",
+  "cta_appstore": "Download on the App Store",
+  "cta_donate": "Palaikykite kūrėją",
+  "stat_1_val": "35+",
+  "stat_1_lbl": "Sąsajos kalbos",
+  "stat_2_val": "100%",
+  "stat_2_lbl": "Neprisijungus ir privatūs duomenys",
+  "stat_3_val": "iOS & iPad",
+  "stat_3_lbl": "Vietinis „SwiftUI“ dizainas",
+  "stat_4_val": "0 Ads",
+  "stat_4_lbl": "Free, No Subscriptions",
+  "screens_title": "Explore Every Screen of JW Ministry",
+  "screens_sub": "Actual screenshots from the app. Browse all 8 screens — from the live ministry timer and Bible students list to pioneer calendar goals, territory cards, and OLED dark mode.",
+  "shots": [
+    [
+      "1.jpg",
+      "1. Start Tab & Live Timer",
+      "Stebėkite savo tarnystės laiką iki sekundės (08:04:08). Pristabdykite, išsaugokite, kad praneštumėte, arba nustatykite iš naujo vienu bakstelėjimu. Padidinkite Biblijos studijas sesijos metu, pridėkite konkrečius Biblijos studentus (pvz., Aleksą), parašykite sesijos pastabas (teritorijos numerį, palydovą) ir peržiūrėkite bendrą šiandien praleistą laiką."
+    ],
+    [
+      "1-1.jpg",
+      "Dvasinių įpročių ir pažangos žiedai",
+      "Stebėkite kasdienius, savaitinius ir mėnesinius dvasinius įpročius (kasdienį tekstą, Biblijos skaitymą, pasirengimą susitikimams, šeimos garbinimą), atidarykite kasdienį tekstą tiesiogiai JW Library ir pridėkite pasirinktinius įpročius."
+    ],
+    [
+      "1-2.jpg",
+      "Bible Reading Schedule",
+      "Interaktyvus visų 66 Biblijos knygų tinklelis su 5 skaitymo maršrutais (klasikinis, chronologinis, evangelijos pirmiausia, subalansuotas, trumpiausias pirmas), pabaigos datos prognozė ir skaitymas vienu palietimu JW Library."
+    ],
+    [
+      "2.jpg",
+      "2. Bible Students Manager",
+      "Turėkite tvarkingą Biblijos mokinių sąrašą. Įrašykite tikslią studijų publikaciją, pamoką ir skyrių (pvz.: „Džiaukitės gyvenimu amžinai!“, 24 pamoka, 3 skyrius) ir per kelias sekundes pridėkite naujų mokinių."
+    ],
+    [
+      "3.jpg",
+      "3. Service Year & Monthly Reports",
+      "Perjunkite tarnavimo metus (2025–2026, 2026–2027), stebėkite visas tarnavimo metų valandas ir likusias valandas, peržiūrėkite kiekvieną mėnesį naudodami išsamius seansų žurnalus, studijų skaičių, studentų žymas ir 1 d. bendrinkite savo mėnesio ataskaitą."
+    ],
+    [
+      "4.jpg",
+      "4. Pioneer Calendar & Goal Progress",
+      "Peržiūrėkite dabartinį savo vaidmenį (paprastas pionierius – 50 val., pagalbinis darbuotojas 15/30 val. arba leidėjas) ir asmeninį mėnesio tikslą (pvz., 55 val.). Vizualinėje eigos juostoje kartu su dienos tvarkaraščiu rodomos darbo valandos, likusios mėnesio valandos ir visas aptarnavimo metų balansas."
+    ],
+    [
+      "5.jpg",
+      "5. Territory Cards & Door-to-Door Log",
+      "Attach photos of territory maps or buildings (e.g., Territory A-8), filter addresses, and log every visit with date, visit status ('First visit', 'Not at home', 'Refusal'), and doorway notes like 'No intercom'."
+    ],
+    [
+      "6.jpg",
+      "6. Flexible Settings & Cloud Backup",
+      "Export or import full JSON backups via the top cloud buttons. Configure your service role, custom monthly hour target, September–August service year, 1st-of-the-month report reminders at 20:00, and return visit notifications after N days."
+    ],
+    [
+      "7.jpg",
+      "7. True Black OLED Dark Mode (Timer)",
+      "Designed for comfort during evening witnessing and battery saving on OLED iPhones. High-contrast purple accents keep controls clear in any lighting."
+    ],
+    [
+      "8.jpg",
+      "8. OLED Dark Mode (Settings & Goals)",
+      "Every screen, sheet, and widget seamlessly adapts to iOS system Light and Dark appearances."
+    ]
+  ],
+  "feat_sec_title": "Everything You Need for Organized Ministry",
+  "feat_sec_sub": "Built specifically around the real workflow of publishers, auxiliary pioneers, regular pioneers, and special pioneers.",
+  "features": [
+    [
+      "⏱️",
+      "Išmanusis laikmatis, valdikliai ir tiesioginė veikla",
+      "Paleiskite ministerijos laikmatį naudodami programą, pagrindinio ekrano valdiklį arba užrakinimo ekraną. Aktyvus laikmatis lieka matomas Dynamic Island ir užrakinimo ekrane, net kai jūsų iPhone užrakintas."
+    ],
+    [
+      "📚",
+      "Bible Studies & Publication Progress",
+      "Tiesiogiai susiekite Biblijos studijas su savo kasdieniais ataskaitų įrašais. Stebėkite kiekvieno mokinio vardą ir dabartinę pamoką „Mėgaukis gyvenimu amžinai!“ ar bet kuri kita studijų priemonė."
+    ],
+    [
+      "📊",
+      "Paslaugų vaidmenys ir asmeninės valandos",
+      "Palaiko leidėją, pagalbinį pionierių (15 arba 30 valandų), nuolatinį pionierį (50 valandų), specialųjį pionierį / misionierių (90 / 100 valandų), taip pat tinkintą „asmeninio tikslo“ nepaisymą (pvz., 55 valandas per mėnesį)."
+    ],
+    [
+      "🗓️",
+      "Tarnavimo metai (rugsėjo–rugpjūčio mėn.) ir kalendorius",
+      "Kalendoriuje suplanuokite tarnystės susirinkimus, pasikartojančius tvarkaraščius ir šeimos garbinimą. Palyginkite planuojamas ir faktines valandas, perbraukite suplanuotas sesijas į ataskaitos įrašus ir stebėkite savo metinį pionieriaus tikslą."
+    ],
+    [
+      "🗺️",
+      "Teritorijos, butai ir apsilankymų priminimai",
+      "Create cards for territories, multi-story apartment buildings, and private houses. Attach map photos, color-code cards, search by address or resident name, and receive automatic reminders to make return visits."
+    ],
+    [
+      "🔒",
+      "100% On-Device Privacy & Full Backups",
+      "Jokios registracijos, jokių paskyrų, jokių išorinių serverių ir nulio analizės. Visi įrašai ir teritorijos nuotraukos lieka vietoje jūsų iPhone / iPad, greitai eksportuojant ir atkuriant atsargines kopijas į iCloud diską arba failus."
+    ]
+  ],
+  "lang_sec_title": "Fully Localized into 35+ Languages",
+  "lang_sec_sub": "Programos sąsaja, valdikliai ir pranešimai automatiškai atitinka jūsų įrenginio kalbą:",
+  "donate_badge": "Nepriklausomas projektas be skelbimų",
+  "donate_title": "Remti JW Ministry plėtrą",
+  "donate_sub": "JW Ministeriją asmeniniam naudojimui kuria ir prižiūri nepriklausomas kūrėjas. Nėra skelbimų, nėra mokamų pakopų ir nėra prenumeratos. Jei programa palengvina jūsų darbą, galite palaikyti būsimus „iOS“ naujinius ir „Apple“ kūrėjo licencijos atnaujinimą:",
+  "card_fiat_title": "Palaikymas kortele (visame pasaulyje)",
+  "card_fiat_desc": "Greitas vienkartinis patarimas arba mėnesinė pagalba iš bet kurios šalies per Boosty arba Patreon:",
+  "btn_boosty": "„Boosty“ palaikymas (kortelės / „Apple Pay“)",
+  "btn_patreon": "„Patreon“ palaikymas",
+  "card_crypto_title": "Direct Crypto Transfer (0% Platform Fee)",
+  "card_crypto_desc": "Momentinis pervedimas tiesiai į kūrėjo piniginę:",
+  "usdt_label": "USDT (tik TRC-20 / TRON tinklas):",
+  "ton_label": "TON / USDT (TON tinklas):",
+  "copy_btn": "Copy",
+  "copied_msg": "Copied!",
+  "crypto_warn": "For USDT (TRC-20), send assets via the TRON network only.",
+  "faq_title": "Frequently Asked Questions",
+  "faqs": [
+    [
+      "How does JW Ministry complement JW Library for Jehovah's Witnesses?",
+      "Nors JW Library naudojama Biblijai, leidiniams ir bendruomenės susirinkimams skaityti, JW Ministry yra skirta jūsų asmeninės lauko tarnystės stebėjimui: registruoti lauko tarnybos ataskaitų valandas, planuoti įprastą ar pagalbinio pionierių tvarkaraštį (15, 30, 50 arba 100 valandų), tvarkyti asmeninius teritorijos įrašus ir sekti Biblijos studentus."
+    ],
+    [
+      "Kur saugomi mano tarnybos įrašai ir teritorijos užrašai?",
+      "Exclusively on your device (iPhone or iPad). The app has no external database or cloud server, ensuring complete confidentiality of your personal notes and addresses."
+    ],
+    [
+      "How do I transfer my data to a new iPhone or iPad?",
+      "Atidarykite skirtuką Nustatymai ir viršutiniame dešiniajame kampe bakstelėkite įkėlimo iš debesies piktogramą, kad eksportuotumėte visą atsarginės kopijos failą (įskaitant teritorijos nuotraukas) į „iCloud Drive“ arba „AirDrop“. Naujame įrenginyje bakstelėkite atsisiuntimo iš debesies piktogramą, kad viską atkurtumėte vienu bakstelėjimu."
+    ],
+    [
+      "How do automatic return visit reminders work?",
+      "In Settings → Notifications, enable 'Remind about return visits to addresses' and set the interval (for example, 3 days). If you haven't logged a follow-up visit to an address within that period, the app will gently remind you."
+    ],
+    [
+      "Does the app support the September–August Service Year?",
+      "Taip! Ataskaitų skirtuke ir kalendoriaus suvestinėje apskaičiuojamos mėnesinės ir metinės valandos per oficialius rugsėjo–rugpjūčio tarnybos metus, įskaitant likusias valandas, kad pasiektumėte metinį pionieriaus tikslą."
+    ],
+    [
+      "Ar „JW Ministry“ yra geras „ServicePlanner“ ar „MyTime“ pakaitalas „iPhone“?",
+      "Taip! JW Ministry aktyviai prižiūrima naujausių „iOS“ ir „iPadOS“ leidimų, kuriuose yra tiesioginė veikla užrakinimo ekrane ir „Dynamic Island“, interaktyvūs pagrindinio ekrano valdikliai, daugiabučio namo generatorius, planuoto ir faktinio kalendoriaus stebėjimas ir „iCloud Drive“ atsarginės kopijos vienu palietimu."
+    ],
+    [
+      "Does the app work completely offline during door-to-door ministry?",
+      "Absolutely. All timers, territory maps, apartment records, and Bible student notes work 100% offline without requiring mobile data or Wi-Fi."
+    ],
+    [
+      "Can I convert a planned ministry event in the Calendar into a Report entry?",
+      "Taip. Tiesiog perbraukite bet kurią suplanuotą ministerijos sesiją Kalendoriuje ir palieskite „Pranešti“ – trukmė automatiškai įrašoma į jūsų mėnesio ataskaitą ir išskaičiuojama iš likusių suplanuotų valandų."
+    ],
+    [
+      "Does JW Ministry include a Bible Reading Schedule integrated with JW Library?",
+      "Taip! Pradžios ekrano skirtuke „Įpročiai“ rasite interaktyvų 66 knygų Biblijos skaitymo tvarkaraštį su 5 skaitymo maršrutais (klasikinis, chronologinis, evangelijos pirmiausia, subalansuotas mišinys, trumpiausias pirmas), pabaigos datos prognozę ir 1 bakstelėjimo nuorodas „Skaityti JW Library“ kitam neskaitytam skyriui ir kasdieniniam tekstui."
+    ],
+    [
+      "How does the Spiritual Habits tracker work?",
+      "Tai leidžia patikrinti kasdienius, savaitinius ir mėnesinius dvasinius įpročius (kasdienį tekstą, Biblijos skaitymą, pasirengimą susitikimui, asmenines studijas, šeimos garbinimą, JW transliaciją ir ataskaitų pateikimą) su vaizdiniais progreso žiedais ir pritaikytų įpročių palaikymu."
+    ]
+  ],
+  "footer_privacy": "Privatumo politika",
+  "footer_issues": "GitHub Support & Feedback",
+  "footer_contact": "Contact Developer",
+  "seo_sec_title": "Built for Jehovah's Witnesses Field Service & Pioneer Ministry",
+  "seo_sec_sub": "How JW Ministry helps publishers, auxiliary pioneers, regular pioneers, and special pioneers organize their service year.",
+  "seo_pillars": [
+    [
+      "Reguliarūs ir specialieji pionieriai (50, 90 ir 100 valandų / 600 valandų tarnybos metai)",
+      "Tarnaujant nuolatiniu pionieriumi reikia sekti ir 50 valandų per mėnesį, ir 600 valandų rugsėjo–rugpjūčio mėn. JW Ministry automatiškai apskaičiuoja jūsų baigtas tarnybos valandas, likusį mėnesio likutį ir visą tarnybos metų eigą. Nustatykite tinkintą asmeninį mėnesio tikslą (pvz., 55 valandas), suplanuokite tarnybos dienas Kalendoriuje ir palyginkite planuojamas valandas su faktiniu praneštu laiku."
+    ],
+    [
+      "Auxiliary Pioneers (15 & 30 Hours) and Congregation Publishers",
+      "Prisidedate prie specialios kampanijos, rajono prižiūrėtojo vizito ar atminimo sezono pagalbiniu pionieriumi? Per kelias sekundes pakeiskite savo vaidmenį į pagalbinį pionierį (15 val. arba 30 val.). Kongregacijos skelbėjai gali registruoti kasdienes tarnystės sesijas, sekti Biblijos studijas ir įjungti automatinį pranešimą kiekvieno mėnesio 1 dieną 20:00, kad niekada nepamirštumėte pateikti lauko tarnybos ataskaitos."
+    ],
+    [
+      "House-to-House Territories, Apartment Generator & Return Visits",
+      "Pakeiskite lapelius sutvarkytomis skaitmeninėmis teritorijų kortelėmis. Pridėkite teritorijų žemėlapių nuotraukas, spalvų kodų korteles su 10 stilingų spalvų ir vienu bakstelėjimu generuokite ištisus daugiaaukščius daugiabučius pagal įėjimus ir aukštus. Įrašykite būsenas „Pirmas apsilankymas“, „Ne namuose“ arba „Atmetimas“, ieškokite visose teritorijose pagal gatvės adresą arba gyventojo vardą ir gaukite automatinius priminimus, kai laikas pakartotinai apsilankyti."
+    ],
+    [
+      "Bible Student Progress & Modern iOS Replacement for Legacy Apps",
+      "Tvarkykite išsamų Biblijos studentų sąrašą kartu su jų dabartiniu studijų leidiniu (pvz., „Džiaukitės gyvenimu amžinai!“), pamokos numeriu ir skyriumi. Prijunkite mokinius tiesiai prie laikmačio seanso, kad jūsų mėnesio studijų skaičius visada būtų tikslus. Sukurta naudojant „SwiftUI“, skirtą naujausiems „iPhone“ ir „iPad“ modeliams, „JW Ministry“ yra ideali moderni alternatyva nebenaudojamoms programoms, pvz., „ServicePlanner“, „MyTime“, „NW Publisher“, „My Service & Bible“, „Field Service Assistant“ ir „Ministry Assistant“."
+    ]
+  ],
+  "seo_tags_title": "Populiarios „Field Service“ paieškos, kurias apima JW Ministry:",
+  "seo_tags": [
+    "Jehovos liudytojų lauko tarnybos programa",
+    "Jehovos liudytojų lauko tarnybos ataskaita",
+    "Jehovos liudytojų pionierių valandos",
+    "jw įprastos pionierių valandos ir tvarkaraštis",
+    "jw pagalbinis pionierius 15 ir 30 val",
+    "jw specialiųjų pionierių valandų stebėjimo priemonė",
+    "Jehovos liudytojų tarnybos metai 2026",
+    "jw ir tarnavimo metų planuotojas",
+    "jw field service report programa atsisiųsti nemokamai",
+    "„jw“ teritorijos tvarkyklės programa „iOS“.",
+    "paslaugų planavimo priemonė jw ir mano laikas jw alternatyva",
+    "jw Biblijos skaitymo tvarkaraščio programa",
+    "Kasdienis Biblijos skaitymo stebėjimas iPhone",
+    "jw dvasinių įpročių ir rutinos stebėjimo priemonė",
+    "chronologinis Biblijos skaitymo planas iOS"
+  ],
+  "qr_scan_title": "Nuskaitykite naudodami „iPhone“ / „iPad“.",
+  "qr_scan_sub": "Nukreipkite fotoaparatą, kad atidarytumėte „App Store“.",
+  "shot_lang_label": "Sąsajos kalba ekrano kopijose:",
+  "comp_title": "Kodėl leidėjai ir pionieriai pereina prie JW Ministry",
+  "comp_sub": "Šalutinis palyginimas lauko tarnybų stebėjimui, pionierių planavimui ir teritorijos valdymui.",
+  "comp_headers": [
+    "Feature",
+    "Popierinis užrašų knygelė",
+    "Pasenusios programos",
+    "JW Ministry 2.0.1"
+  ],
+  "comp_rows": [
+    [
+      "Tiesioginis ministerijos laikmatis užrakinimo ekrane ir „Dynamic Island“.",
+      "No",
+      "No",
+      "Taip (gyva veikla)"
+    ],
+    [
+      "„Pioneer“ tikslo skaičiuoklė (15, 30, 50, 100 val.) ir 600 valandų tarnavimo metai",
+      "Rankinis skaičiavimas",
+      "Dalinis",
+      "Automatic + Custom Goal"
+    ],
+    [
+      "Suplanuota ir faktinė kalendoriaus konversija ir perbraukimas, kad praneštumėte",
+      "No",
+      "No",
+      "Built-in 1-Swipe Workflow"
+    ],
+    [
+      "Apartment Building Generator + Territory Photos & 10 Color Tags",
+      "Popieriaus lapeliai",
+      "Tik tekstas",
+      "Full Visual Cards + Search"
+    ],
+    [
+      "Priminimai apie pakartotinį apsilankymą ir 1-ojo mėnesio ataskaitos pranešimas",
+      "No",
+      "Basic",
+      "Išmanieji iOS pranešimai"
+    ],
+    [
+      "100% On-Device Privacy & Full iCloud Drive Backup with Photos",
+      "Easy to lose",
+      "Dažnai sugenda naujoje „iOS“.",
+      "Neprisijungus ir momentinis atkūrimas"
+    ],
+    [
+      "Vietinis naujausių iOS, iPad, OLED tamsaus režimo ir 35 ar daugiau kalbų palaikymas",
+      "—",
+      "Discontinued",
+      "Šiuolaikinė „SwiftUI“ architektūra"
+    ]
+  ],
+  "filter_all": "All (10)",
+  "filter_light": "Šviesa (8)",
+  "filter_dark": "Dark (2)",
+  "filter_ipad": "iPad",
+  "wn_title": "Kas naujo 2.0.1 versijoje",
+  "wn_items": [
+    "Nauja dvasinių įpročių sekimo priemonė skirtuke Pradėti: dienos / savaitės / mėnesio pažangos žiedai, pasirinktiniai įpročiai, šeimos garbinimo šeiminės padėties nustatymas ir skubus pranešimo priminimas 5 d.",
+    "Bible Reading Schedule: 5 reading routes, chapter tracking across all 66 books, completion date forecast, and 1-tap 'Read in JW Library' links.",
+    "Dual Goal tracking in Calendar & Widgets: view both your role requirement (e.g., 30 h / 50 h) and an additional personal monthly target in a dual progress ring.",
+    "Full adaptive layout support for foldable iPhone Duo screens and iPadOS.",
+    "Added 'Share App' and 'App Website' links in Settings."
+  ],
+  "howto_name": "How to Track Field Service Hours & Pioneer Schedule on iPhone",
+  "howto_steps": [
+    [
+      "Nustatykite savo paslaugų vaidmenį ir mėnesio tikslą",
+      "Choose Publisher, Auxiliary Pioneer (15/30 h), or Regular Pioneer (50 h) in Settings, or set a custom monthly hour target."
+    ],
+    [
+      "Paleiskite tiesioginį laikmatį arba tvarkaraštį Kalendoriuje",
+      "Stebėkite tarnybą užrakinimo ekrane ir Dynamic Island arba perbraukite suplanuotus kalendoriaus įvykius tiesiai į ataskaitą."
+    ],
+    [
+      "Rąstų teritorijos ir Biblijos studijos",
+      "Įrašykite apsilankymus namuose, butų būsenas ir pridėkite Biblijos mokinius su dabartine pamoka."
+    ],
+    [
+      "Pasidalykite savo mėnesine lauko tarnybos ataskaita",
+      "1 mėnesio dieną atidarykite skirtuką Ataskaita, kad peržiūrėtumėte ir pasidalytumėte savo baigtas valandas bei Biblijos studijas."
+    ]
+  ],
+  "nav_comp": "Comparison",
+  "sticky_sub": "iPhone ir iPad • Nemokama",
+  "feature_badges": [
+    "Laiko sekimas • Tiesioginė veikla",
+    "Bible Studies • Lesson Progress",
+    "Aptarnavimo vaidmenys • 15/30/50/100 val",
+    "Paslaugos metai • Planas ir faktinis",
+    "Teritorijos žurnalas • Paieška ir įspėjimai",
+    "Įrenginio privatumas • „iCloud“ atsarginė kopija"
+  ],
+  "pillar_badges": [
+    "Nuolatinė ir specialioji pionierių tarnyba",
+    "Auxiliary Pioneers & Publishers",
+    "House-to-House & Personal Territories",
+    "Bible Studies & Modern iOS Design"
+  ],
+  "pillar_Checklists": [
+    [
+      "Automatic 50 h monthly & 600 h September–August service year tracking",
+      "Custom monthly hour target override (e.g., 55 h/month)",
+      "Dual progress bar comparing scheduled vs. reported hours"
+    ],
+    [
+      "Vienu paspaudimu perjunkite 15 arba 30 val. pagalbinius pionierius",
+      "Momentinis mėnesio ataskaitų formatavimas ir bendrinimas 1 d",
+      "Gentle reminder notification on the 1st of each month at 20:00"
+    ],
+    [
+      "Daugiaaukštis buto generatorius prie įėjimų ir grindų",
+      "Teritorijos žemėlapio nuotraukos, 10 spalvų temų ir momentinė gyventojų / adresų paieška",
+      "Automated return visit reminders after your chosen number of days"
+    ],
+    [
+      "Sekite tikslias pamokas „Mėgaukis gyvenimu amžinai!“ kiekvienam mokiniui",
+      "Built natively for iOS & iPadOS with Dynamic Island & OLED Dark Mode",
+      "Complete modern replacement for legacy ServicePlanner & MyTime apps"
+    ]
+  ],
+  "rev_title": "Mėgsta Publishers & Pioneers Worldwide",
+  "rev_sub": "Tikri atsiliepimai iš brolių ir seserų, naudojančių JW Ministry savo kasdienėje lauko tarnyboje.",
+  "reviews": [
+    [
+      "Alex, Regular Pioneer",
+      "Having the monthly planned hours automatically totaled in the Calendar alongside my actual reported hours is a game changer for keeping my 50-hour schedule on track."
+    ],
+    [
+      "Sara, pagalbinė pionierė",
+      "Užrakinimo ekrano tiesioginės veiklos laikmatis ir 1 perbraukimas iš kalendoriaus planų į ataskaitų įrašus leidžia lengvai stebėti 15 ir 30 valandų. Švaru, greita ir 100% privatu."
+    ],
+    [
+      "David, Congregation Publisher",
+      "Daugiabučio namo generatorius ir momentinė paieška visoje teritorijoje pakeitė visus mano lapelius. Priminimai apie pakartotinį apsilankymą man padeda niekada nepraleisti tolesnių veiksmų."
+    ]
+  ],
+  "privacy_page": {
+    "page_title": "Privatumo politika ir vartotojų palaikymas – JW Ministry",
+    "meta_desc": "Oficiali JW Ministry iOS ir iPadOS programos privatumo politika ir naudotojų palaikymas. 100 % vietinė duomenų saugykla įrenginyje be jokių išorinių serverių.",
+    "back_home": "Back to Home",
+    "sup_title": "JW Ministry – vartotojų palaikymas",
+    "sup_desc": "If you have questions, suggestions for new features, or found a bug in the app, feel free to contact the developer:",
+    "sup_issues": "Pranešti apie problemą („GitHub“)",
+    "sup_store": " JW Ministry App Store",
+    "updated": "Paskutinį kartą atnaujinta: 2025 m. gruodžio 5 d",
+    "h1": "„JW Ministry“ privatumo politika",
+    "intro": "Šioje privatumo politikoje paaiškinama, kaip <strong>JW Ministry</strong> mobilioji programa (toliau – Programėlė) tvarko naudotojo informaciją. Mūsų pagrindinis principas yra <strong>100 % privatumas: visi jūsų sukurti įrašai saugomi tik jūsų įrenginyje</strong>.",
+    "s1_t": "1. Data Created and Stored in the App",
+    "s1_p": "All data in the App is entered voluntarily by the user for personal field service organization and planning:",
+    "s1_ul": [
+      "<strong>Service time entries & reports:</strong> dates, duration, Bible study counts, and session notes.",
+      "<strong>Calendar schedules:</strong> planned ministry events, dates, times, and recurrence settings.",
+      "<strong>Bible students list:</strong> student names/labels and study publication progress notes.",
+      "<strong>Territories & addresses:</strong> territory names, house/apartment lists, visit history, notes, and territory card photos selected by the user from the Photo Library.",
+      "<strong>App settings:</strong> selected service role, personal monthly hour target, and notification preferences."
+    ],
+    "s2_t": "2. 100% Local On-Device Storage & No Third-Party Sharing",
+    "s2_ul": [
+      "All data is stored <strong>solely on your iPhone or iPad</strong> within the secure iOS / iPadOS storage container.",
+      "Programai nereikia <strong>be registracijos</strong> ir naudotojo paskyros.",
+      "Kūrėjas <strong>neturi prieigos</strong> prie jūsų įrašų, nerenka analizės ar vietos duomenų ir <strong>niekada neperduoda ir nebendrina</strong> jokių duomenų su išoriniais serveriais ar trečiosiomis šalimis."
+    ],
+    "s3_t": "3. Device Permissions (Photos & Notifications)",
+    "s3_ul": [
+      "<strong>Photo Library:</strong> requested only when you choose to attach a map or building photo to a territory card. Selected images are stored locally inside the App folder on your device.",
+      "<strong>Notifications:</strong> used exclusively for local on-device reminders (such as the 1st-of-the-month report reminder or return visit reminders)."
+    ],
+    "s4_t": "4. Backups & Data Deletion",
+    "s4_p": "Galite bet kada eksportuoti visą atsarginės kopijos failą (įskaitant teritorijos nuotraukas) naudodami standartinį „iOS“ bendrinimo lapą (pavyzdžiui, išsaugoti asmeniniame „iCloud“ diske arba programėlėje „Files“). Pašalinus programą iš įrenginio visam laikui ištrinami visi vietiniai programos duomenys.",
+    "s5_t": "5. Contact",
+    "s5_p": "If you have any questions regarding this Privacy Policy or the App, please contact the developer at:"
+  },
+  "filter_duo": "iPhone Duo",
+  "wn_items_18": [
+    "Automatic monthly planned-hours total in the Calendar with a dual Planned vs. Actual progress bar.",
+    "1-swipe conversion of any scheduled Calendar ministry session directly into a monthly Report entry.",
+    "Greita paieška pagal gatvės adresą arba gyventojo vardą visose teritorijose ir 10 spalvų temų teritorijų kortelėms.",
+    "Būsimų paslaugų metų (2026–2027) palaikymas skirtuke Ataskaita su aptakia metine balanso suvestinė.",
+    "Full optimization for the latest iOS & iPadOS releases and enhanced on-device backup protection."
+  ],
+  "bible_page": {
+    "title": "5 Biblijos skaitymo tvarkaraščio planai ir dvasinių įpročių stebėjimo priemonė | JW Ministry",
+    "desc": "Patogus kasdienis Biblijos skaitymo grafikas iPhone ir iPad: visos 66 knygos, 5 planai (klasikinis, chronologinis ir kt.), užbaigimo prognozė ir JW Library integracija.",
+    "h1": "Biblijos skaitymo tvarkaraštis ir dvasinių įpročių stebėjimo priemonė",
+    "intro": "Stebėkite kiekvieną skyrių visose 66 Biblijos knygose, pasirinkite iš 5 skaitymo planų, peržiūrėkite numatomą baigimo datą ir atidarykite kitą neskaitytą skyrių arba kasdienį tekstą tiesiai JW Library.",
+    "routes_title": "5 integruoti Biblijos skaitymo planai",
+    "s1_t": "66 knygų interaktyvus tinklelis",
+    "s1_d": "Peržiūrėkite skyrius ir stebėkite pažangą hebrajų ir krikščionių graikiškuose Raštuose.",
+    "s2_t": "Kasdieniai dvasiniai įpročiai",
+    "s2_d": "Pažanga skamba dienai, savaitei ir mėnesiui bei 1 bakstelėjimas kasdienis tekstas JW Library.",
+    "routes": [
+      [
+        "1. Classic",
+        "From Genesis to Revelation — sequential reading of the entire Bible."
+      ],
+      [
+        "2. Chronological",
+        "Books arranged in the order of historical events and writing."
+      ],
+      [
+        "3. Gospels First",
+        "Pradėkite nuo Krikščionių Graikiškų Raštų, tada pereikite prie Hebrajiškųjų Raštų."
+      ],
+      [
+        "4. Balanced Mix",
+        "Alternating history, poetry, and Gospels for daily variety."
+      ],
+      [
+        "5. Shortest First",
+        "From the shortest books to the longest for a quick sense of progress."
+      ]
+    ]
+  },
+  "calc_page": {
+    "title": "„Pioneer“ tvarkaraščio skaičiuoklė (15, 30, 50 ir 600 valandų) | JW Ministry",
+    "desc": "Nemokama internetinė pionierių valandų skaičiuoklė Jehovos liudytojams. Apskaičiuokite savo savaitės ir dienos tarnybos lauko grafiką 15 val., 30 val. pagalbiniam arba 50 val. eiliniam pionieriui (600 val. tarnybos metų).",
+    "h1": "Pioneer tvarkaraščio skaičiuoklė",
+    "intro": "Suplanuokite savo lauko tarnybos valandas 15 arba 30 valandų pagalbiniam pionieriui, 50 valandų eiliniam pionieriui (600 valandų per tarnybos metus) arba pasirinktinį tikslą.",
+    "label_goal": "Mėnesio tikslas",
+    "opt_15": "Pagalbinis pionierius – 15 val./mėn",
+    "opt_30": "Pagalbinis pionierius – 30 val./mėn",
+    "opt_50": "„Regular Pioneer“ – 50 val./mėn",
+    "opt_90": "Specialusis pionierius – 90 val./mėn",
+    "opt_100": "Specialusis pionierius – 100 val./mėn",
+    "label_days": "Tarnybos dienos per savaitę",
+    "res_week": "Valandos per savaitę",
+    "res_day": "Valandos per tarnystės dieną",
+    "res_year": "Per tarnavimo metus",
+    "unit_h": "h",
+    "cta_app": "Trasos tvarkaraštis JW Ministry",
+    "cta_bible": "Biblijos skaitymo tvarkaraštis"
+  }
+}

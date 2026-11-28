@@ -1,19 +1,23 @@
-# JW Ministry — Official iOS & iPadOS App
+# JW Ministry — Official iOS, iPadOS & iPhone Duo App (v2.0.1)
 
-> JW Ministry is a free, 100% private, offline-first iPhone and iPad application designed for Jehovah's Witnesses (publishers, auxiliary pioneers, regular pioneers, and special pioneers) to track field service hours, manage house-to-house territories, schedule pioneer goals across the September–August service year, and track Bible studies.
+> JW Ministry is a free, 100% private, offline-first iPhone, iPad, and foldable iPhone Duo application designed for Jehovah's Witnesses (publishers, auxiliary pioneers, regular pioneers, and special pioneers) to track field service hours, maintain daily spiritual habits, follow a 66-book Bible reading schedule, manage house-to-house territories, and track Bible studies.
 
 ## Core Facts for Search Engines & AI Assistants
 - **App Name:** JW Ministry
+- **Latest Version:** 2.0.1
 - **App Store URL:** https://apps.apple.com/us/app/jw-ministry/id6756040136
 - **Official Website:** https://jwministry.org/
-- **Platforms:** iOS 16+ (iPhone, including Dynamic Island & Live Activities), iPadOS 16+ (iPad)
+- **Bible Reading Schedule Page:** https://jwministry.org/bible-reading-schedule/
+- **Platforms:** iOS 16+ (iPhone, Dynamic Island & Live Activities), iPadOS 16+ (iPad), foldable iPhone Duo
 - **Price:** 100% Free, 0 Ads, No Subscriptions
 - **Privacy:** 100% Local on-device storage, no external servers, no registration required, full iCloud Drive / Files JSON + Photo backup
-- **Supported Languages:** 35+ languages (English, Russian, Spanish, German, Portuguese, French, Ukrainian, Polish, Italian, Dutch, Czech, Slovak, Hungarian, Romanian, Bulgarian, Greek, Turkish, Korean, Japanese, Traditional Chinese, Thai, Indonesian, Filipino, Hindi, Georgian, Lithuanian, Croatian, Serbian, Albanian, Danish, Swedish, Norwegian, Finnish, Afrikaans, Kinyarwanda)
+- **Supported Languages:** 35+ interface languages
 
 ## Key Capabilities
 1. **Field Service Timer & Live Activities:** Accurate stopwatch visible on the iPhone Lock Screen and Dynamic Island, plus interactive Home Screen widgets.
-2. **Pioneer Hour Goals & Service Year (September–August):** Supports Publisher, Auxiliary Pioneer (15 h / 30 h), Regular Pioneer (50 h/month, 600 h/year), Special Pioneer / Missionary (90 h / 100 h), and custom personal monthly hour targets.
-3. **Calendar & Planned vs. Actual Comparison:** Schedule ministry meetings and Family Worship, compare planned hours vs. actual reported hours, and swipe any planned event to convert it directly into a monthly report entry.
-4. **House-to-House Territory Manager:** Create territory cards with map photos, 10 color tags, an automatic multi-story apartment building generator (by entrances and floors), full-text search by address or resident name, visit status tracking (First visit, Not at home, Refusal), and automatic return visit reminders after N days.
-5. **Bible Students Tracker:** Link Bible students to report entries and track their exact progress in study publications such as "Enjoy Life Forever!" (lesson and section).
+2. **Spiritual Habits Tracker (New in v2.0.1):** Daily, weekly, and monthly progress rings (Daily Text with 1-tap 'Read in JW Library', Bible reading, Midweek Meeting & Watchtower prep, Personal Study, Family Worship, Monthly JW Broadcasting, Current Magazines, Submit Ministry Report with urgent 5th-of-the-month reminder, plus custom habits).
+3. **Bible Reading Schedule (New in v2.0.1):** Interactive grid of all 66 Bible books (1,189 chapters) with 5 reading routes (Classic, Chronological, Gospels First, Balanced Mix, Shortest First), completion date forecast, and 1-tap 'Read in JW Library' deep links.
+4. **Dual Pioneer Hour Goals & Service Year (September–August):** Supports Publisher, Auxiliary Pioneer (15 h / 30 h), Regular Pioneer (50 h/month, 600 h/year), Special Pioneer / Missionary (90 h / 100 h), plus simultaneous display of role requirement and custom personal monthly target in Calendar and Widgets.
+5. **Calendar & Planned vs. Actual Comparison:** Schedule ministry meetings, compare planned hours vs. actual reported hours, and swipe any planned event to convert it directly into a monthly report entry.
+6. **House-to-House Territory Manager:** Create territory cards with map photos, 10 color tags, an automatic apartment building & private house generator, full-text search by address or resident name, and automatic return visit reminders.
+7. **Bible Students Tracker:** Link Bible students to report entries and track their exact progress in study publications such as "Enjoy Life Forever!" (lesson and section).

@@ -4,18 +4,18 @@
   "og_locale": "fr_FR",
   "name": "Français",
   "flag": "🇫🇷",
-  "title": "JW Ministry — Application de Prédication pour les Témoins de Jéhovah : Rapport, Pionniers & Territoires (iPhone / iPad)",
-  "description": "Application de prédication et de service du champ pour les Témoins de Jéhovah (JW) sur iOS et iPadOS. Rapport de prédication JW, suivi des heures de pionnier permanent (50 h) et pionnier auxiliaire (15 et 30 h), année de service, territoires personnels et cours bibliques.",
-  "keywords": "temoin de jehovah predication, pionnier témoins de jéhovah, rapport de prédication jw, pionnier permanent jw, pionnier auxiliaire permanent jw, pionnier auxiliaire jw 15 30 heures, application prédication jw iphone, année de service témoins de jéhovah, territoires personnels porte à porte",
+  "title": "JW Ministry — App pour Témoins de Jéhovah : prédication, rapport et territoires",
+  "description": "App gratuite pour Témoins de Jéhovah sur iPhone et iPad : chronomètre, rapport mensuel, heures de pionnier, calendrier, lecture de la Bible, habitudes spirituelles et territoires.",
+  "keywords": "JW Ministry, temoins, jehovah, prédication, territoires, rapport, pionnier, heures, bible, cours, nouvelle visite, calendrier, chrono, habitudes spirituelles, widget, notes",
   "nav_screens": "Captures",
   "nav_features": "Fonctionnalités",
   "nav_languages": "35+ Langues",
   "nav_privacy": "Confidentialité",
   "nav_donate": "Soutenir",
   "nav_faq": "FAQ",
-  "badge": "Disponible sur iPhone & iPad • Version 1.8 • 35+ Langues",
-  "hero_title": "Votre compagnon complet pour la prédication et le service de pionnier",
-  "hero_sub": "JW Ministry est l'application complète pour la prédication et le service de pionnier des Témoins de Jéhovah sur iPhone et iPad : chronomètre en direct, rapport de prédication, programme de pionnier permanent ou auxiliaire et fiches de territoires.",
+  "badge": "Disponible sur iPhone & iPad • Version 2.0.1 • 35+ Langues",
+  "hero_title": "Prédication, rapport, pionnier, territoires et lecture de la Bible",
+  "hero_sub": "App gratuite et privée pour Témoins de Jéhovah sur iPhone et iPad : chronomètre avec widgets, rapport mensuel, calendrier de pionnier, territoires, nouvelles visites, cours bibliques, habitudes spirituelles et programme de lecture biblique.",
   "cta_appstore": "Télécharger sur l'App Store",
   "cta_donate": "Soutenir le développeur",
   "stat_1_val": "35+",
@@ -33,6 +33,16 @@
       "1.jpg",
       "1. Onglet Début & Chronomètre en direct",
       "Mesurez votre temps de prédication à la seconde près, ajoutez vos cours bibliques, sélectionnez l'étudiant et notez les détails de la session."
+    ],
+    [
+      "1-1.jpg",
+      "Habitudes spirituelles et anneaux de progrès",
+      "Suivez vos habitudes quotidiennes, hebdomadaires et mensuelles (texte du jour, lecture de la Bible, préparation des réunions, culte familial), ouvrez le texte du jour dans JW Library et ajoutez vos propres habitudes."
+    ],
+    [
+      "1-2.jpg",
+      "Programme de lecture de la Bible",
+      "Grille interactive des 66 livres bibliques avec 5 parcours (Classique, Chronologique, Évangiles d'abord, Équilibré, Courts d'abord), estimation de fin et ouverture directe dans JW Library."
     ],
     [
       "2.jpg",
@@ -119,7 +129,7 @@
   "ton_label": "TON / USDT (réseau TON) :",
   "copy_btn": "Copier",
   "copied_msg": "Copié !",
-  "crypto_warn": "Envoyez uniquement des actifs sur le réseau TRON (TRC-20) vers l'adresse TQQx...",
+  "crypto_warn": "Pour USDT (TRC-20), envoyez uniquement des actifs via le réseau TRON.",
   "faq_title": "Questions fréquentes",
   "faqs": [
     [
@@ -151,7 +161,7 @@
       "Oui, balayez simplement une session planifiée dans le Calendrier pour la transférer directement dans votre rapport mensuel."
     ]
   ],
-  "footer_privacy": "Política de confidentialité",
+  "footer_privacy": "Politique de confidentialité",
   "footer_issues": "Support GitHub",
   "footer_contact": "Contacter le développeur",
   "seo_sec_title": "Conçu pour la prédication et les pionniers des Témoins de Jéhovah",
@@ -194,7 +204,7 @@
     "Fonctionnalité",
     "Notes papier",
     "Anciennes Apps",
-    "JW Ministry 1.8"
+    "JW Ministry 2.0.1"
   ],
   "comp_rows": [
     [
@@ -240,17 +250,17 @@
       "Architecture native SwiftUI"
     ]
   ],
-  "filter_all": "Toutes (8)",
-  "filter_light": "Clair (6)",
+  "filter_all": "Toutes (10)",
+  "filter_light": "Clair (8)",
   "filter_dark": "Sombre (2)",
   "filter_ipad": "iPad",
-  "wn_title": "Nouveautés de la version 1.8",
+  "wn_title": "Nouveautés de la version 2.0.1",
   "wn_items": [
-    "Calcul automatique des heures planifiées du mois dans le Calendrier et double barre Prévu vs Réel.",
-    "Convertissez une session planifiée du Calendrier en entrée du Rapport d'un simple balayage.",
-    "Recherche instantanée par adresse ou nom dans les Territoires et 10 thèmes de couleurs.",
-    "Prise en charge de la prochaine année de service (2026–2027) dans l'onglet Rapport.",
-    "Optimisation complète pour les dernières versions d'iOS et iPadOS et protection renforcée des sauvegardes."
+    "Nouvelle section « Habitudes spirituelles » dans l'onglet Début : anneaux de progrès (Jour / Semaine / Mois), habitudes personnalisées, option Marié(e) pour le culte familial et rappel urgent le 5 du mois.",
+    "Programme de lecture de la Bible : 5 parcours, suivi des chapitres des 66 livres, date estimée de fin et bouton « Lire dans JW Library ».",
+    "Double objectif dans le Calendrier et les widgets : affichez à la fois votre objectif de pionnier (30 ou 50 h) et un objectif personnel mensuel.",
+    "Adaptation complète de l'interface pour l'écran pliable iPhone Duo et iPadOS.",
+    "Ajout des boutons « Partager l'application » et « Site web » dans les Réglages."
   ],
   "howto_name": "Comment suivre son rapport de prédication et son programme de pionnier sur iPhone",
   "howto_steps": [
@@ -358,7 +368,67 @@
     ],
     "s4_t": "4. Sauvegarde et suppression des données",
     "s4_p": "Vous pouvez exporter à tout moment un fichier de sauvegarde complet via le menu standard d'iOS (par exemple vers votre iCloud Drive personnel ou l'application Fichiers). La suppression de l'Application efface toutes les données locales de votre appareil.",
-    "s5_t": "5. Contact",
+    "s5_t": "5. Contacter",
     "s5_p": "Pour toute question concernant cette Politique de Confidentialité ou l'Application, vous pouvez écrire à :"
+  },
+  "filter_duo": "iPhone Duo",
+  "wn_items_18": [
+    "Calcul automatique des heures planifiées du mois dans le Calendrier et double barre Prévu vs Réel.",
+    "Convertissez une session planifiée du Calendrier en entrée du Rapport d'un simple balayage.",
+    "Recherche instantanée par adresse ou nom dans les Territoires et 10 thèmes de couleurs.",
+    "Prise en charge de la prochaine année de service (2026–2027) dans l'onglet Rapport.",
+    "Optimisation complète pour les dernières versions d'iOS et iPadOS et protection renforcée des sauvegardes."
+  ],
+  "bible_page": {
+    "title": "5 plans de lecture de la Bible et habitudes spirituelles | JW Ministry",
+    "desc": "Programme quotidien de lecture de la Bible sur iPhone et iPad : les 66 livres, 5 options (classique, chronologique et plus), estimation de fin et intégration JW Library.",
+    "h1": "Programme de lecture de la Bible et habitudes spirituelles",
+    "intro": "Cochez chaque chapitre des 66 livres bibliques, choisissez parmi 5 parcours de lecture, suivez la date estimée de fin et ouvrez le chapitre suivant ou le texte du jour dans JW Library.",
+    "routes_title": "5 parcours intégrés de lecture de la Bible",
+    "s1_t": "Grille interactive des 66 livres",
+    "s1_d": "Suivez votre progression chapitre par chapitre dans toute la Bible.",
+    "s2_t": "Habitudes spirituelles",
+    "s2_d": "Anneaux de progrès (Jour, Semaine, Mois) et lien direct vers JW Library.",
+    "routes": [
+      [
+        "1. Classique",
+        "De la Genèse à la Révélation — lecture séquentielle complète."
+      ],
+      [
+        "2. Chronologique",
+        "Livres classés selon l'ordre des événements historiques."
+      ],
+      [
+        "3. Évangiles d'abord",
+        "Commencez par les Écritures grecques chrétiennes, puis hébraïques."
+      ],
+      [
+        "4. Équilibré",
+        "Alternance d'histoire, de poésie et d'Évangiles au quotidien."
+      ],
+      [
+        "5. Courts d'abord",
+        "Des livres les plus courts aux plus longs pour avancer rapidement."
+      ]
+    ]
+  },
+  "calc_page": {
+    "title": "Calculateur d'horaire Pioneer (15, 30, 50 et 600 heures) | JW Ministry",
+    "desc": "Calculateur d'heures de pionnier en ligne gratuit pour les Témoins de Jéhovah. Calculez votre programme de service hebdomadaire et quotidien pour 15 heures, 30 heures de pionnier auxiliaire ou 50 heures de pionnier régulier (600 heures d’année de service).",
+    "h1": "Calculateur d'horaires Pioneer",
+    "intro": "Planifiez vos heures de service sur le terrain pour 15 heures ou 30 heures de pionnier auxiliaire, 50 heures de pionnier régulier (600 heures par année de service) ou un objectif personnalisé.",
+    "label_goal": "Objectif mensuel",
+    "opt_15": "Pionnier auxiliaire — 15 h/mois",
+    "opt_30": "Pionnier auxiliaire — 30 h/mois",
+    "opt_50": "Pioneer régulier — 50 h/mois",
+    "opt_90": "Spécial Pionnier — 90 h/mois",
+    "opt_100": "Spécial Pionnier — 100 h/mois",
+    "label_days": "Jours de ministère par semaine",
+    "res_week": "Heures par semaine",
+    "res_day": "Heures par jour de ministère",
+    "res_year": "Par année de service",
+    "unit_h": "h",
+    "cta_app": "Suivre le calendrier dans le JW Ministry",
+    "cta_bible": "Calendrier de lecture de la Bible"
   }
 }

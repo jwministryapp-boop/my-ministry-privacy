@@ -4,18 +4,18 @@
   "og_locale": "hr_HR",
   "name": "Hrvatski",
   "flag": "🇭🇷",
-  "title": "JW Ministry — Jehovinih svjedoka: Izvještaj o službi propovijedanja, Stalni pionir (50 sati), Osobno područje i ponovni posjeti (iPhone & iPad)",
-  "description": "JW Ministry je aplikacija za službu propovijedanja Jehovinih svjedoka na iPhoneu i iPadu: štoperica s Live Activities, evidencija interesenata, izvještaji po službenoj godini, ciljevi sati za pionire i kartice područja. stalni pionir (50 sati), pomoćni pionir (15 i 30 sati), službena godina (rujan–kolovoz), osobno područje i ponovni posjeti, biblijski tečajevi („Sretan život – sada i zauvijek!”).",
-  "keywords": "JW Ministry, Jehovinih svjedoka, služba propovijedanja, izvještaj o službi propovijedanja, stalni pionir (50 sati), pomoćni pionir (15 i 30 sati), službena godina (rujan–kolovoz), osobno područje i ponovni posjeti, biblijski tečajevi („Sretan život – sada i zauvijek!”), iPhone, iPad, iOS",
+  "title": "JW Ministry — Aplikacija za Jehovine svjedoke: služba, izvještaj i područja",
+  "description": "Besplatna aplikacija Jehovinih svjedoka za iPhone i iPad: mjerač vremena, izvještaj, sati pionira, kalendar, raspored čitanja Biblije, duhovne navike, područja i tečajevi.",
+  "keywords": "JW Ministry, jehovini, svjedoci, služba, izvještaj, područja, pionir, sati, biblija, tečaj, ponovni posjet, kalendar, mjerač, planer, bilješke",
   "nav_screens": "Snimke zaslona",
   "nav_features": "Značajke",
   "nav_languages": "35+ Jezika",
   "nav_privacy": "Privatnost",
   "nav_donate": "Podrži",
   "nav_faq": "Česta pitanja",
-  "badge": "Za iPhone i iPad • Verzija 1.8 • 35+ Jezika",
-  "hero_title": "Vaš potpuni suputnik za službu propovijedanja i pionirsku službu",
-  "hero_sub": "JW Ministry je aplikacija za službu propovijedanja Jehovinih svjedoka na iPhoneu i iPadu: štoperica s Live Activities, evidencija interesenata, izvještaji po službenoj godini, ciljevi sati za pionire i kartice područja.",
+  "badge": "Za iPhone i iPad • Verzija 2.0.1 • 35+ Jezika",
+  "hero_title": "Služba, izvještaj, pioniri, područja i raspored čitanja Biblije",
+  "hero_sub": "Besplatna i privatna aplikacija Jehovinih svjedoka za iPhone i iPad: mjerač vremena s widgetima, mjesečni izvještaj, kalendar pionira, kartice područja, ponovni posjeti, biblijski tečajevi, duhovne navike i čitanje Biblije.",
   "cta_appstore": "Preuzmi u App Storeu",
   "cta_donate": "Podrži autora",
   "stat_1_val": "35+",
@@ -33,6 +33,16 @@
       "1.jpg",
       "1. Kartica Start i štoperica službe",
       "Mjerite vrijeme službe u sekundu, dodajte biblijske tečajeve, odaberite interesenta i pišite bilješke s područja."
+    ],
+    [
+      "1-1.jpg",
+      "Duhovne navike i prstenovi napretka",
+      "Pratite dnevne, tjedne i mjesečne navike (dnevni citat, čitanje Biblije, priprema za sastanke, obiteljsko proučavanje), otvorite dnevni citat izravno u JW Libraryju i dodajte vlastite navike."
+    ],
+    [
+      "1-2.jpg",
+      "Raspored čitanja Biblije",
+      "Interaktivna mreža svih 66 biblijskih knjiga s 5 planova čitanja (Klasični, Kronološki, Prvo evanđelja, Uravnoteženi, Prvo kraće knjige), procjenom završetka i izravnim otvaranjem u JW Libraryju."
     ],
     [
       "2.jpg",
@@ -119,7 +129,7 @@
   "ton_label": "TON / USDT (TON mreža):",
   "copy_btn": "Kopiraj",
   "copied_msg": "Kopirano!",
-  "crypto_warn": "Na adresu TQQx... šaljite isključivo sredstva putem TRON (TRC-20) mreže.",
+  "crypto_warn": "Za USDT (TRC-20) šaljite sredstva isključivo putem TRON mreže.",
   "faq_title": "Često postavljana pitanja (FAQ)",
   "faqs": [
     [
@@ -151,7 +161,7 @@
     ],
     [
       "Pomoćni pioniri (15 i 30 sati) i skupštinski objavitelji",
-      "Tijekom posebnih akcija ili razdoblja Спомен-svečanosti prebacite se na Pomoćnog pionira (15 ili 30 sati) jednim dodirom. Podsjetnik 1. u mjesecu u 20:00 pomaže vam da na vrijeme predate izvještaj."
+      "Tijekom posebnih akcija ili razdoblja Spomen-svečanosti prebacite se na Pomoćnog pionira (15 ili 30 sati) jednim dodirom. Podsjetnik 1. u mjesecu u 20:00 pomaže vam da na vrijeme predate izvještaj."
     ],
     [
       "Područja od kuće do kuće, zgrade i ponovni posjeti",
@@ -182,7 +192,7 @@
     "Značajka",
     "Papirnate bilješke",
     "Starije aplikacije",
-    "JW Ministry 1.8"
+    "JW Ministry 2.0.1"
   ],
   "comp_rows": [
     [
@@ -228,35 +238,35 @@
       "Moderan SwiftUI dizajn"
     ]
   ],
-  "filter_all": "Sve (8)",
-  "filter_light": "Svijetli (6)",
+  "filter_all": "Sve (10)",
+  "filter_light": "Svijetli (8)",
   "filter_dark": "Tamni (2)",
   "filter_ipad": "iPad",
-  "wn_title": "Što je novo u verziji 1.8",
+  "wn_title": "Što je novo u verziji 2.0.1",
   "wn_items": [
-    "Automatski zbroj planiranih sati u mjesecu u Kalendaru i dvostruka traka napretka (Planirano vs. Ostvareno).",
-    "Pretvaranje planiranog termina iz Kalendara izravno u unos Izvještaja jednim potezom prsta.",
-    "Trenutačna pretraga po adresi ili imenu stanara u svim područjima te 10 boja za kartice područja.",
-    "Podrška za nadolazeću službenu godinu (2026–2027) u kartici Izvještaj.",
-    "Potpuna optimizacija za najnoviji iOS i iPadOS te pojačana zaštita sigurnosnih kopija."
+    "Novi odjeljak «Duhovne navike» na kartici Start: prstenovi napretka (Dan / Tjedan / Mjesec), vlastite navike, opcija za obiteljsko proučavanje i hitni podsjetnik 5. u mjesecu.",
+    "Raspored čitanja Biblije: 5 ruta čitanja, praćenje poglavlja svih 66 knjiga, procjena datuma završetka i gumb «Čitaj u JW Libraryju».",
+    "Dvostruki cilj u Kalendaru i widgetima: istovremeni prikaz norme pionira (30 ili 50 h) i osobnog mjesečnog cilja u dvostrukom prstenu.",
+    "Potpuna prilagodba sučelja za sklopivi zaslon iPhone Duo i iPadOS.",
+    "Dodani gumbi «Podijeli aplikaciju» i «Web stranica» u Postavkama."
   ],
-  "howto_name": "How to Track Field Service Hours & Pioneer Schedule on iPhone",
+  "howto_name": "Kako pratiti sate terenske službe i Pioneer raspored na iPhoneu",
   "howto_steps": [
     [
-      "Set your service role and monthly target",
-      "Choose Publisher, Auxiliary Pioneer (15/30 h), or Regular Pioneer (50 h) in Settings, or set a custom monthly hour target."
+      "Postavite svoju ulogu usluge i mjesečni cilj",
+      "Odaberite Izdavač, Pomoćni pionir (15/30 h) ili Obični pionir (50 h) u postavkama ili postavite prilagođeni mjesečni cilj sati."
     ],
     [
-      "Run the live timer or schedule in the Calendar",
-      "Track field ministry on the Lock Screen & Dynamic Island, or swipe scheduled Calendar events directly into your Report."
+      "Pokrenite mjerač vremena uživo ili raspored u Kalendaru",
+      "Pratite službu propovijedanja na zaključanom zaslonu i Dynamic Island ili prevucite zakazane kalendarske događaje izravno u svoje izvješće."
     ],
     [
-      "Log territories and Bible studies",
-      "Record house-to-house visits, apartment statuses, and attach Bible students with their current lesson."
+      "Log teritorije i proučavanje Biblije",
+      "Bilježite posjete od kuće do kuće, statuse stanova i priložite studentima Biblije njihovu trenutnu lekciju."
     ],
     [
-      "Share your monthly field service report",
-      "On the 1st of the month, open the Report tab to review and share your completed hours and Bible studies."
+      "Podijelite svoje mjesečno izvješće službe propovijedanja",
+      "Prvog u mjesecu otvorite karticu Izvješće da biste pregledali i podijelili svoje odrađene sate i proučavanja Biblije."
     ]
   ],
   "nav_comp": "Usporedba",
@@ -315,38 +325,98 @@
   ],
   "privacy_page": {
     "page_title": "Pravila privatnosti za aplikaciju „JW Ministry” — JW Ministry",
-    "meta_desc": "Official Privacy Policy and User Support for the JW Ministry iOS & iPadOS app. 100% local on-device data storage with zero external servers.",
+    "meta_desc": "Službena pravila o privatnosti i korisnička podrška za aplikaciju JW Ministry za iOS i iPadOS. 100% lokalna pohrana podataka na uređaju bez vanjskih poslužitelja.",
     "back_home": "Početna stranica",
     "sup_title": "JW Ministry — Korisnička podrška",
     "sup_desc": "Ako imate pitanja, prijedloge ili ste pronašli pogrešku u aplikaciji, javite se autoru:",
-    "sup_issues": "Report an Issue (GitHub)",
-    "sup_store": " JW Ministry on App Store",
-    "updated": "Last updated: December 5, 2025",
+    "sup_issues": "Prijava problema (GitHub)",
+    "sup_store": " JW Ministry na App Storeu",
+    "updated": "Zadnje ažuriranje: 5. prosinca 2025",
     "h1": "Pravila privatnosti za aplikaciju „JW Ministry”",
-    "intro": "This Privacy Policy explains how the <strong>“JW Ministry”</strong> mobile application (“the App”) handles user information. Our core principle is <strong>100% privacy: all records you create are stored exclusively on your device</strong>.",
-    "s1_t": "1. Data Created and Stored in the App",
-    "s1_p": "All data in the App is entered voluntarily by the user for personal field service organization and planning:",
+    "intro": "Ova Pravila o privatnosti objašnjavaju kako mobilna aplikacija <strong>\"JW Ministry\"</strong> (\"Aplikacija\") rukuje korisničkim informacijama. Naše temeljno načelo je <strong>100% privatnost: svi zapisi koje stvorite pohranjuju se isključivo na vašem uređaju</strong>.",
+    "s1_t": "1. Podaci stvoreni i pohranjeni u aplikaciji",
+    "s1_p": "Sve podatke u Aplikaciju korisnik dobrovoljno unosi za osobnu organizaciju i planiranje terenske službe:",
     "s1_ul": [
-      "<strong>Service time entries & reports:</strong> dates, duration, Bible study counts, and session notes.",
-      "<strong>Calendar schedules:</strong> planned ministry events, dates, times, and recurrence settings.",
-      "<strong>Bible students list:</strong> student names/labels and study publication progress notes.",
-      "<strong>Territories & addresses:</strong> territory names, house/apartment lists, visit history, notes, and territory card photos selected by the user from the Photo Library.",
-      "<strong>App settings:</strong> selected service role, personal monthly hour target, and notification preferences."
+      "<strong>Unosi i izvješća o vremenu službe:</strong> datumi, trajanje, broj proučavanja Biblije i bilješke o sesiji.",
+      "<strong>Kalendarski rasporedi:</strong> planirani događaji službe, datumi, vremena i postavke ponavljanja.",
+      "<strong>Popis studenata Biblije:</strong> imena/oznake studenata i bilješke o napretku publikacije studija.",
+      "<strong>Teritoriji i adrese:</strong> nazivi teritorija, popisi kuća/stanova, povijest posjeta, bilješke i fotografije s kartice teritorija koje je korisnik odabrao iz biblioteke fotografija.",
+      "<strong>Postavke aplikacije:</strong> odabrana uloga usluge, osobni mjesečni ciljni broj sati i postavke obavijesti."
     ],
-    "s2_t": "2. 100% Local On-Device Storage & No Third-Party Sharing",
+    "s2_t": "2. 100% lokalna pohrana na uređaju i bez dijeljenja s trećim stranama",
     "s2_ul": [
-      "All data is stored <strong>solely on your iPhone or iPad</strong> within the secure iOS / iPadOS storage container.",
-      "The App requires <strong>no registration</strong> and no user account.",
-      "The developer has <strong>no access</strong> to your records, collects no analytics or location data, and <strong>never transmits or shares</strong> any data with external servers or third parties."
+      "Svi podaci pohranjuju se <strong>isključivo na vašem iPhoneu ili iPadu</strong> unutar sigurnog iOS/iPadOS spremnika za pohranu.",
+      "Aplikacija ne zahtijeva <strong>nikakvu registraciju</strong> niti korisnički račun.",
+      "Programer nema <strong>nema pristup</strong> vašoj evidenciji, ne prikuplja nikakve analitičke podatke ili podatke o lokaciji i <strong>nikada ne prenosi niti dijeli</strong> bilo kakve podatke s vanjskim poslužiteljima ili trećim stranama."
     ],
-    "s3_t": "3. Device Permissions (Photos & Notifications)",
+    "s3_t": "3. Dopuštenja uređaja (fotografije i obavijesti)",
     "s3_ul": [
-      "<strong>Photo Library:</strong> requested only when you choose to attach a map or building photo to a territory card. Selected images are stored locally inside the App folder on your device.",
-      "<strong>Notifications:</strong> used exclusively for local on-device reminders (such as the 1st-of-the-month report reminder or return visit reminders)."
+      "<strong>Biblioteka fotografija:</strong> zahtijeva se samo kada odaberete priložiti kartu ili fotografiju zgrade kartici teritorija. Odabrane slike pohranjuju se lokalno unutar mape aplikacije na vašem uređaju.",
+      "<strong>Obavijesti:</strong> koriste se isključivo za lokalne podsjetnike na uređaju (kao što je podsjetnik za izvješće prvog u mjesecu ili podsjetnici za ponovni posjet)."
     ],
-    "s4_t": "4. Backups & Data Deletion",
-    "s4_p": "You may export a complete backup file (including territory photos) at any time via the standard iOS share sheet (for example, saving to your personal iCloud Drive or Files app). Uninstalling the App from your device permanently deletes all local App data.",
-    "s5_t": "5. Contact",
-    "s5_p": "If you have any questions regarding this Privacy Policy or the App, please contact the developer at:"
+    "s4_t": "4. Sigurnosne kopije i brisanje podataka",
+    "s4_p": "Možete izvesti potpunu sigurnosnu kopiju datoteke (uključujući fotografije teritorija) u bilo kojem trenutku putem standardne iOS liste za dijeljenje (na primjer, spremanje na vaš osobni iCloud Drive ili aplikaciju Datoteke). Deinstaliranjem aplikacije s vašeg uređaja trajno se brišu svi lokalni podaci aplikacije.",
+    "s5_t": "5. Kontakt",
+    "s5_p": "Ako imate bilo kakvih pitanja u vezi s ovom Politikom privatnosti ili aplikacijom, obratite se razvojnom programeru na:"
+  },
+  "filter_duo": "iPhone Duo",
+  "wn_items_18": [
+    "Automatski zbroj planiranih sati u mjesecu u Kalendaru i dvostruka traka napretka (Planirano vs. Ostvareno).",
+    "Pretvaranje planiranog termina iz Kalendara izravno u unos Izvještaja jednim potezom prsta.",
+    "Trenutačna pretraga po adresi ili imenu stanara u svim područjima te 10 boja za kartice područja.",
+    "Podrška za nadolazeću službenu godinu (2026–2027) u kartici Izvještaj.",
+    "Potpuna optimizacija za najnoviji iOS i iPadOS te pojačana zaštita sigurnosnih kopija."
+  ],
+  "bible_page": {
+    "title": "5 varijanti rasporeda čitanja Biblije i duhovne navike | JW Ministry",
+    "desc": "Praktičan dnevni raspored čitanja Biblije za iPhone i iPad: svih 66 knjiga, 5 varijanti (klasični, kronološki i druge), procjena završetka i integracija s JW Libraryjem.",
+    "h1": "5 varijanti rasporeda čitanja Biblije i duhovne navike",
+    "intro": "Praktičan dnevni raspored čitanja Biblije za iPhone i iPad: svih 66 knjiga, 5 varijanti (klasični, kronološki i druge), procjena završetka i integracija s JW Libraryjem.",
+    "routes_title": "5 ugrađenih planova čitanja Biblije",
+    "s1_t": "66 knjiga Interaktivna mreža",
+    "s1_d": "Označite poglavlja i pratite napredak u Hebrejskim i Kršćanskim grčkim spisima.",
+    "s2_t": "Dnevne duhovne navike",
+    "s2_d": "Zvono napretka za dan, tjedan i mjesec plus dnevni tekst jednim dodirom u JW Library.",
+    "routes": [
+      [
+        "1. Klasična",
+        "Od Postanka do Otkrivenja — uzastopno čitanje cijele Biblije."
+      ],
+      [
+        "2. Kronološki",
+        "Knjige poredane po redoslijedu povijesnih događaja i spisa."
+      ],
+      [
+        "3. Evanđelje Prvo",
+        "Počnite s Kršćanskim grčkim spisima, zatim prijeđite na Hebrejske spise."
+      ],
+      [
+        "4. Uravnotežena mješavina",
+        "Izmjenična povijest, poezija i evanđelja za svakodnevnu raznolikost."
+      ],
+      [
+        "5. Prvo najkraće",
+        "Od najkraćih knjiga do najdužih za brzi osjećaj napretka."
+      ]
+    ]
+  },
+  "calc_page": {
+    "title": "Pioneer-ov kalkulator rasporeda (15, 30, 50 i 600 sati) | JW Ministry",
+    "desc": "Besplatni internetski kalkulator pionirskih sati za Jehovine svjedoke. Izračunajte svoj tjedni i dnevni raspored službe propovijedanja za 15 sati, 30 sati pomoćnih ili 50 sati redovnih pionira (600 sati službene godine).",
+    "h1": "Pioneer Kalkulator rasporeda",
+    "intro": "Planirajte svoje sate službe na terenu za 15 ili 30 sati pomoćnog pionira, 50 sati redovnog pionira (600 sati po službenoj godini) ili prilagođeni cilj.",
+    "label_goal": "Mjesečni cilj",
+    "opt_15": "Pomoćni pionir — 15 h/mj",
+    "opt_30": "Pomoćni pionir — 30 h/mj",
+    "opt_50": "Obični pionir — 50 h/mj",
+    "opt_90": "Specijalni pionir — 90 h/mj",
+    "opt_100": "Specijalni pionir — 100 h/mj",
+    "label_days": "Dana službe u tjednu",
+    "res_week": "Sati tjedno",
+    "res_day": "Sati po danu službe",
+    "res_year": "Po servisnoj godini",
+    "unit_h": "h",
+    "cta_app": "Raspored staza u JW Ministry",
+    "cta_bible": "Raspored čitanja Biblije"
   }
 }

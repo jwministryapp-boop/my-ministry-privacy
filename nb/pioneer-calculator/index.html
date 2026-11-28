@@ -1,0 +1,202 @@
+<!DOCTYPE html>
+<html lang="{{LANG}}">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Pioneer tidsplankalkulator (15, 30, 50 og 600 timer) | JW Ministry</title>
+  <meta name="description" content="Gratis online kalkulator for pionertimer for Jehovas vitner. Beregn din ukentlige og daglige felttjenesteplan for 15 timers, 30 timers hjelpepioner eller 50 timers vanlig pioner (600 timers tjenesteår)." />
+  <meta name="robots" content="index, follow, max-image-preview:large" />
+  <link rel="canonical" href="https://jwministry.org/nb/pioneer-calculator/" />
+  <link rel="alternate" hreflang="en" href="https://jwministry.org/pioneer-calculator/" />
+  <link rel="alternate" hreflang="ru" href="https://jwministry.org/ru/pioneer-calculator/" />
+  <link rel="alternate" hreflang="x-default" href="https://jwministry.org/pioneer-calculator/" />
+  <link rel="icon" type="image/png" href="{{PREFIX}}/assets/logo.png" />
+  <link rel="stylesheet" href="{{PREFIX}}/assets/css/style.css" />
+  <style>
+    .calc-card { background: var(--card); border: 1px solid var(--border); border-radius: 22px; padding: 30px; box-shadow: var(--shadow); margin-bottom: 28px; }
+    .calc-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 18px; margin-bottom: 24px; }
+    .calc-field label { display: block; font-size: 0.88rem; font-weight: 700; color: var(--muted); margin-bottom: 8px; }
+    .calc-field select, .calc-field input { width: 100%; padding: 12px 14px; border-radius: 12px; border: 1.5px solid var(--border); background: var(--bg); color: var(--text); font-size: 1rem; font-weight: 600; }
+    .calc-results { display: grid; grid-template-columns: repeat(auto-fit, minmax(170px, 1fr)); gap: 14px; padding-top: 20px; border-top: 1px solid var(--border); }
+    .res-box { background: var(--accent-soft); border-radius: 16px; padding: 16px; text-align: center; }
+    .res-val { font-size: 1.55rem; font-weight: 800; color: var(--accent-dark); }
+    .res-lbl { font-size: 0.82rem; color: var(--muted); margin-top: 4px; font-weight: 600; }
+  
+    /* === Custom Select Arrow & Focus Fix === */
+    .calc-field select, .calc-box select {
+      -webkit-appearance: none;
+      -moz-appearance: none;
+      appearance: none;
+      background-color: #fff;
+      background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' viewBox='0 0 24 24' fill='none' stroke='%236B42B0' stroke-width='2.5' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpolyline points='6 9 12 15 18 9'%3E%3C/polyline%3E%3C/svg%3E");
+      background-repeat: no-repeat;
+      background-position: right 14px center;
+      background-size: 16px 16px;
+      padding-right: 42px !important;
+      cursor: pointer;
+      transition: border-color 0.2s ease, box-shadow 0.2s ease;
+    }
+    .calc-field select:focus, .calc-box select:focus {
+      outline: none;
+      border-color: #6B42B0;
+      box-shadow: 0 0 0 3px rgba(107, 66, 176, 0.16);
+    }
+
+  </style>
+  <!-- Google Tag Manager -->
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    window.dataLayer.push({'gtm.start': new Date().getTime(), event: 'gtm.js'});
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+  </script>
+  <script async src="https://www.googletagmanager.com/gtm.js?id=GTM-MLGW4TF3"></script>
+</head>
+<body>
+  <header class="topbar">
+    <div class="container topbar-inner">
+      <a href="{{HOME_LINK}}" class="brand">
+        <img src="{{PREFIX}}/assets/logo.png" alt="JW Ministry" class="brand-logo" width="38" height="38" />
+        <span>JW Ministry</span>
+      </a>
+      <div class="nav-right">
+        <a href="{{HOME_LINK}}" class="back-pill" style="padding:7px 14px;border-radius:999px;background:var(--accent-soft);color:var(--accent-dark);font-weight:700;font-size:0.85rem;">{{BACK_HOME}}</a>
+        <a href="{{ALT_LINK}}" class="lang-pill">{{ALT_LABEL}}</a>
+      </div>
+    </div>
+  
+      <div class="lang-picker" style="position:relative;display:inline-block;">
+        <button type="button" onclick="var m=document.getElementById('calc-lang-dd');m.style.display=(m.style.display==='grid'?'none':'grid')" style="background:rgba(107,66,176,0.08);border:1px solid rgba(107,66,176,0.2);color:#4A2588;padding:6px 12px;border-radius:10px;font-weight:600;cursor:pointer;font-size:14px;">🇳🇴 Norsk Bokmål ▾</button>
+        <div id="calc-lang-dd" style="display:none;position:absolute;right:0;top:115%;background:#fff;border:1px solid #e5e7eb;border-radius:14px;box-shadow:0 12px 32px rgba(0,0,0,0.12);padding:10px;grid-template-columns:repeat(3,minmax(120px,1fr));gap:6px;z-index:99;max-height:360px;overflow-y:auto;">
+          <a href="/af/pioneer-calculator/" style="text-decoration:none;color:#1f2937;padding:6px 8px;border-radius:8px;font-size:13px;white-space:nowrap;">🇿🇦 Afrikaans</a>
+<a href="/id/pioneer-calculator/" style="text-decoration:none;color:#1f2937;padding:6px 8px;border-radius:8px;font-size:13px;white-space:nowrap;">🇮🇩 Bahasa Indonesia</a>
+<a href="/da/pioneer-calculator/" style="text-decoration:none;color:#1f2937;padding:6px 8px;border-radius:8px;font-size:13px;white-space:nowrap;">🇩🇰 Dansk</a>
+<a href="/de/pioneer-calculator/" style="text-decoration:none;color:#1f2937;padding:6px 8px;border-radius:8px;font-size:13px;white-space:nowrap;">🇩🇪 Deutsch</a>
+<a href="/pioneer-calculator/" style="text-decoration:none;color:#1f2937;padding:6px 8px;border-radius:8px;font-size:13px;white-space:nowrap;">🇺🇸 English</a>
+<a href="/es/pioneer-calculator/" style="text-decoration:none;color:#1f2937;padding:6px 8px;border-radius:8px;font-size:13px;white-space:nowrap;">🇪🇸 Español</a>
+<a href="/fil/pioneer-calculator/" style="text-decoration:none;color:#1f2937;padding:6px 8px;border-radius:8px;font-size:13px;white-space:nowrap;">🇵🇭 Filipino</a>
+<a href="/fr/pioneer-calculator/" style="text-decoration:none;color:#1f2937;padding:6px 8px;border-radius:8px;font-size:13px;white-space:nowrap;">🇫🇷 Français</a>
+<a href="/hr/pioneer-calculator/" style="text-decoration:none;color:#1f2937;padding:6px 8px;border-radius:8px;font-size:13px;white-space:nowrap;">🇭🇷 Hrvatski</a>
+<a href="/rw/pioneer-calculator/" style="text-decoration:none;color:#1f2937;padding:6px 8px;border-radius:8px;font-size:13px;white-space:nowrap;">🇷🇼 Ikinyarwanda</a>
+<a href="/it/pioneer-calculator/" style="text-decoration:none;color:#1f2937;padding:6px 8px;border-radius:8px;font-size:13px;white-space:nowrap;">🇮🇹 Italiano</a>
+<a href="/lt/pioneer-calculator/" style="text-decoration:none;color:#1f2937;padding:6px 8px;border-radius:8px;font-size:13px;white-space:nowrap;">🇱🇹 Lietuvių</a>
+<a href="/hu/pioneer-calculator/" style="text-decoration:none;color:#1f2937;padding:6px 8px;border-radius:8px;font-size:13px;white-space:nowrap;">🇭🇺 Magyar</a>
+<a href="/nl/pioneer-calculator/" style="text-decoration:none;color:#1f2937;padding:6px 8px;border-radius:8px;font-size:13px;white-space:nowrap;">🇳🇱 Nederlands</a>
+<a href="/nb/pioneer-calculator/" style="text-decoration:none;color:#1f2937;padding:6px 8px;border-radius:8px;font-size:13px;white-space:nowrap;background:#f3ecff;font-weight:700;">🇳🇴 Norsk Bokmål</a>
+<a href="/pl/pioneer-calculator/" style="text-decoration:none;color:#1f2937;padding:6px 8px;border-radius:8px;font-size:13px;white-space:nowrap;">🇵🇱 Polski</a>
+<a href="/pt/pioneer-calculator/" style="text-decoration:none;color:#1f2937;padding:6px 8px;border-radius:8px;font-size:13px;white-space:nowrap;">🇧🇷 Português</a>
+<a href="/ro/pioneer-calculator/" style="text-decoration:none;color:#1f2937;padding:6px 8px;border-radius:8px;font-size:13px;white-space:nowrap;">🇷🇴 Română</a>
+<a href="/sq/pioneer-calculator/" style="text-decoration:none;color:#1f2937;padding:6px 8px;border-radius:8px;font-size:13px;white-space:nowrap;">🇦🇱 Shqip</a>
+<a href="/sk/pioneer-calculator/" style="text-decoration:none;color:#1f2937;padding:6px 8px;border-radius:8px;font-size:13px;white-space:nowrap;">🇸🇰 Slovenčina</a>
+<a href="/sr/pioneer-calculator/" style="text-decoration:none;color:#1f2937;padding:6px 8px;border-radius:8px;font-size:13px;white-space:nowrap;">🇷🇸 Srpski</a>
+<a href="/fi/pioneer-calculator/" style="text-decoration:none;color:#1f2937;padding:6px 8px;border-radius:8px;font-size:13px;white-space:nowrap;">🇫🇮 Suomi</a>
+<a href="/sv/pioneer-calculator/" style="text-decoration:none;color:#1f2937;padding:6px 8px;border-radius:8px;font-size:13px;white-space:nowrap;">🇸🇪 Svenska</a>
+<a href="/tr/pioneer-calculator/" style="text-decoration:none;color:#1f2937;padding:6px 8px;border-radius:8px;font-size:13px;white-space:nowrap;">🇹🇷 Türkçe</a>
+<a href="/cs/pioneer-calculator/" style="text-decoration:none;color:#1f2937;padding:6px 8px;border-radius:8px;font-size:13px;white-space:nowrap;">🇨🇿 Čeština</a>
+<a href="/el/pioneer-calculator/" style="text-decoration:none;color:#1f2937;padding:6px 8px;border-radius:8px;font-size:13px;white-space:nowrap;">🇬🇷 Ελληνικά</a>
+<a href="/bg/pioneer-calculator/" style="text-decoration:none;color:#1f2937;padding:6px 8px;border-radius:8px;font-size:13px;white-space:nowrap;">🇧🇬 Български</a>
+<a href="/ru/pioneer-calculator/" style="text-decoration:none;color:#1f2937;padding:6px 8px;border-radius:8px;font-size:13px;white-space:nowrap;">🇷🇺 Русский</a>
+<a href="/uk/pioneer-calculator/" style="text-decoration:none;color:#1f2937;padding:6px 8px;border-radius:8px;font-size:13px;white-space:nowrap;">🇺🇦 Українська</a>
+<a href="/hi/pioneer-calculator/" style="text-decoration:none;color:#1f2937;padding:6px 8px;border-radius:8px;font-size:13px;white-space:nowrap;">🇮🇳 हिन्दी</a>
+<a href="/th/pioneer-calculator/" style="text-decoration:none;color:#1f2937;padding:6px 8px;border-radius:8px;font-size:13px;white-space:nowrap;">🇹🇭 ไทย</a>
+<a href="/ka/pioneer-calculator/" style="text-decoration:none;color:#1f2937;padding:6px 8px;border-radius:8px;font-size:13px;white-space:nowrap;">🇬🇪 ქართული</a>
+<a href="/ja/pioneer-calculator/" style="text-decoration:none;color:#1f2937;padding:6px 8px;border-radius:8px;font-size:13px;white-space:nowrap;">🇯🇵 日本語</a>
+<a href="/zh/pioneer-calculator/" style="text-decoration:none;color:#1f2937;padding:6px 8px;border-radius:8px;font-size:13px;white-space:nowrap;">🇹🇼 繁體中文</a>
+<a href="/ko/pioneer-calculator/" style="text-decoration:none;color:#1f2937;padding:6px 8px;border-radius:8px;font-size:13px;white-space:nowrap;">🇰🇷 한국어</a>
+        </div>
+      </div>
+
+  </header>
+
+  <main class="container" style="max-width:880px;padding:42px 20px 64px;">
+    <span class="badge">{{BADGE}}</span>
+    <h1 style="font-size:clamp(1.8rem,4vw,2.5rem);line-height:1.18;margin-bottom:14px;">Pioneer tidsplankalkulator</h1>
+    <p style="font-size:1.05rem;color:var(--muted);margin-bottom:28px;">Planlegg felttjenestetimer for 15 timer eller 30 timers hjelpepioner, 50 timer vanlig pioner (600 timer per tjenesteår), eller et tilpasset mål.</p>
+
+    <div class="calc-card">
+      <div class="calc-grid">
+        <div class="calc-field">
+          <label for="goal-select">{{LBL_GOAL}}</label>
+          <select id="goal-select" onchange="calcPioneer()">
+            <option value="50" selected>Vanlig Pioneer — 50 t/mnd</option>
+            <option value="30">Auxiliary Pioneer — 30 t/mnd</option>
+            <option value="15">Auxiliary Pioneer — 15 t/mnd</option>
+            <option value="90">Special Pioneer — 90 t/mnd</option>
+            <option value="100">Special Pioneer — 100 t/mnd</option>
+            <option value="custom">{{OPT_CUSTOM}}</option>
+          </select>
+        </div>
+        <div class="calc-field" id="custom-wrap" style="display:none;">
+          <label for="custom-hours">{{LBL_CUSTOM}}</label>
+          <input type="number" id="custom-hours" min="1" max="200" value="55" oninput="calcPioneer()" />
+        </div>
+        <div class="calc-field">
+          <label for="days-select">{{LBL_DAYS}}</label>
+          <select id="days-select" onchange="calcPioneer()">
+            <option value="2">2</option>
+            <option value="3">3</option>
+            <option value="4" selected>4</option>
+            <option value="5">5</option>
+            <option value="6">6</option>
+            <option value="7">7</option>
+          </select>
+        </div>
+      </div>
+
+      <div class="calc-results">
+        <div class="res-box">
+          <div class="res-val" id="res-week">11.5 h</div>
+          <div class="res-lbl">Timer per uke</div>
+        </div>
+        <div class="res-box">
+          <div class="res-val" id="res-day">2.9 h</div>
+          <div class="res-lbl">Timer per tjenestedag</div>
+        </div>
+        <div class="res-box">
+          <div class="res-val" id="res-year">600 h</div>
+          <div class="res-lbl">Per tjenesteår</div>
+        </div>
+      </div>
+    </div>
+
+    <div class="cta-row">
+      <a href="https://apps.apple.com/us/app/jw-ministry/id6756040136" class="btn btn-primary" target="_blank" rel="noopener"> {{CTA}}</a>
+      <a href="{{BIBLE_LINK}}" class="btn btn-secondary">{{BIBLE_BTN}}</a>
+    </div>
+  </main>
+
+  <footer>
+    <div class="container footer-inner">
+      <div>© 2025–2026 JW Ministry. All rights reserved.</div>
+      <div class="footer-links">
+        <a href="{{HOME_LINK}}">{{BACK_HOME}}</a>
+        <a href="{{PRIV_LINK}}">{{PRIV_LABEL}}</a>
+      </div>
+    </div>
+  </footer>
+
+  <script>
+    function calcPioneer() {
+      var sel = document.getElementById('goal-select').value;
+      var customWrap = document.getElementById('custom-wrap');
+      var hours = 50;
+      if (sel === 'custom') {
+        customWrap.style.display = 'block';
+        hours = Math.max(1, parseFloat(document.getElementById('custom-hours').value) || 50);
+      } else {
+        customWrap.style.display = 'none';
+        hours = parseFloat(sel);
+      }
+      var days = parseFloat(document.getElementById('days-select').value) || 4;
+      var perWeek = (hours * 12) / 52;
+      var perDay = perWeek / days;
+      var perYear = Math.round(hours * 12);
+      var u = "h";
+      document.getElementById('res-week').innerText = perWeek.toFixed(1) + " " + u;
+      document.getElementById('res-day').innerText = perDay.toFixed(1) + " " + u;
+      document.getElementById('res-year').innerText = perYear + " " + u;
+    }
+    calcPioneer();
+  </script>
+</body>
+</html>

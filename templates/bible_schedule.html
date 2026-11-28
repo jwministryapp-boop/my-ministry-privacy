@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="{{LANG}}">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>{{TITLE}}</title>
+  <meta name="description" content="{{DESC}}" />
+  <meta name="robots" content="index, follow, max-image-preview:large" />
+  <link rel="canonical" href="{{CANONICAL}}" />
+  {{HREFLANGS}}
+  <link rel="icon" type="image/png" href="{{PREFIX}}/assets/logo.png" />
+  <link rel="stylesheet" href="{{PREFIX}}/assets/css/style.css" />
+  {{GA_SCRIPT}}
+</head>
+<body>
+  <header class="topbar">
+    <div class="container topbar-inner">
+      <a href="{{HOME_LINK}}" class="brand">
+        <img src="{{PREFIX}}/assets/logo.png" alt="JW Ministry" class="brand-logo" width="38" height="38" />
+        <span>JW Ministry</span>
+      </a>
+      <div class="nav-right">
+        <a href="{{HOME_LINK}}" class="back-pill" style="padding:7px 14px;border-radius:999px;background:var(--accent-soft);color:var(--accent-dark);font-weight:700;font-size:0.85rem;">{{BACK_HOME}}</a>
+        <div class="lang-dropdown" id="lang-dropdown">
+          <button class="lang-trigger" onclick="toggleLangDropdown(event)" aria-label="Select language">
+            <span>{{FLAG}}</span>
+            <span>{{NAME}}</span>
+            <svg viewBox="0 0 12 12" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M2.5 4.5L6 8L9.5 4.5"/></svg>
+          </button>
+          <div class="lang-menu">
+            {{LANG_PILLS}}
+          </div>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <main class="container" style="max-width:960px;padding:42px 20px 64px;">
+    <span class="badge">{{BADGE}}</span>
+    <h1 style="font-size:clamp(1.8rem,4vw,2.6rem);line-height:1.18;margin-bottom:16px;">{{H1}}</h1>
+    <p style="font-size:1.08rem;color:var(--muted);margin-bottom:28px;">{{INTRO}}</p>
+
+    <div class="cta-row" style="margin-bottom:36px;">
+      <a href="{{APP_STORE_URL}}" class="btn btn-primary" target="_blank" rel="noopener"> {{CTA}}</a>
+      <a href="{{HOME_LINK}}" class="btn btn-secondary">{{ALL_FEATURES}}</a>
+    </div>
+
+    <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:20px;margin-bottom:36px;">
+      <div class="shot-card">
+        <div class="iphone-frame"><img src="{{PREFIX}}/screenshots/{{SHOT_FOLDER}}/1-2.jpg" alt="{{H1}}" loading="lazy" /></div>
+        <div class="shot-meta"><h3>{{SHOT1_T}}</h3><p>{{SHOT1_D}}</p></div>
+      </div>
+      <div class="shot-card">
+        <div class="iphone-frame"><img src="{{PREFIX}}/screenshots/{{SHOT_FOLDER}}/1-1.jpg" alt="{{SHOT2_T}}" loading="lazy" /></div>
+        <div class="shot-meta"><h3>{{SHOT2_T}}</h3><p>{{SHOT2_D}}</p></div>
+      </div>
+    </div>
+
+    <h2 style="font-size:1.5rem;margin-bottom:16px;">{{ROUTES_TITLE}}</h2>
+    <div class="feat-grid" style="margin-bottom:36px;">
+      {{ROUTES_CARDS}}
+    </div>
+  </main>
+
+  <footer>
+    <div class="container footer-inner">
+      <div>© 2025–2026 JW Ministry. All rights reserved.</div>
+      <div class="footer-links">
+        <a href="{{HOME_LINK}}">{{BACK_HOME}}</a>
+        <a href="{{PRIV_LINK}}">{{PRIV_LABEL}}</a>
+      </div>
+    </div>
+  </footer>
+  <script src="{{PREFIX}}/assets/js/main.js"></script>
+</body>
+</html>

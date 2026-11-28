@@ -1,0 +1,453 @@
+{
+  "shot_folder": "Albanian",
+  "html_lang": "sq",
+  "og_locale": "sq_AL",
+  "name": "Shqip",
+  "flag": "🇦🇱",
+  "title": "JW Ministry — Aplikacioni për Dëshmitarët e Jehovait: Shërbimi në terren, Raporti dhe Territoret",
+  "description": "Aplikacioni falas i Dëshmitarëve të Jehovait për iPhone dhe iPad: kohëmatës i shërbimit në terren, raporti mujor, orët e pionierit, kalendar, orari i leximit të Biblës, zakonet dhe territoret shpirtërore.",
+  "keywords": "JW Ministry, Jehovai, dëshmitar, shërbim në terren, raport, kohëmatës, pionier, orë, bibël, studim, kalendar, rivizitë, territore, zakone shpirtërore, orar leximi të Biblës, miniaplikacion, planifikues, shënime",
+  "nav_screens": "Ekranet e aplikacioneve",
+  "nav_features": "Të gjitha veçoritë",
+  "nav_languages": "35+ gjuhë",
+  "nav_privacy": "Privatësia",
+  "nav_donate": "Projekti Mbështetës",
+  "nav_faq": "FAQ",
+  "badge": "E disponueshme për iPhone dhe iPad • Versioni 2.0.1 • 35+ gjuhë",
+  "hero_title": "Shërbimi në terren, Orari i Pionierit, Territoret dhe Leximi i Biblës",
+  "hero_sub": "Aplikacion falas, 100% privat për Dëshmitarët e Jehovait në iPhone dhe iPad: kohëmatës shërbimi i drejtpërdrejtë me miniaplikacione, raporte mujore, kalendar pionierësh, territore shtëpi më shtëpi, rivizita, studime biblike, zakone shpirtërore dhe një orar leximi i Biblës me 66 libra.",
+  "cta_appstore": "Shkarkoni në App Store",
+  "cta_donate": "Mbështetni Zhvilluesin",
+  "stat_1_val": "35+",
+  "stat_1_lbl": "Gjuhët e ndërfaqes",
+  "stat_2_val": "100%",
+  "stat_2_lbl": "Të dhëna jashtë linje dhe private",
+  "stat_3_val": "iOS & iPad",
+  "stat_3_lbl": "Dizajni vendas SwiftUI",
+  "stat_4_val": "0 Ads",
+  "stat_4_lbl": "Falas, pa abonime",
+  "screens_title": "Eksploroni çdo ekran të JW Ministry",
+  "screens_sub": "Pamjet aktuale të ekranit nga aplikacioni. Shfletoni të 8 ekranet - nga kohëmatësi i shërbimit të drejtpërdrejtë dhe lista e studentëve të Biblës deri te qëllimet pioniere të kalendarit, kartat e territorit dhe modaliteti i errët OLED.",
+  "shots": [
+    [
+      "1.jpg",
+      "1. Filloni Tab & Live Timer",
+      "Ndiqni kohën tuaj të shërbimit deri në të dytën (08:04:08). Ndalo, ruaj për të raportuar ose rivendos me një trokitje. Shtoni studimet e Biblës gjatë sesionit, bashkëngjitni studentë të veçantë të Biblës (p.sh., Alex), shkruani shënimet e sesionit (numri i territorit, shoqëruesi) dhe shikoni kohën totale të kaluar sot."
+    ],
+    [
+      "1-1.jpg",
+      "Zakonet shpirtërore dhe Unazat e Përparimit",
+      "Gjurmoni zakonet shpirtërore ditore, javore dhe mujore (Teksti ditor, leximi i Biblës, përgatitja e mbledhjeve, Adhurimi Familjar), hapni Tekstin Ditor direkt në JW Library dhe shtoni zakone të personalizuara."
+    ],
+    [
+      "1-2.jpg",
+      "Orari i leximit të Biblës",
+      "Rrjeti ndërveprues i të 66 librave të Biblës me 5 rrugë leximi (klasike, kronologjike, Ungjijtë e parë, balancuar, më e shkurtra e para), parashikimi i datës së përfundimit dhe leximi me 1 prekje në JW Library."
+    ],
+    [
+      "2.jpg",
+      "2. Menaxher i Studentëve të Biblës",
+      "Mbani një listë të organizuar të studentëve tuaj të Biblës. Regjistroni botimin, mësimin dhe pjesën e saktë të studimit (për shembull: 'Gëzojeni jetën përgjithmonë!, mësimi 24, pjesa 3') dhe shtoni studentë të rinj në sekonda."
+    ],
+    [
+      "3.jpg",
+      "3. Raportet mujore dhe viti i shërbimit",
+      "Kaloni midis viteve të shërbimit (2025–2026, 2026–2027), monitoroni orët totale të vitit të shërbimit dhe orët e mbetura, rishikoni çdo muaj me regjistrat e detajuar të sesioneve, numërimin e studimeve, etiketat e studentëve dhe ndani raportin tuaj mujor në datën 1."
+    ],
+    [
+      "4.jpg",
+      "4. Kalendari Pioneer & Progresi i Objektivit",
+      "Shihni rolin tuaj aktual (Pioner i rregullt – 50 orë, Ndihmës 15/30 orë ose Botues) dhe objektivin personal mujor (p.sh., 55 orë). Shiriti vizual i progresit tregon orët e përfunduara këtë muaj, orët e mbetura mujore dhe bilancin e plotë të vitit të shërbimit, së bashku me orarin tuaj ditor."
+    ],
+    [
+      "5.jpg",
+      "5. Kartat e territorit dhe regjistri derë më derë",
+      "Bashkangjit fotografi të hartave të territorit ose ndërtesave (p.sh., Territori A-8), filtro adresat dhe regjistro çdo vizitë me datën, statusin e vizitës (\"Vizita e parë\", \"Jo në shtëpi\", \"Refuzimi\") dhe shënimet e hyrjes si \"Nuk ka interfon\"."
+    ],
+    [
+      "6.jpg",
+      "6. Cilësimet fleksibël dhe kopje rezervë në renë kompjuterike",
+      "Eksportoni ose importoni kopje rezervë të plotë JSON përmes butonave të sipërm të resë kompjuterike. Konfiguro rolin tënd të shërbimit, objektivin e personalizuar të orës mujore, vitin e shërbimit shtator-gusht, rikujtuesit e raportit të 1-rë të muajit në orën 20:00 dhe njoftimet e vizitës së kthimit pas N ditësh."
+    ],
+    [
+      "7.jpg",
+      "7. Modaliteti i errët OLED i vërtetë i zi (Timer)",
+      "Projektuar për rehati gjatë dëshmisë në mbrëmje dhe kursim të baterisë në iPhone OLED. Thekset vjollce me kontrast të lartë i mbajnë kontrollet të qarta në çdo ndriçim."
+    ],
+    [
+      "8.jpg",
+      "8. Modaliteti i errët OLED (Cilësimet dhe objektivat)",
+      "Çdo ekran, fletë dhe miniaplikacion përshtatet pa probleme me paraqitjet e lehta dhe të errëta të sistemit iOS."
+    ]
+  ],
+  "feat_sec_title": "Gjithçka që ju nevojitet për një shërbim të organizuar",
+  "feat_sec_sub": "Ndërtuar në mënyrë specifike rreth rrjedhës reale të punës së lajmëtarëve, pionierëve ndihmës, pionierëve të rregullt dhe pionierëve specialë.",
+  "features": [
+    [
+      "⏱️",
+      "Kohëmatësi inteligjent, miniaplikacionet dhe aktivitetet e drejtpërdrejta",
+      "Nisni kohëmatësin tuaj të shërbimit nga aplikacioni, miniaplikacioni i ekranit bazë ose ekrani i kyçjes. Kohëmatësi juaj aktiv qëndron i dukshëm në Dynamic Island dhe në ekranin e kyçjes edhe kur iPhone juaj është i kyçur."
+    ],
+    [
+      "📚",
+      "Studimet e Biblës dhe Përparimi i Botimit",
+      "Lidhni studimet biblike drejtpërdrejt me shënimet tuaja të raporteve ditore. Gjurmo emrin e secilit student dhe mësimin aktual në \"Gëzoje jetën përgjithmonë!\" ose ndonjë ndihmës tjetër studimor."
+    ],
+    [
+      "📊",
+      "Rolet e shërbimit dhe objektivat e orëve personale",
+      "Mbështet Publisher, Auxiliary Pioneer (15 ose 30 orë), Regular Pioneer (50 orë), Special Pioneer / Misionary (90 / 100 orë), plus një zëvendësim të personalizuar të 'Objektivit Personal' (p.sh., 55 orë/muaj)."
+    ],
+    [
+      "🗓️",
+      "Viti i shërbimit (shtator–gusht) dhe kalendari",
+      "Planifikoni mbledhjet e shërbimit, oraret e përsëritura dhe Adhurimin Familjar në Kalendar. Krahasoni orët e planifikuara me ato aktuale, konvertoni seancat e planifikuara në shënime raporti me një rrëshqitje dhe gjurmoni qëllimin tuaj vjetor të pionierit."
+    ],
+    [
+      "🗺️",
+      "Territoret, apartamentet dhe rikujtuesit e vizitave",
+      "Krijoni karta për territore, ndërtesa shumëkatëshe dhe shtëpi private. Bashkangjit fotografi të hartës, karta me kod ngjyrash, kërko sipas adresës ose emrit të banorit dhe merr alarme rikujtuese automatike për të bërë rivizita."
+    ],
+    [
+      "🔒",
+      "100% privatësi në pajisje dhe kopje rezervë të plotë",
+      "Pa regjistrim, pa llogari, pa serverë të jashtëm dhe zero analitikë. Të gjitha regjistrimet dhe fotot e territorit qëndrojnë në vend në iPhone/iPad, me eksportimin dhe rivendosjen e menjëhershme të rezervimit në iCloud Drive ose Files."
+    ]
+  ],
+  "lang_sec_title": "Lokalizuar plotësisht në 35+ gjuhë",
+  "lang_sec_sub": "Ndërfaqja e aplikacionit, miniaplikacionet dhe njoftimet përputhen automatikisht me gjuhën e pajisjes suaj:",
+  "donate_badge": "Projekt i pavarur dhe pa reklama",
+  "donate_title": "Mbështetni zhvillimin e JW Ministry",
+  "donate_sub": "JW Ministry është krijuar dhe mirëmbahet nga një zhvillues i pavarur për përdorim personal. Nuk ka reklama, nuk ka nivele të paguara dhe nuk ka abonime. Nëse aplikacioni e bën më të lehtë shërbimin tuaj, mund të mbështesni përditësimet e ardhshme të iOS dhe rinovimin e licencës së Zhvilluesit të Apple:",
+  "card_fiat_title": "Mbështetje me kartë (në mbarë botën)",
+  "card_fiat_desc": "Këshillë e shpejtë një herë ose mbështetje mujore nga çdo vend nëpërmjet Boosty ose Patreon:",
+  "btn_boosty": "Mbështetje në Boosty (Cards / Apple Pay)",
+  "btn_patreon": "Mbështetje në Patreon",
+  "card_crypto_title": "Transferimi i drejtpërdrejtë i kriptove (0% tarifë për platformën)",
+  "card_crypto_desc": "Transferimi i menjëhershëm direkt në portofolin e zhvilluesit:",
+  "usdt_label": "USDT (vetëm Rrjeti TRC-20 / TRON):",
+  "ton_label": "TON / USDT (Rrjeti TON):",
+  "copy_btn": "Kopjo",
+  "copied_msg": "E kopjuar!",
+  "crypto_warn": "Për USDT (TRC-20), dërgoni asete vetëm nëpërmjet rrjetit TRON.",
+  "faq_title": "Pyetjet e bëra më shpesh",
+  "faqs": [
+    [
+      "Si e plotëson JW Library JW Library për Dëshmitarët e Jehovait?",
+      "Ndërsa JW Library përdoret për të lexuar Biblën, botimet dhe mbledhjet e kongregacionit, JW Ministry është krijuar me qëllim për të gjurmuar shërbimin tuaj personal: regjistrimin e orëve të raportit të shërbimit në terren, planifikimin e programit tuaj të rregullt ose të pionierit ndihmës (15, 30, 50 ose 100 orë), menaxhimin e të dhënave personale të territorit dhe gjurmimin e studentëve të Biblës."
+    ],
+    [
+      "Ku ruhen të dhënat e mia të shërbimit dhe shënimet e territorit?",
+      "Ekskluzivisht në pajisjen tuaj (iPhone ose iPad). Aplikacioni nuk ka bazë të dhënash të jashtme ose server cloud, duke siguruar konfidencialitet të plotë të shënimeve dhe adresave tuaja personale."
+    ],
+    [
+      "Si t'i transferoj të dhënat e mia në një iPhone ose iPad të ri?",
+      "Hapni skedën \"Cilësimet\" dhe trokitni lehtë mbi ikonën \"Ngarkimi në renë kompjuterike\" në këndin e sipërm djathtas për të eksportuar një skedar rezervë të plotë (duke përfshirë fotot e territorit) në iCloud Drive ose AirDrop. Në pajisjen tuaj të re, trokitni lehtë mbi ikonën e shkarkimit në renë kompjuterike për të rivendosur gjithçka me një prekje."
+    ],
+    [
+      "Si funksionojnë përkujtuesit automatikë të vizitës së kthimit?",
+      "Te Cilësimet → Njoftimet, aktivizoni \"Kujto për vizitat e kthimit në adresa\" dhe cakto intervalin (për shembull, 3 ditë). Nëse nuk keni regjistruar një vizitë vijuese në një adresë brenda asaj periudhe, aplikacioni do t'ju kujtojë butësisht."
+    ],
+    [
+      "A e mbështet aplikacioni Vitin e Shërbimit Shtator-Gusht?",
+      "po! Si skeda \"Raport\" dhe përmbledhja e \"Kalendarit\" llogaritin orët mujore dhe vjetore përgjatë vitit zyrtar të shërbimit shtator-gusht, duke përfshirë orët e mbetura drejt objektivit tuaj vjetor të pionierit."
+    ],
+    [
+      "A është JW Ministry një zëvendësim i mirë për ServicePlanner ose MyTime në iPhone?",
+      "po! JW Ministry mirëmbahet në mënyrë aktive për versionet më të fundit të iOS dhe iPadOS, duke shfaqur \"Aktivitete të drejtpërdrejta në ekranin e kyçjes\" dhe \"Ishulli dinamik\", miniaplikacione interaktive të ekranit bazë, një gjenerues i ndërtesave të banimit, gjurmimi i kalendarit të planifikuar dhe aktual dhe kopje rezervë të iCloud Drive me 1 trokitje."
+    ],
+    [
+      "A funksionon aplikacioni plotësisht jashtë linje gjatë shërbimit derë më derë?",
+      "Absolutisht. Të gjithë kohëmatësit, hartat e territorit, regjistrimet e apartamenteve dhe shënimet e studentëve të Biblës funksionojnë 100% jashtë linje pa kërkuar të dhëna celulare ose Wi-Fi."
+    ],
+    [
+      "A mund ta shndërroj një ngjarje të planifikuar të ministrisë në Kalendar në një hyrje Raporti?",
+      "po. Thjesht rrëshqitni shpejt në çdo seancë të planifikuar të ministrisë në Kalendar dhe trokitni lehtë mbi \"Për të raportuar\" - kohëzgjatja regjistrohet automatikisht në raportin tuaj mujor dhe zbritet nga orët e mbetura të planifikuara."
+    ],
+    [
+      "A përfshin JW Ministry një program leximi të Biblës të integruar me JW Library?",
+      "po! Nën skedën Zakonet në ekranin e fillimit, ju merrni një orar interaktiv të leximit të Biblës me 66 libra me 5 rrugë leximi (klasike, kronologjike, Ungjijtë e parë, Përzierje e ekuilibruar, më e shkurtra e para), një parashikim për datën e përfundimit dhe 1-trokitje e lidhjeve \"Lexo në JW Library\" për kapitullin tjetër të palexuar T ditor."
+    ],
+    [
+      "Si funksionon gjurmuesi i zakoneve shpirtërore?",
+      "Kjo ju lejon të kontrolloni zakonet shpirtërore ditore, javore dhe mujore (Teksti ditor, leximi i Biblës, përgatitja e mbledhjeve, Studimi Personal, Adhurimi Familjar, Transmetimi JW dhe paraqitja e raporteve) me unazat e përparimit vizual dhe mbështetje për zakonet e zakonshme."
+    ]
+  ],
+  "footer_privacy": "Politika e privatësisë",
+  "footer_issues": "Mbështetje dhe komente për GitHub",
+  "footer_contact": "Kontaktoni Zhvilluesin",
+  "seo_sec_title": "Ndërtuar për Shërbimin në Terren dhe Shërbimin e Pionierëve të Dëshmitarëve të Jehovait",
+  "seo_sec_sub": "Si i ndihmon JW Ministry lajmëtarët, pionierët ndihmës, pionierët e rregullt dhe pionierët specialë të organizojnë vitin e tyre të shërbimit.",
+  "seo_pillars": [
+    [
+      "Pionierë të rregullt dhe specialë (50, 90 dhe 100 orë / vit shërbimi 600 orë)",
+      "Të shërbesh si pionier i rregullt kërkon të mbash gjurmët e objektivit mujor 50 orësh dhe objektivit të vitit të shërbimit 600 orësh për muajin shtator-gusht. JW Ministry llogarit automatikisht orët e kryera të shërbimit, bilancin e mbetur mujor dhe progresin e plotë të vitit të shërbimit. Vendosni një objektiv personal mujor personal (p.sh., 55 orë), planifikoni ditët e shërbimit në Kalendar dhe krahasoni orët tuaja të planifikuara me kohën tuaj aktuale të raportuar."
+    ],
+    [
+      "Pionierët Ndihmës (15 dhe 30 orë) dhe Botuesit e Kongregacionit",
+      "Të bashkohesh në një fushatë speciale, në një vizitë të mbikëqyrësit qarkor ose në sezonin e Përkujtimit si pionier ndihmës? Kaloni rolin tuaj në Pionier ndihmës (15 orë ose 30 orë) në sekonda. Lajmëtarët e kongregacionit mund të regjistrojnë seancat ditore të shërbimit, të ndjekin studimet biblike dhe të mundësojnë një njoftim automatik në datën 1 të çdo muaji në orën 20:00, në mënyrë që të mos harroni kurrë të paraqisni raportin tuaj të shërbimit në fushë."
+    ],
+    [
+      "Territoret shtëpi më shtëpi, gjenerues apartamentesh dhe vizita të kthimit",
+      "Zëvendësoni fletët e letrës me karta të organizuara të territorit dixhital. Bashkangjit fotografi të hartave të territorit, karta me kod ngjyrash me 10 ngjyra elegant dhe gjenero ndërtesa të tëra apartamentesh shumëkatëshe sipas hyrjeve dhe dyshemeve me një prekje. Regjistroni statuset 'Vizita e parë', 'Jo në shtëpi' ose 'Refuzim', kërkoni në të gjitha territoret sipas adresës së rrugës ose emrit të banorit dhe merrni alarme rikujtuese automatike kur është koha për të bërë një vizitë kthimi."
+    ],
+    [
+      "Përparimi i studentëve të Biblës dhe Zëvendësimi modern i iOS për aplikacionet e vjetra",
+      "Mbani një listë të detajuar të studentëve tuaj të Biblës së bashku me botimin e tyre aktual të studimit (si p.sh. 'Gëzojeni jetën përgjithmonë!'), numrin e mësimit dhe seksionin. Bashkangjitni studentët drejtpërdrejt në seancën tuaj të kohëmatësit në mënyrë që numri i studimeve mujore të jetë gjithmonë i saktë. I krijuar në mënyrë origjinale me SwiftUI për modelet më të fundit të iPhone dhe iPad, JW Ministry është alternativa moderne ideale ndaj aplikacioneve të ndërprera si ServicePlanner, MyTime, NW Publisher, My Service & Bible, Field Service Assistant dhe Ministry Assistant."
+    ]
+  ],
+  "seo_tags_title": "Kërkimet popullore të shërbimit në terren të mbuluara nga JW Ministry:",
+  "seo_tags": [
+    "aplikacioni i shërbimit të dëshmitarit të Jehovait",
+    "raportin e shërbimit në terren të dëshmitarëve të Jehovait",
+    "orët e pionierëve të dëshmitarëve të Jehovait",
+    "jw Orari dhe orari i rregullt i pionierit",
+    "jw pionier ndihmës 15 dhe 30 orë",
+    "jw gjurmues special i orëve të pionierit",
+    "viti i shërbimit të dëshmitarëve të Jehovait 2026",
+    "jw & planifikues i vitit të shërbimit",
+    "jw aplikacioni i raportit të shërbimit në terren shkarkohet falas",
+    "jw aplikacioni i menaxherit të territorit për iOS",
+    "planifikues JW Ministry & koha ime jw alternativë",
+    "jw aplikacioni i orarit të leximit të Biblës",
+    "gjurmuesi i përditshëm i leximit të Biblës iPhone",
+    "jw zakonet shpirtërore dhe gjurmuesi rutinë",
+    "plani kronologjik i leximit të Biblës iOS"
+  ],
+  "qr_scan_title": "Skanoni me iPhone / iPad",
+  "qr_scan_sub": "Drejtoje kamerën për t'u hapur në App Store",
+  "shot_lang_label": "Gjuha e ndërfaqes në pamjet e ekranit:",
+  "comp_title": "Pse botuesit dhe pionierët kalojnë në JW Ministry",
+  "comp_sub": "Krahasimi krah për krah për gjurmimin e shërbimit në terren, planifikimin e pionierëve dhe menaxhimin e territorit.",
+  "comp_headers": [
+    "Veçori",
+    "Fletore letre",
+    "Aplikacionet e trashëgimisë",
+    "JW Ministry 2.0.1"
+  ],
+  "comp_rows": [
+    [
+      "Kohëmatësi i drejtpërdrejtë i ministrisë në ekranin e kyçjes dhe Dynamic Island",
+      "No",
+      "No",
+      "Po (Aktivitete të drejtpërdrejta)"
+    ],
+    [
+      "Llogaritësi i objektivave të Pioneer (15, 30, 50, 100 orë) dhe 600 orë Viti i shërbimit",
+      "Llogaritja manuale",
+      "I pjesshëm",
+      "Automatik + Qëllimi i personalizuar"
+    ],
+    [
+      "Konvertimi i planifikuar kundrejt kalendarit aktual dhe rrëshqitjes për të raportuar",
+      "No",
+      "No",
+      "Rrjedha e punës e integruar me 1 rrëshqitje"
+    ],
+    [
+      "Gjenerator i Ndërtesës së Apartamentit + Fotografitë e territorit dhe 10 etiketa me ngjyra",
+      "Rrëshqitjet e letrës",
+      "Vetëm tekst",
+      "Kartat e plota vizuale + kërkimi"
+    ],
+    [
+      "Rikujtuesit e vizitës së kthimit dhe njoftimi i raportit të muajit të parë",
+      "No",
+      "bazë",
+      "Njoftimet inteligjente iOS"
+    ],
+    [
+      "100% privatësi në pajisje dhe rezervim i plotë i iCloud Drive me fotografi",
+      "Lehtë për tu humbur",
+      "Shpesh prishet në iOS të ri",
+      "Rivendosja jashtë linje dhe e menjëhershme"
+    ],
+    [
+      "Mbështetje origjinale për iOS më të fundit, iPad, modalitetin e errët OLED dhe 35+ gjuhë",
+      "—",
+      "Ndërprerë",
+      "Arkitektura moderne SwiftUI"
+    ]
+  ],
+  "filter_all": "Të gjitha (10)",
+  "filter_light": "Dritë (8)",
+  "filter_dark": "E errët (2)",
+  "filter_ipad": "iPad",
+  "wn_title": "Çfarë ka të re në versionin 2.0.1",
+  "wn_items": [
+    "Gjurmuesi i ri i zakoneve shpirtërore në skedën \"Fillimi\": Unazat e përparimit ditor/javor/mujor, zakone të personalizuara, përcaktimi i statusit martesor për Adhurimin Familjar dhe një kujtesë urgjente e raportit në datën 5.",
+    "Orari i leximit të Biblës: 5 rrugë leximi, gjurmimi i kapitujve në të 66 librat, parashikimi i datës së përfundimit dhe 1-trokitje e lidhjeve 'Lexo në JW Library'.",
+    "Gjurmimi i qëllimeve të dyfishta në \"Kalendari dhe miniaplikacionet\": shikoni kërkesën tuaj për rol (p.sh., 30 orë / 50 orë) dhe një objektiv shtesë mujor personal në një unazë progresi të dyfishtë.",
+    "Mbështetje e plotë e strukturës përshtatëse për ekranet e palosshme të iPhone Duo dhe iPadOS.",
+    "U shtuan lidhjet \"Share aplikacionin\" dhe \"Uebsajtin e aplikacionit\" te \"Cilësimet\"."
+  ],
+  "howto_name": "Si të gjurmoni orët e shërbimit në terren dhe orarin e Pioneer në iPhone",
+  "howto_steps": [
+    [
+      "Përcaktoni rolin tuaj të shërbimit dhe objektivin mujor",
+      "Zgjidhni Publisher, Pioneer ndihmës (15/30 orë) ose Regular Pioneer (50 orë) te \"Cilësimet\" ose vendosni një objektiv të personalizuar të orës mujore."
+    ],
+    [
+      "Ekzekutoni kohëmatësin ose orarin e drejtpërdrejtë në Kalendar",
+      "Ndiqni shërbimin në terren në ekranin e kyçjes dhe Dynamic Island ose rrëshqitni ngjarjet e planifikuara të Kalendarit direkt në Raportin tuaj."
+    ],
+    [
+      "Territoret e trungjeve dhe studimet biblike",
+      "Regjistroni vizitat shtëpi më shtëpi, statuset e apartamenteve dhe bashkëngjitni studentët e Biblës me mësimin e tyre aktual."
+    ],
+    [
+      "Ndani raportin tuaj mujor të shërbimit në terren",
+      "Më 1 të muajit, hapni skedën \"Raporti\" për të rishikuar dhe ndarë orët tuaja të përfunduara dhe studimet biblike."
+    ]
+  ],
+  "nav_comp": "Krahasimi",
+  "sticky_sub": "iPhone & iPad • Falas",
+  "feature_badges": [
+    "Ndjekja e kohës • Aktivitete të drejtpërdrejta",
+    "Studime biblike • Ecuria e mësimit",
+    "Rolet e shërbimit • 15 / 30 / 50 / 100 orë",
+    "Viti i Shërbimit • Plani kundrejt aktual",
+    "Regjistri i territorit • Kërkimi dhe sinjalizimet",
+    "Privatësia në pajisje • Rezervimi i iCloud"
+  ],
+  "pillar_badges": [
+    "Shërbimi i rregullt dhe i pionierit special",
+    "Pionierët dhe Botuesit Ndihmës",
+    "Shtëpi më shtëpi dhe territore personale",
+    "Studime Biblike dhe Dizajn Modern i iOS"
+  ],
+  "pillar_Checklists": [
+    [
+      "Gjurmimi automatik i vitit të shërbimit 50 orë mujor dhe 600 orë shtator-gusht",
+      "Anulimi i personalizuar i objektivit të orës (p.sh., 55 orë/muaj)",
+      "Shiriti i dyfishtë i përparimit që krahason orët e planifikuara me orët e raportuara"
+    ],
+    [
+      "Kaloni me një trokitje në objektivat e Pioneer ndihmës për 15 orë ose 30 orë",
+      "Formatimi dhe ndarja e menjëhershme e raportit mujor në datën 1",
+      "Njoftim i butë përkujtues në datën 1 të çdo muaji në orën 20:00"
+    ],
+    [
+      "Gjenerator apartamentesh shumëkatëshe sipas hyrjeve dhe kateve",
+      "Fotot e hartës së territorit, 10 tema me ngjyra dhe kërkimi i menjëhershëm i banorit/adresës",
+      "Përkujtues të automatizuar të vizitave të kthimit pas numrit të ditëve të zgjedhura"
+    ],
+    [
+      "Ndiqni mësimet e sakta në \"Gëzojeni jetën përgjithmonë!\" për çdo student",
+      "Ndërtuar në mënyrë origjinale për iOS dhe iPadOS me Dynamic Island dhe modalitetin e errët OLED",
+      "Zëvendësim i plotë modern për aplikacionet e vjetra ServicePlanner & MyTime"
+    ]
+  ],
+  "rev_title": "Pëlqyer nga Publishers & Pioneers Worldwide",
+  "rev_sub": "Reagime të vërteta nga vëllezërit dhe motrat që përdorin JW Ministry në shërbimin e tyre të përditshëm në terren.",
+  "reviews": [
+    [
+      "Alex, Pionier i rregullt",
+      "Të kesh orët e planifikuara mujore të totalit automatikisht në Kalendar së bashku me orët e mia aktuale të raportuara është një ndryshim i lojës për të mbajtur orarin tim 50-orësh në rrugën e duhur."
+    ],
+    [
+      "Sara, Pionierja Ndihmëse",
+      "Kohëmatësi i aktivitetit të drejtpërdrejtë të kyçjes së ekranit dhe konvertimi me 1 rrëshqitje nga planet e \"Kalendarit\" për të raportuar hyrjet e bëjnë gjurmimin 15 dhe 30 orë të lehtë. E pastër, e shpejtë dhe 100% private."
+    ],
+    [
+      "David, Botues i Kongregacionit",
+      "Gjeneratori i ndërtesës së apartamenteve dhe kërkimi i menjëhershëm i shënimeve të territorit zëvendësuan të gjitha fletët e mia. Përkujtuesit e vizitës së kthimit më ndihmojnë të mos humbas kurrë një vazhdim."
+    ]
+  ],
+  "privacy_page": {
+    "page_title": "Politika e privatësisë dhe mbështetja e përdoruesit — Ministria e JW",
+    "meta_desc": "Politika zyrtare e privatësisë dhe mbështetja e përdoruesit për aplikacionin JW Ministry iOS dhe iPadOS. 100% ruajtja lokale e të dhënave në pajisje me zero serverë të jashtëm.",
+    "back_home": "Kthehu në shtëpi",
+    "sup_title": "JW Ministry — Mbështetja e përdoruesit",
+    "sup_desc": "Nëse keni pyetje, sugjerime për veçori të reja ose keni gjetur një gabim në aplikacion, mos ngurroni të kontaktoni zhvilluesin:",
+    "sup_issues": "Raportoni një problem (GitHub)",
+    "sup_store": " JW Ministry në App Store",
+    "updated": "Përditësimi i fundit: 5 dhjetor 2025",
+    "h1": "Politika e privatësisë për \"JW Ministry\"",
+    "intro": "Kjo Politikë e Privatësisë shpjegon se si aplikacioni celular <strong>“JW Ministry”</strong> (“Aplikacioni”) trajton informacionin e përdoruesit. Parimi ynë kryesor është <strong>100% privatësi: të gjitha regjistrimet që krijoni ruhen ekskluzivisht në pajisjen tënde</strong>.",
+    "s1_t": "1. Të dhënat e krijuara dhe të ruajtura në aplikacion",
+    "s1_p": "Të gjitha të dhënat në Aplikacion futen vullnetarisht nga përdoruesi për organizimin dhe planifikimin e shërbimit personal në terren:",
+    "s1_ul": [
+      "<strong>Hyrjet dhe raportet e kohës së shërbimit:</strong> datat, kohëzgjatja, numri i studimit të Biblës dhe shënimet e sesioneve.",
+      "<strong>Oraret e kalendarit:</strong> ngjarjet e planifikuara të ministrisë, datat, oraret dhe cilësimet e përsëritjes.",
+      "<strong>Lista e studentëve të Biblës:</strong> emrat/etiketat e studentëve dhe shënimet e përparimit të botimit të studimit.",
+      "<strong>Territoret dhe adresat:</strong> emrat e territoreve, listat e shtëpive/apartamenteve, historiku i vizitave, shënimet dhe fotot e kartave të territorit të zgjedhura nga përdoruesi nga Biblioteka e Fotografive.",
+      "<strong>Cilësimet e aplikacionit:</strong> roli i zgjedhur i shërbimit, objektivi personal i orës mujore dhe preferencat e njoftimeve."
+    ],
+    "s2_t": "2. 100% hapësirë ruajtëse lokale në pajisje dhe pa ndarje nga palët e treta",
+    "s2_ul": [
+      "Të gjitha të dhënat ruhen <strong>vetëm në iPhone ose iPad tuaj</strong> brenda kontejnerit të sigurt të ruajtjes së iOS / iPadOS.",
+      "Aplikacioni nuk kërkon <strong>pa regjistrim</strong> dhe asnjë llogari përdoruesi.",
+      "Zhvilluesi nuk ka <strong>nuk ka qasje</strong> në të dhënat tuaja, nuk mbledh të dhëna analitike ose vendndodhjeje dhe <strong>nuk transmeton ose ndan</strong> asnjë të dhënë me serverë të jashtëm ose palë të treta."
+    ],
+    "s3_t": "3. Lejet e pajisjes (Fotografitë dhe Njoftimet)",
+    "s3_ul": [
+      "<strong>Biblioteka e fotografive:</strong> kërkohet vetëm kur zgjidhni t'i bashkëngjitni një hartë ose një fotografi ndërtimi në një kartë territori. Imazhet e zgjedhura ruhen lokalisht brenda dosjes së aplikacionit në pajisjen tuaj.",
+      "<strong>Njoftimet:</strong> përdoren ekskluzivisht për alarmet rikujtuese lokale në pajisje (të tilla si rikujtuesit e raportit të 1-të të muajit ose rikujtuesit e vizitës së kthimit)."
+    ],
+    "s4_t": "4. Rezervimet dhe fshirja e të dhënave",
+    "s4_p": "Ju mund të eksportoni një skedar të plotë rezervë (përfshirë fotot e territorit) në çdo kohë nëpërmjet fletës standarde të përbashkët të iOS (për shembull, duke e ruajtur në aplikacionin tuaj personal iCloud Drive ose Files). Çinstalimi i aplikacionit nga pajisja juaj fshin përgjithmonë të gjitha të dhënat lokale të aplikacionit.",
+    "s5_t": "5. Kontaktoni",
+    "s5_p": "Nëse keni ndonjë pyetje në lidhje me këtë politikë të privatësisë ose aplikacionin, ju lutemi kontaktoni zhvilluesin në:"
+  },
+  "filter_duo": "iPhone Duo",
+  "wn_items_18": [
+    "Totali i orëve të planifikuara mujore automatike në Kalendar me një shirit të dyfishtë të progresit të planifikuar dhe aktual.",
+    "Konvertimi 1-rrëshqitës i çdo sesioni të planifikuar të ministrisë së Kalendarit drejtpërdrejt në një hyrje mujore të Raportit.",
+    "Kërkim i menjëhershëm sipas adresës së rrugës ose emrit të banorit nëpër territore, plus 10 tema me ngjyra për kartat e territorit.",
+    "Mbështetja e vitit të ardhshëm të shërbimit (2026–2027) në skedën e Raportit me një përmbledhje të hijshme të bilancit vjetor.",
+    "Optimizimi i plotë për versionet më të fundit të iOS dhe iPadOS dhe mbrojtje e përmirësuar e rezervimit në pajisje."
+  ],
+  "bible_page": {
+    "title": "5 Planet e orarit të leximit të Biblës dhe gjurmuesi i zakoneve shpirtërore | Ministria e JW",
+    "desc": "Orari i përshtatshëm ditor i leximit të Biblës për iPhone dhe iPad: të 66 librat, 5 plane (klasike, kronologjike dhe më shumë), parashikimi i përfundimit dhe integrimi i JW Library.",
+    "h1": "Orari i leximit të Biblës dhe gjurmuesi i zakoneve shpirtërore",
+    "intro": "Gjurmoni çdo kapitull në të 66 librat e Biblës, zgjidhni nga 5 planet e leximit, shikoni datën e parashikuar të përfundimit dhe hapni kapitullin tjetër të palexuar ose Tekstin ditor direkt në JW Library.",
+    "routes_title": "5 Plane të integruara të leximit të Biblës",
+    "s1_t": "Rrjeti ndërveprues i librave 66",
+    "s1_d": "Shikoni kapitujt dhe gjurmoni përparimin në Shkrimet Hebraike dhe të Krishtere Greke.",
+    "s2_t": "Zakonet e përditshme shpirtërore",
+    "s2_d": "Përparimi tingëllon për ditën, javën dhe muajin plus Teksti ditor me 1 prekje në JW Library.",
+    "routes": [
+      [
+        "1. Klasik",
+        "Nga Zanafilla te Zbulesa - lexim vijues i të gjithë Biblës."
+      ],
+      [
+        "2. Kronologjike",
+        "Libra të renditur sipas radhës së ngjarjeve dhe shkrimeve historike."
+      ],
+      [
+        "3. Ungjijtë së pari",
+        "Filloni me Shkrimet e Krishtere Greke dhe më pas kaloni te Shkrimet Hebraike."
+      ],
+      [
+        "4. Përzierje e ekuilibruar",
+        "Alternimi i historisë, poezisë dhe ungjijve për shumëllojshmërinë e përditshme."
+      ],
+      [
+        "5. Më e shkurtra e para",
+        "Nga librat më të shkurtër tek më të gjatët për një ndjenjë të shpejtë përparimi."
+      ]
+    ]
+  },
+  "calc_page": {
+    "title": "Llogaritësi i orarit të Pioneer (15, 30, 50 dhe 600 orë) | JW Ministry",
+    "desc": "Llogaritësi falas në internet i orëve të pionierit për Dëshmitarët e Jehovait. Llogaritni programin tuaj javor dhe ditor të shërbimit në fushë për 15 orë, 30 orë shërbimi ndihmës ose 50 orë pionier të rregullt (600 orë vit shërbimi).",
+    "h1": "Llogaritësi i orarit të Pioneer",
+    "intro": "Planifikoni orët tuaja të shërbimit në terren për 15 orë ose 30 orë Pioneer ndihmës, 50 orë për Pioneer të rregullt (600 orë në vit shërbimi) ose një objektiv të personalizuar.",
+    "label_goal": "Objektivi mujor",
+    "opt_15": "Pioneer ndihmës - 15 orë në muaj",
+    "opt_30": "Pioneer ndihmës - 30 orë në muaj",
+    "opt_50": "Regular Pioneer - 50 orë në muaj",
+    "opt_90": "Special Pioneer - 90 orë në muaj",
+    "opt_100": "Special Pioneer - 100 orë në muaj",
+    "label_days": "Ditët e ministrisë në javë",
+    "res_week": "Orë në javë",
+    "res_day": "Orë në ditë shërbimi",
+    "res_year": "Për vit shërbimi",
+    "unit_h": "h",
+    "cta_app": "Regjistro orarin në JW Ministry",
+    "cta_bible": "Orari i leximit të Biblës"
+  }
+}

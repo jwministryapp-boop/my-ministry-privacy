@@ -1,0 +1,858 @@
+<!DOCTYPE html>
+<html lang="fil">
+<head>
+  <script>if(window.location.pathname.endsWith('/index.html')){window.history.replaceState(null,'',window.location.pathname.slice(0,-10)+window.location.search+window.location.hash);}</script>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>JW Ministry — App para sa mga Saksi ni Jehova: Field Service, Report at Teritoryo</title>
+  <meta name="description" content="Libreng Jehovah's Witnesses app para sa iPhone at iPad: field service timer, buwanang ulat, oras ng pioneer, kalendaryo, iskedyul ng pagbabasa ng Bibliya, espirituwal na gawi at teritoryo." />
+  <meta name="keywords" content="JW Ministry, jehova, saksi, paglilingkod sa larangan, ulat, timer, pioneer, oras, bibliya, pag-aaral, kalendaryo, pagbisita muli, teritoryo, espirituwal na gawi, iskedyul ng pagbabasa ng bibliya, widget, planner, mga tala" />
+  <meta name="robots" content="index, follow, max-image-preview:large" />
+  <meta name="apple-itunes-app" content="app-id=6756040136" />
+  <link rel="icon" type="image/png" href="../assets/logo.png" />
+  <link rel="apple-touch-icon" href="../assets/logo.png" />
+  <link rel="canonical" href="https://jwministry.org/fil/" />
+  <link rel="alternate" hreflang="x-default" href="https://jwministry.org/" />
+  <link rel="alternate" hreflang="af" href="https://jwministry.org/af/" />
+  <link rel="alternate" hreflang="id" href="https://jwministry.org/id/" />
+  <link rel="alternate" hreflang="da" href="https://jwministry.org/da/" />
+  <link rel="alternate" hreflang="de" href="https://jwministry.org/de/" />
+  <link rel="alternate" hreflang="en" href="https://jwministry.org/" />
+  <link rel="alternate" hreflang="es" href="https://jwministry.org/es/" />
+  <link rel="alternate" hreflang="fil" href="https://jwministry.org/fil/" />
+  <link rel="alternate" hreflang="fr" href="https://jwministry.org/fr/" />
+  <link rel="alternate" hreflang="hr" href="https://jwministry.org/hr/" />
+  <link rel="alternate" hreflang="rw" href="https://jwministry.org/rw/" />
+  <link rel="alternate" hreflang="it" href="https://jwministry.org/it/" />
+  <link rel="alternate" hreflang="lt" href="https://jwministry.org/lt/" />
+  <link rel="alternate" hreflang="hu" href="https://jwministry.org/hu/" />
+  <link rel="alternate" hreflang="nl" href="https://jwministry.org/nl/" />
+  <link rel="alternate" hreflang="nb" href="https://jwministry.org/nb/" />
+  <link rel="alternate" hreflang="pl" href="https://jwministry.org/pl/" />
+  <link rel="alternate" hreflang="pt" href="https://jwministry.org/pt/" />
+  <link rel="alternate" hreflang="ro" href="https://jwministry.org/ro/" />
+  <link rel="alternate" hreflang="sq" href="https://jwministry.org/sq/" />
+  <link rel="alternate" hreflang="sk" href="https://jwministry.org/sk/" />
+  <link rel="alternate" hreflang="sr" href="https://jwministry.org/sr/" />
+  <link rel="alternate" hreflang="fi" href="https://jwministry.org/fi/" />
+  <link rel="alternate" hreflang="sv" href="https://jwministry.org/sv/" />
+  <link rel="alternate" hreflang="tr" href="https://jwministry.org/tr/" />
+  <link rel="alternate" hreflang="cs" href="https://jwministry.org/cs/" />
+  <link rel="alternate" hreflang="el" href="https://jwministry.org/el/" />
+  <link rel="alternate" hreflang="bg" href="https://jwministry.org/bg/" />
+  <link rel="alternate" hreflang="ru" href="https://jwministry.org/ru/" />
+  <link rel="alternate" hreflang="uk" href="https://jwministry.org/uk/" />
+  <link rel="alternate" hreflang="hi" href="https://jwministry.org/hi/" />
+  <link rel="alternate" hreflang="th" href="https://jwministry.org/th/" />
+  <link rel="alternate" hreflang="ka" href="https://jwministry.org/ka/" />
+  <link rel="alternate" hreflang="ja" href="https://jwministry.org/ja/" />
+  <link rel="alternate" hreflang="zh" href="https://jwministry.org/zh/" />
+  <link rel="alternate" hreflang="ko" href="https://jwministry.org/ko/" />
+
+  <meta property="og:type" content="website" />
+  <meta property="og:locale" content="fil_PH" />
+  <meta property="og:site_name" content="JW Ministry" />
+  <meta property="og:title" content="JW Ministry — App para sa mga Saksi ni Jehova: Field Service, Report at Teritoryo" />
+  <meta property="og:description" content="Libreng Jehovah's Witnesses app para sa iPhone at iPad: field service timer, buwanang ulat, oras ng pioneer, kalendaryo, iskedyul ng pagbabasa ng Bibliya, espirituwal na gawi at teritoryo." />
+  <meta property="og:url" content="https://jwministry.org/fil/" />
+  <meta property="og:image" content="https://jwministry.org/screenshots/Filipino/1.jpg" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="JW Ministry — App para sa mga Saksi ni Jehova: Field Service, Report at Teritoryo" />
+  <meta name="twitter:description" content="Libreng Jehovah's Witnesses app para sa iPhone at iPad: field service timer, buwanang ulat, oras ng pioneer, kalendaryo, iskedyul ng pagbabasa ng Bibliya, espirituwal na gawi at teritoryo." />
+  <meta name="twitter:image" content="https://jwministry.org/screenshots/Filipino/1.jpg" />
+
+  <link rel="stylesheet" href="../assets/css/style.css" />
+  <script type="application/ld+json">
+[
+  {
+    "@context": "https://schema.org",
+    "@type": "MobileApplication",
+    "name": "JW Ministry",
+    "operatingSystem": "iOS 16.0 or later, iPadOS 16.0 or later",
+    "applicationCategory": "LifestyleApplication",
+    "url": "https://jwministry.org/fil/",
+    "downloadUrl": "https://apps.apple.com/us/app/jw-ministry/id6756040136",
+    "inLanguage": [
+      "af",
+      "id",
+      "da",
+      "de",
+      "en",
+      "es",
+      "fil",
+      "fr",
+      "hr",
+      "rw",
+      "it",
+      "lt",
+      "hu",
+      "nl",
+      "nb",
+      "pl",
+      "pt",
+      "ro",
+      "sq",
+      "sk",
+      "sr",
+      "fi",
+      "sv",
+      "tr",
+      "cs",
+      "el",
+      "bg",
+      "ru",
+      "uk",
+      "hi",
+      "th",
+      "ka",
+      "ja",
+      "zh",
+      "ko"
+    ],
+    "description": "Libreng Jehovah's Witnesses app para sa iPhone at iPad: field service timer, buwanang ulat, oras ng pioneer, kalendaryo, iskedyul ng pagbabasa ng Bibliya, espirituwal na gawi at teritoryo.",
+    "softwareVersion": "2.0.1",
+    "screenshot": [
+      "https://jwministry.org/screenshots/Filipino/1.jpg",
+      "https://jwministry.org/screenshots/Filipino/1-1.jpg",
+      "https://jwministry.org/screenshots/Filipino/1-2.jpg",
+      "https://jwministry.org/screenshots/Filipino/2.jpg",
+      "https://jwministry.org/screenshots/Filipino/3.jpg",
+      "https://jwministry.org/screenshots/Filipino/4.jpg",
+      "https://jwministry.org/screenshots/Filipino/5.jpg",
+      "https://jwministry.org/screenshots/Filipino/6.jpg",
+      "https://jwministry.org/screenshots/Filipino/7.jpg",
+      "https://jwministry.org/screenshots/Filipino/8.jpg",
+      "https://jwministry.org/screenshots/iPad/1.png",
+      "https://jwministry.org/screenshots/iPad/2.png",
+      "https://jwministry.org/screenshots/iPad/3.png",
+      "https://jwministry.org/screenshots/iPad/4.png",
+      "https://jwministry.org/screenshots/iPad/5.png",
+      "https://jwministry.org/screenshots/iPad/6.png",
+      "https://jwministry.org/screenshots/iPad/7.png",
+      "https://jwministry.org/screenshots/iPad/8.png",
+      "https://jwministry.org/screenshots/Duo/duo-1.jpg",
+      "https://jwministry.org/screenshots/Duo/duo-2.jpg",
+      "https://jwministry.org/screenshots/Duo/duo-3.jpg",
+      "https://jwministry.org/screenshots/Duo/duo-4.jpg"
+    ],
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "USD"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5.0",
+      "bestRating": "5",
+      "ratingCount": "28"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "Paano tinutulungan ng JW Ministry ang JW Library para sa mga Saksi ni Jehova?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Bagaman ginagamit ang JW Library sa pagbabasa ng Bibliya, mga publikasyon, at mga pulong ng kongregasyon, ang JW Ministry ay sadyang binuo para sa pagsubaybay sa iyong personal na ministeryo sa larangan: pagtala ng mga oras ng ulat sa paglilingkod sa larangan, pagpaplano ng iyong iskedyul ng regular o auxiliary pioneer (15, 30, 50, o 100 oras), pamamahala ng mga personal na rekord ng teritoryo, at pagsubaybay sa mga estudyante sa Bibliya."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Saan nakaimbak ang aking mga tala sa ministeryo at mga tala sa teritoryo?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Eksklusibo sa iyong device (iPhone o iPad). Ang app ay walang panlabas na database o cloud server, na tinitiyak ang kumpletong pagiging kumpidensyal ng iyong mga personal na tala at address."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Paano ko ililipat ang aking data sa isang bagong iPhone o iPad?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Buksan ang tab na Mga Setting at i-tap ang icon ng Cloud Upload sa kanang sulok sa itaas para mag-export ng buong backup na file (kabilang ang mga larawan sa teritoryo) sa iCloud Drive o AirDrop. Sa iyong bagong device, i-tap ang icon ng Cloud Download para i-restore ang lahat sa isang tap."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Paano gumagana ang mga awtomatikong paalala sa pagbalik-bisita?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Sa Mga Setting → Mga Notification, paganahin ang 'Ipaalala ang tungkol sa mga pagbisitang muli sa mga address' at itakda ang pagitan (halimbawa, 3 araw). Kung hindi ka pa nakakapag-log ng follow-up na pagbisita sa isang address sa loob ng panahong iyon, malumanay na ipapaalala sa iyo ng app."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Sinusuportahan ba ng app ang Setyembre–Agosto ng Taon ng Serbisyo?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Oo! Parehong kinakalkula ng tab na Ulat at buod ng Kalendaryo ang buwanan at taunang oras sa opisyal na taon ng paglilingkod noong Setyembre–Agosto, kasama ang mga natitirang oras patungo sa iyong taunang layunin sa pagpapayunir."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Ang JW Ministry ba ay isang magandang kapalit para sa ServicePlanner o MyTime sa iPhone?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Oo! Aktibong pinapanatili ang JW Ministry para sa pinakabagong mga release ng iOS at iPadOS, na nagtatampok ng Mga Live na Aktibidad sa Lock Screen at Dynamic Island, mga interactive na widget ng Home Screen, generator ng gusali ng apartment, Planned vs. Aktwal na pagsubaybay sa kalendaryo, at 1-tap na mga backup ng iCloud Drive."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Ganap bang gumagana ang app nang offline sa panahon ng ministeryo sa pintuan-bahay?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Talagang. Lahat ng timer, mapa ng teritoryo, rekord ng apartment, at tala ng estudyante sa Bibliya ay gumagana nang 100% offline nang hindi nangangailangan ng mobile data o Wi-Fi."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Maaari ko bang i-convert ang isang nakaplanong kaganapan sa ministeryo sa Kalendaryo sa isang ulat na entry?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Oo. Mag-swipe lang sa anumang nakaplanong sesyon ng ministeryo sa Kalendaryo at i-tap ang 'Upang Mag-ulat' — ang tagal ay awtomatikong naka-log in sa iyong buwanang ulat at ibabawas sa iyong mga natitirang nakaplanong oras."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "May kasama bang Bible Reading Schedule ang JW Ministry kasama ng JW Library?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Oo! Sa ilalim ng tab na Mga Habit sa Start screen, makakakuha ka ng interactive na 66-aklat na Iskedyul sa Pagbasa ng Bibliya na may 5 ruta sa pagbabasa (Classic, Chronological, Gospels First, Balanced Mix, Shortest First), isang hula sa petsa ng pagtatapos, at 1-tap na 'Read in JW Library' na mga link para sa susunod na hindi pa nababasang chapter at Daily Text."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Paano gumagana ang tagasubaybay ng Spiritual Habits?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Hinahayaan ka nitong suriin ang pang-araw-araw, lingguhan, at buwanang espirituwal na mga gawi (Araw-araw na Teksto, pagbabasa ng Bibliya, paghahanda sa pulong, Personal na Pag-aaral, Pampamilyang Pagsamba, JW Broadcasting, at pagsusumite ng ulat) gamit ang visual progress ring at suporta para sa custom na mga gawi."
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "HowTo",
+    "name": "Paano Subaybayan ang Mga Oras ng Field Service at Iskedyul ng Pioneer sa iPhone",
+    "step": [
+      {
+        "@type": "HowToStep",
+        "position": 1,
+        "name": "Itakda ang iyong tungkulin sa serbisyo at buwanang target",
+        "text": "Piliin ang Publisher, Auxiliary Pioneer (15/30 h), o Regular Pioneer (50 h) sa Mga Setting, o magtakda ng custom na buwanang target na oras."
+      },
+      {
+        "@type": "HowToStep",
+        "position": 2,
+        "name": "Patakbuhin ang live na timer o iskedyul sa Calendar",
+        "text": "Subaybayan ang field ministry sa Lock Screen at Dynamic Island, o direktang mag-swipe ng mga nakaiskedyul na kaganapan sa Kalendaryo sa iyong Ulat."
+      },
+      {
+        "@type": "HowToStep",
+        "position": 3,
+        "name": "Mag-log ng mga teritoryo at pag-aaral sa Bibliya",
+        "text": "Itala ang mga pagbisita sa bahay-bahay, mga status sa apartment, at ilakip ang mga estudyante sa Bibliya sa kanilang kasalukuyang aralin."
+      },
+      {
+        "@type": "HowToStep",
+        "position": 4,
+        "name": "Ibahagi ang iyong buwanang ulat sa paglilingkod sa larangan",
+        "text": "Sa ika-1 ng buwan, buksan ang tab na Ulat upang suriin at ibahagi ang iyong mga nakumpletong oras at pag-aaral sa Bibliya."
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "JW Ministry",
+        "item": "https://jwministry.org/"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Filipino",
+        "item": "https://jwministry.org/fil/"
+      }
+    ]
+  }
+]
+  </script>
+  
+  <!-- Google Tag Manager -->
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    window.dataLayer.push({'gtm.start': new Date().getTime(), event: 'gtm.js'});
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+  </script>
+  <script async src="https://www.googletagmanager.com/gtm.js?id=GTM-MLGW4TF3"></script>
+</head>
+<body data-prefix="..">
+
+  <header class="topbar">
+    <div class="container topbar-inner">
+      <a href="../index.html" class="brand">
+        <img src="../assets/logo.png" alt="JW Ministry App Icon" class="brand-logo" width="38" height="38" />
+        <span>JW Ministry</span>
+      </a>
+
+      <div class="nav-right">
+        <nav class="nav-links">
+          <a href="#screens">Mga Screen ng App</a>
+          <a href="#features">Lahat ng Mga Tampok</a>
+          <a href="#comparison">Paghahambing</a>
+          <a href="#languages">35+ Wika</a>
+          <a href="#faq">FAQ</a>
+          <a href="./privacy-policy.html">Pagkapribado</a>
+          <a href="#donate" class="nav-donate-pill">Proyekto ng Suporta</a>
+        </nav>
+
+        <div class="lang-dropdown" id="lang-dropdown">
+          <button class="lang-trigger" onclick="toggleLangDropdown(event)" aria-label="Select language">
+            <span>🇵🇭</span>
+            <span>Filipino</span>
+            <svg viewBox="0 0 12 12" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M2.5 4.5L6 8L9.5 4.5"/></svg>
+          </button>
+          <div class="lang-menu">
+            <a href="../af/index.html" class="lang-pill "><span>🇿🇦</span> Afrikaans</a>
+        <a href="../id/index.html" class="lang-pill "><span>🇮🇩</span> Bahasa Indonesia</a>
+        <a href="../da/index.html" class="lang-pill "><span>🇩🇰</span> Dansk</a>
+        <a href="../de/index.html" class="lang-pill "><span>🇩🇪</span> Deutsch</a>
+        <a href="../en/index.html" class="lang-pill "><span>🇺🇸</span> English</a>
+        <a href="../es/index.html" class="lang-pill "><span>🇪🇸</span> Español</a>
+        <a href="../fil/index.html" class="lang-pill active"><span>🇵🇭</span> Filipino</a>
+        <a href="../fr/index.html" class="lang-pill "><span>🇫🇷</span> Français</a>
+        <a href="../hr/index.html" class="lang-pill "><span>🇭🇷</span> Hrvatski</a>
+        <a href="../rw/index.html" class="lang-pill "><span>🇷🇼</span> Ikinyarwanda</a>
+        <a href="../it/index.html" class="lang-pill "><span>🇮🇹</span> Italiano</a>
+        <a href="../lt/index.html" class="lang-pill "><span>🇱🇹</span> Lietuvių</a>
+        <a href="../hu/index.html" class="lang-pill "><span>🇭🇺</span> Magyar</a>
+        <a href="../nl/index.html" class="lang-pill "><span>🇳🇱</span> Nederlands</a>
+        <a href="../nb/index.html" class="lang-pill "><span>🇳🇴</span> Norsk Bokmål</a>
+        <a href="../pl/index.html" class="lang-pill "><span>🇵🇱</span> Polski</a>
+        <a href="../pt/index.html" class="lang-pill "><span>🇧🇷</span> Português</a>
+        <a href="../ro/index.html" class="lang-pill "><span>🇷🇴</span> Română</a>
+        <a href="../sq/index.html" class="lang-pill "><span>🇦🇱</span> Shqip</a>
+        <a href="../sk/index.html" class="lang-pill "><span>🇸🇰</span> Slovenčina</a>
+        <a href="../sr/index.html" class="lang-pill "><span>🇷🇸</span> Srpski</a>
+        <a href="../fi/index.html" class="lang-pill "><span>🇫🇮</span> Suomi</a>
+        <a href="../sv/index.html" class="lang-pill "><span>🇸🇪</span> Svenska</a>
+        <a href="../tr/index.html" class="lang-pill "><span>🇹🇷</span> Türkçe</a>
+        <a href="../cs/index.html" class="lang-pill "><span>🇨🇿</span> Čeština</a>
+        <a href="../el/index.html" class="lang-pill "><span>🇬🇷</span> Ελληνικά</a>
+        <a href="../bg/index.html" class="lang-pill "><span>🇧🇬</span> Български</a>
+        <a href="../ru/index.html" class="lang-pill "><span>🇷🇺</span> Русский</a>
+        <a href="../uk/index.html" class="lang-pill "><span>🇺🇦</span> Українська</a>
+        <a href="../hi/index.html" class="lang-pill "><span>🇮🇳</span> हिन्दी</a>
+        <a href="../th/index.html" class="lang-pill "><span>🇹🇭</span> ไทย</a>
+        <a href="../ka/index.html" class="lang-pill "><span>🇬🇪</span> ქართული</a>
+        <a href="../ja/index.html" class="lang-pill "><span>🇯🇵</span> 日本語</a>
+        <a href="../zh/index.html" class="lang-pill "><span>🇹🇼</span> 繁體中文</a>
+        <a href="../ko/index.html" class="lang-pill "><span>🇰🇷</span> 한국어</a>
+          </div>
+        </div>
+
+        <button class="mobile-menu-btn" onclick="toggleMobileMenu()" aria-label="Menu">
+          <svg id="burger-icon-open" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"><line x1="4" y1="7" x2="20" y2="7"/><line x1="4" y1="12" x2="20" y2="12"/><line x1="4" y1="17" x2="20" y2="17"/></svg>
+          <svg id="burger-icon-close" style="display:none;" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"><line x1="6" y1="6" x2="18" y2="18"/><line x1="6" y1="18" x2="18" y2="6"/></svg>
+        </button>
+      </div>
+    </div>
+
+    <div class="mobile-drawer" id="mobile-drawer">
+      <nav class="mobile-nav-list">
+        <a href="#screens" onclick="closeMobileMenu()"><span>Mga Screen ng App</span><span>›</span></a>
+        <a href="#features" onclick="closeMobileMenu()"><span>Lahat ng Mga Tampok</span><span>›</span></a>
+        <a href="#comparison" onclick="closeMobileMenu()"><span>Paghahambing</span><span>›</span></a>
+        <a href="#languages" onclick="closeMobileMenu()"><span>35+ Wika</span><span>›</span></a>
+        <a href="#faq" onclick="closeMobileMenu()"><span>FAQ</span><span>›</span></a>
+        <a href="./privacy-policy.html" onclick="closeMobileMenu()"><span>Pagkapribado</span><span>›</span></a>
+        <a href="#donate" class="mobile-donate-highlight" onclick="closeMobileMenu()"><span>Proyekto ng Suporta</span><span>›</span></a>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    <section class="hero">
+      <div class="container hero-grid">
+        <div>
+          <span class="badge">Available para sa iPhone at iPad • Bersyon 2.0.1 • 35+ Wika</span>
+          <h1>Field Service, Pioneer Hours, Teritoryo at Pagbabasa ng Bibliya</h1>
+          <p class="lead">Libre, 100% pribadong app para sa mga Saksi ni Jehova sa iPhone at iPad: live service timer na may mga widget, buwanang ulat, kalendaryo ng mga pioneer, mga teritoryo sa bahay-bahay, mga pagdalaw-muli, pag-aaral sa Bibliya, espirituwal na mga gawi, at 66-aklat na iskedyul ng pagbabasa ng Bibliya.</p>
+          <div class="cta-row">
+            <a href="https://apps.apple.com/us/app/jw-ministry/id6756040136" class="btn btn-primary" target="_blank" rel="noopener">
+               I-download sa App Store
+            </a>
+            <a href="#donate" class="btn btn-secondary">
+              Suportahan ang Developer
+            </a>
+          </div>
+        </div>
+
+        <div class="hero-phones">
+          <div class="hero-phone"><img data-shot-file="4.jpg" src="../screenshots/Filipino/4.jpg" alt="Calendar & Pioneer Goal — JW Ministry" width="220" height="475" /></div>
+          <div class="hero-phone center"><img data-shot-file="1.jpg" src="../screenshots/Filipino/1.jpg" fetchpriority="high" alt="Ministry Timer — JW Ministry" width="240" height="518" /></div>
+          <div class="hero-phone"><img data-shot-file="3.jpg" src="../screenshots/Filipino/3.jpg" alt="Service Year Report — JW Ministry" width="220" height="475" /></div>
+        </div>
+      </div>
+
+      <div class="container">
+        <div class="stats-row">
+          <div class="stat-box"><div class="stat-val">35+</div><div class="stat-lbl">Mga Wika sa Interface</div></div>
+          <div class="stat-box"><div class="stat-val">100%</div><div class="stat-lbl">Offline at Pribadong Data</div></div>
+          <div class="stat-box"><div class="stat-val">iOS & iPad</div><div class="stat-lbl">Native SwiftUI Design</div></div>
+          <div class="stat-box"><div class="stat-val">0 Ads</div><div class="stat-lbl">Libre, Walang Subscription</div></div>
+          <a href="https://apps.apple.com/us/app/jw-ministry/id6756040136" target="_blank" rel="noopener" class="stat-box stat-qr-box" title="Ituro ang iyong camera para buksan sa App Store">
+            <img src="../assets/img/qr-appstore.png" alt="QR Code App Store JW Ministry" width="80" height="80" loading="lazy" />
+            <div class="stat-qr-text">
+              <div class="stat-qr-title">QR App Store</div>
+              <div class="stat-lbl">Ituro ang iyong camera para buksan sa App Store</div>
+            </div>
+          </a>
+        </div>
+      </div>
+    </section>
+
+    <section id="screens">
+      <div class="container">
+        <div class="sec-head">
+          <h2>Galugarin ang Bawat Screen ng JW Ministry</h2>
+          <p>Mga aktwal na screenshot mula sa app. I-browse ang lahat ng 8 screen — mula sa live ministry timer at listahan ng mga Bible students hanggang sa pioneer ang mga layunin sa kalendaryo, territory card, at OLED dark mode.</p>
+          <div>
+            <a href="#languages" class="shot-lang-bar">
+              <span>Wika ng interface sa mga screenshot:</span>
+              <strong id="active-shot-lang-name">Filipino</strong>
+            </a>
+          </div>
+        </div>
+        <div class="segmented-wrap">
+          <div class="filter-bar">
+            <button class="filter-btn active" onclick="filterScreenshots('all', this)">Lahat (10)</button>
+            <button class="filter-btn" onclick="filterScreenshots('light', this)">Banayad (8)</button>
+            <button class="filter-btn" onclick="filterScreenshots('dark', this)">Madilim (2)</button>
+            <button class="filter-btn" onclick="filterScreenshots('ipad', this)">iPad (8)</button>
+            <button class="filter-btn" onclick="filterScreenshots('duo', this)">iPhone Duo (4)</button>
+          </div>
+        </div>
+        <div class="shots-grid">
+          <article class="shot-card" data-theme-shot="light">
+          <div class="iphone-frame"><img data-shot-file="1.jpg" src="../screenshots/Filipino/1.jpg" alt="1. Simulan ang Tab at Live Timer — JW Ministry" loading="lazy" width="320" height="690" /></div>
+          <div class="shot-meta"><h3>1. Simulan ang Tab at Live Timer</h3><p>Subaybayan ang oras ng iyong ministeryo hanggang sa pangalawa (08:04:08). I-pause, i-save para mag-ulat, o i-reset sa isang tap. Dagdagan ang mga pag-aaral sa Bibliya sa panahon ng sesyon, ilakip ang mga partikular na estudyante sa Bibliya (hal., Alex), magsulat ng mga tala ng sesyon (numero ng teritoryo, kasama), at tingnan ang kabuuang oras na ginugol ngayon.</p></div>
+        </article>
+          <article class="shot-card" data-theme-shot="light">
+          <div class="iphone-frame"><img data-shot-file="1-1.jpg" src="../screenshots/Filipino/1-1.jpg" alt="Mga Espirituwal na Gawi at Pag-unlad — JW Ministry" loading="lazy" width="320" height="690" /></div>
+          <div class="shot-meta"><h3>Mga Espirituwal na Gawi at Pag-unlad</h3><p>Subaybayan ang pang-araw-araw, lingguhan, at buwanang espirituwal na mga gawi (Araw-araw na Teksto, pagbabasa ng Bibliya, paghahanda sa pulong, Pampamilyang Pagsamba), buksan ang Pang-araw-araw na Teksto sa JW Library, at magdagdag ng mga custom na gawi.</p></div>
+        </article>
+          <article class="shot-card" data-theme-shot="light">
+          <div class="iphone-frame"><img data-shot-file="1-2.jpg" src="../screenshots/Filipino/1-2.jpg" alt="Iskedyul sa Pagbasa ng Bibliya — JW Ministry" loading="lazy" width="320" height="690" /></div>
+          <div class="shot-meta"><h3>Iskedyul sa Pagbasa ng Bibliya</h3><p>Interactive grid ng lahat ng 66 na aklat sa Bibliya na may 5 ruta ng pagbabasa (Classic, Chronological, Gospels First, Balanced, Shortest First), forecast ng petsa ng pagtatapos, at 1-tap na pagbabasa sa JW Library.</p></div>
+        </article>
+          <article class="shot-card" data-theme-shot="light">
+          <div class="iphone-frame"><img data-shot-file="2.jpg" src="../screenshots/Filipino/2.jpg" alt="2. Tagapamahala ng mga Estudyante ng Bibliya — JW Ministry" loading="lazy" width="320" height="690" /></div>
+          <div class="shot-meta"><h3>2. Tagapamahala ng mga Estudyante ng Bibliya</h3><p>Panatilihin ang isang organisadong listahan ng iyong mga estudyante sa Bibliya. Itala ang eksaktong pag-aaral na publikasyon, aralin, at seksyon (halimbawa: 'Enjoy Life Forever!, lesson 24, section 3') at magdagdag ng mga bagong estudyante sa ilang segundo.</p></div>
+        </article>
+          <article class="shot-card" data-theme-shot="light">
+          <div class="iphone-frame"><img data-shot-file="3.jpg" src="../screenshots/Filipino/3.jpg" alt="3. Taon ng Serbisyo at Buwanang Ulat — JW Ministry" loading="lazy" width="320" height="690" /></div>
+          <div class="shot-meta"><h3>3. Taon ng Serbisyo at Buwanang Ulat</h3><p>Lumipat sa pagitan ng mga taon ng serbisyo (2025–2026, 2026–2027), subaybayan ang kabuuang oras ng taon ng serbisyo at natitirang oras, suriin bawat buwan gamit ang mga detalyadong log ng session, mga bilang ng pag-aaral, mga tag ng mag-aaral, at ibahagi ang iyong buwanang ulat sa ika-1.</p></div>
+        </article>
+          <article class="shot-card" data-theme-shot="light">
+          <div class="iphone-frame"><img data-shot-file="4.jpg" src="../screenshots/Filipino/4.jpg" alt="4. Pioneer Calendar at Pag-unlad ng Layunin — JW Ministry" loading="lazy" width="320" height="690" /></div>
+          <div class="shot-meta"><h3>4. Pioneer Calendar at Pag-unlad ng Layunin</h3><p>Tingnan ang iyong kasalukuyang tungkulin (Regular pioneer – 50 h, Auxiliary 15/30 h, o Publisher) at personal na buwanang target (hal., 55 h). Ipinapakita ng visual progress bar ang mga oras na nakumpleto ngayong buwan, mga natitirang buwanang oras, at balanse sa buong taon ng serbisyo kasama ng iyong pang-araw-araw na iskedyul.</p></div>
+        </article>
+          <article class="shot-card" data-theme-shot="light">
+          <div class="iphone-frame"><img data-shot-file="5.jpg" src="../screenshots/Filipino/5.jpg" alt="5. Mga Territory Card at Door-to-Door Log — JW Ministry" loading="lazy" width="320" height="690" /></div>
+          <div class="shot-meta"><h3>5. Mga Territory Card at Door-to-Door Log</h3><p>Maglakip ng mga larawan ng mga mapa o gusali ng teritoryo (hal., Teritoryo A-8), mga address ng filter, at i-log ang bawat pagbisita na may petsa, katayuan ng pagbisita ('Unang pagbisita', 'Wala sa bahay', 'Pagtanggi'), at mga tala sa pintuan tulad ng 'Walang intercom'.</p></div>
+        </article>
+          <article class="shot-card" data-theme-shot="light">
+          <div class="iphone-frame"><img data-shot-file="6.jpg" src="../screenshots/Filipino/6.jpg" alt="6. Mga Flexible na Setting at Cloud Backup — JW Ministry" loading="lazy" width="320" height="690" /></div>
+          <div class="shot-meta"><h3>6. Mga Flexible na Setting at Cloud Backup</h3><p>I-export o i-import ang buong JSON backup sa pamamagitan ng mga nangungunang cloud button. I-configure ang iyong tungkulin sa serbisyo, custom na buwanang target na oras, Setyembre–Agosto ng taon ng serbisyo, mga paalala sa 1st-of-the-month na ulat sa 20:00, at mga notification sa pagbalik-bisita pagkatapos ng N araw.</p></div>
+        </article>
+          <article class="shot-card" data-theme-shot="dark">
+          <div class="iphone-frame"><img data-shot-file="7.jpg" src="../screenshots/Filipino/7.jpg" alt="7. True Black OLED Dark Mode (Timer) — JW Ministry" loading="lazy" width="320" height="690" /></div>
+          <div class="shot-meta"><h3>7. True Black OLED Dark Mode (Timer)</h3><p>Idinisenyo para sa kaginhawahan sa panahon ng pagsaksi sa gabi at pagtitipid ng baterya sa mga OLED na iPhone. Ang mga high-contrast na purple accent ay nagpapanatiling malinaw ang mga kontrol sa anumang liwanag.</p></div>
+        </article>
+          <article class="shot-card" data-theme-shot="dark">
+          <div class="iphone-frame"><img data-shot-file="8.jpg" src="../screenshots/Filipino/8.jpg" alt="8. OLED Dark Mode (Mga Setting at Layunin) — JW Ministry" loading="lazy" width="320" height="690" /></div>
+          <div class="shot-meta"><h3>8. OLED Dark Mode (Mga Setting at Layunin)</h3><p>Ang bawat screen, sheet, at widget ay walang putol na umaangkop sa iOS system na Light at Dark appearances.</p></div>
+        </article>
+          <article class="shot-card ipad-card" data-theme-shot="ipad">
+              <div class="ipad-frame"><img src="../screenshots/iPad/1.png" alt="iPad — #1 — iPad" loading="lazy" /></div>
+              <div class="shot-meta"><h3>iPad • iPad — #1</h3><p>JW Ministry — iPadOS</p></div>
+            </article>
+          <article class="shot-card ipad-card" data-theme-shot="ipad">
+              <div class="ipad-frame"><img src="../screenshots/iPad/2.png" alt="iPad — #2 — iPad" loading="lazy" /></div>
+              <div class="shot-meta"><h3>iPad • iPad — #2</h3><p>JW Ministry — iPadOS</p></div>
+            </article>
+          <article class="shot-card ipad-card" data-theme-shot="ipad">
+              <div class="ipad-frame"><img src="../screenshots/iPad/3.png" alt="iPad — #3 — iPad" loading="lazy" /></div>
+              <div class="shot-meta"><h3>iPad • iPad — #3</h3><p>JW Ministry — iPadOS</p></div>
+            </article>
+          <article class="shot-card ipad-card" data-theme-shot="ipad">
+              <div class="ipad-frame"><img src="../screenshots/iPad/4.png" alt="iPad — #4 — iPad" loading="lazy" /></div>
+              <div class="shot-meta"><h3>iPad • iPad — #4</h3><p>JW Ministry — iPadOS</p></div>
+            </article>
+          <article class="shot-card ipad-card" data-theme-shot="ipad">
+              <div class="ipad-frame"><img src="../screenshots/iPad/5.png" alt="iPad — #5 — iPad" loading="lazy" /></div>
+              <div class="shot-meta"><h3>iPad • iPad — #5</h3><p>JW Ministry — iPadOS</p></div>
+            </article>
+          <article class="shot-card ipad-card" data-theme-shot="ipad">
+              <div class="ipad-frame"><img src="../screenshots/iPad/6.png" alt="iPad — #6 — iPad" loading="lazy" /></div>
+              <div class="shot-meta"><h3>iPad • iPad — #6</h3><p>JW Ministry — iPadOS</p></div>
+            </article>
+          <article class="shot-card ipad-card" data-theme-shot="ipad">
+              <div class="ipad-frame"><img src="../screenshots/iPad/7.png" alt="iPad — #7 — iPad" loading="lazy" /></div>
+              <div class="shot-meta"><h3>iPad • iPad — #7</h3><p>JW Ministry — iPadOS</p></div>
+            </article>
+          <article class="shot-card ipad-card" data-theme-shot="ipad">
+              <div class="ipad-frame"><img src="../screenshots/iPad/8.png" alt="iPad — #8 — iPad" loading="lazy" /></div>
+              <div class="shot-meta"><h3>iPad • iPad — #8</h3><p>JW Ministry — iPadOS</p></div>
+            </article>
+          <article class="shot-card duo-card" data-theme-shot="duo">
+              <div class="duo-frame"><img src="../screenshots/Duo/duo-1.jpg" alt="iPhone Duo — #1 — JW Ministry" loading="lazy" /></div>
+              <div class="shot-meta"><h3>iPhone Duo • #1</h3><p>JW Ministry — Adaptive Foldable Layout</p></div>
+            </article>
+          <article class="shot-card duo-card" data-theme-shot="duo">
+              <div class="duo-frame"><img src="../screenshots/Duo/duo-2.jpg" alt="iPhone Duo — #2 — JW Ministry" loading="lazy" /></div>
+              <div class="shot-meta"><h3>iPhone Duo • #2</h3><p>JW Ministry — Adaptive Foldable Layout</p></div>
+            </article>
+          <article class="shot-card duo-card" data-theme-shot="duo">
+              <div class="duo-frame"><img src="../screenshots/Duo/duo-3.jpg" alt="iPhone Duo — #3 — JW Ministry" loading="lazy" /></div>
+              <div class="shot-meta"><h3>iPhone Duo • #3</h3><p>JW Ministry — Adaptive Foldable Layout</p></div>
+            </article>
+          <article class="shot-card duo-card" data-theme-shot="duo">
+              <div class="duo-frame"><img src="../screenshots/Duo/duo-4.jpg" alt="iPhone Duo — #4 — JW Ministry" loading="lazy" /></div>
+              <div class="shot-meta"><h3>iPhone Duo • #4</h3><p>JW Ministry — Adaptive Foldable Layout</p></div>
+            </article>
+        </div>
+      </div>
+    </section>
+
+    <section id="features">
+      <div class="container">
+        <div class="sec-head">
+          <h2>Lahat ng Kailangan Mo para sa Organisadong Ministeryo</h2>
+          <p>Partikular na ginawa sa paligid ng tunay na daloy ng trabaho ng mga mamamahayag, auxiliary pioneer, regular pioneer, at special pioneer.</p>
+        </div>
+        <div class="feat-grid">
+          <div class="feat-card">
+          <div class="feat-top">
+            <div class="feat-icon"><svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="13" r="8"/><path d="M12 9v4l2.5 2.5"/><path d="M9 2h6"/></svg></div>
+            <span class="feat-kicker">Pagsubaybay sa Oras • Mga Live na Aktibidad</span>
+          </div>
+          <h3>Smart Timer, Mga Widget at Live na Aktibidad</h3>
+          <p>Simulan ang iyong ministry timer mula sa app, Home Screen widget, o Lock Screen. Nananatiling nakikita ang iyong aktibong timer sa Dynamic Island at Lock Screen kahit na naka-lock ang iyong iPhone.</p>
+        </div>
+          <div class="feat-card">
+          <div class="feat-top">
+            <div class="feat-icon"><svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg></div>
+            <span class="feat-kicker">Pag-aaral sa Bibliya • Pag-unlad ng Aralin</span>
+          </div>
+          <h3>Pag-unlad ng Pag-aaral sa Bibliya at Paglalathala</h3>
+          <p>Direktang iugnay ang mga pag-aaral sa Bibliya sa iyong mga entry sa pang-araw-araw na ulat. Subaybayan ang pangalan ng bawat mag-aaral at kasalukuyang aralin sa 'Enjoy Life Forever!' o anumang iba pang tulong sa pag-aaral.</p>
+        </div>
+          <div class="feat-card">
+          <div class="feat-top">
+            <div class="feat-icon"><svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 20V10"/><path d="M12 20V4"/><path d="M6 20v-6"/></svg></div>
+            <span class="feat-kicker">Mga Tungkulin sa Serbisyo • 15 / 30 / 50 / 100 h</span>
+          </div>
+          <h3>Mga Tungkulin sa Serbisyo at Mga Target na Personal na Oras</h3>
+          <p>Sinusuportahan ang Publisher, Auxiliary Pioneer (15 o 30 oras), Regular Pioneer (50 oras), Special Pioneer / Missionary (90 / 100 oras), at isang custom na override na 'Personal na target' (hal., 55 oras/buwan).</p>
+        </div>
+          <div class="feat-card">
+          <div class="feat-top">
+            <div class="feat-icon"><svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="4" width="18" height="18" rx="3"/><line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/></svg></div>
+            <span class="feat-kicker">Taon ng Serbisyo • Plano kumpara sa Aktwal</span>
+          </div>
+          <h3>Taon ng Serbisyo (Sept–Ago) at Kalendaryo</h3>
+          <p>Magplano ng mga pulong sa ministeryo, umuulit na mga iskedyul, at Pampamilyang Pagsamba sa Kalendaryo. Ihambing ang binalak kumpara sa aktwal na mga oras, i-convert ang mga nakaplanong session sa mga entry ng ulat sa pamamagitan ng pag-swipe, at subaybayan ang iyong taunang layunin ng pioneer.</p>
+        </div>
+          <div class="feat-card">
+          <div class="feat-top">
+            <div class="feat-icon"><svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polygon points="1 6 1 22 8 18 16 22 23 18 23 2 16 6 8 2 1 6"/><line x1="8" y1="2" x2="8" y2="18"/><line x1="16" y1="6" x2="16" y2="22"/></svg></div>
+            <span class="feat-kicker">Log ng Teritoryo • Paghahanap at Mga Alerto</span>
+          </div>
+          <h3>Mga Teritoryo, Apartments, at Mga Paalala sa Pagbisita</h3>
+          <p>Gumawa ng mga card para sa mga teritoryo, maraming palapag na apartment building, at pribadong bahay. Maglakip ng mga larawan sa mapa, mga color-code card, maghanap ayon sa address o pangalan ng residente, at makatanggap ng mga awtomatikong paalala upang gumawa ng mga pagbisitang muli.</p>
+        </div>
+          <div class="feat-card">
+          <div class="feat-top">
+            <div class="feat-icon"><svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/><path d="M9 12l2 2 4-4"/></svg></div>
+            <span class="feat-kicker">On-Device Privacy • iCloud Backup</span>
+          </div>
+          <h3>100% On-Device na Privacy at Mga Buong Backup</h3>
+          <p>Walang pagpaparehistro, walang account, walang panlabas na server, at zero analytics. Ang lahat ng mga talaan at mga larawan sa teritoryo ay nananatili nang lokal sa iyong iPhone/iPad, na may instant backup na pag-export at pag-restore sa iCloud Drive o Files.</p>
+        </div>
+        </div>
+        <div class="changelog-box">
+          <div class="changelog-head">
+            <div>
+              <h3>Ano ang Bago sa Bersyon 2.0.1</h3>
+              <time class="changelog-date" datetime="2026-11">v2.0.1 • iOS, iPadOS & iPhone Duo</time>
+            </div>
+            <div class="changelog-tabs" role="tablist">
+              <button class="cl-tab active" onclick="switchChangelogTab('201', this)" role="tab">v2.0.1</button>
+              <button class="cl-tab" onclick="switchChangelogTab('18', this)" role="tab">v1.8</button>
+            </div>
+          </div>
+          <ul class="changelog-list" id="cl-panel-201">
+            <li>Bagong Spiritual Habits tracker sa Start tab: Araw-araw/Lingguhan/Buwanang pag-usad, custom na gawi, Marital Status setting para sa Pampamilyang Pagsamba, at isang apurahang paalala sa ulat sa ika-5.</li>
+            <li>Iskedyul sa Pagbasa ng Bibliya: 5 ruta ng pagbabasa, pagsubaybay sa kabanata sa lahat ng 66 na aklat, pagtataya sa petsa ng pagkakumpleto, at 1-tap na 'Basahin sa JW Library' na mga link.</li>
+            <li>Pagsubaybay sa Dalawahang Layunin sa Kalendaryo at Mga Widget: tingnan pareho ang iyong kinakailangan sa tungkulin (hal., 30 h / 50 h) at karagdagang personal na buwanang target sa isang dual progress ring.</li>
+            <li>Buong adaptive na suporta sa layout para sa mga foldable na iPhone Duo screen at iPadOS.</li>
+            <li>Nagdagdag ng mga link na 'Ibahagi ang App' at 'Website ng App' sa Mga Setting.</li>
+          </ul>
+          <ul class="changelog-list" id="cl-panel-18" style="display:none;">
+            <li>Kabuuan ng mga awtomatikong buwanang nakaplanong oras sa Calendar na may dalawahang Planned vs. Actual progress bar.</li>
+            <li>1-swipe na conversion ng anumang naka-iskedyul na sesyon ng ministeryo sa Kalendaryo nang direkta sa isang buwanang entry sa Ulat.</li>
+            <li>Instant na paghahanap ayon sa address ng kalye o pangalan ng residente sa buong Teritoryo, kasama ang 10 kulay na tema para sa mga card ng teritoryo.</li>
+            <li>Suporta sa Paparating na Taon ng Serbisyo (2026–2027) sa tab na Ulat na may magandang taunang buod ng balanse.</li>
+            <li>Buong pag-optimize para sa pinakabagong mga release ng iOS at iPadOS at pinahusay na proteksyon sa pag-backup sa device.</li>
+          </ul>
+        </div>
+      </div>
+    </section>
+
+    <section id="comparison">
+      <div class="container">
+        <div class="sec-head">
+          <h2>Bakit Lumipat sa JW Ministry ang mga Publisher at Pioneer</h2>
+          <p>Magkatabi na paghahambing para sa pagsubaybay sa paglilingkod sa larangan, pag-iiskedyul ng pioneer, at pamamahala sa teritoryo.</p>
+        </div>
+        <div class="comp-wrap">
+          <table class="comp-table"><thead><tr><th class="">Tampok</th><th class="">Papel Notebook</th><th class="">Mga Legacy na App</th><th class="highlight-col">JW Ministry 2.0.1</th></tr></thead><tbody><tr><td class="">Live Ministry Timer sa Lock Screen at Dynamic Island</td><td class="">No</td><td class="">No</td><td class="highlight-col">Oo (Mga Live na Aktibidad)</td></tr><tr><td class="">Pioneer Goal Calculator (15, 30, 50, 100h) at 600h Taon ng Serbisyo</td><td class="">Manu-manong pagkalkula</td><td class="">Bahagyang</td><td class="highlight-col">Awtomatiko + Custom na Layunin</td></tr><tr><td class="">Binalak kumpara sa Aktwal na Kalendaryo at I-swipe-to-Report na Conversion</td><td class="">No</td><td class="">No</td><td class="highlight-col">Built-in na 1-Swipe Workflow</td></tr><tr><td class="">Tagabuo ng Apartment Building + Mga Larawan ng Teritoryo at 10 Tag na Kulay</td><td class="">Mga slip ng papel</td><td class="">Text lang</td><td class="highlight-col">Mga Buong Visual Card + Paghahanap</td></tr><tr><td class="">Mga Paalala sa Return Visit at Notification ng 1st-of-the-Month na Ulat</td><td class="">No</td><td class="">Basic</td><td class="highlight-col">Mga Notification ng Smart iOS</td></tr><tr><td class="">100% On-Device Privacy at Buong iCloud Drive Backup na may Mga Larawan</td><td class="">Madaling mawala</td><td class="">Madalas masira sa bagong iOS</td><td class="highlight-col">Offline at Instant Restore</td></tr><tr><td class="">Native Support para sa Pinakabagong iOS, iPad, OLED Dark Mode at 35+ na Wika</td><td class="">—</td><td class="">Itinigil</td><td class="highlight-col">Modernong SwiftUI Architecture</td></tr></tbody></table>
+        </div>
+      </div>
+    </section>
+
+    <section id="guide">
+      <div class="container">
+        <div class="sec-head">
+          <h2>Itinayo para sa Field Service at Pioneer Ministry ng mga Saksi ni Jehova</h2>
+          <p>Kung paano tinutulungan ng JW Ministry ang mga mamamahayag, auxiliary pioneer, regular pioneer, at special pioneer na ayusin ang kanilang taon ng paglilingkod.</p>
+        </div>
+        <div class="seo-grid">
+          <article class="seo-card">
+          <span class="pillar-kicker">Regular at Special Pioneer Ministry</span>
+          <h3>Mga Regular at Special Pioneer (50, 90 at 100 Oras / 600-Oras na Taon ng Serbisyo)</h3>
+          <p>Ang paglilingkod bilang isang regular pioneer ay nangangailangan ng pagsubaybay kapuwa sa iyong 50-oras na buwanang target at sa iyong 600-oras na tunguhin sa Setyembre–Agosto taon ng paglilingkod. Awtomatikong kinakalkula ng JW Ministry ang iyong nakumpletong oras ng ministeryo, natitirang buwanang balanse, at buong taon ng paglilingkod. Magtakda ng pasadyang personal na buwanang layunin (hal., 55 oras), mag-iskedyul ng mga araw ng ministeryo sa Kalendaryo, at ihambing ang iyong mga nakaplanong oras sa iyong aktwal na naiulat na oras.</p>
+          <ul class="pillar-list"><li><svg viewBox="0 0 20 20" fill="currentColor"><path fill-rule="evenodd" d="M16.704 4.153a.75.75 0 01.143 1.052l-8 10.5a.75.75 0 01-1.127.075l-4.5-4.5a.75.75 0 011.06-1.06l3.894 3.893 7.48-9.817a.75.75 0 011.05-.143z" clip-rule="evenodd"/></svg><span>Awtomatikong 50 h buwan-buwan at 600 h Setyembre–Agosto pagsubaybay sa taon ng serbisyo</span></li><li><svg viewBox="0 0 20 20" fill="currentColor"><path fill-rule="evenodd" d="M16.704 4.153a.75.75 0 01.143 1.052l-8 10.5a.75.75 0 01-1.127.075l-4.5-4.5a.75.75 0 011.06-1.06l3.894 3.893 7.48-9.817a.75.75 0 011.05-.143z" clip-rule="evenodd"/></svg><span>Pasadyang buwanang pag-override sa target na oras (hal., 55 h/buwan)</span></li><li><svg viewBox="0 0 20 20" fill="currentColor"><path fill-rule="evenodd" d="M16.704 4.153a.75.75 0 01.143 1.052l-8 10.5a.75.75 0 01-1.127.075l-4.5-4.5a.75.75 0 011.06-1.06l3.894 3.893 7.48-9.817a.75.75 0 011.05-.143z" clip-rule="evenodd"/></svg><span>Dual progress bar na naghahambing ng mga nakaiskedyul kumpara sa mga naiulat na oras</span></li></ul>
+        </article>
+          <article class="seo-card">
+          <span class="pillar-kicker">Mga Auxiliary Pioneer at Publisher</span>
+          <h3>Auxiliary Pioneer (15 & 30 Oras) at Congregation Publishers</h3>
+          <p>Sumali sa isang espesyal na kampanya, pagbisita ng tagapangasiwa ng sirkito, o panahon ng Memoryal bilang isang auxiliary pioneer? Ilipat ang iyong tungkulin sa Auxiliary Pioneer (15 h o 30 h) sa ilang segundo. Maaaring mag-log ang mga mamamahayag ng kongregasyon sa araw-araw na mga sesyon sa ministeryo, subaybayan ang mga pag-aaral sa Bibliya, at paganahin ang awtomatikong abiso sa ika-1 ng bawat buwan sa 20:00 upang hindi mo makalimutang isumite ang iyong ulat sa paglilingkod sa larangan.</p>
+          <ul class="pillar-list"><li><svg viewBox="0 0 20 20" fill="currentColor"><path fill-rule="evenodd" d="M16.704 4.153a.75.75 0 01.143 1.052l-8 10.5a.75.75 0 01-1.127.075l-4.5-4.5a.75.75 0 011.06-1.06l3.894 3.893 7.48-9.817a.75.75 0 011.05-.143z" clip-rule="evenodd"/></svg><span>One-tap switch sa 15 h o 30 h Auxiliary Pioneer na mga layunin</span></li><li><svg viewBox="0 0 20 20" fill="currentColor"><path fill-rule="evenodd" d="M16.704 4.153a.75.75 0 01.143 1.052l-8 10.5a.75.75 0 01-1.127.075l-4.5-4.5a.75.75 0 011.06-1.06l3.894 3.893 7.48-9.817a.75.75 0 011.05-.143z" clip-rule="evenodd"/></svg><span>Instant na buwanang pag-format at pagbabahagi ng ulat sa ika-1</span></li><li><svg viewBox="0 0 20 20" fill="currentColor"><path fill-rule="evenodd" d="M16.704 4.153a.75.75 0 01.143 1.052l-8 10.5a.75.75 0 01-1.127.075l-4.5-4.5a.75.75 0 011.06-1.06l3.894 3.893 7.48-9.817a.75.75 0 011.05-.143z" clip-rule="evenodd"/></svg><span>Magiliw na paalala na abiso sa ika-1 ng bawat buwan sa 20:00</span></li></ul>
+        </article>
+          <article class="seo-card">
+          <span class="pillar-kicker">Bahay-bahay at Personal na Teritoryo</span>
+          <h3>Mga Bahay-Bahay na Teritoryo, Bumubuo ng Apartment, at Mga Pagbabalikang Pagbisita</h3>
+          <p>Palitan ang mga papel na slip ng mga nakaayos na digital territory card. Maglakip ng mga larawan ng mga mapa ng teritoryo, mga color-code card na may 10 naka-istilong kulay, at bumuo ng buong multi-story na mga apartment building sa pamamagitan ng mga pasukan at sahig sa isang tap. Itala ang 'Unang pagbisita', 'Wala sa bahay', o 'Pagtanggi' na mga katayuan, maghanap sa lahat ng teritoryo sa pamamagitan ng address ng kalye o pangalan ng residente, at makatanggap ng mga awtomatikong paalala kapag oras na para magsagawa ng muling pagbisita.</p>
+          <ul class="pillar-list"><li><svg viewBox="0 0 20 20" fill="currentColor"><path fill-rule="evenodd" d="M16.704 4.153a.75.75 0 01.143 1.052l-8 10.5a.75.75 0 01-1.127.075l-4.5-4.5a.75.75 0 011.06-1.06l3.894 3.893 7.48-9.817a.75.75 0 011.05-.143z" clip-rule="evenodd"/></svg><span>Multi-story apartment generator sa pamamagitan ng mga pasukan at sahig</span></li><li><svg viewBox="0 0 20 20" fill="currentColor"><path fill-rule="evenodd" d="M16.704 4.153a.75.75 0 01.143 1.052l-8 10.5a.75.75 0 01-1.127.075l-4.5-4.5a.75.75 0 011.06-1.06l3.894 3.893 7.48-9.817a.75.75 0 011.05-.143z" clip-rule="evenodd"/></svg><span>Mga larawan sa mapa ng teritoryo, 10 tema ng kulay at paghahanap ng instant na residente/address</span></li><li><svg viewBox="0 0 20 20" fill="currentColor"><path fill-rule="evenodd" d="M16.704 4.153a.75.75 0 01.143 1.052l-8 10.5a.75.75 0 01-1.127.075l-4.5-4.5a.75.75 0 011.06-1.06l3.894 3.893 7.48-9.817a.75.75 0 011.05-.143z" clip-rule="evenodd"/></svg><span>Mga paalala ng awtomatikong pagbisita sa pagbalik pagkatapos ng iyong napiling bilang ng mga araw</span></li></ul>
+        </article>
+          <article class="seo-card">
+          <span class="pillar-kicker">Mga Pag-aaral sa Bibliya at Modernong Disenyo ng iOS</span>
+          <h3>Pag-unlad ng Estudyante ng Bibliya at Pagpapalit ng Modern iOS para sa Legacy Apps</h3>
+          <p>Panatilihin ang isang detalyadong listahan ng iyong mga estudyante sa Bibliya kasama ng kanilang kasalukuyang publikasyong pang-aaral (gaya ng 'Enjoy Life Forever!'), numero ng aralin, at seksyon. Direktang ilakip ang mga mag-aaral sa iyong sesyon ng timer para palaging tumpak ang iyong buwanang bilang ng pag-aaral. Gawing native gamit ang SwiftUI para sa pinakabagong mga modelo ng iPhone at iPad, ang JW Ministry ay ang perpektong modernong alternatibo sa mga itinigil na app tulad ng ServicePlanner, MyTime, NW Publisher, My Service & Bible, Field Service Assistant, at Ministry Assistant.</p>
+          <ul class="pillar-list"><li><svg viewBox="0 0 20 20" fill="currentColor"><path fill-rule="evenodd" d="M16.704 4.153a.75.75 0 01.143 1.052l-8 10.5a.75.75 0 01-1.127.075l-4.5-4.5a.75.75 0 011.06-1.06l3.894 3.893 7.48-9.817a.75.75 0 011.05-.143z" clip-rule="evenodd"/></svg><span>Subaybayan ang mga eksaktong aralin sa 'Enjoy Life Forever!' para sa bawat mag-aaral</span></li><li><svg viewBox="0 0 20 20" fill="currentColor"><path fill-rule="evenodd" d="M16.704 4.153a.75.75 0 01.143 1.052l-8 10.5a.75.75 0 01-1.127.075l-4.5-4.5a.75.75 0 011.06-1.06l3.894 3.893 7.48-9.817a.75.75 0 011.05-.143z" clip-rule="evenodd"/></svg><span>Built native para sa iOS at iPadOS na may Dynamic Island at OLED Dark Mode</span></li><li><svg viewBox="0 0 20 20" fill="currentColor"><path fill-rule="evenodd" d="M16.704 4.153a.75.75 0 01.143 1.052l-8 10.5a.75.75 0 01-1.127.075l-4.5-4.5a.75.75 0 011.06-1.06l3.894 3.893 7.48-9.817a.75.75 0 011.05-.143z" clip-rule="evenodd"/></svg><span>Kumpletuhin ang modernong kapalit para sa legacy na ServicePlanner at MyTime app</span></li></ul>
+        </article>
+        </div>
+        <div class="seo-tags-wrap">
+          <div class="seo-tags-title">Mga Popular na Paghahanap sa Field Service na Sinasaklaw ng JW Ministry:</div>
+          <div class="seo-tags-cloud">
+            <span class="seo-tag">app ng paglilingkod sa larangan ng saksi ni Jehova</span>
+            <span class="seo-tag">ulat ng paglilingkod sa larangan ng mga saksi ni Jehova</span>
+            <span class="seo-tag">mga oras ng pagpapayunir ng saksi ni Jehova</span>
+            <span class="seo-tag">jw mga oras at iskedyul ng regular pioneer</span>
+            <span class="seo-tag">jw auxiliary pioneer 15 at 30 oras</span>
+            <span class="seo-tag">jw tagasubaybay ng oras ng special pioneer</span>
+            <span class="seo-tag">mga saksi ni Jehova taon ng paglilingkod 2026</span>
+            <span class="seo-tag">jw at tagaplano ng taon ng paglilingkod</span>
+            <span class="seo-tag">jw field service report app download nang libre</span>
+            <span class="seo-tag">jw territory manager app iOS</span>
+            <span class="seo-tag">service planner jw at my time jw alternative</span>
+            <span class="seo-tag">jw app ng iskedyul ng pagbabasa ng Bibliya</span>
+            <span class="seo-tag">pang-araw-araw na pagbabasa ng bibliya tracker iPhone</span>
+            <span class="seo-tag">jw espirituwal na gawi at regular na tagasubaybay</span>
+            <span class="seo-tag">kronolohikal na plano sa pagbabasa ng bibliya iOS</span>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section id="reviews">
+      <div class="container">
+        <div class="sec-head">
+          <h2>Minamahal ng Mga Publisher at Pioneer sa Buong Mundo</h2>
+          <p>Tunay na feedback mula sa mga kapatid na gumagamit ng JW Ministry sa kanilang pang-araw-araw na paglilingkod sa larangan.</p>
+        </div>
+        <div class="reviews-grid">
+          <article class="review-card"><div class="review-stars" aria-label="5 out of 5 stars">★★★★★</div><p class="review-text">“Ang pagkakaroon ng mga buwanang nakaplanong oras na awtomatikong sumama sa Kalendaryo kasama ng aking aktwal na naiulat na mga oras ay isang laro changer para sa pagpapanatili ng aking 50-oras na iskedyul sa track.”</p><div class="review-author">Alex, Regular Pioneer</div></article>
+          <article class="review-card"><div class="review-stars" aria-label="5 out of 5 stars">★★★★★</div><p class="review-text">“Ang Lock Screen Live Activity timer at 1-swipe na conversion mula sa Calendar ay nagpaplanong Mag-ulat ng mga entry ay ginagawang 15 at 30 oras na walang hirap ang pagsubaybay. Malinis, mabilis, at 100% pribado.”</p><div class="review-author">Sarah, Auxiliary Pioneer</div></article>
+          <article class="review-card"><div class="review-stars" aria-label="5 out of 5 stars">★★★★★</div><p class="review-text">“Pinalitan ng generator ng apartment building at instant search sa buong teritoryo ang lahat ng papel ko. Ang mga paalala sa pagbalik-bisita ay nakakatulong sa akin na hindi makaligtaan ang isang follow-up.”</p><div class="review-author">David, Tagapaglathala ng Kongregasyon</div></article>
+        </div>
+      </div>
+    </section>
+
+    <section id="languages">
+      <div class="container">
+        <div class="loc-box">
+          <h2>Ganap na Na-localize sa 35+ Wika</h2>
+          <p style="color: var(--muted); margin-top: 6px;">Ang interface ng app, mga widget, at mga notification ay awtomatikong tumutugma sa wika ng iyong device:</p>
+          <div class="loc-cloud">
+            <span class="loc-badge " onclick="switchScreenshotLanguage('English', 'English', this)" title="Preview English screenshots">English</span>
+            <span class="loc-badge " onclick="switchScreenshotLanguage('Russian', 'Русский', this)" title="Preview Русский screenshots">Русский</span>
+            <span class="loc-badge " onclick="switchScreenshotLanguage('Spanish', 'Español', this)" title="Preview Español screenshots">Español</span>
+            <span class="loc-badge " onclick="switchScreenshotLanguage('German', 'Deutsch', this)" title="Preview Deutsch screenshots">Deutsch</span>
+            <span class="loc-badge " onclick="switchScreenshotLanguage('Portuguese (Brazil)', 'Português (Brasil)', this)" title="Preview Português (Brasil) screenshots">Português (Brasil)</span>
+            <span class="loc-badge " onclick="switchScreenshotLanguage('French', 'Français', this)" title="Preview Français screenshots">Français</span>
+            <span class="loc-badge " onclick="switchScreenshotLanguage('Ukrainian', 'Українська', this)" title="Preview Українська screenshots">Українська</span>
+            <span class="loc-badge " onclick="switchScreenshotLanguage('Polish', 'Polski', this)" title="Preview Polski screenshots">Polski</span>
+            <span class="loc-badge " onclick="switchScreenshotLanguage('Italian', 'Italiano', this)" title="Preview Italiano screenshots">Italiano</span>
+            <span class="loc-badge " onclick="switchScreenshotLanguage('Dutch', 'Nederlands', this)" title="Preview Nederlands screenshots">Nederlands</span>
+            <span class="loc-badge " onclick="switchScreenshotLanguage('Czech', 'Čeština', this)" title="Preview Čeština screenshots">Čeština</span>
+            <span class="loc-badge " onclick="switchScreenshotLanguage('Slovak', 'Slovenčina', this)" title="Preview Slovenčina screenshots">Slovenčina</span>
+            <span class="loc-badge " onclick="switchScreenshotLanguage('Hungarian', 'Magyar', this)" title="Preview Magyar screenshots">Magyar</span>
+            <span class="loc-badge " onclick="switchScreenshotLanguage('Romanian', 'Română', this)" title="Preview Română screenshots">Română</span>
+            <span class="loc-badge " onclick="switchScreenshotLanguage('Bulgarian', 'Български', this)" title="Preview Български screenshots">Български</span>
+            <span class="loc-badge " onclick="switchScreenshotLanguage('Greek', 'Ελληνικά', this)" title="Preview Ελληνικά screenshots">Ελληνικά</span>
+            <span class="loc-badge " onclick="switchScreenshotLanguage('Turkish', 'Türkçe', this)" title="Preview Türkçe screenshots">Türkçe</span>
+            <span class="loc-badge " onclick="switchScreenshotLanguage('Korean', '한국어', this)" title="Preview 한국어 screenshots">한국어</span>
+            <span class="loc-badge " onclick="switchScreenshotLanguage('Japanese', '日本語', this)" title="Preview 日本語 screenshots">日本語</span>
+            <span class="loc-badge " onclick="switchScreenshotLanguage('Chinese, Traditional', '繁體中文', this)" title="Preview 繁體中文 screenshots">繁體中文</span>
+            <span class="loc-badge " onclick="switchScreenshotLanguage('Thai', 'ไทย', this)" title="Preview ไทย screenshots">ไทย</span>
+            <span class="loc-badge " onclick="switchScreenshotLanguage('Indonesian', 'Bahasa Indonesia', this)" title="Preview Bahasa Indonesia screenshots">Bahasa Indonesia</span>
+            <span class="loc-badge active-shot-lang" onclick="switchScreenshotLanguage('Filipino', 'Filipino', this)" title="Preview Filipino screenshots">Filipino</span>
+            <span class="loc-badge " onclick="switchScreenshotLanguage('Hindi', 'हिन्दी', this)" title="Preview हिन्दी screenshots">हिन्दी</span>
+            <span class="loc-badge " onclick="switchScreenshotLanguage('Georgian', 'ქართული', this)" title="Preview ქართული screenshots">ქართული</span>
+            <span class="loc-badge " onclick="switchScreenshotLanguage('Lithuanian', 'Lietuvių', this)" title="Preview Lietuvių screenshots">Lietuvių</span>
+            <span class="loc-badge " onclick="switchScreenshotLanguage('Croatian', 'Hrvatski', this)" title="Preview Hrvatski screenshots">Hrvatski</span>
+            <span class="loc-badge " onclick="switchScreenshotLanguage('Serbian (Latin)', 'Srpski', this)" title="Preview Srpski screenshots">Srpski</span>
+            <span class="loc-badge " onclick="switchScreenshotLanguage('Albanian', 'Shqip', this)" title="Preview Shqip screenshots">Shqip</span>
+            <span class="loc-badge " onclick="switchScreenshotLanguage('Danish', 'Dansk', this)" title="Preview Dansk screenshots">Dansk</span>
+            <span class="loc-badge " onclick="switchScreenshotLanguage('Swedish', 'Svenska', this)" title="Preview Svenska screenshots">Svenska</span>
+            <span class="loc-badge " onclick="switchScreenshotLanguage('Norwegian Bokmål', 'Norsk Bokmål', this)" title="Preview Norsk Bokmål screenshots">Norsk Bokmål</span>
+            <span class="loc-badge " onclick="switchScreenshotLanguage('Finnish', 'Suomi', this)" title="Preview Suomi screenshots">Suomi</span>
+            <span class="loc-badge " onclick="switchScreenshotLanguage('Afrikaans', 'Afrikaans', this)" title="Preview Afrikaans screenshots">Afrikaans</span>
+            <span class="loc-badge " onclick="switchScreenshotLanguage('Kinyarwanda', 'Ikinyarwanda', this)" title="Preview Ikinyarwanda screenshots">Ikinyarwanda</span>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section id="donate">
+      <div class="container">
+        <div class="donate-wrap">
+          <div class="donate-head">
+            <span class="donate-badge">Independent at Ad-Free na Proyekto</span>
+            <h2>Suportahan ang Pag-unlad ng JW Ministry</h2>
+            <p>Ang JW Ministry ay nilikha at pinananatili ng isang independiyenteng developer para sa personal na paggamit. Walang mga ad, walang bayad na tier, at walang mga subscription. Kung pinapadali ng app ang iyong ministeryo, maaari mong suportahan ang mga update sa iOS sa hinaharap at pag-renew ng lisensya ng Apple Developer:</p>
+          </div>
+          <div class="donate-grid">
+            <div class="donate-card">
+              <h3>Suporta sa pamamagitan ng Card (Worldwide)</h3>
+              <p>Mabilis na isang beses na tip o buwanang suporta mula sa anumang bansa sa pamamagitan ng Boosty o Patreon:</p>
+              <div class="donate-btns">
+                <a href="https://boosty.to/jwministry" target="_blank" rel="noopener" class="btn btn-boosty">Suporta sa Boosty (Mga Card / Apple Pay)</a>
+                <a href="https://www.patreon.com/cw/JWMinistry" target="_blank" rel="noopener" class="btn btn-patreon">Suporta sa Patreon</a>
+              </div>
+            </div>
+
+            <div class="donate-card">
+              <h3>Direktang Paglipat ng Crypto (0% Bayad sa Platform)</h3>
+              <p>Agad na paglipat nang direkta sa wallet ng developer:</p>
+              <div class="wallet-box">
+                <span class="wallet-lbl">USDT (TRC-20 / TRON Network lang):</span>
+                <div class="wallet-row">
+                  <code class="wallet-code" id="usdt-addr">TQQxYhThQGngj887Lvq9TnKtyyYMcUDFNw</code>
+                  <div style="display:flex; gap:6px;">
+                    <button class="qr-toggle-btn" onclick="toggleWalletQR('qr-usdt')">QR</button>
+                    <button class="copy-btn" data-copied="Kinopya!" onclick="copyWalletText('usdt-addr', this)">Kopyahin</button>
+                  </div>
+                </div>
+                <div class="wallet-qr-pop" id="qr-usdt">
+                  <img src="../assets/img/qr-usdt.png" alt="USDT TRC20 QR" loading="lazy" />
+                </div>
+              </div>
+              <div class="wallet-box">
+                <span class="wallet-lbl">TON / USDT (TON Network):</span>
+                <div class="wallet-row">
+                  <code class="wallet-code" id="ton-addr">UQBNBroTUyMG0YqgiHGXwVKO_rKe5d2y7gXqvICREjBwuKYk</code>
+                  <div style="display:flex; gap:6px;">
+                    <button class="qr-toggle-btn" onclick="toggleWalletQR('qr-ton')">QR</button>
+                    <button class="copy-btn" data-copied="Kinopya!" onclick="copyWalletText('ton-addr', this)">Kopyahin</button>
+                  </div>
+                </div>
+                <div class="wallet-qr-pop" id="qr-ton">
+                  <img src="../assets/img/qr-ton.png" alt="TON QR" loading="lazy" />
+                </div>
+              </div>
+              <div class="crypto-warn">Para sa USDT (TRC-20), magpadala lamang ng mga asset sa pamamagitan ng TRON network.</div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section id="faq">
+      <div class="container">
+        <div class="sec-head">
+          <h2>Mga Madalas Itanong</h2>
+        </div>
+        <div class="faq-list">
+          <details class="faq-item"><summary>Paano tinutulungan ng JW Ministry ang JW Library para sa mga Saksi ni Jehova?</summary><p>Bagaman ginagamit ang JW Library sa pagbabasa ng Bibliya, mga publikasyon, at mga pulong ng kongregasyon, ang JW Ministry ay sadyang binuo para sa pagsubaybay sa iyong personal na ministeryo sa larangan: pagtala ng mga oras ng ulat sa paglilingkod sa larangan, pagpaplano ng iyong iskedyul ng regular o auxiliary pioneer (15, 30, 50, o 100 oras), pamamahala ng mga personal na rekord ng teritoryo, at pagsubaybay sa mga estudyante sa Bibliya.</p></details>
+          <details class="faq-item"><summary>Saan nakaimbak ang aking mga tala sa ministeryo at mga tala sa teritoryo?</summary><p>Eksklusibo sa iyong device (iPhone o iPad). Ang app ay walang panlabas na database o cloud server, na tinitiyak ang kumpletong pagiging kumpidensyal ng iyong mga personal na tala at address.</p></details>
+          <details class="faq-item"><summary>Paano ko ililipat ang aking data sa isang bagong iPhone o iPad?</summary><p>Buksan ang tab na Mga Setting at i-tap ang icon ng Cloud Upload sa kanang sulok sa itaas para mag-export ng buong backup na file (kabilang ang mga larawan sa teritoryo) sa iCloud Drive o AirDrop. Sa iyong bagong device, i-tap ang icon ng Cloud Download para i-restore ang lahat sa isang tap.</p></details>
+          <details class="faq-item"><summary>Paano gumagana ang mga awtomatikong paalala sa pagbalik-bisita?</summary><p>Sa Mga Setting → Mga Notification, paganahin ang 'Ipaalala ang tungkol sa mga pagbisitang muli sa mga address' at itakda ang pagitan (halimbawa, 3 araw). Kung hindi ka pa nakakapag-log ng follow-up na pagbisita sa isang address sa loob ng panahong iyon, malumanay na ipapaalala sa iyo ng app.</p></details>
+          <details class="faq-item"><summary>Sinusuportahan ba ng app ang Setyembre–Agosto ng Taon ng Serbisyo?</summary><p>Oo! Parehong kinakalkula ng tab na Ulat at buod ng Kalendaryo ang buwanan at taunang oras sa opisyal na taon ng paglilingkod noong Setyembre–Agosto, kasama ang mga natitirang oras patungo sa iyong taunang layunin sa pagpapayunir.</p></details>
+          <details class="faq-item"><summary>Ang JW Ministry ba ay isang magandang kapalit para sa ServicePlanner o MyTime sa iPhone?</summary><p>Oo! Aktibong pinapanatili ang JW Ministry para sa pinakabagong mga release ng iOS at iPadOS, na nagtatampok ng Mga Live na Aktibidad sa Lock Screen at Dynamic Island, mga interactive na widget ng Home Screen, generator ng gusali ng apartment, Planned vs. Aktwal na pagsubaybay sa kalendaryo, at 1-tap na mga backup ng iCloud Drive.</p></details>
+          <details class="faq-item"><summary>Ganap bang gumagana ang app nang offline sa panahon ng ministeryo sa pintuan-bahay?</summary><p>Talagang. Lahat ng timer, mapa ng teritoryo, rekord ng apartment, at tala ng estudyante sa Bibliya ay gumagana nang 100% offline nang hindi nangangailangan ng mobile data o Wi-Fi.</p></details>
+          <details class="faq-item"><summary>Maaari ko bang i-convert ang isang nakaplanong kaganapan sa ministeryo sa Kalendaryo sa isang ulat na entry?</summary><p>Oo. Mag-swipe lang sa anumang nakaplanong sesyon ng ministeryo sa Kalendaryo at i-tap ang 'Upang Mag-ulat' — ang tagal ay awtomatikong naka-log in sa iyong buwanang ulat at ibabawas sa iyong mga natitirang nakaplanong oras.</p></details>
+          <details class="faq-item"><summary>May kasama bang Bible Reading Schedule ang JW Ministry kasama ng JW Library?</summary><p>Oo! Sa ilalim ng tab na Mga Habit sa Start screen, makakakuha ka ng interactive na 66-aklat na Iskedyul sa Pagbasa ng Bibliya na may 5 ruta sa pagbabasa (Classic, Chronological, Gospels First, Balanced Mix, Shortest First), isang hula sa petsa ng pagtatapos, at 1-tap na 'Read in JW Library' na mga link para sa susunod na hindi pa nababasang chapter at Daily Text.</p></details>
+          <details class="faq-item"><summary>Paano gumagana ang tagasubaybay ng Spiritual Habits?</summary><p>Hinahayaan ka nitong suriin ang pang-araw-araw, lingguhan, at buwanang espirituwal na mga gawi (Araw-araw na Teksto, pagbabasa ng Bibliya, paghahanda sa pulong, Personal na Pag-aaral, Pampamilyang Pagsamba, JW Broadcasting, at pagsusumite ng ulat) gamit ang visual progress ring at suporta para sa custom na mga gawi.</p></details>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  
+  <section class="jw-tools-bar" style="max-width:960px;margin:0 auto 36px;padding:0 20px;text-align:center;">
+    <div style="display:flex;flex-wrap:wrap;justify-content:center;gap:12px;">
+      <a href="/fil/bible-reading-schedule/" style="display:inline-flex;align-items:center;gap:8px;padding:12px 20px;border-radius:14px;background:rgba(107,66,176,0.08);border:1px solid rgba(107,66,176,0.22);color:#4A2588;font-weight:600;font-size:15px;text-decoration:none;transition:all .2s ease;">📖 Iskedyul sa Pagbasa ng Bibliya →</a>
+      <a href="/fil/pioneer-calculator/" style="display:inline-flex;align-items:center;gap:8px;padding:12px 20px;border-radius:14px;background:rgba(107,66,176,0.08);border:1px solid rgba(107,66,176,0.22);color:#4A2588;font-weight:600;font-size:15px;text-decoration:none;transition:all .2s ease;">⏱ Calculator ng Iskedyul ng Pioneer →</a>
+    </div>
+  </section>
+<footer>
+    <div class="container footer-inner">
+      <div>© 2025–2026 JW Ministry. All rights reserved.</div>
+      <div class="footer-links">
+        <a href="./privacy-policy.html">Patakaran sa Privacy</a>
+        <a href="https://github.com/jwministryapp-boop/my-ministry-privacy/issues" target="_blank" rel="noopener">Suporta at Feedback sa GitHub</a>
+        <a href="mailto:jwministry.app@outlook.com">Makipag-ugnayan sa Developer (jwministry.app@outlook.com)</a>
+      </div>
+    </div>
+  </footer>
+
+  <!-- Mobile Sticky Bar -->
+  <div class="sticky-mobile-bar">
+    <div class="sticky-mobile-info">
+      <img src="../assets/logo.png" alt="JW Ministry" class="sticky-logo" width="36" height="36" />
+      <div class="sticky-mobile-text">
+        <div class="sticky-mobile-title">JW Ministry</div>
+        <div class="sticky-mobile-sub">iPhone at iPad • Libre</div>
+      </div>
+    </div>
+    <a href="https://apps.apple.com/us/app/jw-ministry/id6756040136" target="_blank" rel="noopener" class="sticky-mobile-btn">
+       App Store
+    </a>
+  </div>
+
+  <script src="../assets/js/main.js"></script>
+</body>
+</html>

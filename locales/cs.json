@@ -4,70 +4,80 @@
   "og_locale": "cs_CZ",
   "name": "Čeština",
   "flag": "🇨🇿",
-  "title": "JW Ministry — svědků Jehovových: Zpráva z kazatelské služby, Pravidelný průkopník (50 hodin), Osobní obvody a opětovné návštěvy (iPhone & iPad)",
-  "description": "JW Ministry je přehledná aplikace pro kazatelskou službu svědků Jehovových na iPhone a iPad: stopky s Live Activities, přehled zájemců, měsíční zprávy a služební rok, cíle hodin pro průkopníky a karty obvodů dům od domu. pravidelný průkopník (50 hodin), pomocný průkopník (15 a 30 hodin), služební rok (září–srpen), osobní obvody a opětovné návštěvy, biblická studia („Radujte se ze života navždy!“).",
-  "keywords": "JW Ministry, svědků Jehovových, kazatelská služba, zpráva z kazatelské služby, pravidelný průkopník (50 hodin), pomocný průkopník (15 a 30 hodin), služební rok (září–srpen), osobní obvody a opětovné návštěvy, biblická studia („Radujte se ze života navždy!“), iPhone, iPad, iOS",
+  "title": "JW Ministry — Aplikace pro svědky Jehovovy: služba, zpráva a obvody",
+  "description": "Bezplatná aplikace svědků Jehovových pro iPhone a iPad: časovač, měsíční zpráva, hodiny průkopníka, kalendář, plán čtení Bible, duchovní návyky, obvody a biblická studia.",
+  "keywords": "JW Ministry, svedkove, jehovovi, služba, zpráva, obvody, průkopník, hodiny, bible, studium, návštěva, kalendář, časovač, plánovač, poznámky",
   "nav_screens": "Snímky",
   "nav_features": "Funkce",
   "nav_languages": "35+ Jazyků",
   "nav_privacy": "Soukromí",
   "nav_donate": "Podpořit",
   "nav_faq": "Časté dotazy",
-  "badge": "Pro iPhone a iPad • Verze 1.8 • 35+ Jazyků",
-  "hero_title": "Váš kompletní pomocník pro kazatelskou a průkopnickou službu",
-  "hero_sub": "JW Ministry je přehledná aplikace pro kazatelskou službu svědků Jehovových na iPhone a iPad: stopky s Live Activities, přehled zájemců, měsíční zprávy a služební rok, cíle hodin pro průkopníky a karty obvodů dům od domu.",
+  "badge": "Pro iPhone a iPad • Verze 2.0.1 • 35+ Jazyků",
+  "hero_title": "Služba, zpráva, průkopník, obvody a plán čtení Bible",
+  "hero_sub": "Bezplatná a soukromá aplikace svědků Jehovových pro iPhone a iPad: časovač s widgety, měsíční zpráva, kalendář průkopníka, karty obvodů, opětovné návštěvy, biblická studia, duchovní návyky a plán čtení Bible.",
   "cta_appstore": "Stáhnout v App Store",
   "cta_donate": "Podpořit vývojáře",
   "stat_1_val": "35+",
-  "stat_1_lbl": "Interface Languages",
+  "stat_1_lbl": "Jazyky rozhraní",
   "stat_2_val": "100%",
-  "stat_2_lbl": "Offline & Private Data",
+  "stat_2_lbl": "Offline a soukromá data",
   "stat_3_val": "iOS & iPad",
-  "stat_3_lbl": "Native SwiftUI Design",
+  "stat_3_lbl": "Nativní design SwiftUI",
   "stat_4_val": "0 Ads",
-  "stat_4_lbl": "Free, No Subscriptions",
+  "stat_4_lbl": "Zdarma, žádné předplatné",
   "screens_title": "Prohlédněte si každou obrazovku JW Ministry",
   "screens_sub": "Skutečné snímky obrazovky v češtině — od stopek kazatelské služby a biblických studií až po kalendář průkopníka, obvody a tmavý režim OLED.",
   "shots": [
     [
       "1.jpg",
-      "1. Start Tab & Live Timer",
-      "Track your ministry time down to the second (08:04:08). Pause, save to report, or reset in one tap. Increment Bible studies during the session, attach specific Bible students (e.g., Alex), write session notes (territory number, companion), and see total time spent today."
+      "1. Spusťte kartu & Live Timer",
+      "Sledujte čas své služby až na sekundu (08:04:08). Pozastavit, uložit, nahlásit nebo resetovat jedním klepnutím. Během sezení rozšiřujte biblická studia, připojte konkrétní studenty Bible (např. Alexe), pište poznámky k sezení (číslo území, společníka) a sledujte celkový čas strávený dnes."
+    ],
+    [
+      "1-1.jpg",
+      "Duchovní návyky a kruhy pokroku",
+      "Sledujte denní, týdenní a měsíční návyky (denní text, čtení Bible, příprava na shromáždění, rodinné uctívání), otevírejte denní text přímo v JW Library a přidávejte vlastní návyky."
+    ],
+    [
+      "1-2.jpg",
+      "Plán čtení Bible",
+      "Interaktivní přehled všech 66 biblických knih s 5 plány čtení (Klasický, Chronologický, Nejdříve evangelia, Vyvážený, Nejdříve krátké), odhadem dokončení a odkazem do JW Library."
     ],
     [
       "2.jpg",
-      "2. Bible Students Manager",
-      "Keep an organized list of your Bible students. Record the exact study publication, lesson, and section (for example: 'Enjoy Life Forever!, lesson 24, section 3') and add new students in seconds."
+      "2. Manažer studentů Bible",
+      "Mějte uspořádaný seznam svých studentů Bible. Zaznamenejte si přesnou studijní publikaci, lekci a sekci (například: 'Užijte si život navždy!, lekce 24, část 3') a během několika sekund přidejte nové studenty."
     ],
     [
       "3.jpg",
-      "3. Service Year & Monthly Reports",
-      "Switch between service years (2025–2026, 2026–2027), monitor total service year hours and remaining hours, review every month with detailed session logs, study counts, student tags, and share your monthly report on the 1st."
+      "3. Servisní rok a měsíční zprávy",
+      "Přepínejte mezi roky služby (2025–2026, 2026–2027), sledujte celkový počet hodin v roce služby a zbývající hodiny, kontrolujte každý měsíc podrobné protokoly relací, počty studií, značky studentů a sdílejte svůj měsíční přehled 1."
     ],
     [
       "4.jpg",
-      "4. Pioneer Calendar & Goal Progress",
-      "See your current role (Regular pioneer – 50 h, Auxiliary 15/30 h, or Publisher) and personal monthly target (e.g., 55 h). Visual progress bar shows hours completed this month, remaining monthly hours, and full service year balance alongside your daily schedule."
+      "4. Kalendář Pioneer a plnění cílů",
+      "Podívejte se na svou aktuální roli (Pravidelný průkopník – 50 h, Pomocný 15/30 h nebo Vydavatel) a osobní měsíční cíl (např. 55 h). Vizuální ukazatel průběhu zobrazuje hodiny dokončené v tomto měsíci, zbývající měsíční hodiny a celkový zůstatek za rok služby vedle vašeho denního plánu."
     ],
     [
       "5.jpg",
-      "5. Territory Cards & Door-to-Door Log",
-      "Attach photos of territory maps or buildings (e.g., Territory A-8), filter addresses, and log every visit with date, visit status ('First visit', 'Not at home', 'Refusal'), and doorway notes like 'No intercom'."
+      "5. Karty území a protokol od dveří ke dveřím",
+      "Připojte fotografie map území nebo budov (např. území A-8), filtrujte adresy a zaznamenejte každou návštěvu s datem, stavem návštěvy („První návštěva“, „Nejsem doma“, „Odmítnutí“) a poznámkami ke dveřím, jako je „Žádný interkom“."
     ],
     [
       "6.jpg",
-      "6. Flexible Settings & Cloud Backup",
-      "Export or import full JSON backups via the top cloud buttons. Configure your service role, custom monthly hour target, September–August service year, 1st-of-the-month report reminders at 20:00, and return visit notifications after N days."
+      "6. Flexibilní nastavení a zálohování do cloudu",
+      "Exportujte nebo importujte úplné zálohy JSON pomocí horních cloudových tlačítek. Nakonfigurujte svou servisní roli, vlastní měsíční cílovou hodinu, servisní rok září–srpen, připomenutí zpráv o prvním měsíci v 20:00 a upozornění na návrat po N dnech."
     ],
     [
       "7.jpg",
-      "7. True Black OLED Dark Mode (Timer)",
-      "Designed for comfort during evening witnessing and battery saving on OLED iPhones. High-contrast purple accents keep controls clear in any lighting."
+      "7. Tmavý režim True Black OLED (časovač)",
+      "Navrženo pro pohodlí při večerním svědectví a úsporu baterie na OLED iPhonech. Vysoce kontrastní fialové akcenty udržují ovládání jasné při jakémkoli osvětlení."
     ],
     [
       "8.jpg",
-      "8. OLED Dark Mode (Settings & Goals)",
-      "Every screen, sheet, and widget seamlessly adapts to iOS system Light and Dark appearances."
+      "8. Tmavý režim OLED (Nastavení a cíle)",
+      "Každá obrazovka, list a widget se bez problémů přizpůsobí vzhledu světlého a tmavého systému iOS."
     ]
   ],
   "feat_sec_title": "Vše potřebné pro dobře zorganizovanou službu",
@@ -75,33 +85,33 @@
   "features": [
     [
       "⏱️",
-      "Smart Timer, Widgets & Live Activities",
-      "Start your ministry timer from the app, Home Screen widget, or Lock Screen. Your active timer stays visible on the Dynamic Island and Lock Screen even when your iPhone is locked."
+      "Inteligentní časovač, widgety a živé aktivity",
+      "Spusťte časovač ministerstva z aplikace, widgetu domovské obrazovky nebo uzamčené obrazovky. Váš aktivní časovač zůstane viditelný na Dynamic Island a Lock Screen, i když je váš iPhone uzamčen."
     ],
     [
       "📚",
-      "Bible Studies & Publication Progress",
-      "Link Bible studies directly to your daily report entries. Track each student's name and current lesson in 'Enjoy Life Forever!' or any other study aid."
+      "Biblická studia a pokrok v publikacích",
+      "Propojte biblická studia přímo se svými denními záznamy. Sledujte jméno každého studenta a aktuální lekci v 'Užijte si život navždy!' nebo jinou studijní pomůcku."
     ],
     [
       "📊",
-      "Service Roles & Personal Hour Targets",
-      "Supports Publisher, Auxiliary Pioneer (15 or 30 hours), Regular Pioneer (50 hours), Special Pioneer / Missionary (90 / 100 hours), plus a custom 'Personal target' override (e.g., 55 hours/month)."
+      "Servisní role a osobní hodinové cíle",
+      "Podporuje vydavatele, pomocného průkopníka (15 nebo 30 hodin), běžného průkopníka (50 hodin), speciálního průkopníka/misionáře (90/100 hodin), plus vlastní přepsání „Osobní cíl“ (např. 55 hodin/měsíc)."
     ],
     [
       "🗓️",
-      "Service Year (Sept–Aug) & Calendar",
-      "Plan ministry meetings, recurring schedules, and Family Worship in the Calendar. Compare planned vs. actual hours, convert planned sessions into report entries with a swipe, and track your annual pioneer goal."
+      "Servisní rok (září–srpen) a kalendář",
+      "Naplánujte si schůzky služby, opakující se plány a rodinné uctívání v kalendáři. Porovnejte plánovanou a skutečnou dobu, převeďte plánované relace na položky přehledu pouhým přejetím prstem a sledujte svůj roční průkopnický cíl."
     ],
     [
       "🗺️",
-      "Territories, Apartments & Visit Reminders",
-      "Create cards for territories, multi-story apartment buildings, and private houses. Attach map photos, color-code cards, search by address or resident name, and receive automatic reminders to make return visits."
+      "Připomenutí území, bytů a návštěv",
+      "Vytvářejte karty pro území, vícepodlažní bytové domy a soukromé domy. Připojte mapové fotografie, karty s barevným kódem, vyhledávejte podle adresy nebo jména bydliště a získejte automatická připomenutí, abyste se mohli vrátit."
     ],
     [
       "🔒",
-      "100% On-Device Privacy & Full Backups",
-      "No registration, no accounts, no external servers, and zero analytics. All records and territory photos stay locally on your iPhone/iPad, with instant backup export & restore to iCloud Drive or Files."
+      "100% soukromí na zařízení a úplné zálohy",
+      "Žádná registrace, žádné účty, žádné externí servery a žádná analytika. Všechny záznamy a fotografie území zůstanou lokálně na vašem iPhonu/iPadu s okamžitým exportem zálohy a obnovením na iCloud Drive nebo Soubory."
     ]
   ],
   "lang_sec_title": "Plně přeloženo do více než 35 jazyků",
@@ -115,44 +125,44 @@
   "btn_patreon": "Podpořit na Patreonu",
   "card_crypto_title": "Kryptoměny přímo (0% poplatek)",
   "card_crypto_desc": "Přímý převod do peněženky vývojáře:",
-  "usdt_label": "USDT (TRC-20 / TRON Network only):",
-  "ton_label": "TON / USDT (TON Network):",
+  "usdt_label": "USDT (pouze síť TRC-20 / TRON):",
+  "ton_label": "TON / USDT (síť TON):",
   "copy_btn": "Kopírovat",
   "copied_msg": "Zkopírováno!",
-  "crypto_warn": "For the TQQx... address, send assets via TRON (TRC-20) network only.",
+  "crypto_warn": "Pro USDT (TRC-20) posílejte prostředky pouze přes síť TRON.",
   "faq_title": "Často kladené otázky (FAQ)",
   "faqs": [
     [
-      "How does JW Ministry complement JW Library for Jehovah's Witnesses?",
-      "While JW Library is used for reading the Bible, publications, and congregation meetings, JW Ministry is purpose-built for tracking your personal field ministry: logging field service report hours, planning your regular or auxiliary pioneer schedule (15, 30, 50, or 100 hours), managing personal territory records, and tracking Bible students."
+      "Jak JW Ministry doplňuje JW Library pro svědky Jehovovy?",
+      "Zatímco JW Library se používá ke čtení Bible, publikací a sborových shromáždění, JW Ministry je účelově vytvořen pro sledování vaší osobní kazatelské služby: zaznamenávání hodin kazatelské služby, plánování vašeho pravidelného nebo pomocného průkopnického plánu (15, 30, 50 nebo 100 hodin), správa osobních záznamů území a sledování studentů Bible."
     ],
     [
-      "Where are my ministry records and territory notes stored?",
-      "Exclusively on your device (iPhone or iPad). The app has no external database or cloud server, ensuring complete confidentiality of your personal notes and addresses."
+      "Kde jsou uloženy mé ministerské záznamy a územní poznámky?",
+      "Exkluzivně na vašem zařízení (iPhone nebo iPad). Aplikace nemá žádnou externí databázi ani cloudový server, což zajišťuje úplnou důvěrnost vašich osobních poznámek a adres."
     ],
     [
-      "How do I transfer my data to a new iPhone or iPad?",
-      "Open the Settings tab and tap the Cloud Upload icon in the top-right corner to export a full backup file (including territory photos) to iCloud Drive or AirDrop. On your new device, tap the Cloud Download icon to restore everything in one tap."
+      "Jak přenesu svá data do nového iPhonu nebo iPadu?",
+      "Otevřete kartu Nastavení a klepnutím na ikonu Cloud Upload v pravém horním rohu exportujte úplný záložní soubor (včetně fotografií území) na iCloud Drive nebo AirDrop. Na svém novém zařízení klepněte na ikonu Cloud Download a obnovte vše jedním klepnutím."
     ],
     [
-      "How do automatic return visit reminders work?",
-      "In Settings → Notifications, enable 'Remind about return visits to addresses' and set the interval (for example, 3 days). If you haven't logged a follow-up visit to an address within that period, the app will gently remind you."
+      "Jak fungují automatické připomenutí zpětné návštěvy?",
+      "V Nastavení → Oznámení povolte „Připomenout opakované návštěvy na adresy“ a nastavte interval (například 3 dny). Pokud jste během této doby nezaregistrovali následnou návštěvu na adrese, aplikace vám to jemně připomene."
     ],
     [
-      "Does the app support the September–August Service Year?",
-      "Yes! Both the Report tab and the Calendar summary calculate monthly and annual hours across the official September–August service year, including remaining hours toward your annual pioneer goal."
+      "Podporuje aplikace servisní rok září–srpen?",
+      "Ano! Jak karta Report, tak souhrn kalendáře počítají měsíční a roční hodiny v oficiálním služebním roce září až srpen, včetně hodin zbývajících do vašeho ročního průkopnického cíle."
     ],
     [
-      "Is JW Ministry a good replacement for ServicePlanner or MyTime on iPhone?",
-      "Yes! JW Ministry is actively maintained for the latest iOS and iPadOS releases, featuring Live Activities on the Lock Screen and Dynamic Island, interactive Home Screen widgets, an apartment building generator, Planned vs. Actual calendar tracking, and 1-tap iCloud Drive backups."
+      "Je JW Ministry dobrou náhradou za ServicePlanner nebo MyTime na iPhone?",
+      "Ano! JW Ministry je aktivně udržována pro nejnovější verze iOS a iPadOS, obsahuje živé aktivity na zamykací obrazovce a Dynamic Island, interaktivní widgety domovské obrazovky, generátor bytového domu, sledování kalendáře plánované vs. skutečné a zálohování na iCloud Drive jedním klepnutím."
     ],
     [
-      "Does the app work completely offline during door-to-door ministry?",
-      "Absolutely. All timers, territory maps, apartment records, and Bible student notes work 100% offline without requiring mobile data or Wi-Fi."
+      "Funguje aplikace během služby od dveří ke dveřím zcela offline?",
+      "Absolutně. Všechny časovače, mapy území, záznamy bytů a poznámky studentů Bible fungují 100% offline, aniž by vyžadovaly mobilní data nebo Wi-Fi."
     ],
     [
-      "Can I convert a planned ministry event in the Calendar into a Report entry?",
-      "Yes. Simply swipe on any planned ministry session in the Calendar and tap 'To Report' — the duration is automatically logged in your monthly report and deducted from your remaining planned hours."
+      "Mohu převést plánovanou událost služby v kalendáři na záznam ve zprávě?",
+      "Ano. Jednoduše přejeďte prstem na jakékoli plánované ministerské zasedání v Kalendáři a klepněte na „Nahlásit“ – doba trvání se automaticky zaznamená do vaší měsíční zprávy a odečte se od zbývajících plánovaných hodin."
     ]
   ],
   "footer_privacy": "Zásady ochrany soukromí",
@@ -162,19 +172,19 @@
   "seo_sec_sub": "Jak JW Ministry pomáhá zvěstovatelům a průkopníkům po celý služební rok.",
   "seo_pillars": [
     [
-      "Regular & Special Pioneers (50, 90 & 100 Hours / 600-Hour Service Year)",
-      "Serving as a regular pioneer requires keeping track of both your 50-hour monthly target and your 600-hour September–August service year goal. JW Ministry automatically calculates your completed ministry hours, remaining monthly balance, and full service year progress. Set a custom personal monthly goal (e.g., 55 hours), schedule ministry days in the Calendar, and compare your planned hours against your actual reported time."
+      "Pravidelní a speciální průkopníci (50, 90 a 100 hodin / 600 hodin služebního roku)",
+      "Sloužit jako pravidelný průkopník vyžaduje sledování jak 50hodinového měsíčního cíle, tak 600hodinového služebního roku od září do srpna. JW Ministry automaticky vypočítá vaše dokončené hodiny služby, zbývající měsíční zůstatek a průběh celého servisního roku. Nastavte si vlastní osobní měsíční cíl (např. 55 hodin), naplánujte si dny služby v Kalendáři a porovnejte plánované hodiny se skutečným hlášeným časem."
     ],
     [
-      "Auxiliary Pioneers (15 & 30 Hours) and Congregation Publishers",
-      "Joining a special campaign, circuit overseer's visit, or Memorial season as an auxiliary pioneer? Switch your role to Auxiliary Pioneer (15 h or 30 h) in seconds. Congregation publishers can log daily ministry sessions, track Bible studies, and enable an automatic notification on the 1st of every month at 20:00 so you never forget to submit your field service report."
+      "Pomocní průkopníci (15 a 30 hodin) a sboroví vydavatelé",
+      "Připojit se jako pomocný průkopník ke zvláštní kampani, návštěvě krajského dozorce nebo Památné slavnosti? Přepněte svou roli na pomocného průkopníka (15 h nebo 30 h) během několika sekund. Sboroví zvěstovatelé mohou zaznamenávat denní kazatelská setkání, sledovat biblická studia a povolit automatické upozornění 1. dne každého měsíce ve 20:00, abyste nikdy nezapomněli odeslat zprávu o kazatelské službě."
     ],
     [
-      "House-to-House Territories, Apartment Generator & Return Visits",
-      "Replace paper slips with organized digital territory cards. Attach photos of territory maps, color-code cards with 10 stylish colors, and generate entire multi-story apartment buildings by entrances and floors in one tap. Record 'First visit', 'Not at home', or 'Refusal' statuses, search across all territories by street address or resident name, and receive automatic reminders when it is time to make a return visit."
+      "Území od domu k domu, generátor bytů a zpětné návštěvy",
+      "Nahraďte papírové složenky organizovanými digitálními teritoriálními kartami. Připojte fotografie map území, barevné karty s 10 stylovými barvami a vytvářejte celé vícepatrové bytové domy podle vchodů a pater jediným klepnutím. Zaznamenávejte stavy „První návštěva“, „Nejsem doma“ nebo „Odmítnutí“, prohledávejte všechna území podle adresy nebo jména bydliště a dostávejte automatická připomenutí, když je čas na další návštěvu."
     ],
     [
-      "Bible Student Progress & Modern iOS Replacement for Legacy Apps",
+      "Pokrok studentů Bible a moderní náhrada iOS za starší aplikace",
       "Maintain a detailed roster of your Bible students along with their current study publication (such as 'Enjoy Life Forever!'), lesson number, and section. Attach students directly to your timer session so your monthly study count is always accurate. Built natively with SwiftUI for the latest iPhone and iPad models, JW Ministry is the ideal modern alternative to discontinued apps like ServicePlanner or MyTime."
     ]
   ],
@@ -198,171 +208,231 @@
     "Funkce",
     "Papírové poznámky",
     "Starší aplikace",
-    "JW Ministry 1.8"
+    "JW Ministry 2.0.1"
   ],
   "comp_rows": [
     [
-      "Live Ministry Timer on Lock Screen & Dynamic Island",
+      "Živý časovač ministerstva na uzamčené obrazovce a Dynamic Island",
       "No",
       "No",
-      "Yes (Live Activities)"
+      "Ano (živé aktivity)"
     ],
     [
-      "Pioneer Goal Calculator (15, 30, 50, 100h) & 600h Service Year",
-      "Manual calculation",
-      "Partial",
-      "Automatic + Custom Goal"
+      "Kalkulačka cílů Pioneer (15, 30, 50, 100 h) a 600 h služebního roku",
+      "Ruční výpočet",
+      "Částečný",
+      "Automatický + vlastní cíl"
     ],
     [
-      "Planned vs. Actual Calendar & Swipe-to-Report Conversion",
+      "Plánovaný vs. skutečný kalendář a konverze po přejetí prstem do přehledu",
       "No",
       "No",
-      "Built-in 1-Swipe Workflow"
+      "Vestavěný pracovní postup jedním přetažením"
     ],
     [
-      "Apartment Building Generator + Territory Photos & 10 Color Tags",
-      "Paper slips",
-      "Text only",
-      "Full Visual Cards + Search"
+      "Generátor bytových domů + fotky území a 10 barevných štítků",
+      "Papírky",
+      "Pouze text",
+      "Kompletní vizuální karty + vyhledávání"
     ],
     [
-      "Return Visit Reminders & 1st-of-the-Month Report Notification",
+      "Připomenutí zpětné návštěvy a oznámení o prvním hlášení v měsíci",
       "No",
-      "Basic",
-      "Smart iOS Notifications"
+      "Základní",
+      "Chytrá upozornění pro iOS"
     ],
     [
-      "100% On-Device Privacy & Full iCloud Drive Backup with Photos",
-      "Easy to lose",
-      "Often breaks on new iOS",
-      "Offline & Instant Restore"
+      "100% soukromí na zařízení a úplná záloha na iCloud Drive s fotografiemi",
+      "Snadno ztratit",
+      "Na novém iOS se často pokazí",
+      "Offline a okamžité obnovení"
     ],
     [
-      "Native Support for Latest iOS, iPad, OLED Dark Mode & 35+ Languages",
+      "Nativní podpora pro nejnovější iOS, iPad, tmavý režim OLED a 35+ jazyků",
       "—",
-      "Discontinued",
-      "Modern SwiftUI Architecture"
+      "Přerušeno",
+      "Moderní architektura SwiftUI"
     ]
   ],
-  "filter_all": "Vše (8)",
-  "filter_light": "Světlý (6)",
+  "filter_all": "Vše (10)",
+  "filter_light": "Světlý (8)",
   "filter_dark": "Tmavý (2)",
   "filter_ipad": "iPad",
-  "wn_title": "Co je nového ve verzi 1.8",
+  "wn_title": "Co je nového ve verzi 2.0.1",
   "wn_items": [
-    "Automatic monthly planned-hours total in the Calendar with a dual Planned vs. Actual progress bar.",
-    "1-swipe conversion of any scheduled Calendar ministry session directly into a monthly Report entry.",
-    "Instant search by street address or resident name across Territories, plus 10 color themes for territory cards.",
-    "Upcoming Service Year (2026–2027) support in the Report tab with a sleek annual balance summary.",
-    "Full optimization for the latest iOS & iPadOS releases and enhanced on-device backup protection."
+    "Nová sekce „Duchovní návyky“ na kartě Start: kruhy pokroku (Den / Týden / Měsíc), vlastní návyky, nastavení pro rodinné uctívání a naléhavé připomenutí 5. dne v měsíci.",
+    "Plán čtení Bible: 5 tras čtení, sledování kapitol u všech 66 knih, předpověď data dokončení a tlačítko „Číst v JW Library“.",
+    "Dvojitý cíl v Kalendáři a widgetech: zobrazuje současně normu role (30 nebo 50 h) i osobní měsíční cíl ve dvojitém kruhu.",
+    "Plná optimalizace rozhraní pro skládací displej iPhone Duo a iPadOS.",
+    "Do Nastavení přidána tlačítka „Sdílet aplikaci“ a „Web aplikace“."
   ],
-  "howto_name": "How to Track Field Service Hours & Pioneer Schedule on iPhone",
+  "howto_name": "Jak sledovat provozní hodiny a plán Pioneer na iPhone",
   "howto_steps": [
     [
-      "Set your service role and monthly target",
-      "Choose Publisher, Auxiliary Pioneer (15/30 h), or Regular Pioneer (50 h) in Settings, or set a custom monthly hour target."
+      "Nastavte svou servisní roli a měsíční cíl",
+      "V Nastavení vyberte Vydavatel, Pomocný průkopník (15/30 h) nebo Pravidelný průkopník (50 h) nebo si nastavte vlastní měsíční cílovou hodinu."
     ],
     [
-      "Run the live timer or schedule in the Calendar",
-      "Track field ministry on the Lock Screen & Dynamic Island, or swipe scheduled Calendar events directly into your Report."
+      "Spusťte živý časovač nebo plán v kalendáři",
+      "Sledujte službu v terénu na uzamčené obrazovce a Dynamic Island nebo přetáhněte naplánované události kalendáře přímo do své zprávy."
     ],
     [
-      "Log territories and Bible studies",
-      "Record house-to-house visits, apartment statuses, and attach Bible students with their current lesson."
+      "Log území a biblická studia",
+      "Zaznamenejte si návštěvy dům od domu, stav bytu a připojte studenty Bible k jejich aktuální lekci."
     ],
     [
-      "Share your monthly field service report",
-      "On the 1st of the month, open the Report tab to review and share your completed hours and Bible studies."
+      "Sdílejte svou měsíční zprávu z terénní služby",
+      "Prvního dne v měsíci otevřete kartu Zpráva, kde si můžete prohlédnout a sdílet své dokončené hodiny a biblická studia."
     ]
   ],
   "nav_comp": "Srovnání",
   "sticky_sub": "iPhone a iPad • Zdarma",
   "feature_badges": [
-    "Time Tracking • Live Activities",
-    "Bible Studies • Lesson Progress",
-    "Service Roles • 15 / 30 / 50 / 100 h",
-    "Service Year • Plan vs. Actual",
-    "Territory Log • Search & Alerts",
-    "On-Device Privacy • iCloud Backup"
+    "Sledování času • Živé aktivity",
+    "Biblická studia • Průběh lekce",
+    "Servisní role • 15/30/50/100 h",
+    "Servisní rok • Plán vs. skutečnost",
+    "Protokol území • Vyhledávání a upozornění",
+    "Soukromí na zařízení • Záloha na iCloudu"
   ],
   "pillar_badges": [
-    "Regular & Special Pioneer Ministry",
-    "Auxiliary Pioneers & Publishers",
-    "House-to-House & Personal Territories",
-    "Bible Studies & Modern iOS Design"
+    "Pravidelné a zvláštní průkopnické ministerstvo",
+    "Pomocní průkopníci a vydavatelé",
+    "Od domu k domu a osobní území",
+    "Biblická studia a moderní design iOS"
   ],
   "pillar_Checklists": [
     [
-      "Automatic 50 h monthly & 600 h September–August service year tracking",
-      "Custom monthly hour target override (e.g., 55 h/month)",
-      "Dual progress bar comparing scheduled vs. reported hours"
+      "Automatické sledování 50 hodin měsíčně a 600 hodin září–srpen služebního roku",
+      "Přepsání vlastního měsíčního cílového počtu hodin (např. 55 h/měsíc)",
+      "Dvojitý ukazatel průběhu porovnávající naplánované a nahlášené hodiny"
     ],
     [
-      "One-tap switch to 15 h or 30 h Auxiliary Pioneer goals",
-      "Instant monthly report formatting and sharing on the 1st",
-      "Gentle reminder notification on the 1st of each month at 20:00"
+      "Jedním klepnutím přepnete na 15 h nebo 30 h pomocné cíle Pioneer",
+      "Okamžité formátování a sdílení měsíčních zpráv 1",
+      "Jemné upozornění na připomenutí 1. dne každého měsíce ve 20:00"
     ],
     [
-      "Multi-story apartment generator by entrances and floors",
-      "Territory map photos, 10 color themes & instant resident/address search",
-      "Automated return visit reminders after your chosen number of days"
+      "Vícepodlažní bytový generátor podle vchodů a podlaží",
+      "Fotografie mapy území, 10 barevných motivů a okamžité vyhledávání obyvatel/adres",
+      "Automatické připomenutí zpětné návštěvy po vámi zvoleném počtu dní"
     ],
     [
-      "Track exact lessons in 'Enjoy Life Forever!' for every student",
-      "Built natively for iOS & iPadOS with Dynamic Island & OLED Dark Mode",
-      "Complete modern replacement for legacy ServicePlanner & MyTime apps"
+      "Sledujte přesné lekce v 'Užijte si život navždy!' pro každého studenta",
+      "Nativně vytvořeno pro iOS a iPadOS s dynamickým ostrovem a tmavým režimem OLED",
+      "Kompletní moderní náhrada za starší aplikace ServicePlanner a MyTime"
     ]
   ],
   "rev_title": "Zkušenosti zvěstovatelů a průkopníků",
   "rev_sub": "Co říkají bratři a sestry, kteří používají JW Ministry v každodenní službě.",
   "reviews": [
     [
-      "Alex, Regular Pioneer",
-      "Having the monthly planned hours automatically totaled in the Calendar alongside my actual reported hours is a game changer for keeping my 50-hour schedule on track."
+      "Alex, pravidelný průkopník",
+      "Automatické sčítání měsíčních plánovaných hodin v kalendáři spolu s mými skutečnými nahlášenými hodinami je změna hry pro udržení mého 50hodinového plánu."
     ],
     [
-      "Sarah, Auxiliary Pioneer",
-      "The Lock Screen Live Activity timer and 1-swipe conversion from Calendar plans to Report entries make tracking 15 and 30 hours effortless. Clean, fast, and 100% private."
+      "Sarah, pomocná průkopnice",
+      "Časovač živé aktivity na uzamčené obrazovce a převod z plánů kalendáře na záznamy jedním přejetím prstem usnadňují sledování 15 a 30 hodin. Čistý, rychlý a 100% soukromý."
     ],
     [
-      "David, Congregation Publisher",
-      "The apartment building generator and instant search across territory notes replaced all my paper slips. Return visit reminders help me never miss a follow-up."
+      "David, sborový vydavatel",
+      "Generátor bytového domu a okamžité prohledávání poznámek o území nahradily všechny mé papírky. Připomenutí zpětné návštěvy mi pomáhají, abych nikdy nezmeškal následnou kontrolu."
     ]
   ],
   "privacy_page": {
     "page_title": "Zásady ochrany osobních údajů aplikace „JW Ministry“ — JW Ministry",
-    "meta_desc": "Official Privacy Policy and User Support for the JW Ministry iOS & iPadOS app. 100% local on-device data storage with zero external servers.",
+    "meta_desc": "Oficiální zásady ochrany osobních údajů a uživatelská podpora pro aplikaci JW Ministry pro iOS a iPadOS. 100% místní úložiště dat na zařízení s nulovými externími servery.",
     "back_home": "Na hlavní stránku",
     "sup_title": "Podpora uživatelů — JW Ministry",
     "sup_desc": "Máte-li dotazy, návrhy na vylepšení nebo jste našli chybu, napište vývojáři:",
-    "sup_issues": "Report an Issue (GitHub)",
-    "sup_store": " JW Ministry on App Store",
-    "updated": "Last updated: December 5, 2025",
+    "sup_issues": "Nahlásit problém (GitHub)",
+    "sup_store": " JW Ministry na App Store",
+    "updated": "Poslední aktualizace: 5. prosince 2025",
     "h1": "Zásady ochrany osobních údajů aplikace „JW Ministry“",
-    "intro": "This Privacy Policy explains how the <strong>“JW Ministry”</strong> mobile application (“the App”) handles user information. Our core principle is <strong>100% privacy: all records you create are stored exclusively on your device</strong>.",
-    "s1_t": "1. Data Created and Stored in the App",
-    "s1_p": "All data in the App is entered voluntarily by the user for personal field service organization and planning:",
+    "intro": "Tyto zásady ochrany osobních údajů vysvětlují, jak mobilní aplikace <strong>„JW Ministry“</strong> („aplikace“) nakládá s informacemi o uživatelích. Naším základním principem je <strong>100% soukromí: všechny záznamy, které vytvoříte, jsou uloženy výhradně ve vašem zařízení</strong>.",
+    "s1_t": "1. Data vytvořená a uložená v aplikaci",
+    "s1_p": "Všechna data do aplikace zadává uživatel dobrovolně pro organizaci a plánování osobních terénních služeb:",
     "s1_ul": [
-      "<strong>Service time entries & reports:</strong> dates, duration, Bible study counts, and session notes.",
-      "<strong>Calendar schedules:</strong> planned ministry events, dates, times, and recurrence settings.",
-      "<strong>Bible students list:</strong> student names/labels and study publication progress notes.",
-      "<strong>Territories & addresses:</strong> territory names, house/apartment lists, visit history, notes, and territory card photos selected by the user from the Photo Library.",
-      "<strong>App settings:</strong> selected service role, personal monthly hour target, and notification preferences."
+      "<strong>Zápisy a zprávy o časech služby:</strong> data, trvání, počty biblických studií a poznámky k sezení.",
+      "<strong>Plány kalendáře:</strong> plánované události ministerstva, data, časy a nastavení opakování.",
+      "<strong>Seznam studentů Bible:</strong> jména/štítky studentů a poznámky o pokroku studijní publikace.",
+      "<strong>Území a adresy:</strong> názvy území, seznamy domů/bytů, historie návštěv, poznámky a fotografie karet území vybrané uživatelem z Knihovny fotografií.",
+      "<strong>Nastavení aplikace:</strong> vybraná servisní role, osobní měsíční cíl hodin a předvolby oznámení."
     ],
-    "s2_t": "2. 100% Local On-Device Storage & No Third-Party Sharing",
+    "s2_t": "2. 100% místní úložiště na zařízení a žádné sdílení třetími stranami",
     "s2_ul": [
-      "All data is stored <strong>solely on your iPhone or iPad</strong> within the secure iOS / iPadOS storage container.",
-      "The App requires <strong>no registration</strong> and no user account.",
-      "The developer has <strong>no access</strong> to your records, collects no analytics or location data, and <strong>never transmits or shares</strong> any data with external servers or third parties."
+      "Všechna data jsou uložena <strong>pouze ve vašem iPhonu nebo iPadu</strong> v zabezpečeném kontejneru úložiště iOS / iPadOS.",
+      "Aplikace nevyžaduje <strong>žádnou registraci</strong> a žádný uživatelský účet.",
+      "Vývojář nemá <strong>žádný přístup</strong> k vašim záznamům, neshromažďuje žádné analytické údaje ani údaje o poloze a <strong>nikdy nepřenáší ani nesdílí</strong> žádná data s externími servery nebo třetími stranami."
     ],
-    "s3_t": "3. Device Permissions (Photos & Notifications)",
+    "s3_t": "3. Oprávnění zařízení (fotografie a oznámení)",
     "s3_ul": [
-      "<strong>Photo Library:</strong> requested only when you choose to attach a map or building photo to a territory card. Selected images are stored locally inside the App folder on your device.",
-      "<strong>Notifications:</strong> used exclusively for local on-device reminders (such as the 1st-of-the-month report reminder or return visit reminders)."
+      "<strong>Knihovna fotografií:</strong> vyžaduje se pouze v případě, že se rozhodnete připojit ke kartě území mapu nebo fotografii budovy. Vybrané obrázky jsou uloženy lokálně ve složce App na vašem zařízení.",
+      "<strong>Oznámení:</strong> používá se výhradně pro místní připomenutí na zařízení (jako je připomenutí přehledu prvního dne v měsíci nebo připomenutí opětovné návštěvy)."
     ],
-    "s4_t": "4. Backups & Data Deletion",
-    "s4_p": "You may export a complete backup file (including territory photos) at any time via the standard iOS share sheet (for example, saving to your personal iCloud Drive or Files app). Uninstalling the App from your device permanently deletes all local App data.",
-    "s5_t": "5. Contact",
-    "s5_p": "If you have any questions regarding this Privacy Policy or the App, please contact the developer at:"
+    "s4_t": "4. Zálohy a mazání dat",
+    "s4_p": "Úplný záložní soubor (včetně fotografií území) můžete kdykoli exportovat prostřednictvím standardního listu sdílení pro iOS (například uložením na váš osobní iCloud Drive nebo do aplikace Soubory). Odinstalováním aplikace ze zařízení trvale smažete všechna data místní aplikace.",
+    "s5_t": "5. Kontakt",
+    "s5_p": "Máte-li jakékoli dotazy týkající se těchto Zásad ochrany osobních údajů nebo aplikace, kontaktujte vývojáře na adrese:"
+  },
+  "filter_duo": "iPhone Duo",
+  "wn_items_18": [
+    "Automatický měsíční celkový počet plánovaných hodin v kalendáři s dvojitým ukazatelem průběhu plánované vs. skutečné.",
+    "Převedení libovolné plánované relace služby Kalendář jedním přetažením přímo na měsíční položku zprávy.",
+    "Okamžité vyhledávání podle adresy nebo jména bydliště napříč územími, plus 10 barevných motivů pro karty území.",
+    "Podpora pro nadcházející servisní rok (2026–2027) na kartě Zpráva s elegantním shrnutím ročního zůstatku.",
+    "Plná optimalizace pro nejnovější verze iOS a iPadOS a vylepšená ochrana zálohování na zařízení."
+  ],
+  "bible_page": {
+    "title": "5 variant plánu čtení Bible a tracker duchovních návyků | JW Ministry",
+    "desc": "Přehledný denní plán čtení Bible pro iPhone a iPad: všech 66 knih, 5 variant (klasický, chronologický a další), odhad dokončení a integrace s JW Library.",
+    "h1": "5 variant plánu čtení Bible a tracker duchovních návyků",
+    "intro": "Přehledný denní plán čtení Bible pro iPhone a iPad: všech 66 knih, 5 variant (klasický, chronologický a další), odhad dokončení a integrace s JW Library.",
+    "routes_title": "5 vestavěných plánů čtení Bible",
+    "s1_t": "Interaktivní mřížka 66 Knihy",
+    "s1_d": "Odškrtávejte si kapitoly a sledujte pokrok v Hebrejských a Křesťanských řeckých písmech.",
+    "s2_t": "Denní duchovní návyky",
+    "s2_d": "Kroužky průběhu pro den, týden a měsíc plus denní text jedním klepnutím v JW Library.",
+    "routes": [
+      [
+        "1. Klasika",
+        "Od Genesis po Zjevení — sekvenční čtení celé Bible."
+      ],
+      [
+        "2. Chronologické",
+        "Knihy uspořádané v pořadí historických událostí a písma."
+      ],
+      [
+        "3. Nejprve evangelia",
+        "Začněte Křesťanskými řeckými písmy a poté přejděte k Hebrejským písmům."
+      ],
+      [
+        "4. Vyvážený mix",
+        "Střídání historie, poezie a evangelií pro denní rozmanitost."
+      ],
+      [
+        "5. Nejkratší první",
+        "Od nejkratších knih po ty nejdelší pro rychlý pocit pokroku."
+      ]
+    ]
+  },
+  "calc_page": {
+    "title": "Kalkulačka rozvrhu Pioneer (15, 30, 50 a 600 hodin) | JW Ministry",
+    "desc": "Bezplatná online kalkulačka pionýrských hodin pro svědky Jehovovy. Vypočítejte si svůj týdenní a denní plán kazatelské služby pro 15h, 30h pomocného nebo 50h pravidelného průkopníka (600h služebního roku).",
+    "h1": "Kalkulačka rozvrhu Pioneer",
+    "intro": "Naplánujte si hodiny polní služby na 15 hodin nebo 30 hodin Pomocný průkopník, 50 hodin Pravidelný průkopník (600 hodin za služební rok) nebo vlastní cíl.",
+    "label_goal": "Měsíční cíl",
+    "opt_15": "Pomocný pionýr — 15 h/měs",
+    "opt_30": "Pomocný pionýr — 30 h/měs",
+    "opt_50": "Pravidelný Pioneer – 50 h/měs",
+    "opt_90": "Special Pioneer – 90 h/měs",
+    "opt_100": "Special Pioneer – 100 h/měs",
+    "label_days": "Ministerstvo dny v týdnu",
+    "res_week": "Hodiny týdně",
+    "res_day": "Hodiny za den ministerstva",
+    "res_year": "Za servisní rok",
+    "unit_h": "h",
+    "cta_app": "Plán tratí v JW Ministry",
+    "cta_bible": "Rozvrh čtení Bible"
   }
 }

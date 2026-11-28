@@ -31,6 +31,7 @@
 {{JSON_LD}}
   </script>
   {{AUTO_REDIRECT_SCRIPT}}
+  {{GA_SCRIPT}}
 </head>
 <body data-prefix="{{PREFIX}}">
 
@@ -102,7 +103,7 @@
 
         <div class="hero-phones">
           <div class="hero-phone"><img data-shot-file="4.jpg" src="{{HERO_IMG_LEFT}}" alt="Calendar & Pioneer Goal — JW Ministry" width="220" height="475" /></div>
-          <div class="hero-phone center"><img data-shot-file="1.jpg" src="{{HERO_IMG_CENTER}}" alt="Ministry Timer — JW Ministry" width="240" height="518" /></div>
+          <div class="hero-phone center"><img data-shot-file="1.jpg" src="{{HERO_IMG_CENTER}}" fetchpriority="high" alt="Ministry Timer — JW Ministry" width="240" height="518" /></div>
           <div class="hero-phone"><img data-shot-file="3.jpg" src="{{HERO_IMG_RIGHT}}" alt="Service Year Report — JW Ministry" width="220" height="475" /></div>
         </div>
       </div>
@@ -114,7 +115,7 @@
           <div class="stat-box"><div class="stat-val">{{STAT_3_VAL}}</div><div class="stat-lbl">{{STAT_3_LBL}}</div></div>
           <div class="stat-box"><div class="stat-val">{{STAT_4_VAL}}</div><div class="stat-lbl">{{STAT_4_LBL}}</div></div>
           <a href="{{APP_STORE_URL}}" target="_blank" rel="noopener" class="stat-box stat-qr-box" title="{{QR_SCAN_SUB}}">
-            <img src="https://api.qrserver.com/v1/create-qr-code/?size=240x240&margin=1&data={{APP_STORE_URL_ENCODED}}" alt="QR Code App Store JW Ministry" width="80" height="80" loading="lazy" />
+            <img src="{{PREFIX}}/assets/img/qr-appstore.png" alt="QR Code App Store JW Ministry" width="80" height="80" loading="lazy" />
             <div class="stat-qr-text">
               <div class="stat-qr-title">QR App Store</div>
               <div class="stat-lbl">{{QR_SCAN_SUB}}</div>
@@ -142,11 +143,13 @@
             <button class="filter-btn" onclick="filterScreenshots('light', this)">{{FILTER_LIGHT}}</button>
             <button class="filter-btn" onclick="filterScreenshots('dark', this)">{{FILTER_DARK}}</button>
             {{IPAD_FILTER_BTN}}
+            {{DUO_FILTER_BTN}}
           </div>
         </div>
         <div class="shots-grid">
           {{SHOTS_GRID}}
           {{IPAD_SHOTS_GRID}}
+          {{DUO_SHOTS_GRID}}
         </div>
       </div>
     </section>
@@ -162,11 +165,20 @@
         </div>
         <div class="changelog-box">
           <div class="changelog-head">
-            <h3>{{WN_TITLE}}</h3>
-            <time class="changelog-date" datetime="2026-11">v1.8 • iOS & iPadOS</time>
+            <div>
+              <h3>{{WN_TITLE}}</h3>
+              <time class="changelog-date" datetime="2026-11">v2.0.1 • iOS, iPadOS & iPhone Duo</time>
+            </div>
+            <div class="changelog-tabs" role="tablist">
+              <button class="cl-tab active" onclick="switchChangelogTab('201', this)" role="tab">v2.0.1</button>
+              <button class="cl-tab" onclick="switchChangelogTab('18', this)" role="tab">v1.8</button>
+            </div>
           </div>
-          <ul class="changelog-list">
+          <ul class="changelog-list" id="cl-panel-201">
             {{WN_LIST_ITEMS}}
+          </ul>
+          <ul class="changelog-list" id="cl-panel-18" style="display:none;">
+            {{WN_LIST_ITEMS_18}}
           </ul>
         </div>
       </div>
@@ -257,7 +269,7 @@
                   </div>
                 </div>
                 <div class="wallet-qr-pop" id="qr-usdt">
-                  <img src="https://api.qrserver.com/v1/create-qr-code/?size=160x160&data={{USDT_TRC20}}" alt="USDT TRC20 QR" loading="lazy" />
+                  <img src="{{PREFIX}}/assets/img/qr-usdt.png" alt="USDT TRC20 QR" loading="lazy" />
                 </div>
               </div>
               <div class="wallet-box">
@@ -270,7 +282,7 @@
                   </div>
                 </div>
                 <div class="wallet-qr-pop" id="qr-ton">
-                  <img src="https://api.qrserver.com/v1/create-qr-code/?size=160x160&data={{TON_ADDRESS}}" alt="TON QR" loading="lazy" />
+                  <img src="{{PREFIX}}/assets/img/qr-ton.png" alt="TON QR" loading="lazy" />
                 </div>
               </div>
               <div class="crypto-warn">{{CRYPTO_WARN}}</div>

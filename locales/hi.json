@@ -4,18 +4,18 @@
   "og_locale": "hi_IN",
   "name": "हिन्दी",
   "flag": "🇮🇳",
-  "title": "JW Ministry — यहोवा के साक्षी: प्रचार सेवा रिपोर्ट, नियमित पायनियर (50 घंटे), प्रचार का इलाका और पुनःभेंट (iPhone & iPad)",
-  "description": "JW Ministry यहोवा के साक्षियों की क्षेत्र सेवा के लिए बनाया गया iPhone और iPad ऐप है: लाइव टाइमर, बाइबल विद्यार्थियों की प्रगति, सेवा वर्ष की रिपोर्ट, पायनियर घंटों का लक्ष्य और घर-घर के इलाके का रिकॉर्ड। नियमित पायनियर (50 घंटे), सहयोगी पायनियर (15 और 30 घंटे), सेवा वर्ष (सितंबर–अगस्त), प्रचार का इलाका और पुनःभेंट, बाइबल अध्ययन ('हमेशा के लिए ज़िंदगी का आनंद लीजिए!').",
-  "keywords": "JW Ministry, यहोवा के साक्षी, प्रचार सेवा (क्षेत्र सेवा), प्रचार सेवा रिपोर्ट, नियमित पायनियर (50 घंटे), सहयोगी पायनियर (15 और 30 घंटे), सेवा वर्ष (सितंबर–अगस्त), प्रचार का इलाका और पुनःभेंट, बाइबल अध्ययन ('हमेशा के लिए ज़िंदगी का आनंद लीजिए!'), iPhone, iPad, iOS",
+  "title": "JW Ministry — यहोवा के साक्षियों के लिए ऐप: प्रचार सेवा, रिपोर्ट और इलाके",
+  "description": "यहोवा के साक्षियों के लिए मुफ़्त iPhone और iPad ऐप: सेवा टाइमर, मासिक रिपोर्ट, पायनियर घंटे, कैलेंडर, बाइबल पठन समय-सारणी, आध्यात्मिक आदतें, इलाके और बाइबल अध्ययन।",
+  "keywords": "JW Ministry, यहोवा, साक्षी, प्रचार सेवा, रिपोर्ट, इलाके, पायनियर, घंटे, बाइबल, अध्ययन, पुनर्भेंट, कैलेंडर, टाइमर, नोट्स, योजना",
   "nav_screens": "स्क्रीनशॉट",
   "nav_features": "विशेषताएँ",
   "nav_languages": "35+ भाषाएँ",
   "nav_privacy": "गोपनीयता",
   "nav_donate": "सहयोग करें",
   "nav_faq": "सामान्य प्रश्न",
-  "badge": "iPhone और iPad के लिए उपलब्ध • वर्ज़न 1.8 • 35+ भाषाएँ",
-  "hero_title": "प्रचार सेवा और पायनियर सेवा के लिए आपका संपूर्ण साथी",
-  "hero_sub": "JW Ministry यहोवा के साक्षियों की क्षेत्र सेवा के लिए बनाया गया iPhone और iPad ऐप है: लाइव टाइमर, बाइबल विद्यार्थियों की प्रगति, सेवा वर्ष की रिपोर्ट, पायनियर घंटों का लक्ष्य और घर-घर के इलाके का रिकॉर्ड।",
+  "badge": "iPhone और iPad के लिए उपलब्ध • वर्ज़न 2.0.1 • 35+ भाषाएँ",
+  "hero_title": "प्रचार सेवा, रिपोर्ट, पायनियर घंटे, इलाके और बाइबल पठन",
+  "hero_sub": "यहोवा के साक्षियों के लिए मुफ़्त और 100% निजी iPhone व iPad ऐप: विजेट वाला टाइमर, मासिक रिपोर्ट, पायनियर कैलेंडर, इलाके के कार्ड, पुनर्भेंट, बाइबल अध्ययन, आध्यात्मिक आदतें और बाइबल पठन समय-सारणी।",
   "cta_appstore": "App Store से डाउनलोड करें",
   "cta_donate": "डेवलपर का सहयोग करें",
   "stat_1_val": "35+",
@@ -33,6 +33,16 @@
       "1.jpg",
       "1. स्टार्ट टैब और प्रचार सेवा टाइमर",
       "सेकंड तक सटीक समय रिकॉर्ड करें, बाइबल अध्ययन जोड़ें, विद्यार्थी चुनें और इलाके के नोट्स लिखें।"
+    ],
+    [
+      "1-1.jpg",
+      "आध्यात्मिक आदतें और प्रोग्रेस रिंग्स",
+      "दैनिक, साप्ताहिक और मासिक आदतों (दैनिक वचन, बाइबल पठन, सभा की तैयारी, पारिवारिक उपासना) को ट्रैक करें, दैनिक वचन सीधे JW Library में खोलें और अपनी आदतें जोड़ें।"
+    ],
+    [
+      "1-2.jpg",
+      "बाइबल पढ़ने की समय-सारणी",
+      "बाइबल की सभी 66 किताबों का इंटरैक्टिव ग्रिड, 5 पठन मार्ग (क्लासिक, कालानुक्रमिक, पहले सुसमाचार, संतुलित, पहले छोटी किताबें), पूर्ण होने का अनुमान और JW Library में सीधा लिंक।"
     ],
     [
       "2.jpg",
@@ -119,7 +129,7 @@
   "ton_label": "TON / USDT (TON नेटवर्क):",
   "copy_btn": "कॉपी करें",
   "copied_msg": "कॉपी हो गया!",
-  "crypto_warn": "TQQx... पते पर केवल TRON (TRC-20) नेटवर्क के माध्यम से ही भेजें।",
+  "crypto_warn": "USDT (TRC-20) के लिए केवल TRON नेटवर्क के माध्यम से ही भेजें।",
   "faq_title": "अक्सर पूछे जाने वाले प्रश्न (FAQ)",
   "faqs": [
     [
@@ -182,7 +192,7 @@
     "सुविधा",
     "कागज़ की डायरी",
     "पुराने ऐप्स",
-    "JW Ministry 1.8"
+    "JW Ministry 2.0.1"
   ],
   "comp_rows": [
     [
@@ -228,35 +238,35 @@
       "नेटिव SwiftUI डिज़ाइन"
     ]
   ],
-  "filter_all": "सभी (8)",
-  "filter_light": "लाइट (6)",
+  "filter_all": "सभी (10)",
+  "filter_light": "लाइट (8)",
   "filter_dark": "डार्क (2)",
   "filter_ipad": "iPad",
-  "wn_title": "वर्ज़न 1.8 में नया क्या है",
+  "wn_title": "वर्ज़न 2.0.1 में नया क्या है",
   "wn_items": [
-    "कैलेंडर में महीने के नियोजित घंटों का ऑटोमैटिक जोड़ और 'योजना बनाम वास्तविक' डबल प्रोग्रेस बार।",
-    "कैलेंडर की नियोजित सेवा को एक स्वाइप से सीधे मासिक रिपोर्ट में बदलें।",
-    "सभी इलाकों में पते या नाम से तुरंत खोज और इलाके के कार्ड के लिए 10 रंग।",
-    "रिपोर्ट टैब में आगामी सेवा वर्ष (2026–2027) का समर्थन।",
-    "नवीनतम iOS और iPadOS के लिए पूर्ण अनुकूलन और मज़बूत बैकअप सुरक्षा।"
+    "स्टार्ट टैब में नया «आध्यात्मिक आदतें» सेक्शन: प्रोग्रेस रिंग्स (दिन / सप्ताह / महीना), कस्टम आदतें, पारिवारिक उपासना के लिए वैवाहिक स्थिति विकल्प और 5 तारीख को ज़रूरी रिपोर्ट रिमाइंडर।",
+    "बाइबल पढ़ने की समय-सारणी: 5 पठन मार्ग, सभी 66 किताबों के अध्याय ट्रैकिंग, पूर्ण होने का अनुमान और «JW Library में पढ़ें» बटन।",
+    "कैलेंडर और विजेट में दोहरा लक्ष्य: पायनियर लक्ष्य (30 या 50 घं.) और व्यक्तिगत मासिक लक्ष्य दोनों एक साथ डबल रिंग में देखें।",
+    "फ़ोल्डेबल iPhone Duo स्क्रीन और iPadOS के लिए पूर्ण अनुकूलन।",
+    "सेटिंग्स में «ऐप साझा करें» और «वेबसाइट» बटन जोड़े गए।"
   ],
-  "howto_name": "How to Track Field Service Hours & Pioneer Schedule on iPhone",
+  "howto_name": "iPhone पर फ़ील्ड सेवा घंटे और पायनियर शेड्यूल को कैसे ट्रैक करें",
   "howto_steps": [
     [
-      "Set your service role and monthly target",
-      "Choose Publisher, Auxiliary Pioneer (15/30 h), or Regular Pioneer (50 h) in Settings, or set a custom monthly hour target."
+      "अपनी सेवा भूमिका और मासिक लक्ष्य निर्धारित करें",
+      "सेटिंग्स में प्रकाशक, सहायक पायनियर (15/30 घंटे), या नियमित पायनियर (50 घंटे) चुनें, या एक कस्टम मासिक घंटे का लक्ष्य निर्धारित करें।"
     ],
     [
-      "Run the live timer or schedule in the Calendar",
-      "Track field ministry on the Lock Screen & Dynamic Island, or swipe scheduled Calendar events directly into your Report."
+      "कैलेंडर में लाइव टाइमर या शेड्यूल चलाएँ",
+      "लॉक स्क्रीन और Dynamic Island पर फ़ील्ड मंत्रालय को ट्रैक करें, या निर्धारित कैलेंडर ईवेंट को सीधे अपनी रिपोर्ट में स्वाइप करें।"
     ],
     [
-      "Log territories and Bible studies",
-      "Record house-to-house visits, apartment statuses, and attach Bible students with their current lesson."
+      "लॉग क्षेत्र और बाइबिल अध्ययन",
+      "घर-घर की यात्राओं, अपार्टमेंट की स्थिति को रिकॉर्ड करें और बाइबल छात्रों को उनके वर्तमान पाठ से जोड़ें।"
     ],
     [
-      "Share your monthly field service report",
-      "On the 1st of the month, open the Report tab to review and share your completed hours and Bible studies."
+      "अपनी मासिक फ़ील्ड सेवा रिपोर्ट साझा करें",
+      "महीने की पहली तारीख को, अपने पूरे किए गए घंटों और बाइबल अध्ययनों की समीक्षा और साझा करने के लिए रिपोर्ट टैब खोलें।"
     ]
   ],
   "nav_comp": "तुलना",
@@ -315,38 +325,98 @@
   ],
   "privacy_page": {
     "page_title": "“JW Ministry” गोपनीयता नीति — JW Ministry",
-    "meta_desc": "Official Privacy Policy and User Support for the JW Ministry iOS & iPadOS app. 100% local on-device data storage with zero external servers.",
+    "meta_desc": "JW Ministry iOS और iPadOS ऐप के लिए आधिकारिक गोपनीयता नीति और उपयोगकर्ता सहायता। शून्य बाहरी सर्वर के साथ 100% स्थानीय ऑन-डिवाइस डेटा भंडारण।",
     "back_home": "मुख्य पृष्ठ",
     "sup_title": "JW Ministry — उपयोगकर्ता सहायता",
     "sup_desc": "यदि आपके पास कोई प्रश्न या सुझाव है, तो डेवलपर से संपर्क करें:",
-    "sup_issues": "Report an Issue (GitHub)",
-    "sup_store": " JW Ministry on App Store",
-    "updated": "Last updated: December 5, 2025",
+    "sup_issues": "किसी समस्या की रिपोर्ट करें (GitHub)",
+    "sup_store": " App Store पर JW Ministry",
+    "updated": "अंतिम अद्यतन: 5 दिसंबर, 2025",
     "h1": "“JW Ministry” गोपनीयता नीति",
-    "intro": "This Privacy Policy explains how the <strong>“JW Ministry”</strong> mobile application (“the App”) handles user information. Our core principle is <strong>100% privacy: all records you create are stored exclusively on your device</strong>.",
-    "s1_t": "1. Data Created and Stored in the App",
-    "s1_p": "All data in the App is entered voluntarily by the user for personal field service organization and planning:",
+    "intro": "यह गोपनीयता नीति बताती है कि <strong>\"JW Ministry\"</strong> मोबाइल एप्लिकेशन (\"ऐप\") उपयोगकर्ता की जानकारी को कैसे संभालता है। हमारा मुख्य सिद्धांत <strong>100% गोपनीयता है: आपके द्वारा बनाए गए सभी रिकॉर्ड विशेष रूप से आपके डिवाइस पर संग्रहीत होते हैं</strong>।",
+    "s1_t": "1. ऐप में डेटा बनाया और संग्रहीत किया गया",
+    "s1_p": "ऐप में सभी डेटा व्यक्तिगत क्षेत्र सेवा संगठन और योजना के लिए उपयोगकर्ता द्वारा स्वेच्छा से दर्ज किया गया है:",
     "s1_ul": [
-      "<strong>Service time entries & reports:</strong> dates, duration, Bible study counts, and session notes.",
-      "<strong>Calendar schedules:</strong> planned ministry events, dates, times, and recurrence settings.",
-      "<strong>Bible students list:</strong> student names/labels and study publication progress notes.",
-      "<strong>Territories & addresses:</strong> territory names, house/apartment lists, visit history, notes, and territory card photos selected by the user from the Photo Library.",
-      "<strong>App settings:</strong> selected service role, personal monthly hour target, and notification preferences."
+      "<strong>सेवा समय प्रविष्टियाँ और रिपोर्ट:</strong> तिथियाँ, अवधि, बाइबल अध्ययन की संख्या और सत्र नोट्स।",
+      "<strong>कैलेंडर शेड्यूल:</strong> नियोजित मंत्रालय कार्यक्रम, तिथियां, समय और पुनरावृत्ति सेटिंग्स।",
+      "<strong>बाइबिल छात्रों की सूची:</strong> छात्रों के नाम/लेबल और अध्ययन प्रकाशन प्रगति नोट्स।",
+      "<strong>क्षेत्र और पते:</strong> क्षेत्र के नाम, घर/अपार्टमेंट की सूचियां, यात्रा का इतिहास, नोट्स और फोटो लाइब्रेरी से उपयोगकर्ता द्वारा चुने गए क्षेत्र कार्ड के फोटो।",
+      "<strong>ऐप सेटिंग:</strong> चयनित सेवा भूमिका, व्यक्तिगत मासिक घंटे का लक्ष्य और अधिसूचना प्राथमिकताएँ।"
     ],
-    "s2_t": "2. 100% Local On-Device Storage & No Third-Party Sharing",
+    "s2_t": "2. 100% स्थानीय ऑन-डिवाइस स्टोरेज और कोई तृतीय-पक्ष साझाकरण नहीं",
     "s2_ul": [
-      "All data is stored <strong>solely on your iPhone or iPad</strong> within the secure iOS / iPadOS storage container.",
-      "The App requires <strong>no registration</strong> and no user account.",
-      "The developer has <strong>no access</strong> to your records, collects no analytics or location data, and <strong>never transmits or shares</strong> any data with external servers or third parties."
+      "सभी डेटा <strong>केवल आपके iPhone या iPad पर</strong> सुरक्षित iOS / iPadOS स्टोरेज कंटेनर में संग्रहीत किया जाता है।",
+      "ऐप को <strong>कोई पंजीकरण</strong> और किसी उपयोगकर्ता खाते की आवश्यकता नहीं है।",
+      "डेवलपर के पास आपके रिकॉर्ड तक कोई पहुंच नहीं है</strong>, कोई विश्लेषण या स्थान डेटा एकत्र नहीं करता है, और बाहरी सर्वर या तीसरे पक्ष के साथ कोई डेटा <strong>कभी प्रसारित या साझा नहीं करता है।"
     ],
-    "s3_t": "3. Device Permissions (Photos & Notifications)",
+    "s3_t": "3. डिवाइस अनुमतियाँ (फ़ोटो और सूचनाएं)",
     "s3_ul": [
-      "<strong>Photo Library:</strong> requested only when you choose to attach a map or building photo to a territory card. Selected images are stored locally inside the App folder on your device.",
-      "<strong>Notifications:</strong> used exclusively for local on-device reminders (such as the 1st-of-the-month report reminder or return visit reminders)."
+      "<strong>फ़ोटो लाइब्रेरी:</strong> का अनुरोध केवल तभी किया जाता है जब आप किसी क्षेत्र कार्ड में मानचित्र या भवन का फ़ोटो संलग्न करना चुनते हैं। चयनित छवियां आपके डिवाइस पर ऐप फ़ोल्डर के अंदर स्थानीय रूप से संग्रहीत की जाती हैं।",
+      "<strong>सूचनाएँ:</strong> विशेष रूप से स्थानीय ऑन-डिवाइस अनुस्मारक (जैसे महीने की पहली रिपोर्ट अनुस्मारक या वापसी यात्रा अनुस्मारक) के लिए उपयोग किया जाता है।"
     ],
-    "s4_t": "4. Backups & Data Deletion",
-    "s4_p": "You may export a complete backup file (including territory photos) at any time via the standard iOS share sheet (for example, saving to your personal iCloud Drive or Files app). Uninstalling the App from your device permanently deletes all local App data.",
-    "s5_t": "5. Contact",
-    "s5_p": "If you have any questions regarding this Privacy Policy or the App, please contact the developer at:"
+    "s4_t": "4. बैकअप और डेटा हटाना",
+    "s4_p": "आप किसी भी समय मानक iOS शेयर शीट के माध्यम से एक संपूर्ण बैकअप फ़ाइल (क्षेत्र फ़ोटो सहित) निर्यात कर सकते हैं (उदाहरण के लिए, अपने व्यक्तिगत iCloud ड्राइव या फ़ाइलें ऐप में सहेजना)। आपके डिवाइस से ऐप को अनइंस्टॉल करने से सभी स्थानीय ऐप डेटा स्थायी रूप से हट जाता है।",
+    "s5_t": "5. संपर्क करें",
+    "s5_p": "यदि इस गोपनीयता नीति या ऐप के संबंध में आपके कोई प्रश्न हैं, तो कृपया डेवलपर से यहां संपर्क करें:"
+  },
+  "filter_duo": "iPhone Duo",
+  "wn_items_18": [
+    "कैलेंडर में महीने के नियोजित घंटों का ऑटोमैटिक जोड़ और 'योजना बनाम वास्तविक' डबल प्रोग्रेस बार।",
+    "कैलेंडर की नियोजित सेवा को एक स्वाइप से सीधे मासिक रिपोर्ट में बदलें।",
+    "सभी इलाकों में पते या नाम से तुरंत खोज और इलाके के कार्ड के लिए 10 रंग।",
+    "रिपोर्ट टैब में आगामी सेवा वर्ष (2026–2027) का समर्थन।",
+    "नवीनतम iOS और iPadOS के लिए पूर्ण अनुकूलन और मज़बूत बैकअप सुरक्षा।"
+  ],
+  "bible_page": {
+    "title": "बाइबल पढ़ने के 5 शेड्यूल और आध्यात्मिक आदत ट्रैकर | JW Ministry",
+    "desc": "iPhone और iPad के लिए दैनिक बाइबल पठन समय-सारणी: सभी 66 किताबें, 5 विकल्प (क्लासिक, कालानुक्रमिक आदि), पूर्ण होने का अनुमान और JW Library एकीकरण।",
+    "h1": "बाइबल पढ़ने के 5 शेड्यूल और आध्यात्मिक आदत ट्रैकर",
+    "intro": "iPhone और iPad के लिए दैनिक बाइबल पठन समय-सारणी: सभी 66 किताबें, 5 विकल्प (क्लासिक, कालानुक्रमिक आदि), पूर्ण होने का अनुमान और JW Library एकीकरण।",
+    "routes_title": "5 अंतर्निहित बाइबल पढ़ने की योजनाएँ",
+    "s1_t": "66 पुस्तकें इंटरैक्टिव ग्रिड",
+    "s1_d": "अध्यायों की जाँच करें और हिब्रू और ईसाई यूनानी शास्त्रों में प्रगति पर नज़र रखें।",
+    "s2_t": "दैनिक आध्यात्मिक आदतें",
+    "s2_d": "जेडब्ल्यू लाइब्रेरी में दिन, सप्ताह और महीने के साथ-साथ 1-टैप दैनिक पाठ के लिए प्रगति बजती है।",
+    "routes": [
+      [
+        "1. क्लासिक",
+        "उत्पत्ति से रहस्योद्घाटन तक - संपूर्ण बाइबिल का क्रमिक पाठ।"
+      ],
+      [
+        "2. कालानुक्रमिक",
+        "पुस्तकों को ऐतिहासिक घटनाओं और लेखन के क्रम में व्यवस्थित किया गया।"
+      ],
+      [
+        "3. सुसमाचार प्रथम",
+        "ईसाई यूनानी शास्त्र से शुरुआत करें, फिर इब्रानी शास्त्र की ओर बढ़ें।"
+      ],
+      [
+        "4. संतुलित मिश्रण",
+        "दैनिक विविधता के लिए वैकल्पिक इतिहास, कविता और सुसमाचार।"
+      ],
+      [
+        "5. सबसे छोटा प्रथम",
+        "प्रगति की त्वरित समझ के लिए सबसे छोटी किताबों से लेकर सबसे लंबी किताबों तक।"
+      ]
+    ]
+  },
+  "calc_page": {
+    "title": "पायनियर शेड्यूल कैलकुलेटर (15, 30, 50 और 600 घंटे) | JW Ministry",
+    "desc": "यहोवा के साक्षियों के लिए मुफ़्त ऑनलाइन पायनियर घंटे कैलकुलेटर। 15 घंटे, 30 घंटे सहायक या 50 घंटे नियमित पायनियर (600 घंटे सेवा वर्ष) के लिए अपने साप्ताहिक और दैनिक क्षेत्र सेवा कार्यक्रम की गणना करें।",
+    "h1": "पायनियर शेड्यूल कैलकुलेटर",
+    "intro": "15 घंटे या 30 घंटे सहायक पायनियर, 50 घंटे नियमित पायनियर (प्रति सेवा वर्ष 600 घंटे), या एक कस्टम लक्ष्य के लिए अपने क्षेत्र सेवा घंटों की योजना बनाएं।",
+    "label_goal": "मासिक लक्ष्य",
+    "opt_15": "सहायक पायनियर - 15 घंटे/महीना",
+    "opt_30": "सहायक पायनियर - 30 घंटे/महीना",
+    "opt_50": "नियमित पायनियर - 50 घंटे/महीना",
+    "opt_90": "विशेष पायनियर - 90 घंटे/महीना",
+    "opt_100": "विशेष पायनियर - 100 घंटे/महीना",
+    "label_days": "प्रति सप्ताह मंत्रालय दिवस",
+    "res_week": "प्रति सप्ताह घंटे",
+    "res_day": "प्रति मंत्रालय दिन घंटे",
+    "res_year": "प्रति सेवा वर्ष",
+    "unit_h": "ज",
+    "cta_app": "JW Ministry में ट्रैक शेड्यूल",
+    "cta_bible": "बाइबिल पढ़ने का कार्यक्रम"
   }
 }

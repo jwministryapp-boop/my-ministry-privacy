@@ -4,18 +4,18 @@
   "og_locale": "sv_SE",
   "name": "Svenska",
   "flag": "🇸🇪",
-  "title": "JW Ministry — Jehovas vittnen: Tjänsterapport, Reguljär pionjär (50 timmar), Personliga distrikt och återbesök (iPhone & iPad)",
-  "description": "JW Ministry är en app för tjänsten på fältet för Jehovas vittnen på iPhone och iPad: timer med Live Activities, översikt över bibelkurser, rapporter för tjänsteåret, timmål för pionjärer och distriktskort. reguljär pionjär (50 timmar), hjälppionjär (15 och 30 timmar), tjänsteår (september–augusti), personliga distrikt och återbesök, bibelkurser (”Ett hopp om en ljus framtid”).",
-  "keywords": "JW Ministry, Jehovas vittnen, tjänsten på fältet, tjänsterapport, reguljär pionjär (50 timmar), hjälppionjär (15 och 30 timmar), tjänsteår (september–augusti), personliga distrikt och återbesök, bibelkurser (”Ett hopp om en ljus framtid”), iPhone, iPad, iOS",
+  "title": "JW Ministry — App för Jehovas vittnen: tjänst, rapport och distrikt",
+  "description": "Gratis app för Jehovas vittnen på iPhone och iPad: timer, månadsrapport, pionjärtimmar, kalender, bibelläsningsschema, andliga vanor, distriktskort och bibelkurser.",
+  "keywords": "JW Ministry, jehovas, vittnen, tjänst, rapport, distrikt, pionjär, timmar, bibel, studium, återbesök, kalender, timer, planerare, anteckningar",
   "nav_screens": "Skärmbilder",
   "nav_features": "Funktioner",
   "nav_languages": "35+ Språk",
   "nav_privacy": "Integritet",
   "nav_donate": "Stöd",
   "nav_faq": "Vanliga frågor",
-  "badge": "För iPhone & iPad • Version 1.8 • 35+ Språk",
-  "hero_title": "Ditt kompletta verktyg för tjänsten och pionjärtjänsten",
-  "hero_sub": "JW Ministry är en app för tjänsten på fältet för Jehovas vittnen på iPhone och iPad: timer med Live Activities, översikt över bibelkurser, rapporter för tjänsteåret, timmål för pionjärer och distriktskort.",
+  "badge": "För iPhone & iPad • Version 2.0.1 • 35+ Språk",
+  "hero_title": "Tjänst, rapport, pionjärtimmar, distrikt & bibelläsningsschema",
+  "hero_sub": "Gratis och privat app för Jehovas vittnen på iPhone och iPad: tjänstetimer med widgetar, månadsrapport, pionjärkalender, distriktskort, återbesök, bibelkurser, andliga vanor och bibelläsningsschema.",
   "cta_appstore": "Hämta i App Store",
   "cta_donate": "Stöd utvecklaren",
   "stat_1_val": "35+",
@@ -33,6 +33,16 @@
       "1.jpg",
       "1. Startflik & Tjänstetimer",
       "Mät din tid i tjänsten på sekunden, lägg till bibelkurser, välj elev och skriv distriktsanteckningar."
+    ],
+    [
+      "1-1.jpg",
+      "Andliga vanor & framstegsringar",
+      "Följ dagliga, veckovisa och månatliga vanor (dagens text, bibelläsning, mötesförberedelse, andlig familjekväll), öppna dagens text direkt i JW Library och lägg till egna vanor."
+    ],
+    [
+      "1-2.jpg",
+      "Bibelläsningsschema",
+      "Interaktiv översikt över alla 66 bibelböcker med 5 läsplaner (Klassisk, Kronologisk, Evangelierna först, Balanserad, Korta först), beräknat slutdatum och direktlänk till JW Library."
     ],
     [
       "2.jpg",
@@ -119,7 +129,7 @@
   "ton_label": "TON / USDT (TON-nätverk):",
   "copy_btn": "Kopiera",
   "copied_msg": "Kopierat!",
-  "crypto_warn": "Skicka endast tillgångar via TRON-nätverket (TRC-20) till adressen TQQx...",
+  "crypto_warn": "För USDT (TRC-20), skicka endast tillgångar via TRON-nätverket.",
   "faq_title": "Vanliga frågor (FAQ)",
   "faqs": [
     [
@@ -182,7 +192,7 @@
     "Funktion",
     "Pappersanteckningar",
     "Äldre appar",
-    "JW Ministry 1.8"
+    "JW Ministry 2.0.1"
   ],
   "comp_rows": [
     [
@@ -228,35 +238,35 @@
       "Modern SwiftUI-design"
     ]
   ],
-  "filter_all": "Alla (8)",
-  "filter_light": "Ljust (6)",
+  "filter_all": "Alla (10)",
+  "filter_light": "Ljust (8)",
   "filter_dark": "Mörkt (2)",
   "filter_ipad": "iPad",
-  "wn_title": "Nyheter i version 1.8",
+  "wn_title": "Nyheter i version 2.0.1",
   "wn_items": [
-    "Automatisk summering av planerade timmar i Kalendern med dubbel förloppsindikator (Planerat vs. Faktiskt).",
-    "Omvandla ett planerat tjänstepass i Kalendern direkt till en rapportpost med ett svep.",
-    "Direktsökning på adress eller namn i alla distrikt samt 10 färgteman för distriktskort.",
-    "Stöd för kommande tjänsteår (2026–2027) under fliken Rapport.",
-    "Full optimering för senaste iOS & iPadOS och förstärkt skydd för säkerhetskopior."
+    "Ny sektion «Andliga vanor» under Start: framstegsringar (Dag / Vecka / Månad), egna vanor, inställning för andlig familjekväll och viktig påminnelse den 5:e i månaden.",
+    "Bibelläsningsschema: 5 läsrutter, kapitelmarkering i alla 66 böcker, prognos för slutdatum och knappen «Läs i JW Library».",
+    "Dubbla mål i Kalender & widgetar: visa både pionjärmålet (30 eller 50 tim) och ett eget månadsmål i en dubbelring.",
+    "Fullständig anpassning för vikbar iPhone Duo-skärm och iPadOS.",
+    "Lade till «Dela appen» och «Webbplats» i Inställningar."
   ],
-  "howto_name": "How to Track Field Service Hours & Pioneer Schedule on iPhone",
+  "howto_name": "Så här spårar du fälttjänsttimmar och Pioneer-schema på iPhone",
   "howto_steps": [
     [
-      "Set your service role and monthly target",
-      "Choose Publisher, Auxiliary Pioneer (15/30 h), or Regular Pioneer (50 h) in Settings, or set a custom monthly hour target."
+      "Ställ in din tjänsteroll och månatliga mål",
+      "Välj Publisher, Auxiliary Pioneer (15/30 h) eller Regular Pioneer (50 h) i Inställningar, eller ställ in ett anpassat månatligt timmål."
     ],
     [
-      "Run the live timer or schedule in the Calendar",
-      "Track field ministry on the Lock Screen & Dynamic Island, or swipe scheduled Calendar events directly into your Report."
+      "Kör livetimern eller schemat i kalendern",
+      "Spåra fälttjänst på låsskärmen & Dynamic Island, eller svep schemalagda kalenderhändelser direkt till din rapport."
     ],
     [
-      "Log territories and Bible studies",
-      "Record house-to-house visits, apartment statuses, and attach Bible students with their current lesson."
+      "Timmerområden och bibelstudier",
+      "Spela in hus-till-hus-besök, lägenhetsstatus och bifoga bibelstudenter med deras aktuella lektion."
     ],
     [
-      "Share your monthly field service report",
-      "On the 1st of the month, open the Report tab to review and share your completed hours and Bible studies."
+      "Dela din månatliga fälttjänstrapport",
+      "Den 1:a i månaden öppnar du fliken Rapport för att granska och dela dina genomförda timmar och bibelstudier."
     ]
   ],
   "nav_comp": "Jämförelse",
@@ -315,38 +325,98 @@
   ],
   "privacy_page": {
     "page_title": "Integritetspolicy för ”JW Ministry” — JW Ministry",
-    "meta_desc": "Official Privacy Policy and User Support for the JW Ministry iOS & iPadOS app. 100% local on-device data storage with zero external servers.",
+    "meta_desc": "Officiell sekretesspolicy och användarsupport för appen JW Ministry iOS & iPadOS. 100 % lokal datalagring på enheten med noll externa servrar.",
     "back_home": "Till startsidan",
     "sup_title": "JW Ministry — Användarsupport",
     "sup_desc": "Om du har frågor, förslag eller har hittat ett fel i appen är du välkommen att kontakta utvecklaren:",
-    "sup_issues": "Report an Issue (GitHub)",
-    "sup_store": " JW Ministry on App Store",
-    "updated": "Last updated: December 5, 2025",
+    "sup_issues": "Rapportera ett problem (GitHub)",
+    "sup_store": " JW Ministry på App Store",
+    "updated": "Senast uppdaterad: 5 december 2025",
     "h1": "Integritetspolicy för ”JW Ministry”",
-    "intro": "This Privacy Policy explains how the <strong>“JW Ministry”</strong> mobile application (“the App”) handles user information. Our core principle is <strong>100% privacy: all records you create are stored exclusively on your device</strong>.",
-    "s1_t": "1. Data Created and Stored in the App",
-    "s1_p": "All data in the App is entered voluntarily by the user for personal field service organization and planning:",
+    "intro": "Denna sekretesspolicy förklarar hur mobilapplikationen <strong>\"JW Ministry\"</strong> (\"appen\") hanterar användarinformation. Vår kärnprincip är <strong>100 % sekretess: alla poster du skapar lagras exklusivt på din enhet</strong>.",
+    "s1_t": "1. Data skapad och lagrad i appen",
+    "s1_p": "All data i appen läggs in frivilligt av användaren för personlig fältserviceorganisation och planering:",
     "s1_ul": [
-      "<strong>Service time entries & reports:</strong> dates, duration, Bible study counts, and session notes.",
-      "<strong>Calendar schedules:</strong> planned ministry events, dates, times, and recurrence settings.",
-      "<strong>Bible students list:</strong> student names/labels and study publication progress notes.",
-      "<strong>Territories & addresses:</strong> territory names, house/apartment lists, visit history, notes, and territory card photos selected by the user from the Photo Library.",
-      "<strong>App settings:</strong> selected service role, personal monthly hour target, and notification preferences."
+      "<strong>Anteckningar och rapporter om tjänstetid:</strong> datum, varaktighet, bibelstudieräkningar och sessionsanteckningar.",
+      "<strong>Kalenderscheman:</strong> planerade ministerieevenemang, datum, tider och inställningar för återkommande.",
+      "<strong>Lista över bibelstudenter:</strong> elevnamn/etiketter och framstegsnoteringar för studiepublikationer.",
+      "<strong>Territorier och adresser:</strong> områdesnamn, hus-/lägenhetslistor, besökshistorik, anteckningar och områdeskortfoton som valts av användaren från fotobiblioteket.",
+      "<strong>Appinställningar:</strong> vald tjänstroll, personligt månatligt timmål och aviseringsinställningar."
     ],
-    "s2_t": "2. 100% Local On-Device Storage & No Third-Party Sharing",
+    "s2_t": "2. 100 % lokal lagring på enheten och ingen delning från tredje part",
     "s2_ul": [
-      "All data is stored <strong>solely on your iPhone or iPad</strong> within the secure iOS / iPadOS storage container.",
-      "The App requires <strong>no registration</strong> and no user account.",
-      "The developer has <strong>no access</strong> to your records, collects no analytics or location data, and <strong>never transmits or shares</strong> any data with external servers or third parties."
+      "All data lagras <strong>enbart på din iPhone eller iPad</strong> i den säkra iOS/iPadOS-lagringsbehållaren.",
+      "Appen kräver <strong>ingen registrering</strong> och inget användarkonto.",
+      "Utvecklaren har <strong>ingen åtkomst</strong> till dina register, samlar ingen analys eller platsdata och <strong>sänder eller delar aldrig</strong> någon data med externa servrar eller tredje part."
     ],
-    "s3_t": "3. Device Permissions (Photos & Notifications)",
+    "s3_t": "3. Enhetsbehörigheter (foton och aviseringar)",
     "s3_ul": [
-      "<strong>Photo Library:</strong> requested only when you choose to attach a map or building photo to a territory card. Selected images are stored locally inside the App folder on your device.",
-      "<strong>Notifications:</strong> used exclusively for local on-device reminders (such as the 1st-of-the-month report reminder or return visit reminders)."
+      "<strong>Fotobibliotek:</strong> begärs endast när du väljer att bifoga en karta eller byggnadsfoto till ett områdeskort. Utvalda bilder lagras lokalt i appmappen på din enhet.",
+      "<strong>Aviseringar:</strong> används uteslutande för lokala påminnelser på enheten (till exempel påminnelsen om första i månaden rapport eller påminnelser om återbesök)."
     ],
-    "s4_t": "4. Backups & Data Deletion",
-    "s4_p": "You may export a complete backup file (including territory photos) at any time via the standard iOS share sheet (for example, saving to your personal iCloud Drive or Files app). Uninstalling the App from your device permanently deletes all local App data.",
-    "s5_t": "5. Contact",
-    "s5_p": "If you have any questions regarding this Privacy Policy or the App, please contact the developer at:"
+    "s4_t": "4. Säkerhetskopiering och radering av data",
+    "s4_p": "Du kan exportera en komplett säkerhetskopia (inklusive territoriumfoton) när som helst via standard iOS-delarket (till exempel spara till din personliga iCloud Drive eller Files-app). Om du avinstallerar appen från din enhet raderas all lokal appdata permanent.",
+    "s5_t": "5. Kontakt",
+    "s5_p": "Om du har några frågor angående denna integritetspolicy eller appen, vänligen kontakta utvecklaren på:"
+  },
+  "filter_duo": "iPhone Duo",
+  "wn_items_18": [
+    "Automatisk summering av planerade timmar i Kalendern med dubbel förloppsindikator (Planerat vs. Faktiskt).",
+    "Omvandla ett planerat tjänstepass i Kalendern direkt till en rapportpost med ett svep.",
+    "Direktsökning på adress eller namn i alla distrikt samt 10 färgteman för distriktskort.",
+    "Stöd för kommande tjänsteår (2026–2027) under fliken Rapport.",
+    "Full optimering för senaste iOS & iPadOS och förstärkt skydd för säkerhetskopior."
+  ],
+  "bible_page": {
+    "title": "5 bibelläsningsscheman & spårare för andliga vanor | JW Ministry",
+    "desc": "Smidigt dagligt bibelläsningsschema för iPhone & iPad: alla 66 böcker, 5 alternativ (klassisk, kronologisk m.fl.), prognos och JW Library-integration.",
+    "h1": "5 bibelläsningsscheman & spårare för andliga vanor",
+    "intro": "Smidigt dagligt bibelläsningsschema för iPhone & iPad: alla 66 böcker, 5 alternativ (klassisk, kronologisk m.fl.), prognos och JW Library-integration.",
+    "routes_title": "5 inbyggda bibelläsningsplaner",
+    "s1_t": "66 Böcker Interaktivt rutnät",
+    "s1_d": "Bocka av kapitel och följ framsteg i hebreiska och kristna grekiska skrifter.",
+    "s2_t": "Dagliga andliga vanor",
+    "s2_d": "Framsteg ringer för dag, vecka och månad plus daglig text med 1 tryck i JW Library.",
+    "routes": [
+      [
+        "1. Klassisk",
+        "Från Första Moseboken till Uppenbarelseboken — sekventiell läsning av hela Bibeln."
+      ],
+      [
+        "2. Kronologisk",
+        "Böcker ordnade i ordning efter historiska händelser och skrift."
+      ],
+      [
+        "3. Evangelier först",
+        "Börja med de kristna grekiska skrifterna och gå sedan vidare till de hebreiska skrifterna."
+      ],
+      [
+        "4. Balanserad blandning",
+        "Omväxlande historia, poesi och evangelier för daglig variation."
+      ],
+      [
+        "5. Kortast först",
+        "Från de kortaste böckerna till de längsta för en snabb känsla av framsteg."
+      ]
+    ]
+  },
+  "calc_page": {
+    "title": "Pioneer schemakalkylator (15, 30, 50 & 600 timmar) | JW Ministry",
+    "desc": "Gratis online-kalkylator för pionjärtimmar för Jehovas vittnen. Beräkna ditt vecko- och dagliga fälttjänstschema för 15 timmar, 30 timmars hjälppionjär eller 50 timmars vanlig pionjär (600 timmars tjänsteår).",
+    "h1": "Pioneer schemakalkylator",
+    "intro": "Planera dina fälttjänsttimmar för 15h eller 30h Auxiliary Pioneer, 50h Regular Pioneer (600 timmar per tjänsteår) eller ett anpassat mål.",
+    "label_goal": "Månadsmål",
+    "opt_15": "Auxiliary Pioneer — 15 h/mån",
+    "opt_30": "Auxiliary Pioneer — 30 h/mån",
+    "opt_50": "Regular Pioneer — 50 h/mån",
+    "opt_90": "Special Pioneer — 90 h/mån",
+    "opt_100": "Special Pioneer — 100 h/månad",
+    "label_days": "Ministeriet dagar i veckan",
+    "res_week": "Timmar per vecka",
+    "res_day": "Timmar per tjänstedag",
+    "res_year": "Per tjänsteår",
+    "unit_h": "h",
+    "cta_app": "Spårschema i JW Ministry",
+    "cta_bible": "Bibelläsningsschema"
   }
 }

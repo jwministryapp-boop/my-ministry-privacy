@@ -4,18 +4,18 @@
   "og_locale": "it_IT",
   "name": "Italiano",
   "flag": "🇮🇹",
-  "title": "JW Ministry — Testimoni di Geova: Rapporto di servizio di campo, Pioniere regolare (50 ore), Territori personali e visite ulteriori (iPhone & iPad)",
-  "description": "JW Ministry è l'app per il servizio di campo dei Testimoni di Geova su iPhone e iPad: timer con Live Activities, gestione studenti biblici, rapporto mensile e per anno di servizio, obiettivi ore dei pionieri e schede dei territori. pioniere regolare (50 ore), pioniere ausiliario (15 e 30 ore), anno di servizio (settembre–agosto), territori personali e visite ulteriori, studi biblici («Puoi vivere felice per sempre»).",
-  "keywords": "JW Ministry, Testimoni di Geova, ministero di campo e predicazione, rapporto di servizio di campo, pioniere regolare (50 ore), pioniere ausiliario (15 e 30 ore), anno di servizio (settembre–agosto), territori personali e visite ulteriori, studi biblici («Puoi vivere felice per sempre»), iPhone, iPad, iOS",
+  "title": "JW Ministry — App per Testimoni di Geova: servizio di campo, rapporto e territori",
+  "description": "App gratuita per Testimoni di Geova su iPhone e iPad: timer, rapporto mensile, ore pioniere, calendario, lettura della Bibbia, abitudini spirituali, territori e studi biblici.",
+  "keywords": "JW Ministry, testimoni, geova, servizio di campo, territori, rapporto, pioniere, ore, bibbia, studio, visita ulteriore, calendario, timer, abitudini spirituali, widget, note",
   "nav_screens": "Schermate",
   "nav_features": "Funzioni",
   "nav_languages": "35+ Lingue",
   "nav_privacy": "Privacy",
   "nav_donate": "Sostieni",
   "nav_faq": "FAQ",
-  "badge": "Disponibile per iPhone e iPad • Versione 1.8 • 35+ Lingue",
-  "hero_title": "Il tuo compagno completo per il servizio di campo e i pionieri",
-  "hero_sub": "JW Ministry è l'app per il servizio di campo dei Testimoni di Geova su iPhone e iPad: timer con Live Activities, gestione studenti biblici, rapporto mensile e per anno di servizio, obiettivi ore dei pionieri e schede dei territori.",
+  "badge": "Disponibile per iPhone e iPad • Versione 2.0.1 • 35+ Lingue",
+  "hero_title": "Servizio di campo, rapporto, pionieri, territori e lettura biblica",
+  "hero_sub": "App gratuita e privata per Testimoni di Geova su iPhone e iPad: timer con widget, rapporto mensile, calendario del pioniere, territori personali, visite ulteriori, studi biblici, abitudini spirituali e programma di lettura della Bibbia.",
   "cta_appstore": "Scarica su App Store",
   "cta_donate": "Sostieni lo sviluppatore",
   "stat_1_val": "35+",
@@ -33,6 +33,16 @@
       "1.jpg",
       "1. Scheda Inizia e Timer del ministero",
       "Registra il tempo al secondo, aggiungi studi biblici, seleziona lo studente e inserisci note sul territorio."
+    ],
+    [
+      "1-1.jpg",
+      "Abitudini spirituali e anelli di progresso",
+      "Monitora abitudini giornaliere, settimanali e mensili (scrittura del giorno, lettura della Bibbia, preparazione alle adunanze, adorazione in famiglia), apri la scrittura del giorno in JW Library e aggiungi abitudini personali."
+    ],
+    [
+      "1-2.jpg",
+      "Programma di lettura della Bibbia",
+      "Griglia interattiva di tutti i 66 libri biblici con 5 percorsi (Classico, Cronologico, Prima i Vangeli, Bilanciato, Prima i più brevi), stima di completamento e apertura diretta in JW Library."
     ],
     [
       "2.jpg",
@@ -119,7 +129,7 @@
   "ton_label": "TON / USDT (rete TON):",
   "copy_btn": "Copia",
   "copied_msg": "Copiato!",
-  "crypto_warn": "Invia all'indirizzo TQQx... esclusivamente token sulla rete TRON (TRC-20).",
+  "crypto_warn": "Per USDT (TRC-20), invia asset esclusivamente tramite la rete TRON.",
   "faq_title": "Domande frequenti (FAQ)",
   "faqs": [
     [
@@ -182,7 +192,7 @@
     "Funzionalità",
     "Appunti cartacei",
     "Vecchie App",
-    "JW Ministry 1.8"
+    "JW Ministry 2.0.1"
   ],
   "comp_rows": [
     [
@@ -228,35 +238,35 @@
       "Design nativo SwiftUI"
     ]
   ],
-  "filter_all": "Tutte (8)",
-  "filter_light": "Chiaro (6)",
+  "filter_all": "Tutte (10)",
+  "filter_light": "Chiaro (8)",
   "filter_dark": "Scuro (2)",
   "filter_ipad": "iPad",
-  "wn_title": "Novità della versione 1.8",
+  "wn_title": "Novità della versione 2.0.1",
   "wn_items": [
-    "Calcolo automatico delle ore pianificate nel mese nel Calendario con doppia barra Piano vs. Effettivo.",
-    "Conversione rapida di un impegno pianificato nel Calendario direttamente nel Rapporto con uno swipe.",
-    "Ricerca istantanea per indirizzo o nome in tutti i Territori e 10 temi colore per le schede.",
-    "Supporto per il prossimo anno di servizio (2026–2027) nella scheda Rapporto.",
-    "Piena compatibilità con le ultime versioni di iOS e iPadOS e protezione avanzata dei backup."
+    "Nuova sezione «Abitudini spirituali» nella scheda Inizia: anelli di progresso (Giorno / Settimana / Mese), abitudini personalizzate, stato civile per l'adorazione in famiglia e promemoria urgente il 5 del mese.",
+    "Programma di lettura della Bibbia: 5 percorsi, tracciamento capitoli dei 66 libri, data stimata di fine e pulsante «Leggi in JW Library».",
+    "Doppio obiettivo in Calendario e widget: visualizza insieme la quota del ruolo (30 o 50 h) e un obiettivo mensile personale nel doppio anello.",
+    "Ottimizzazione completa per schermo pieghevole iPhone Duo e iPadOS.",
+    "Aggiunti i pulsanti «Condividi app» e «Sito web» nelle Impostazioni."
   ],
-  "howto_name": "How to Track Field Service Hours & Pioneer Schedule on iPhone",
+  "howto_name": "Come monitorare le ore di servizio di campo e il programma da pioniere su iPhone",
   "howto_steps": [
     [
-      "Set your service role and monthly target",
-      "Choose Publisher, Auxiliary Pioneer (15/30 h), or Regular Pioneer (50 h) in Settings, or set a custom monthly hour target."
+      "Imposta il ruolo di servizio e l'obiettivo mensile",
+      "Scegli Proclamatore, Pioniere ausiliario (15/30 h) o Pioniere regolare (50 h) nelle Impostazioni, oppure imposta un obiettivo mensile personale."
     ],
     [
-      "Run the live timer or schedule in the Calendar",
-      "Track field ministry on the Lock Screen & Dynamic Island, or swipe scheduled Calendar events directly into your Report."
+      "Avvia il timer dal vivo o pianifica nel Calendario",
+      "Registra il ministero sulla schermata di blocco e nella Dynamic Island, oppure trasforma gli impegni del Calendario in voci del Rapporto con uno swipe."
     ],
     [
-      "Log territories and Bible studies",
-      "Record house-to-house visits, apartment statuses, and attach Bible students with their current lesson."
+      "Gestisci territori e studi biblici",
+      "Annota le visite di casa in casa, lo stato degli appartamenti e collega gli studenti biblici con la lezione attuale."
     ],
     [
-      "Share your monthly field service report",
-      "On the 1st of the month, open the Report tab to review and share your completed hours and Bible studies."
+      "Condividi il rapporto mensile di servizio",
+      "Il 1° del mese apri la scheda Rapporto per controllare e condividere le ore svolte e gli studi biblici."
     ]
   ],
   "nav_comp": "Confronto",
@@ -348,5 +358,65 @@
     "s4_p": "Puoi esportare in qualsiasi momento un file di backup completo nel tuo iCloud Drive personale o nell'app File. Disinstallando l'App dal dispositivo, tutti i dati locali vengono eliminati.",
     "s5_t": "5. Contatti",
     "s5_p": "Per qualsiasi domanda relativa a questa Informativa sulla Privacy, puoi scrivere a:"
+  },
+  "filter_duo": "iPhone Duo",
+  "wn_items_18": [
+    "Calcolo automatico delle ore pianificate nel mese nel Calendario con doppia barra Piano vs. Effettivo.",
+    "Conversione rapida di un impegno pianificato nel Calendario direttamente nel Rapporto con uno swipe.",
+    "Ricerca istantanea per indirizzo o nome in tutti i Territori e 10 temi colore per le schede.",
+    "Supporto per il prossimo anno di servizio (2026–2027) nella scheda Rapporto.",
+    "Piena compatibilità con le ultime versioni di iOS e iPadOS e protezione avanzata dei backup."
+  ],
+  "bible_page": {
+    "title": "5 piani di lettura della Bibbia e abitudini spirituali | JW Ministry",
+    "desc": "Comodo programma giornaliero di lettura della Bibbia per iPhone e iPad: tutti i 66 libri, 5 opzioni (classico, cronologico e altri), stima di fine e integrazione con JW Library.",
+    "h1": "Programma di lettura della Bibbia e abitudini spirituali",
+    "intro": "Segna ogni capitolo dei 66 libri biblici, scegli tra 5 piani di lettura, controlla la data stimata di completamento e apri il capitolo successivo o la scrittura del giorno in JW Library.",
+    "routes_title": "5 piani integrati di lettura della Bibbia",
+    "s1_t": "Griglia interattiva di 66 libri",
+    "s1_d": "Segna i capitoli e monitora i progressi in tutta la Bibbia.",
+    "s2_t": "Abitudini spirituali",
+    "s2_d": "Anelli di progresso (Giorno, Settimana, Mese) e accesso rapido a JW Library.",
+    "routes": [
+      [
+        "1. Classico",
+        "Da Genesi a Rivelazione — lettura sequenziale dell'intera Bibbia."
+      ],
+      [
+        "2. Cronologico",
+        "Libri ordinati secondo gli eventi storici e la stesura."
+      ],
+      [
+        "3. Prima i Vangeli",
+        "Inizia dalle Scritture Greche Cristiane e poi passa alle Ebraiche."
+      ],
+      [
+        "4. Bilanciato",
+        "Alternanza di storia, poesia e Vangeli per variare ogni giorno."
+      ],
+      [
+        "5. Prima i più brevi",
+        "Dai libri più brevi ai più lunghi per un rapido senso di progresso."
+      ]
+    ]
+  },
+  "calc_page": {
+    "title": "Calcolatore del programma Pioneer (15, 30, 50 e 600 ore) | JW Ministry",
+    "desc": "Calcolatore online gratuito delle ore dei pionieri per i Testimoni di Geova. Calcola il tuo programma di servizio di campo settimanale e giornaliero per 15 ore, 30 ore di pioniere ausiliario o 50 ore di pioniere regolare (anno di servizio di 600 ore).",
+    "h1": "Calcolatore di orari Pioneer",
+    "intro": "Pianifica le tue ore di servizio sul campo per 15 o 30 ore di pioniere ausiliario, 50 ore di pioniere regolare (600 ore per anno di servizio) o un obiettivo personalizzato.",
+    "label_goal": "Obiettivo mensile",
+    "opt_15": "Pioniere ausiliario: 15 ore al mese",
+    "opt_30": "Pioniere ausiliario — 30 ore/mese",
+    "opt_50": "Pioniere regolare: 50 ore al mese",
+    "opt_90": "Pioniere speciale: 90 ore/mese",
+    "opt_100": "Pioniere speciale: 100 ore/mese",
+    "label_days": "Giorni di ministero alla settimana",
+    "res_week": "Ore settimanali",
+    "res_day": "Ore per giornata ministeriale",
+    "res_year": "Per anno di servizio",
+    "unit_h": "h",
+    "cta_app": "Tieni traccia del programma nel JW Ministry",
+    "cta_bible": "Programma di lettura della Bibbia"
   }
 }

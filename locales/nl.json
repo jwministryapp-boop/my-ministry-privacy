@@ -4,18 +4,18 @@
   "og_locale": "nl_NL",
   "name": "Nederlands",
   "flag": "🇳🇱",
-  "title": "JW Ministry — Jehovah's Getuigen: Velddienstrapport, Gewone pionier (50 uur), Persoonlijk gebied en nabezoeken (iPhone & iPad)",
-  "description": "JW Ministry is een speciale velddienst-app voor Jehovah's Getuigen op iPhone en iPad: nauwkeurige timer met Live Activities, overzicht van Bijbelstudenten, dienstjaarrapporten, urendoelen voor pioniers en gebiedskaarten van huis tot huis. gewone pionier (50 uur), hulppionier (15 en 30 uur), dienstjaar (september–augustus), persoonlijk gebied en nabezoeken, Bijbelstudies (‘Gelukkig leven, nu en voor altijd!’).",
-  "keywords": "JW Ministry, Jehovah's Getuigen, velddienst en prediking, velddienstrapport, gewone pionier (50 uur), hulppionier (15 en 30 uur), dienstjaar (september–augustus), persoonlijk gebied en nabezoeken, Bijbelstudies (‘Gelukkig leven, nu en voor altijd!’), iPhone, iPad, iOS",
+  "title": "JW Ministry — App voor Jehovah's Getuigen: velddienst, bericht & gebied",
+  "description": "Gratis app voor Jehovah's Getuigen op iPhone & iPad: timer, maandrapport, pioniersuren, kalender, Bijbelleesschema, geestelijke gewoonten, gebiedskaarten en Bijbelstudies.",
+  "keywords": "JW Ministry, jehovah, getuigen, velddienst, bericht, gebied, pionier, uren, bijbel, bijbelleesschema, studie, nabezoek, kalender, timer, planner, widget, notities",
   "nav_screens": "Schermen",
   "nav_features": "Functies",
   "nav_languages": "35+ Talen",
   "nav_privacy": "Privacy",
   "nav_donate": "Steunen",
   "nav_faq": "FAQ",
-  "badge": "Voor iPhone & iPad • Versie 1.8 • 35+ Talen",
-  "hero_title": "Jouw complete hulpmiddel voor de velddienst en pioniersdienst",
-  "hero_sub": "JW Ministry is een speciale velddienst-app voor Jehovah's Getuigen op iPhone en iPad: nauwkeurige timer met Live Activities, overzicht van Bijbelstudenten, dienstjaarrapporten, urendoelen voor pioniers en gebiedskaarten van huis tot huis.",
+  "badge": "Voor iPhone & iPad • Versie 2.0.1 • 35+ Talen",
+  "hero_title": "Velddienst, bericht, pioniersuren, gebied & Bijbelleesschema",
+  "hero_sub": "Gratis, 100% privé-app voor Jehovah's Getuigen op iPhone en iPad: timer met widgets, maandrapport, pionierskalender, gebiedskaarten, nabezoeken, Bijbelstudies, geestelijke gewoonten en een Bijbelleesschema.",
   "cta_appstore": "Download in de App Store",
   "cta_donate": "Steun de auteur",
   "stat_1_val": "35+",
@@ -33,6 +33,16 @@
       "1.jpg",
       "Velddiensttimer & Doelen",
       "Nauwkeurige timer met Dynamic Island, bijbelstudieteller, notities en dubbele voortgangsring voor maand en dienstjaar."
+    ],
+    [
+      "1-1.jpg",
+      "Geestelijke gewoonten & voortgangsringen",
+      "Houd dagelijkse, wekelijkse en maandelijkse gewoonten bij (dagtekst, Bijbellezen, vergaderingsvoorbereiding, gezinsaanbidding), open de dagtekst direct in JW Library en voeg eigen gewoonten toe."
+    ],
+    [
+      "1-2.jpg",
+      "Bijbelleesschema",
+      "Interactief overzicht van alle 66 Bijbelboeken met 5 leesroutes (Klassiek, Chronologisch, Evangeliën eerst, Gebalanceerd, Korte boeken eerst), geschatte einddatum en directe link naar JW Library."
     ],
     [
       "2.jpg",
@@ -70,8 +80,8 @@
       "Duidelijke kleurcodering van gebieden en appartementen, zowel in het lichte als in het donkere systeemthema."
     ]
   ],
-  "feat_sec_title": "Everything You Need for Organized Ministry",
-  "feat_sec_sub": "Built specifically around the real workflow of publishers, auxiliary pioneers, regular pioneers, and special pioneers.",
+  "feat_sec_title": "Alle hulpmiddelen voor een georganiseerde bediening",
+  "feat_sec_sub": "Speciaal ontworpen voor verkondigers, hulppioniers, gewone en speciale pioniers.",
   "features": [
     [
       "",
@@ -119,7 +129,7 @@
   "ton_label": "TON / USDT (TON-netwerk)",
   "copy_btn": "Kopiëren",
   "copied_msg": "Gekopieerd!",
-  "crypto_warn": "Let op: stuur naar het TRON-adres uitsluitend activa via het TRC-20 (TRON) netwerk. Zendingen via andere netwerken gaan onherroepelijk verloren.",
+  "crypto_warn": "Stuur voor USDT (TRC-20) uitsluitend activa via het TRON-netwerk.",
   "faq_title": "Veelgestelde vragen (FAQ)",
   "faqs": [
     [
@@ -153,7 +163,7 @@
   ],
   "footer_privacy": "Privacybeleid & Support",
   "footer_issues": "Fout melden (GitHub)",
-  "footer_contact": "Contact Developer",
+  "footer_contact": "Neem contact op met ontwikkelaar",
   "seo_sec_title": "Ontwikkeld voor de velddienst en pioniersdienst van Jehovah's Getuigen",
   "seo_sec_sub": "Alles wat je nodig hebt om je maandelijks velddienstrapport, pioniersschema, gebiedskaarten en bijbelstudies overzichtelijk bij te houden — naadloos naast JW Library.",
   "seo_pillars": [
@@ -194,7 +204,7 @@
   "comp_headers": [
     "Functie",
     "Notitieboekje / Oude apps",
-    "JW Ministry 1.8"
+    "JW Ministry 2.0.1"
   ],
   "comp_rows": [
     [
@@ -228,28 +238,17 @@
       "100% lokaal op het apparaat + volledige JSON-back-up in iCloud"
     ]
   ],
-  "filter_all": "Alle (8)",
-  "filter_light": "Licht thema (6)",
+  "filter_all": "Alle (10)",
+  "filter_light": "Licht thema (8)",
   "filter_dark": "Donker OLED (2)",
   "filter_ipad": "iPad",
-  "wn_title": "Nieuw in versie 1.8",
+  "wn_title": "Nieuw in versie 2.0.1",
   "wn_items": [
-    [
-      "Automatische som van geplande uren",
-      "De kalender telt nu automatisch al je geplande uren voor de maand op en vergelijkt ze met je maanddoel en werkelijke tijd."
-    ],
-    [
-      "Met één veeg van Kalender naar Rapport",
-      "Veeg een voltooide velddienstafspraak naar links en tik op 'Naar rapport' — de uren worden direct bijgeschreven en uit de openstaande planning gehaald."
-    ],
-    [
-      "Zoeken in gebieden & 10 kleurthema's",
-      "Vind direct elk appartement of elke notitie op adres of naam en geef gebiedskaarten één van de 10 stijlvolle achtergrondkleuren."
-    ],
-    [
-      "Volledig geoptimaliseerd voor de nieuwste iOS & iPadOS",
-      "Vernieuwde voortgangsring, directe synchronisatie met widgets en maximale gegevensbescherming bij een lege batterij of herstart."
-    ]
+    "Nieuwe sectie 'Geestelijke gewoonten' op het Start-tabblad: voortgangsringen (Dag / Week / Maand), eigen gewoonten, optie voor gezinsaanbidding en dringende herinnering op de 5e van de maand.",
+    "Bijbelleesschema: 5 leesroutes, hoofdstukken afvinken in alle 66 boeken, verwachte einddatum en knop 'Lees in JW Library'.",
+    "Dubbel doel in Kalender en widgets: bekijk zowel je pioniersnorm (bijv. 30 of 50 uur) als een extra persoonlijk maanddoel in een dubbele ring.",
+    "Volledige aanpassing van de interface voor het opvouwbare iPhone Duo-scherm en iPadOS.",
+    "Knoppen 'App delen' en 'Website' toegevoegd in Instellingen."
   ],
   "howto_name": "Hoe je jouw velddienstrapport en pioniersuren bijhoudt in JW Ministry",
   "howto_steps": [
@@ -308,16 +307,16 @@
   "rev_sub": "Beoordelingen uit de App Store van broeders en zusters die JW Ministry dagelijks in de velddienst gebruiken.",
   "reviews": [
     [
-      "Eindelijk een moderne en overzichtelijke app voor het pionieren! De automatische som van geplande uren in de kalender helpt mij elke maand om precies op koers te blijven voor mijn 50 uur.",
-      "Thomas, gewone pionier"
+      "Thomas, gewone pionier",
+      "Eindelijk een moderne en overzichtelijke app voor het pionieren! De automatische som van geplande uren in de kalender helpt mij elke maand om precies op koers te blijven voor mijn 50 uur."
     ],
     [
-      "De appartementgenerator bij de gebieden bespaart enorm veel tijd in de huis-aan-huisprediking, en de timer op het Dynamic Island werkt feilloos.",
-      "Sanne, hulppionier"
+      "Sanne, hulppionier",
+      "De appartementgenerator bij de gebieden bespaart enorm veel tijd in de huis-aan-huisprediking, en de timer op het Dynamic Island werkt feilloos."
     ],
     [
-      "Ik ben overgestapt vanaf een oude app die niet meer werkte. De back-up via iCloud Drive en het overzicht van mijn bijbelstudies zijn precies wat ik zocht.",
-      "Milan, verkondiger"
+      "Milan, verkondiger",
+      "Ik ben overgestapt vanaf een oude app die niet meer werkte. De back-up via iCloud Drive en het overzicht van mijn bijbelstudies zijn precies wat ik zocht."
     ]
   ],
   "privacy_page": {
@@ -352,10 +351,69 @@
     ],
     "s4_t": "4. Gegevens beheren en verwijderen",
     "s4_p": "U hebt volledige controle over uw gegevens. U kunt elk item op elk moment in de App bewerken of verwijderen. Bij het verwijderen van de App van uw apparaat worden alle lokaal opgeslagen gegevens definitief gewist (met uitzondering van back-upbestanden die u zelf elders hebt bewaard).",
-    "s5_t": "5. Contact",
+    "s5_t": "5. Contactpersoon",
     "s5_p": "Voor vragen over dit privacybeleid of de werking van de App kunt u contact opnemen via e-mail:"
   },
   "feat_title": "Alle hulpmiddelen voor een georganiseerde bediening",
   "feat_sub": "Speciaal ontworpen voor verkondigers, hulppioniers, gewone en speciale pioniers.",
-  "footer_copy": "© 2025–2026 JW Ministry. Alle rechten voorbehouden."
+  "footer_copy": "© 2025–2026 JW Ministry. Alle rechten voorbehouden.",
+  "filter_duo": "iPhone Duo",
+  "wn_items_18": [
+    "<strong>Automatische som van geplande uren:</strong> De kalender telt nu automatisch al je geplande uren voor de maand op en vergelijkt ze met je maanddoel en werkelijke tijd.",
+    "<strong>Met één veeg van Kalender naar Rapport:</strong> Veeg een voltooide velddienstafspraak naar links en tik op 'Naar rapport' — de uren worden direct bijgeschreven en uit de openstaande planning gehaald.",
+    "<strong>Zoeken in gebieden & 10 kleurthema's:</strong> Vind direct elk appartement of elke notitie op adres of naam en geef gebiedskaarten één van de 10 stijlvolle achtergrondkleuren.",
+    "<strong>Volledig geoptimaliseerd voor de nieuwste iOS & iPadOS:</strong> Vernieuwde voortgangsring, directe synchronisatie met widgets en maximale gegevensbescherming bij een lege batterij of herstart."
+  ],
+  "bible_page": {
+    "title": "5 Bijbelleesschema's & tracker voor geestelijke gewoonten | JW Ministry",
+    "desc": "Handig dagelijks Bijbelleesschema voor iPhone & iPad: alle 66 boeken, 5 opties (klassiek, chronologisch en meer), einddatumvoorspelling en JW Library-integratie.",
+    "h1": "5 Bijbelleesschema's & tracker voor geestelijke gewoonten",
+    "intro": "Handig dagelijks Bijbelleesschema voor iPhone & iPad: alle 66 boeken, 5 opties (klassiek, chronologisch en meer), einddatumvoorspelling en JW Library-integratie.",
+    "routes_title": "5 Ingebouwde Bijbelleesplannen",
+    "s1_t": "66 Boeken Interactief raster",
+    "s1_d": "Vink hoofdstukken af en volg de voortgang in de Hebreeuwse en christelijke Griekse Geschriften.",
+    "s2_t": "Dagelijkse spirituele gewoonten",
+    "s2_d": "Voortgangssignalen voor Dag, Week en Maand plus 1 tik op Dagelijkse tekst in JW Library.",
+    "routes": [
+      [
+        "1. Klassiek",
+        "Van Genesis tot Openbaring – opeenvolgende lezing van de hele Bijbel."
+      ],
+      [
+        "2. Chronologisch",
+        "Boeken gerangschikt in de volgorde van historische gebeurtenissen en schrift."
+      ],
+      [
+        "3. Evangeliën eerst",
+        "Begin met de christelijke Griekse Geschriften en ga dan naar de Hebreeuwse Geschriften."
+      ],
+      [
+        "4. Evenwichtige mix",
+        "Afwisselende geschiedenis, poëzie en evangeliën voor dagelijkse afwisseling."
+      ],
+      [
+        "5. Kortste eerst",
+        "Van de kortste boeken tot de langste voor een snel gevoel van vooruitgang."
+      ]
+    ]
+  },
+  "calc_page": {
+    "title": "Pioneer-schemacalculator (15, 30, 50 en 600 uur) | JW Ministry",
+    "desc": "Gratis online pioniersurencalculator voor Jehovah's Getuigen. Bereken uw wekelijkse en dagelijkse velddienstschema voor 15 uur, 30 uur in de hulppionier of 50 uur gewone pionier (dienstjaar van 600 uur).",
+    "h1": "Pioneer-schemacalculator",
+    "intro": "Plan uw velddiensturen voor 15 uur of 30 uur hulppionier, 50 uur gewone pionier (600 uur per dienstjaar) of een aangepast doel.",
+    "label_goal": "Maandelijks doel",
+    "opt_15": "Hulppionier — 15 u/maand",
+    "opt_30": "Hulppionier — 30 u/maand",
+    "opt_50": "Reguliere pionier — 50 u/maand",
+    "opt_90": "Speciale Pioneer — 90 u/maand",
+    "opt_100": "Speciale Pioneer — 100 u/maand",
+    "label_days": "Ministeriedagen per week",
+    "res_week": "Uren per week",
+    "res_day": "Uren per bedieningsdag",
+    "res_year": "Per dienstjaar",
+    "unit_h": "h",
+    "cta_app": "Volgschema in JW Ministry",
+    "cta_bible": "Bijbelleesschema"
+  }
 }

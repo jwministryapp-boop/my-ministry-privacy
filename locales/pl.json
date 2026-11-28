@@ -4,18 +4,18 @@
   "og_locale": "pl_PL",
   "name": "Polski",
   "flag": "🇵🇱",
-  "title": "JW Ministry — Świadków Jehowy: Sprawozdanie ze służby polowej, Pionier stały (50 godz.), Tereny osobiste i odwiedziny ponowne (iPhone & iPad)",
-  "description": "JW Ministry to dedykowana aplikacja do służby polowej Świadków Jehowy na iPhone'a i iPada: dokładny minutnik z Live Activities, postępy zainteresowanych, sprawozdania miesięczne i roczne, cel godzin pioniera oraz karty terenów. pionier stały (50 godz.), pionier pomocniczy (15 i 30 godz.), rok służbowy (wrzesień–sierpień), tereny osobiste i odwiedziny ponowne, studia biblijne („Już zawsze ciesz się życiem!”).",
-  "keywords": "JW Ministry, Świadków Jehowy, służba kaznodziejska, sprawozdanie ze służby polowej, pionier stały (50 godz.), pionier pomocniczy (15 i 30 godz.), rok służbowy (wrzesień–sierpień), tereny osobiste i odwiedziny ponowne, studia biblijne („Już zawsze ciesz się życiem!”), iPhone, iPad, iOS",
+  "title": "JW Ministry — aplikacja dla Świadków Jehowy: służba, sprawozdanie i tereny",
+  "description": "Darmowa aplikacja Świadków Jehowy na iPhone i iPad: stoper, sprawozdanie, godziny pioniera, kalendarz, plan czytania Biblii, zwyczaje duchowe, tereny i studia biblijne.",
+  "keywords": "JW Ministry, swiadkowie, jehowy, służba, sprawozdanie, tereny, pionier, godziny, biblia, plan czytania biblii, studium, odwiedziny, kalendarz, stoper, planer, notatki",
   "nav_screens": "Zrzuty ekranu",
   "nav_features": "Funkcje",
   "nav_languages": "35+ języków",
   "nav_privacy": "Prywatność",
   "nav_donate": "Wesprzyj",
   "nav_faq": "FAQ",
-  "badge": "Dostępne na iPhone i iPad • Wersja 1.8 • 35+ języków",
-  "hero_title": "Twój kompletny pomocnik w służbie kaznodziejskiej i pionierskiej",
-  "hero_sub": "JW Ministry to dedykowana aplikacja do służby polowej Świadków Jehowy na iPhone'a i iPada: dokładny minutnik z Live Activities, postępy zainteresowanych, sprawozdania miesięczne i roczne, cel godzin pioniera oraz karty terenów.",
+  "badge": "Dostępne na iPhone i iPad • Wersja 2.0.1 • 35+ języków",
+  "hero_title": "Służba, sprawozdanie, pionier, tereny i plan czytania Biblii",
+  "hero_sub": "Darmowa, w 100% prywatna aplikacja Świadków Jehowy na iPhone i iPad: stoper z widżetami, sprawozdanie miesięczne, kalendarz pioniera, karty terenów, odwiedziny ponowne, studia biblijne, zwyczaje duchowe i plan czytania Biblii.",
   "cta_appstore": "Pobierz w App Store",
   "cta_donate": "Wesprzyj twórcę",
   "stat_1_val": "35+",
@@ -33,6 +33,16 @@
       "1.jpg",
       "1. Zakładka Start i minutnik służby",
       "Mierz czas służby co do sekundy, dodawaj studia biblijne, przypisuj zainteresowanych i zapisuj notatki z terenu."
+    ],
+    [
+      "1-1.jpg",
+      "Zwyczaje duchowe i pierścienie postępu",
+      "Śledź codzienne, cotygodniowe i comiesięczne zwyczaje (tekst dzienny, czytanie Biblii, przygotowanie do zebrań, wielbienie w gronie rodziny), otwieraj tekst dzienny w JW Library i dodawaj własne zwyczaje."
+    ],
+    [
+      "1-2.jpg",
+      "Plan czytania Biblii",
+      "Interaktywna siatka wszystkich 66 ksiąg biblijnych z 5 planami czytania (Klasyczny, Chronologiczny, Najpierw Ewangelie, Zrównoważony, Najpierw krótkie), prognozą ukończenia i przejściem do JW Library."
     ],
     [
       "2.jpg",
@@ -119,7 +129,7 @@
   "ton_label": "TON / USDT (sieć TON):",
   "copy_btn": "Kopiuj",
   "copied_msg": "Skopiowano!",
-  "crypto_warn": "Na adres TQQx... wysyłaj wyłącznie środki w sieci TRON (TRC-20).",
+  "crypto_warn": "Dla USDT (TRC-20) wysyłaj środki wyłącznie w sieci TRON.",
   "faq_title": "Często zadawane pytania (FAQ)",
   "faqs": [
     [
@@ -182,7 +192,7 @@
     "Funkcja",
     "Notatnik papierowy",
     "Starsze aplikacje",
-    "JW Ministry 1.8"
+    "JW Ministry 2.0.1"
   ],
   "comp_rows": [
     [
@@ -228,35 +238,35 @@
       "Natywny SwiftUI"
     ]
   ],
-  "filter_all": "Wszystkie (8)",
-  "filter_light": "Jasny (6)",
+  "filter_all": "Wszystkie (10)",
+  "filter_light": "Jasny (8)",
   "filter_dark": "Ciemny (2)",
   "filter_ipad": "iPad",
-  "wn_title": "Co nowego w wersji 1.8",
+  "wn_title": "Co nowego w wersji 2.0.1",
   "wn_items": [
-    "Automatyczna suma zaplanowanych godzin w miesiącu w Kalendarzu oraz podwójny pasek Plan vs. Rzeczywistość.",
-    "Zamiana zaplanowanego spotkania z Kalendarza we wpis Sprawozdania jednym przesunięciem palca.",
-    "Błyskawiczne wyszukiwanie po adresie lub imieniu we wszystkich terenach oraz 10 kolorów kart terenów.",
-    "Obsługa nadchodzącego roku służbowego (2026–2027) w zakładce Sprawozdanie.",
-    "Pełna optymalizacja pod najnowsze wersje iOS i iPadOS oraz wzmocniona ochrona kopii zapasowych."
+    "Nowa sekcja „Zwyczaje duchowe” w zakładce Start: pierścienie postępu (Dzień / Tydzień / Miesiąc), własne zwyczaje, opcja stanu cywilnego dla wielbienia w gronie rodziny i pilne przypomnienie 5. dnia miesiąca.",
+    "Plan czytania Biblii: 5 tras czytania, oznaczanie rozdziałów wszystkich 66 ksiąg, prognoza daty ukończenia i przycisk „Czytaj w JW Library”.",
+    "Podwójny cel w Kalendarzu i widżetach: jednoczesny podgląd wymogu pionierskiego (30 lub 50 godz.) oraz dodatkowego celu osobistego.",
+    "Pełne dostosowanie interfejsu do składanego ekranu iPhone Duo i iPadOS.",
+    "Dodano przyciski „Udostępnij aplikację” oraz „Strona aplikacji” w Ustawieniach."
   ],
-  "howto_name": "How to Track Field Service Hours & Pioneer Schedule on iPhone",
+  "howto_name": "Jak liczyć godziny służby polowej i planować służbę pionierską na iPhonie",
   "howto_steps": [
     [
-      "Set your service role and monthly target",
-      "Choose Publisher, Auxiliary Pioneer (15/30 h), or Regular Pioneer (50 h) in Settings, or set a custom monthly hour target."
+      "Ustaw rolę służby i cel miesięczny",
+      "Wybierz Głosiciela, Pioniera pomocniczego (15/30 godz.) lub Pioniera stałego (50 godz.) w Ustawieniach albo wpisz własny cel."
     ],
     [
-      "Run the live timer or schedule in the Calendar",
-      "Track field ministry on the Lock Screen & Dynamic Island, or swipe scheduled Calendar events directly into your Report."
+      "Uruchom minutnik lub zaplanuj służbę w Kalendarzu",
+      "Mierz czas na ekranie blokady i Dynamic Island lub zamieniaj zaplanowane spotkania z Kalendarza we wpisy Sprawozdania jednym gestem."
     ],
     [
-      "Log territories and Bible studies",
-      "Record house-to-house visits, apartment statuses, and attach Bible students with their current lesson."
+      "Zapisuj tereny i studia biblijne",
+      "Notuj wizyty od domu do domu, statusy mieszkań i przypisuj zainteresowanych wraz z aktualną lekcją."
     ],
     [
-      "Share your monthly field service report",
-      "On the 1st of the month, open the Report tab to review and share your completed hours and Bible studies."
+      "Wyślij miesięczne sprawozdanie ze służby",
+      "1. dnia miesiąca otwórz zakładkę Sprawozdanie, sprawdź podsumowanie godzin i studiów biblijnych oraz udostępnij je."
     ]
   ],
   "nav_comp": "Porównanie",
@@ -348,5 +358,65 @@
     "s4_p": "Możesz w każdej chwili wyeksportować plik kopii zapasowej do swojego iCloud Drive lub aplikacji Pliki. Odinstalowanie Aplikacji trwale usuwa wszystkie lokalne dane z urządzenia.",
     "s5_t": "5. Kontakt",
     "s5_p": "W razie pytań dotyczących niniejszej Polityki Prywatności prosimy o kontakt pod adresem:"
+  },
+  "filter_duo": "iPhone Duo",
+  "wn_items_18": [
+    "Automatyczna suma zaplanowanych godzin w miesiącu w Kalendarzu oraz podwójny pasek Plan vs. Rzeczywistość.",
+    "Zamiana zaplanowanego spotkania z Kalendarza we wpis Sprawozdania jednym przesunięciem palca.",
+    "Błyskawiczne wyszukiwanie po adresie lub imieniu we wszystkich terenach oraz 10 kolorów kart terenów.",
+    "Obsługa nadchodzącego roku służbowego (2026–2027) w zakładce Sprawozdanie.",
+    "Pełna optymalizacja pod najnowsze wersje iOS i iPadOS oraz wzmocniona ochrona kopii zapasowych."
+  ],
+  "bible_page": {
+    "title": "5 planów czytania Biblii i tracker zwyczajów duchowych | JW Ministry",
+    "desc": "Wygodny codzienny plan czytania Biblii na iPhone i iPad: wszystkie 66 ksiąg, 5 wariantów (klasyczny, chronologiczny i inne), prognoza ukończenia i integracja z JW Library.",
+    "h1": "Plan czytania Biblii i tracker zwyczajów duchowych",
+    "intro": "Oznaczaj przeczytane rozdziały we wszystkich 66 księgach Biblii, wybieraj spośród 5 planów czytania, sprawdzaj prognozę ukończenia i otwieraj kolejny rozdział lub tekst dzienny w JW Library.",
+    "routes_title": "5 wbudowanych planów czytania Biblii",
+    "s1_t": "Interaktywna siatka 66 ksiąg",
+    "s1_d": "Oznaczaj rozdziały i śledź postępy w całej Biblii.",
+    "s2_t": "Zwyczaje duchowe",
+    "s2_d": "Pierścienie postępu (Dzień, Tydzień, Miesiąc) i szybkie przejście do JW Library.",
+    "routes": [
+      [
+        "1. Klasyczny",
+        "Od Księgi Rodzaju do Objawienia — czytanie po kolei."
+      ],
+      [
+        "2. Chronologiczny",
+        "Księgi ułożone według kolejności wydarzeń historycznych."
+      ],
+      [
+        "3. Najpierw Ewangelie",
+        "Zacznij od Chrześcijańskich Pism Greckich, potem Pisma Hebrajskie."
+      ],
+      [
+        "4. Zrównoważony",
+        "Przeplatanie historii, poezji i Ewangelii dla urozmaicenia."
+      ],
+      [
+        "5. Najpierw krótkie",
+        "Od najkrótszych ksiąg do najdłuższych dla szybkiego postępu."
+      ]
+    ]
+  },
+  "calc_page": {
+    "title": "Kalkulator harmonogramu Pioneer (15, 30, 50 i 600 godzin) | JW Ministry",
+    "desc": "Bezpłatny internetowy kalkulator godzin pionierskich dla Świadków Jehowy. Oblicz tygodniowy i dzienny harmonogram służby polowej obejmujący 15, 30 godzin służby pomocniczej lub 50 godzin służby pionierskiej (600 godzin w roku służbowym).",
+    "h1": "Kalkulator harmonogramu Pioneera",
+    "intro": "Zaplanuj godziny służby polowej na 15 lub 30 godzin w charakterze pioniera pomocniczego, 50 godzin w charakterze pioniera stałego (600 godzin w roku służbowym) lub na inny cel.",
+    "label_goal": "Cel miesięczny",
+    "opt_15": "Pomocniczy pionier — 15 godz./mies",
+    "opt_30": "Pomocniczy pionier — 30 godz./mies",
+    "opt_50": "Zwykły pionier — 50 godz./mies",
+    "opt_90": "Specjalny pionier — 90 godz./mies",
+    "opt_100": "Specjalny pionier — 100 godz./mies",
+    "label_days": "Dni służby w tygodniu",
+    "res_week": "Godziny tygodniowo",
+    "res_day": "Godziny dziennie służby",
+    "res_year": "Za rok służbowy",
+    "unit_h": "godz",
+    "cta_app": "Śledź harmonogram w JW Ministry",
+    "cta_bible": "Harmonogram czytania Biblii"
   }
 }

@@ -4,18 +4,18 @@
   "og_locale": "es_ES",
   "name": "Español",
   "flag": "🇪🇸",
-  "title": "JW Ministry — App de Predicación para Testigos de Jehová: Informe, Horario de Precursor y Territorios (iPhone / iPad)",
-  "description": "Aplicación de servicio del campo para los Testigos de Jehová (JW) en iOS y iPadOS. Nuevo informe de predicación JW 2026, horario y horas de precursor regular (50 h) y precursor auxiliar (15 y 30 h), año de servicio, control de territorios personales y cursos bíblicos.",
-  "keywords": "testigos de jehova predicacion, precursores regulares testigos de jehova, año de servicio testigos de jehova, informe de predicación jw 2026, nuevo informe de predicación jw, precursor regular jw horas, horario precursor regular jw, horario precursor auxiliar jw, precursor auxiliar 15 horas jw, precursor auxiliar 30 horas jw, territorios personales jw, programa territorios jw, registro y control de territorios jw",
+  "title": "JW Ministry — App para Testigos de Jehová: predicación, informe y territorios",
+  "description": "App gratuita para Testigos de Jehová en iPhone y iPad: temporizador, informe mensual, horas de precursor, calendario, lectura de la Biblia, hábitos espirituales y territorios.",
+  "keywords": "JW Ministry, testigos, jehova, predicación, informe, territorios, precursor, horas, biblia, curso, revisita, calendario, temporizador, hábitos espirituales, widget, notas",
   "nav_screens": "Capturas",
   "nav_features": "Funciones",
   "nav_languages": "35+ Idiomas",
   "nav_privacy": "Privacidad",
   "nav_donate": "Apoyar",
   "nav_faq": "Preguntas",
-  "badge": "Disponible para iPhone y iPad • Versión 1.8 • 35+ Idiomas",
-  "hero_title": "Tu compañero completo para el servicio del campo y el precursorado",
-  "hero_sub": "JW Ministry es la aplicación completa para el servicio del campo de los Testigos de Jehová en iPhone y iPad: temporizador de predicación, nuevo informe mensual, horario de precursor regular y auxiliar, y registro de territorios personales.",
+  "badge": "Disponible para iPhone y iPad • Versión 2.0.1 • 35+ Idiomas",
+  "hero_title": "Predicación, informe, precursorado, territorios y lectura bíblica",
+  "hero_sub": "App gratuita y privada para Testigos de Jehová en iPhone y iPad: temporizador con widgets, informe mensual, horario de precursor, calendario, territorios personales, revisitas, cursos bíblicos, hábitos espirituales y lectura de la Biblia.",
   "cta_appstore": "Descargar en App Store",
   "cta_donate": "Apoyar al desarrollador",
   "stat_1_val": "35+",
@@ -33,6 +33,16 @@
       "1.jpg",
       "1. Temporizador de ministerio en vivo",
       "Registra tu tiempo al segundo, pausa o guarda en el informe con un toque, añade cursos bíblicos de la sesión, selecciona al estudiante y escribe notas del territorio."
+    ],
+    [
+      "1-1.jpg",
+      "Hábitos espirituales y anillos de progreso",
+      "Registra tus hábitos diarios, semanales y mensuales (texto diario, lectura de la Biblia, preparación para las reuniones, Adoración en Familia), abre el texto diario en JW Library y añade tus propios hábitos."
+    ],
+    [
+      "1-2.jpg",
+      "Programa de lectura de la Biblia",
+      "Cuadrícula interactiva de los 66 libros de la Biblia con 5 rutas de lectura (Clásica, Cronológica, Evangelios primero, Equilibrada y Cortos primero), fecha estimada de finalización y acceso directo a JW Library."
     ],
     [
       "2.jpg",
@@ -119,7 +129,7 @@
   "ton_label": "TON / USDT (red TON):",
   "copy_btn": "Copiar",
   "copied_msg": "¡Copiado!",
-  "crypto_warn": "Envía únicamente activos de la red TRON (TRC-20) a la dirección TQQx...",
+  "crypto_warn": "Para USDT (TRC-20), envía activos únicamente a través de la red TRON.",
   "faq_title": "Preguntas frecuentes",
   "faqs": [
     [
@@ -196,7 +206,7 @@
     "Función",
     "Papel / Libreta",
     "Apps Antiguas",
-    "JW Ministry 1.8"
+    "JW Ministry 2.0.1"
   ],
   "comp_rows": [
     [
@@ -242,17 +252,17 @@
       "Diseño nativo SwiftUI"
     ]
   ],
-  "filter_all": "Todas (8)",
-  "filter_light": "Claro (6)",
+  "filter_all": "Todas (10)",
+  "filter_light": "Claro (8)",
   "filter_dark": "Oscuro (2)",
   "filter_ipad": "iPad",
-  "wn_title": "Novedades de la versión 1.8",
+  "wn_title": "Novedades de la versión 2.0.1",
   "wn_items": [
-    "Suma automática de horas planeadas al mes en el Calendario y barra de progreso doble (Plan vs. Real).",
-    "Convierte cualquier salida planeada del Calendario en un registro del Informe deslizando el dedo.",
-    "Búsqueda instantánea por dirección o nombre en Territorios y 10 colores para organizar tus tarjetas.",
-    "Soporte para el próximo año de servicio (2026–2027) en la pestaña Informe.",
-    "Optimización completa para las últimas versiones de iOS y iPadOS y mayor protección de copias de seguridad."
+    "Nueva sección «Hábitos espirituales» en la pestaña Inicio: anillos de progreso (Día / Semana / Mes), hábitos personalizados, ajuste de estado civil para la Adoración en Familia y recordatorio urgente el día 5.",
+    "Programa de lectura de la Biblia: 5 rutas de lectura, seguimiento por capítulos de los 66 libros, previsión de finalización y botón «Leer en JW Library».",
+    "Doble meta en Calendario y widgets: muestra a la vez tu requisito de precursor (p. ej., 30 o 50 h) y una meta mensual personal adicional en un doble anillo.",
+    "Adaptación completa de la interfaz para pantallas plegables iPhone Duo y iPadOS.",
+    "Nuevos botones «Compartir aplicación» y «Sitio web» en Ajustes."
   ],
   "howto_name": "Cómo llevar el informe de predicación y horario de precursor en iPhone",
   "howto_steps": [
@@ -362,5 +372,65 @@
     "s4_p": "Puedes exportar un archivo de copia de seguridad completo en cualquier momento mediante el menú estándar de iOS (por ejemplo, guardándolo en tu iCloud Drive personal o en la app Archivos). Al desinstalar la Aplicación, todos los datos locales se eliminan del dispositivo.",
     "s5_t": "5. Contacto",
     "s5_p": "Para cualquier consulta sobre esta Política de Privacidad o el funcionamiento de la Aplicación, escríbenos a:"
+  },
+  "filter_duo": "iPhone Duo",
+  "wn_items_18": [
+    "Suma automática de horas planeadas al mes en el Calendario y barra de progreso doble (Plan vs. Real).",
+    "Convierte cualquier salida planeada del Calendario en un registro del Informe deslizando el dedo.",
+    "Búsqueda instantánea por dirección o nombre en Territorios y 10 colores para organizar tus tarjetas.",
+    "Soporte para el próximo año de servicio (2026–2027) en la pestaña Informe.",
+    "Optimización completa para las últimas versiones de iOS y iPadOS y mayor protección de copias de seguridad."
+  ],
+  "bible_page": {
+    "title": "5 planes de lectura de la Biblia y hábitos espirituales | JW Ministry",
+    "desc": "Práctico programa diario de lectura de la Biblia para iPhone y iPad: los 66 libros, 5 planes (clásico, cronológico y más), previsión de finalización e integración con JW Library.",
+    "h1": "Programa de lectura de la Biblia y hábitos espirituales",
+    "intro": "Marca cada capítulo de los 66 libros bíblicos, elige entre 5 planes de lectura, consulta la fecha estimada de finalización y abre el siguiente capítulo o el texto diario directamente en JW Library.",
+    "routes_title": "5 planes integrados de lectura de la Biblia",
+    "s1_t": "Cuadrícula de 66 libros",
+    "s1_d": "Marca capítulos y sigue tu progreso en toda la Biblia.",
+    "s2_t": "Hábitos espirituales diarios",
+    "s2_d": "Anillos de progreso (Día, Semana, Mes) y acceso directo a JW Library.",
+    "routes": [
+      [
+        "1. Clásico",
+        "De Génesis a Apocalipsis: lectura secuencial de toda la Biblia."
+      ],
+      [
+        "2. Cronológico",
+        "Libros ordenados según los acontecimientos históricos y su redacción."
+      ],
+      [
+        "3. Evangelios primero",
+        "Empieza por las Escrituras Griegas Cristianas y luego las Hebreas."
+      ],
+      [
+        "4. Equilibrado",
+        "Alterna historia, poesía y Evangelios para variar cada día."
+      ],
+      [
+        "5. Cortos primero",
+        "De los libros más breves a los más largos para avanzar rápido."
+      ]
+    ]
+  },
+  "calc_page": {
+    "title": "Calculadora de horarios Pioneer (15, 30, 50 y 600 horas) | JW Ministry",
+    "desc": "Calculadora gratuita de horas de pionero en línea para los testigos de Jehová. Calcule su programa de servicio del campo semanal y diario para 15 h, 30 h de precursor auxiliar o 50 h de precursor regular (año de servicio de 600 h).",
+    "h1": "Calculadora de programación pionera",
+    "intro": "Planifique sus horas de servicio de campo para un pionero auxiliar de 15 o 30 horas, un pionero regular de 50 horas (600 horas por año de servicio) o una meta personalizada.",
+    "label_goal": "meta mensual",
+    "opt_15": "Pionero auxiliar: 15 h/mes",
+    "opt_30": "Pionero auxiliar: 30 h/mes",
+    "opt_50": "Pionero regular: 50 h/mes",
+    "opt_90": "Pionero especial: 90 h/mes",
+    "opt_100": "Pionero especial: 100 h/mes",
+    "label_days": "Días de ministerio por semana",
+    "res_week": "Horas por semana",
+    "res_day": "Horas por día de ministerio",
+    "res_year": "Por año de servicio",
+    "unit_h": "h",
+    "cta_app": "Seguimiento del cronograma en el JW Ministry",
+    "cta_bible": "Horario de lectura de la Biblia"
   }
 }

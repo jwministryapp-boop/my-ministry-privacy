@@ -4,70 +4,80 @@
   "og_locale": "el_GR",
   "name": "Ελληνικά",
   "flag": "🇬🇷",
-  "title": "JW Ministry — Μαρτύρων του Ιεχωβά: Έκθεση υπηρεσίας αγρού, Τακτικός σκαπανέας (50 ώρες), Προσωπικοί τομείς και επανεπισκέψεις (iPhone & iPad)",
-  "description": "Το JW Ministry είναι μια εξειδικευμένη εφαρμογή υπηρεσίας αγρού για τους Μάρτυρες του Ιεχωβά σε iPhone και iPad: χρονόμετρο με Live Activities, πρόοδος σπουδαστών της Γραφής, εκθέσεις υπηρεσιακού έτους, στόχοι ωρών σκαπανέα και κάρτες τομέων. τακτικός σκαπανέας (50 ώρες), βοηθητικός σκαπανέας (15 και 30 ώρες), υπηρεσιακό έτος (Σεπτέμβριος–Αύγουστος), προσωπικοί τομείς και επανεπισκέψεις, Γραφικές μελέτες («Χαρείτε τη Ζωή για Πάντα!»).",
-  "keywords": "JW Ministry, Μαρτύρων του Ιεχωβά, υπηρεσία αγρού, έκθεση υπηρεσίας αγρού, τακτικός σκαπανέας (50 ώρες), βοηθητικός σκαπανέας (15 και 30 ώρες), υπηρεσιακό έτος (Σεπτέμβριος–Αύγουστος), προσωπικοί τομείς και επανεπισκέψεις, Γραφικές μελέτες («Χαρείτε τη Ζωή για Πάντα!»), iPhone, iPad, iOS",
+  "title": "JW Ministry — Εφαρμογή για Μάρτυρες του Ιεχωβά: διακονία, έκθεση και τομείς",
+  "description": "Δωρεάν εφαρμογή για Μάρτυρες του Ιεχωβά σε iPhone & iPad: χρονόμετρο, μηνιαία έκθεση, ώρες σκαπανέα, ημερολόγιο, πρόγραμμα ανάγνωσης Γραφής, πνευματικές συνήθειες και τομείς.",
+  "keywords": "JW Ministry, μάρτυρες, ιεχωβά, διακονία, έκθεση, τομείς, σκαπανέας, ώρες, αγία γραφή, μελέτη, επανεπίσκεψη, ημερολόγιο, χρονόμετρο, σημειώσεις",
   "nav_screens": "Οθόνες",
   "nav_features": "Λειτουργίες",
   "nav_languages": "35+ Γλώσσες",
   "nav_privacy": "Απόρρητο",
   "nav_donate": "Υποστήριξη",
   "nav_faq": "Συχνές Ερωτήσεις",
-  "badge": "Για iPhone & iPad • Έκδοση 1.8 • 35+ Γλώσσες",
-  "hero_title": "Ο πλήρης βοηθός σας για την υπηρεσία αγρού και το σκαπανικό",
-  "hero_sub": "Το JW Ministry είναι μια εξειδικευμένη εφαρμογή υπηρεσίας αγρού για τους Μάρτυρες του Ιεχωβά σε iPhone και iPad: χρονόμετρο με Live Activities, πρόοδος σπουδαστών της Γραφής, εκθέσεις υπηρεσιακού έτους, στόχοι ωρών σκαπανέα και κάρτες τομέων.",
+  "badge": "Για iPhone & iPad • Έκδοση 2.0.1 • 35+ Γλώσσες",
+  "hero_title": "Διακονία, έκθεση, σκαπανικό, τομείς και ανάγνωση της Γραφής",
+  "hero_sub": "Δωρεάν και ιδιωτική εφαρμογή για Μάρτυρες του Ιεχωβά σε iPhone & iPad: χρονόμετρο με widget, μηνιαία έκθεση, ημερολόγιο σκαπανέα, κάρτες τομέων, επανεπισκέψεις, Γραφικές μελέτες, πνευματικές συνήθειες και πρόγραμμα ανάγνωσης Γραφής.",
   "cta_appstore": "Λήψη από το App Store",
   "cta_donate": "Υποστήριξη δημιουργού",
   "stat_1_val": "35+",
-  "stat_1_lbl": "Interface Languages",
+  "stat_1_lbl": "Γλώσσες διεπαφής",
   "stat_2_val": "100%",
-  "stat_2_lbl": "Offline & Private Data",
+  "stat_2_lbl": "Εκτός σύνδεσης και ιδιωτικά δεδομένα",
   "stat_3_val": "iOS & iPad",
-  "stat_3_lbl": "Native SwiftUI Design",
+  "stat_3_lbl": "Εγγενής σχεδιασμός SwiftUI",
   "stat_4_val": "0 Ads",
-  "stat_4_lbl": "Free, No Subscriptions",
+  "stat_4_lbl": "Δωρεάν, χωρίς συνδρομές",
   "screens_title": "Δείτε κάθε οθόνη του JW Ministry",
   "screens_sub": "Πραγματικά στιγμιότυπα οθόνης στα ελληνικά — από το χρονόμετρο υπηρεσίας και τις Γραφικές μελέτες έως το ημερολόγιο σκαπανέα, τους τομείς και τη σκοτεινή λειτουργία OLED.",
   "shots": [
     [
       "1.jpg",
-      "1. Start Tab & Live Timer",
-      "Track your ministry time down to the second (08:04:08). Pause, save to report, or reset in one tap. Increment Bible studies during the session, attach specific Bible students (e.g., Alex), write session notes (territory number, companion), and see total time spent today."
+      "1. Εκκίνηση Tab & Live Timer",
+      "Παρακολουθήστε το χρόνο διακονίας σας μέχρι το δεύτερο (08:04:08). Παύση, αποθήκευση στην αναφορά ή επαναφορά με ένα πάτημα. Αυξήστε τις μελέτες της Γραφής κατά τη διάρκεια της συνεδρίας, επισυνάψτε συγκεκριμένους σπουδαστές της Γραφής (π.χ. τον Άλεξ), γράψτε σημειώσεις συνεδρίας (αριθμός περιοχής, σύντροφος) και δείτε τον συνολικό χρόνο που αφιερώσατε σήμερα."
+    ],
+    [
+      "1-1.jpg",
+      "Πνευματικές συνήθειες & δακτύλιοι προόδου",
+      "Παρακολουθήστε καθημερινές, εβδομαδιαίες και μηνιαίες συνήθειες (εδάφιο της ημέρας, ανάγνωση Γραφής, προετοιμασία συναθροίσεων, Οικογενειακή Λατρεία), ανοίξτε το εδάφιο στο JW Library και προσθέστε δικές σας συνήθειες."
+    ],
+    [
+      "1-2.jpg",
+      "Πρόγραμμα ανάγνωσης της Γραφής",
+      "Διαδραστικό πλέγμα και των 66 βιβλίων της Γραφής με 5 διαδρομές ανάγνωσης (Κλασική, Χρονολογική, Ευαγγέλια πρώτα, Ισορροπημένη, Μικρά πρώτα), πρόβλεψη ολοκλήρωσης και άμεσο άνοιγμα στο JW Library."
     ],
     [
       "2.jpg",
-      "2. Bible Students Manager",
-      "Keep an organized list of your Bible students. Record the exact study publication, lesson, and section (for example: 'Enjoy Life Forever!, lesson 24, section 3') and add new students in seconds."
+      "2. Διευθυντής Σπουδαστών της Αγίας Γραφής",
+      "Κρατήστε μια οργανωμένη λίστα με τους σπουδαστές της Γραφής. Καταγράψτε την ακριβή δημοσίευση, το μάθημα και την ενότητα της μελέτης (για παράδειγμα: «Απολαύστε τη ζωή για πάντα!, μάθημα 24, ενότητα 3») και προσθέστε νέους μαθητές σε δευτερόλεπτα."
     ],
     [
       "3.jpg",
-      "3. Service Year & Monthly Reports",
-      "Switch between service years (2025–2026, 2026–2027), monitor total service year hours and remaining hours, review every month with detailed session logs, study counts, student tags, and share your monthly report on the 1st."
+      "3. Έτος Υπηρεσίας & Μηνιαίες Εκθέσεις",
+      "Κάντε εναλλαγή μεταξύ των ετών υπηρεσίας (2025–2026, 2026–2027), παρακολουθήστε τις συνολικές ώρες υπηρεσίας έτους και τις υπόλοιπες ώρες, ελέγξτε κάθε μήνα με λεπτομερή αρχεία καταγραφής συνεδριών, πλήθος μελετών, ετικέτες μαθητών και μοιραστείτε τη μηνιαία αναφορά σας την 1η ημέρα."
     ],
     [
       "4.jpg",
-      "4. Pioneer Calendar & Goal Progress",
-      "See your current role (Regular pioneer – 50 h, Auxiliary 15/30 h, or Publisher) and personal monthly target (e.g., 55 h). Visual progress bar shows hours completed this month, remaining monthly hours, and full service year balance alongside your daily schedule."
+      "4. Ημερολόγιο Pioneer & Πρόοδος Στόχων",
+      "Δείτε τον τρέχοντα ρόλο σας (Τακτικός πρωτοπόρος – 50 ώρες, Βοηθητικός 15/30 ώρες ή Εκδότης) και τον προσωπικό μηνιαίο στόχο (π.χ. 55 ώρες). Η οπτική γραμμή προόδου εμφανίζει τις ώρες που ολοκληρώθηκαν αυτόν τον μήνα, τις υπόλοιπες μηνιαίες ώρες και το πλήρες υπόλοιπο του έτους υπηρεσίας μαζί με το ημερήσιο πρόγραμμά σας."
     ],
     [
       "5.jpg",
-      "5. Territory Cards & Door-to-Door Log",
-      "Attach photos of territory maps or buildings (e.g., Territory A-8), filter addresses, and log every visit with date, visit status ('First visit', 'Not at home', 'Refusal'), and doorway notes like 'No intercom'."
+      "5. Κάρτες επικράτειας & ημερολόγιο από πόρτα σε πόρτα",
+      "Επισυνάψτε φωτογραφίες εδαφικών χαρτών ή κτιρίων (π.χ. Περιοχή A-8), φιλτράρετε διευθύνσεις και καταγράψτε κάθε επίσκεψη με ημερομηνία, κατάσταση επίσκεψης (\"Πρώτη επίσκεψη\", \"Όχι στο σπίτι\", \"Άρνηση\") και σημειώσεις πόρτας όπως \"Χωρίς ενδοσυνεννόηση\"."
     ],
     [
       "6.jpg",
-      "6. Flexible Settings & Cloud Backup",
-      "Export or import full JSON backups via the top cloud buttons. Configure your service role, custom monthly hour target, September–August service year, 1st-of-the-month report reminders at 20:00, and return visit notifications after N days."
+      "6. Ευέλικτες ρυθμίσεις & δημιουργία αντιγράφων ασφαλείας στο cloud",
+      "Εξαγωγή ή εισαγωγή πλήρων αντιγράφων ασφαλείας JSON μέσω των επάνω κουμπιών cloud. Διαμορφώστε τον ρόλο υπηρεσίας σας, τον προσαρμοσμένο μηνιαίο στόχο ώρας, το έτος υπηρεσίας Σεπτεμβρίου-Αυγούστου, τις υπενθυμίσεις αναφοράς της πρώτης του μήνα στις 20:00 και τις ειδοποιήσεις επιστροφής επίσκεψης μετά από N ημέρες."
     ],
     [
       "7.jpg",
-      "7. True Black OLED Dark Mode (Timer)",
-      "Designed for comfort during evening witnessing and battery saving on OLED iPhones. High-contrast purple accents keep controls clear in any lighting."
+      "7. True Black OLED Dark Mode (Χρονόμετρο)",
+      "Σχεδιασμένο για άνεση κατά τη βραδινή μαρτυρία και εξοικονόμηση μπαταρίας σε OLED iPhone. Οι μωβ πινελιές υψηλής αντίθεσης διατηρούν τα χειριστήρια καθαρά σε κάθε φωτισμό."
     ],
     [
       "8.jpg",
-      "8. OLED Dark Mode (Settings & Goals)",
-      "Every screen, sheet, and widget seamlessly adapts to iOS system Light and Dark appearances."
+      "8. OLED Dark Mode (Ρυθμίσεις & Στόχοι)",
+      "Κάθε οθόνη, φύλλο και γραφικό στοιχείο προσαρμόζεται απρόσκοπτα στις φωτεινές και σκοτεινές εμφανίσεις του συστήματος iOS."
     ]
   ],
   "feat_sec_title": "Όλα όσα χρειάζεστε για οργανωμένη υπηρεσία αγρού",
@@ -75,33 +85,33 @@
   "features": [
     [
       "⏱️",
-      "Smart Timer, Widgets & Live Activities",
-      "Start your ministry timer from the app, Home Screen widget, or Lock Screen. Your active timer stays visible on the Dynamic Island and Lock Screen even when your iPhone is locked."
+      "Έξυπνο χρονόμετρο, γραφικά στοιχεία και ζωντανές δραστηριότητες",
+      "Ξεκινήστε το χρονόμετρο υπηρεσίας από την εφαρμογή, το γραφικό στοιχείο Αρχικής οθόνης ή την Οθόνη κλειδώματος. Το ενεργό χρονόμετρο σας παραμένει ορατό στο Dynamic Island και στην οθόνη κλειδώματος ακόμα και όταν το iPhone σας είναι κλειδωμένο."
     ],
     [
       "📚",
-      "Bible Studies & Publication Progress",
-      "Link Bible studies directly to your daily report entries. Track each student's name and current lesson in 'Enjoy Life Forever!' or any other study aid."
+      "Πρόοδος Βιβλικών Μελετών & Εκδόσεων",
+      "Συνδέστε τις Γραφικές μελέτες απευθείας με τις ημερήσιες καταχωρήσεις αναφορών σας. Παρακολουθήστε το όνομα κάθε μαθητή και το τρέχον μάθημα στο \"Enjoy Life Forever!\" ή οποιοδήποτε άλλο βοήθημα σπουδών."
     ],
     [
       "📊",
-      "Service Roles & Personal Hour Targets",
-      "Supports Publisher, Auxiliary Pioneer (15 or 30 hours), Regular Pioneer (50 hours), Special Pioneer / Missionary (90 / 100 hours), plus a custom 'Personal target' override (e.g., 55 hours/month)."
+      "Ρόλοι υπηρεσίας & Προσωπικοί στόχοι ωρών",
+      "Υποστηρίζει Publisher, Auxiliary Pioneer (15 ή 30 ώρες), Regular Pioneer (50 ώρες), Special Pioneer / Missionary (90 / 100 ώρες), συν μια προσαρμοσμένη παράκαμψη «Προσωπικού στόχου» (π.χ. 55 ώρες/μήνα)."
     ],
     [
       "🗓️",
-      "Service Year (Sept–Aug) & Calendar",
-      "Plan ministry meetings, recurring schedules, and Family Worship in the Calendar. Compare planned vs. actual hours, convert planned sessions into report entries with a swipe, and track your annual pioneer goal."
+      "Έτος υπηρεσίας (Σεπτέμβριος – Αύγουστος) & Ημερολόγιο",
+      "Σχεδιάστε συναθροίσεις διακονίας, επαναλαμβανόμενα προγράμματα και Οικογενειακή Λατρεία στο Ημερολόγιο. Συγκρίνετε τις προγραμματισμένες με τις πραγματικές ώρες, μετατρέψτε τις προγραμματισμένες περιόδους σύνδεσης σε καταχωρίσεις αναφορών με ένα σάρωση και παρακολουθήστε τον ετήσιο πρωτοποριακό στόχο σας."
     ],
     [
       "🗺️",
-      "Territories, Apartments & Visit Reminders",
-      "Create cards for territories, multi-story apartment buildings, and private houses. Attach map photos, color-code cards, search by address or resident name, and receive automatic reminders to make return visits."
+      "Υπενθυμίσεις για περιοχές, διαμερίσματα και επισκέψεις",
+      "Δημιουργήστε κάρτες για περιοχές, πολυώροφες πολυκατοικίες και ιδιωτικές κατοικίες. Επισυνάψτε φωτογραφίες χάρτη, κάρτες με χρωματικούς κωδικούς, πραγματοποιήστε αναζήτηση κατά διεύθυνση ή όνομα κατοίκου και λάβετε αυτόματες υπενθυμίσεις για να κάνετε επανεπισκέψεις."
     ],
     [
       "🔒",
-      "100% On-Device Privacy & Full Backups",
-      "No registration, no accounts, no external servers, and zero analytics. All records and territory photos stay locally on your iPhone/iPad, with instant backup export & restore to iCloud Drive or Files."
+      "100% Απόρρητο στη συσκευή και πλήρη αντίγραφα ασφαλείας",
+      "Χωρίς εγγραφή, χωρίς λογαριασμούς, χωρίς εξωτερικούς διακομιστές και μηδενικά αναλυτικά στοιχεία. Όλες οι εγγραφές και οι φωτογραφίες της περιοχής παραμένουν τοπικά στο iPhone/iPad σας, με άμεση εξαγωγή και επαναφορά αντιγράφων ασφαλείας στο iCloud Drive ή στο Files."
     ]
   ],
   "lang_sec_title": "Πλήρως μεταφρασμένο σε πάνω από 35 γλώσσες",
@@ -115,44 +125,44 @@
   "btn_patreon": "Υποστήριξη στο Patreon",
   "card_crypto_title": "Απευθείας Κρυπτονομίσματα (0% προμήθεια)",
   "card_crypto_desc": "Άμεση μεταφορά στο πορτοφόλι του δημιουργού:",
-  "usdt_label": "USDT (TRC-20 / TRON Network only):",
-  "ton_label": "TON / USDT (TON Network):",
+  "usdt_label": "USDT (μόνο TRC-20 / Δίκτυο TRON):",
+  "ton_label": "TON / USDT (Δίκτυο TON):",
   "copy_btn": "Αντιγραφή",
   "copied_msg": "Αντιγράφηκε!",
-  "crypto_warn": "For the TQQx... address, send assets via TRON (TRC-20) network only.",
+  "crypto_warn": "Για USDT (TRC-20), στείλτε περιουσιακά στοιχεία μόνο μέσω του δικτύου TRON.",
   "faq_title": "Συχνές Ερωτήσεις (FAQ)",
   "faqs": [
     [
-      "How does JW Ministry complement JW Library for Jehovah's Witnesses?",
-      "While JW Library is used for reading the Bible, publications, and congregation meetings, JW Ministry is purpose-built for tracking your personal field ministry: logging field service report hours, planning your regular or auxiliary pioneer schedule (15, 30, 50, or 100 hours), managing personal territory records, and tracking Bible students."
+      "Πώς το JW Ministry συμπληρώνει το JW Library για τους Μάρτυρες του Ιεχωβά;",
+      "Ενώ η JW Library χρησιμοποιείται για την ανάγνωση της Αγίας Γραφής, των εκδόσεων και των εκκλησιαστικών συναθροίσεων, το JW Ministry έχει σχεδιαστεί ειδικά για την παρακολούθηση της προσωπικής σας διακονίας αγρού: καταγραφή ωρών αναφοράς υπηρεσίας αγρού, προγραμματισμός του προγράμματος τακτικού ή βοηθητικού σκαπανέα (15, 30, 50 ή 100 ώρες), διαχείριση προσωπικών αρχείων περιοχής και παρακολούθηση σπουδαστών της Γραφής."
     ],
     [
-      "Where are my ministry records and territory notes stored?",
-      "Exclusively on your device (iPhone or iPad). The app has no external database or cloud server, ensuring complete confidentiality of your personal notes and addresses."
+      "Πού αποθηκεύονται τα αρχεία της διακονίας μου και οι σημειώσεις της περιοχής μου;",
+      "Αποκλειστικά στη συσκευή σας (iPhone ή iPad). Η εφαρμογή δεν διαθέτει εξωτερική βάση δεδομένων ή διακομιστή cloud, διασφαλίζοντας την πλήρη εμπιστευτικότητα των προσωπικών σας σημειώσεων και διευθύνσεων."
     ],
     [
-      "How do I transfer my data to a new iPhone or iPad?",
-      "Open the Settings tab and tap the Cloud Upload icon in the top-right corner to export a full backup file (including territory photos) to iCloud Drive or AirDrop. On your new device, tap the Cloud Download icon to restore everything in one tap."
+      "Πώς μπορώ να μεταφέρω τα δεδομένα μου σε ένα νέο iPhone ή iPad;",
+      "Ανοίξτε την καρτέλα Ρυθμίσεις και πατήστε το εικονίδιο Μεταφόρτωση στο Cloud στην επάνω δεξιά γωνία για να εξαγάγετε ένα πλήρες αρχείο αντιγράφου ασφαλείας (συμπεριλαμβανομένων φωτογραφιών περιοχής) στο iCloud Drive ή το AirDrop. Στη νέα σας συσκευή, πατήστε το εικονίδιο Λήψη Cloud για να επαναφέρετε τα πάντα με ένα πάτημα."
     ],
     [
-      "How do automatic return visit reminders work?",
-      "In Settings → Notifications, enable 'Remind about return visits to addresses' and set the interval (for example, 3 days). If you haven't logged a follow-up visit to an address within that period, the app will gently remind you."
+      "Πώς λειτουργούν οι αυτόματες υπενθυμίσεις επίσκεψης επιστροφής;",
+      "Στις Ρυθμίσεις → Ειδοποιήσεις, ενεργοποιήστε την \"Υπενθύμιση για επανεπισκέψεις σε διευθύνσεις\" και ορίστε το διάστημα (για παράδειγμα, 3 ημέρες). Εάν δεν έχετε καταγράψει μια επίσκεψη παρακολούθησης σε μια διεύθυνση εντός αυτής της περιόδου, η εφαρμογή θα σας το υπενθυμίσει απαλά."
     ],
     [
-      "Does the app support the September–August Service Year?",
-      "Yes! Both the Report tab and the Calendar summary calculate monthly and annual hours across the official September–August service year, including remaining hours toward your annual pioneer goal."
+      "Υποστηρίζει η εφαρμογή το Έτος Εξυπηρέτησης Σεπτεμβρίου-Αυγούστου;",
+      "Ναί! Τόσο η καρτέλα Αναφορά όσο και η σύνοψη Ημερολογίου υπολογίζουν τις μηνιαίες και ετήσιες ώρες κατά τη διάρκεια του επίσημου υπηρεσιακού έτους Σεπτεμβρίου-Αυγούστου, συμπεριλαμβανομένων των υπόλοιπων ωρών για τον ετήσιο στόχο πρωτοπόρου σας."
     ],
     [
-      "Is JW Ministry a good replacement for ServicePlanner or MyTime on iPhone?",
-      "Yes! JW Ministry is actively maintained for the latest iOS and iPadOS releases, featuring Live Activities on the Lock Screen and Dynamic Island, interactive Home Screen widgets, an apartment building generator, Planned vs. Actual calendar tracking, and 1-tap iCloud Drive backups."
+      "Είναι το JW Ministry μια καλή αντικατάσταση του ServicePlanner ή του MyTime στο iPhone;",
+      "Ναί! Το JW Ministry διατηρείται ενεργά για τις πιο πρόσφατες εκδόσεις iOS και iPadOS, με Ζωντανές Δραστηριότητες στην οθόνη κλειδώματος και Dynamic Island, διαδραστικά γραφικά στοιχεία αρχικής οθόνης, μια γεννήτρια πολυκατοικιών, παρακολούθηση ημερολογίου προγραμματισμένου έναντι πραγματικού ημερολογίου και αντίγραφα ασφαλείας iCloud Drive με ένα πάτημα."
     ],
     [
-      "Does the app work completely offline during door-to-door ministry?",
-      "Absolutely. All timers, territory maps, apartment records, and Bible student notes work 100% offline without requiring mobile data or Wi-Fi."
+      "Λειτουργεί η εφαρμογή εντελώς εκτός σύνδεσης κατά τη διάρκεια της υπηρεσίας από πόρτα σε πόρτα;",
+      "Απολύτως. Όλα τα χρονόμετρα, οι χάρτες περιοχών, τα αρχεία διαμερισμάτων και οι σημειώσεις σπουδαστών της Βίβλου λειτουργούν 100% εκτός σύνδεσης χωρίς να απαιτούνται δεδομένα κινητής τηλεφωνίας ή Wi-Fi."
     ],
     [
-      "Can I convert a planned ministry event in the Calendar into a Report entry?",
-      "Yes. Simply swipe on any planned ministry session in the Calendar and tap 'To Report' — the duration is automatically logged in your monthly report and deducted from your remaining planned hours."
+      "Μπορώ να μετατρέψω μια προγραμματισμένη εκδήλωση υπουργείου στο Ημερολόγιο σε καταχώριση Αναφοράς;",
+      "Ναί. Απλώς σύρετε σε οποιαδήποτε προγραμματισμένη συνεδρία υπηρεσίας στο Ημερολόγιο και πατήστε \"Για αναφορά\" — η διάρκεια καταγράφεται αυτόματα στη μηνιαία αναφορά σας και αφαιρείται από τις υπόλοιπες προγραμματισμένες ώρες σας."
     ]
   ],
   "footer_privacy": "Πολιτική Απορρήτου",
@@ -162,19 +172,19 @@
   "seo_sec_sub": "Πώς το JW Ministry βοηθά τους ευαγγελιστές και τους σκαπανείς καθ' όλη τη διάρκεια του υπηρεσιακού έτους.",
   "seo_pillars": [
     [
-      "Regular & Special Pioneers (50, 90 & 100 Hours / 600-Hour Service Year)",
-      "Serving as a regular pioneer requires keeping track of both your 50-hour monthly target and your 600-hour September–August service year goal. JW Ministry automatically calculates your completed ministry hours, remaining monthly balance, and full service year progress. Set a custom personal monthly goal (e.g., 55 hours), schedule ministry days in the Calendar, and compare your planned hours against your actual reported time."
+      "Regular & Special Pioneers (50, 90 & 100 Hours / 600 Hour Service Year)",
+      "Το να υπηρετήσετε ως τακτικός σκαπανέας απαιτεί να παρακολουθείτε τόσο τον μηνιαίο στόχο 50 ωρών όσο και τον στόχο του υπηρεσιακού έτους 600 ωρών Σεπτεμβρίου-Αύγουστου. Το JW Ministry υπολογίζει αυτόματα τις ώρες διακονίας που έχετε ολοκληρώσει, το υπόλοιπο μηνιαίο υπόλοιπο και την πρόοδο του πλήρους έτους υπηρεσίας. Ορίστε έναν προσαρμοσμένο προσωπικό μηνιαίο στόχο (π.χ. 55 ώρες), προγραμματίστε ημέρες διακονίας στο Ημερολόγιο και συγκρίνετε τις προγραμματισμένες ώρες σας με τον πραγματικό χρόνο που αναφέρατε."
     ],
     [
-      "Auxiliary Pioneers (15 & 30 Hours) and Congregation Publishers",
-      "Joining a special campaign, circuit overseer's visit, or Memorial season as an auxiliary pioneer? Switch your role to Auxiliary Pioneer (15 h or 30 h) in seconds. Congregation publishers can log daily ministry sessions, track Bible studies, and enable an automatic notification on the 1st of every month at 20:00 so you never forget to submit your field service report."
+      "Βοηθοί σκαπανείς (15 & 30 ωρών) και Εκδότες Εκκλησίας",
+      "Συμμετέχετε σε ειδική εκστρατεία, επίσκεψη επισκόπου περιοχής ή περίοδο Ανάμνησης ως βοηθητικός σκαπανέας; Αλλάξτε τον ρόλο σας σε Auxiliary Pioneer (15 ώρες ή 30 ώρες) σε δευτερόλεπτα. Οι ευαγγελιζόμενοι της εκκλησίας μπορούν να καταγράφουν τις καθημερινές συνεδρίες διακονίας, να παρακολουθούν τις Γραφικές μελέτες και να ενεργοποιούν μια αυτόματη ειδοποίηση την 1η κάθε μήνα στις 20:00, ώστε να μην ξεχάσετε ποτέ να υποβάλετε την αναφορά υπηρεσίας αγρού σας."
     ],
     [
-      "House-to-House Territories, Apartment Generator & Return Visits",
-      "Replace paper slips with organized digital territory cards. Attach photos of territory maps, color-code cards with 10 stylish colors, and generate entire multi-story apartment buildings by entrances and floors in one tap. Record 'First visit', 'Not at home', or 'Refusal' statuses, search across all territories by street address or resident name, and receive automatic reminders when it is time to make a return visit."
+      "Περιοχές από σπίτι σε σπίτι, γεννήτρια διαμερισμάτων και επισκέψεις μετ' επιστροφής",
+      "Αντικαταστήστε τα χαρτάκια με οργανωμένες κάρτες ψηφιακής επικράτειας. Επισυνάψτε φωτογραφίες από χάρτες περιοχών, κάρτες με χρωματικούς κωδικούς με 10 κομψά χρώματα και δημιουργήστε ολόκληρες πολυώροφες πολυκατοικίες ανά είσοδο και ορόφους με ένα πάτημα. Καταγράψτε τις καταστάσεις «Πρώτη επίσκεψη», «Όχι στο σπίτι» ή «Άρνηση», πραγματοποιήστε αναζήτηση σε όλες τις περιοχές κατά διεύθυνση δρόμου ή όνομα κατοίκου και λάβετε αυτόματες υπενθυμίσεις όταν είναι ώρα να κάνετε μια επανεπίσκεψη."
     ],
     [
-      "Bible Student Progress & Modern iOS Replacement for Legacy Apps",
+      "Πρόοδος σπουδαστών της Βίβλου και σύγχρονη αντικατάσταση iOS για εφαρμογές παλαιού τύπου",
       "Maintain a detailed roster of your Bible students along with their current study publication (such as 'Enjoy Life Forever!'), lesson number, and section. Attach students directly to your timer session so your monthly study count is always accurate. Built natively with SwiftUI for the latest iPhone and iPad models, JW Ministry is the ideal modern alternative to discontinued apps like ServicePlanner or MyTime."
     ]
   ],
@@ -198,119 +208,119 @@
     "Δυνατότητα",
     "Χάρτινες σημειώσεις",
     "Παλαιότερες εφαρμογές",
-    "JW Ministry 1.8"
+    "JW Ministry 2.0.1"
   ],
   "comp_rows": [
     [
-      "Live Ministry Timer on Lock Screen & Dynamic Island",
+      "Ζωντανό Υπουργείο Χρονοδιακόπτη στην οθόνη κλειδώματος και το Dynamic Island",
       "No",
       "No",
-      "Yes (Live Activities)"
+      "Ναι (Ζωντανές Δραστηριότητες)"
     ],
     [
       "Pioneer Goal Calculator (15, 30, 50, 100h) & 600h Service Year",
-      "Manual calculation",
-      "Partial",
-      "Automatic + Custom Goal"
+      "Χειροκίνητος υπολογισμός",
+      "Μερικός",
+      "Αυτόματος + Προσαρμοσμένος στόχος"
     ],
     [
-      "Planned vs. Actual Calendar & Swipe-to-Report Conversion",
+      "Μετατροπή προγραμματισμένου έναντι πραγματικού ημερολογίου και ολίσθησης για αναφορά",
       "No",
       "No",
-      "Built-in 1-Swipe Workflow"
+      "Ενσωματωμένη ροή εργασίας 1 ολίσθησης"
     ],
     [
-      "Apartment Building Generator + Territory Photos & 10 Color Tags",
-      "Paper slips",
-      "Text only",
-      "Full Visual Cards + Search"
+      "Γεννήτρια πολυκατοικίας + Φωτογραφίες περιοχής & 10 ετικέτες χρώματος",
+      "Γλιστρήματα χαρτιού",
+      "Κείμενο μόνο",
+      "Πλήρεις Visual Cards + Αναζήτηση"
     ],
     [
-      "Return Visit Reminders & 1st-of-the-Month Report Notification",
+      "Υπενθυμίσεις επιστροφής επισκέψεων και ειδοποίηση αναφοράς 1ης του μήνα",
       "No",
-      "Basic",
-      "Smart iOS Notifications"
+      "Βασικός",
+      "Έξυπνες ειδοποιήσεις iOS"
     ],
     [
-      "100% On-Device Privacy & Full iCloud Drive Backup with Photos",
-      "Easy to lose",
-      "Often breaks on new iOS",
-      "Offline & Instant Restore"
+      "100% Απόρρητο στη συσκευή και πλήρης δημιουργία αντιγράφων ασφαλείας iCloud Drive με φωτογραφίες",
+      "Εύκολο να χαθεί",
+      "Συχνά χαλάει στο νέο iOS",
+      "Εκτός σύνδεσης και άμεση επαναφορά"
     ],
     [
-      "Native Support for Latest iOS, iPad, OLED Dark Mode & 35+ Languages",
+      "Εγγενής υποστήριξη για τα πιο πρόσφατα iOS, iPad, OLED Dark Mode και 35+ γλώσσες",
       "—",
-      "Discontinued",
-      "Modern SwiftUI Architecture"
+      "Διακόπηκε",
+      "Σύγχρονη Αρχιτεκτονική SwiftUI"
     ]
   ],
-  "filter_all": "Όλα (8)",
-  "filter_light": "Φωτεινό (6)",
+  "filter_all": "Όλα (10)",
+  "filter_light": "Φωτεινό (8)",
   "filter_dark": "Σκοτεινό (2)",
   "filter_ipad": "iPad",
-  "wn_title": "Τι νέο υπάρχει στην έκδοση 1.8",
+  "wn_title": "Τι νέο υπάρχει στην έκδοση 2.0.1",
   "wn_items": [
-    "Automatic monthly planned-hours total in the Calendar with a dual Planned vs. Actual progress bar.",
-    "1-swipe conversion of any scheduled Calendar ministry session directly into a monthly Report entry.",
-    "Instant search by street address or resident name across Territories, plus 10 color themes for territory cards.",
-    "Upcoming Service Year (2026–2027) support in the Report tab with a sleek annual balance summary.",
-    "Full optimization for the latest iOS & iPadOS releases and enhanced on-device backup protection."
+    "Νέα ενότητα «Πνευματικές συνήθειες» στην καρτέλα Έναρξη: δακτύλιοι προόδου (Ημέρα / Εβδομάδα / Μήνας), προσαρμοσμένες συνήθειες, επιλογή Οικογενειακής Λατρείας και επείγουσα υπενθύμιση στις 5 του μήνα.",
+    "Πρόγραμμα ανάγνωσης της Γραφής: 5 διαδρομές, παρακολούθηση κεφαλαίων στα 66 βιβλία, εκτίμηση ημερομηνίας ολοκλήρωσης και κουμπί «Ανάγνωση στο JW Library».",
+    "Διπλός στόχος σε Ημερολόγιο & widget: ταυτόχρονη προβολή του στόχου σκαπανέα (30 ή 50 ώρες) και του προσωπικού μηνιαίου στόχου.",
+    "Πλήρης προσαρμογή διεπαφής για την αναδιπλούμενη οθόνη iPhone Duo και iPadOS.",
+    "Προστέθηκαν τα κουμπιά «Κοινοποίηση εφαρμογής» και «Ιστότοπος» στις Ρυθμίσεις."
   ],
-  "howto_name": "How to Track Field Service Hours & Pioneer Schedule on iPhone",
+  "howto_name": "Τρόπος παρακολούθησης των ωρών εξυπηρέτησης και του προγράμματος Pioneer στο iPhone",
   "howto_steps": [
     [
-      "Set your service role and monthly target",
-      "Choose Publisher, Auxiliary Pioneer (15/30 h), or Regular Pioneer (50 h) in Settings, or set a custom monthly hour target."
+      "Ορίστε τον ρόλο της υπηρεσίας και τον μηνιαίο στόχο",
+      "Επιλέξτε Publisher, Auxiliary Pioneer (15/30 h) ή Regular Pioneer (50 h) στις Ρυθμίσεις ή ορίστε έναν προσαρμοσμένο μηνιαίο στόχο ώρας."
     ],
     [
-      "Run the live timer or schedule in the Calendar",
-      "Track field ministry on the Lock Screen & Dynamic Island, or swipe scheduled Calendar events directly into your Report."
+      "Εκτελέστε το ζωντανό χρονόμετρο ή το πρόγραμμα στο Ημερολόγιο",
+      "Παρακολουθήστε την υπηρεσία πεδίου στην οθόνη κλειδώματος και το Dynamic Island ή σύρετε τα προγραμματισμένα συμβάντα ημερολογίου απευθείας στην αναφορά σας."
     ],
     [
-      "Log territories and Bible studies",
-      "Record house-to-house visits, apartment statuses, and attach Bible students with their current lesson."
+      "Περιοχές κορμών και Βιβλικές μελέτες",
+      "Καταγράψτε επισκέψεις από σπίτι σε σπίτι, καταστάσεις διαμερισμάτων και επισυνάψτε τους σπουδαστές της Γραφής με το τρέχον μάθημά τους."
     ],
     [
-      "Share your monthly field service report",
-      "On the 1st of the month, open the Report tab to review and share your completed hours and Bible studies."
+      "Μοιραστείτε τη μηνιαία αναφορά υπηρεσίας αγρού σας",
+      "Την 1η του μήνα, ανοίξτε την καρτέλα Αναφορά για να ελέγξετε και να μοιραστείτε τις ώρες που ολοκληρώσατε και τις Γραφικές μελέτες."
     ]
   ],
   "nav_comp": "Σύγκριση",
   "sticky_sub": "iPhone & iPad • Δωρεάν",
   "feature_badges": [
-    "Time Tracking • Live Activities",
-    "Bible Studies • Lesson Progress",
-    "Service Roles • 15 / 30 / 50 / 100 h",
-    "Service Year • Plan vs. Actual",
-    "Territory Log • Search & Alerts",
-    "On-Device Privacy • iCloud Backup"
+    "Παρακολούθηση χρόνου • Ζωντανές Δραστηριότητες",
+    "Μελέτες της Αγίας Γραφής • Πρόοδος μαθήματος",
+    "Ρόλοι σέρβις • 15 / 30 / 50 / 100 h",
+    "Έτος υπηρεσίας • Πρόγραμμα έναντι πραγματικού",
+    "Μητρώο Περιοχής • Αναζήτηση & Ειδοποιήσεις",
+    "Απόρρητο στη συσκευή • Δημιουργία αντιγράφων ασφαλείας iCloud"
   ],
   "pillar_badges": [
-    "Regular & Special Pioneer Ministry",
+    "Τακτική & Ειδική Πρωτοποριακή Διακονία",
     "Auxiliary Pioneers & Publishers",
-    "House-to-House & Personal Territories",
-    "Bible Studies & Modern iOS Design"
+    "Σπίτι σε Σπίτι & Προσωπικές Περιοχές",
+    "Μελέτες της Αγίας Γραφής και Σύγχρονος σχεδιασμός iOS"
   ],
   "pillar_Checklists": [
     [
-      "Automatic 50 h monthly & 600 h September–August service year tracking",
-      "Custom monthly hour target override (e.g., 55 h/month)",
-      "Dual progress bar comparing scheduled vs. reported hours"
+      "Αυτόματη παρακολούθηση 50 ωρών μηνιαία & 600 ωρών Σεπτέμβριος-Αύγουστος έτους υπηρεσίας",
+      "Προσαρμοσμένη μηνιαία παράκαμψη στόχου ώρας (π.χ. 55 ώρες/μήνα)",
+      "Διπλή γραμμή προόδου που συγκρίνει τις προγραμματισμένες με τις αναφερόμενες ώρες"
     ],
     [
-      "One-tap switch to 15 h or 30 h Auxiliary Pioneer goals",
-      "Instant monthly report formatting and sharing on the 1st",
-      "Gentle reminder notification on the 1st of each month at 20:00"
+      "Εναλλαγή με ένα πάτημα στους στόχους 15 ωρών ή 30 ωρών του Auxiliary Pioneer",
+      "Άμεση μορφοποίηση και κοινή χρήση μηνιαίων αναφορών την 1η",
+      "Ευγενική ειδοποίηση υπενθύμισης την 1η κάθε μήνα στις 20:00"
     ],
     [
-      "Multi-story apartment generator by entrances and floors",
-      "Territory map photos, 10 color themes & instant resident/address search",
-      "Automated return visit reminders after your chosen number of days"
+      "Γεννήτρια πολυώροφων διαμερισμάτων κατά εισόδους και ορόφους",
+      "Φωτογραφίες χάρτη περιοχών, 10 έγχρωμα θέματα και άμεση αναζήτηση κατοίκου/διεύθυνσης",
+      "Αυτοματοποιημένες υπενθυμίσεις επισκέψεων επιστροφής μετά τον αριθμό ημερών που έχετε επιλέξει"
     ],
     [
-      "Track exact lessons in 'Enjoy Life Forever!' for every student",
-      "Built natively for iOS & iPadOS with Dynamic Island & OLED Dark Mode",
-      "Complete modern replacement for legacy ServicePlanner & MyTime apps"
+      "Παρακολουθήστε ακριβή μαθήματα στο \"Enjoy Life Forever!\" για κάθε μαθητή",
+      "Εγγενής κατασκευή για iOS και iPadOS με Dynamic Island και OLED Dark Mode",
+      "Πλήρης σύγχρονη αντικατάσταση των παλαιούχων εφαρμογών ServicePlanner & MyTime"
     ]
   ],
   "rev_title": "Αξιολογήσεις ευαγγελιστών και σκαπανέων",
@@ -318,51 +328,111 @@
   "reviews": [
     [
       "Alex, Regular Pioneer",
-      "Having the monthly planned hours automatically totaled in the Calendar alongside my actual reported hours is a game changer for keeping my 50-hour schedule on track."
+      "Το να αθροίζονται αυτόματα οι μηνιαίες προγραμματισμένες ώρες στο Ημερολόγιο μαζί με τις πραγματικές αναφερόμενες ώρες μου αλλάζει το παιχνίδι για τη διατήρηση του προγράμματός μου των 50 ωρών."
     ],
     [
-      "Sarah, Auxiliary Pioneer",
-      "The Lock Screen Live Activity timer and 1-swipe conversion from Calendar plans to Report entries make tracking 15 and 30 hours effortless. Clean, fast, and 100% private."
+      "Σάρα, βοηθός πρωτοπόρος",
+      "Το χρονόμετρο Lock Screen Live Activity και η μετατροπή με 1 σάρωση από τα σχέδια του Ημερολογίου σε καταχωρίσεις αναφοράς κάνουν την παρακολούθηση 15 και 30 ωρών χωρίς κόπο. Καθαρό, γρήγορο και 100% ιδιωτικό."
     ],
     [
-      "David, Congregation Publisher",
-      "The apartment building generator and instant search across territory notes replaced all my paper slips. Return visit reminders help me never miss a follow-up."
+      "David, Εκδότης Congregation",
+      "Η γεννήτρια πολυκατοικίας και η άμεση αναζήτηση σε όλες τις σημειώσεις επικράτειας αντικατέστησαν όλα τα δελτία μου. Οι υπενθυμίσεις επιστροφής επισκέψεων με βοηθούν να μην χάσω ποτέ μια συνέχεια."
     ]
   ],
   "privacy_page": {
     "page_title": "Πολιτική Απορρήτου της εφαρμογής «JW Ministry» — JW Ministry",
-    "meta_desc": "Official Privacy Policy and User Support for the JW Ministry iOS & iPadOS app. 100% local on-device data storage with zero external servers.",
+    "meta_desc": "Επίσημη πολιτική απορρήτου και υποστήριξη χρηστών για την εφαρμογή JW Ministry για iOS και iPadOS. 100% τοπική αποθήκευση δεδομένων στη συσκευή με μηδενικούς εξωτερικούς διακομιστές.",
     "back_home": "Αρχική σελίδα",
     "sup_title": "Υποστήριξη Χρηστών — JW Ministry",
     "sup_desc": "Αν έχετε ερωτήσεις, προτάσεις ή εντοπίσατε κάποιο σφάλμα στην εφαρμογή, επικοινωνήστε μαζί μας:",
-    "sup_issues": "Report an Issue (GitHub)",
-    "sup_store": " JW Ministry on App Store",
-    "updated": "Last updated: December 5, 2025",
+    "sup_issues": "Αναφορά προβλήματος (GitHub)",
+    "sup_store": " JW Ministry στο App Store",
+    "updated": "Τελευταία ενημέρωση: 5 Δεκεμβρίου 2025",
     "h1": "Πολιτική Απορρήτου της εφαρμογής «JW Ministry»",
-    "intro": "This Privacy Policy explains how the <strong>“JW Ministry”</strong> mobile application (“the App”) handles user information. Our core principle is <strong>100% privacy: all records you create are stored exclusively on your device</strong>.",
-    "s1_t": "1. Data Created and Stored in the App",
-    "s1_p": "All data in the App is entered voluntarily by the user for personal field service organization and planning:",
+    "intro": "Αυτή η Πολιτική Απορρήτου εξηγεί πώς η εφαρμογή για κινητά <strong>“JW Ministry”</strong> (“η Εφαρμογή”) χειρίζεται τις πληροφορίες χρήστη. Η βασική μας αρχή είναι το <strong>100% απόρρητο: όλες οι εγγραφές που δημιουργείτε αποθηκεύονται αποκλειστικά στη συσκευή σας</strong>.",
+    "s1_t": "1. Δεδομένα που δημιουργούνται και αποθηκεύονται στην εφαρμογή",
+    "s1_p": "Όλα τα δεδομένα στην εφαρμογή εισάγονται οικειοθελώς από τον χρήστη για προσωπική οργάνωση και προγραμματισμό της υπηρεσίας πεδίου:",
     "s1_ul": [
-      "<strong>Service time entries & reports:</strong> dates, duration, Bible study counts, and session notes.",
-      "<strong>Calendar schedules:</strong> planned ministry events, dates, times, and recurrence settings.",
-      "<strong>Bible students list:</strong> student names/labels and study publication progress notes.",
-      "<strong>Territories & addresses:</strong> territory names, house/apartment lists, visit history, notes, and territory card photos selected by the user from the Photo Library.",
-      "<strong>App settings:</strong> selected service role, personal monthly hour target, and notification preferences."
+      "<strong>Εισχωρήσεις και αναφορές χρόνου υπηρεσίας:</strong> ημερομηνίες, διάρκεια, πλήθος μελέτης της Αγίας Γραφής και σημειώσεις συνεδρίας.",
+      "<strong>Προγράμματα ημερολογίου:</strong> προγραμματισμένες εκδηλώσεις υπουργείου, ημερομηνίες, ώρες και ρυθμίσεις επανάληψης.",
+      "<strong>Λίστα σπουδαστών της Αγίας Γραφής:</strong> ονόματα/ετικέτες μαθητών και σημειώσεις προόδου δημοσιεύσεων μελέτης.",
+      "<strong>Εδάφη και διευθύνσεις:</strong> ονόματα περιοχών, λίστες σπιτιών/διαμερισμάτων, ιστορικό επισκέψεων, σημειώσεις και φωτογραφίες καρτών επικράτειας που επιλέχθηκαν από τον χρήστη από τη Βιβλιοθήκη φωτογραφιών.",
+      "<strong>Ρυθμίσεις εφαρμογής:</strong> επιλεγμένος ρόλος υπηρεσίας, προσωπικός μηνιαίος στόχος ώρας και προτιμήσεις ειδοποιήσεων."
     ],
-    "s2_t": "2. 100% Local On-Device Storage & No Third-Party Sharing",
+    "s2_t": "2. 100% τοπικός χώρος αποθήκευσης στη συσκευή και χωρίς κοινή χρήση τρίτων",
     "s2_ul": [
-      "All data is stored <strong>solely on your iPhone or iPad</strong> within the secure iOS / iPadOS storage container.",
-      "The App requires <strong>no registration</strong> and no user account.",
-      "The developer has <strong>no access</strong> to your records, collects no analytics or location data, and <strong>never transmits or shares</strong> any data with external servers or third parties."
+      "Όλα τα δεδομένα αποθηκεύονται <strong>μόνο στο iPhone ή το iPad σας</strong> στο ασφαλές κοντέινερ αποθήκευσης iOS / iPadOS.",
+      "Η εφαρμογή δεν απαιτεί <strong>καμία εγγραφή</strong> και κανένα λογαριασμό χρήστη.",
+      "Ο προγραμματιστής δεν έχει <strong>καμία πρόσβαση</strong> στα αρχεία σας, δεν συλλέγει αναλυτικά στοιχεία ή δεδομένα τοποθεσίας και <strong>δεν μεταδίδει ούτε μοιράζεται ποτέ</strong> δεδομένα με εξωτερικούς διακομιστές ή τρίτα μέρη."
     ],
-    "s3_t": "3. Device Permissions (Photos & Notifications)",
+    "s3_t": "3. Δικαιώματα συσκευής (Φωτογραφίες και ειδοποιήσεις)",
     "s3_ul": [
-      "<strong>Photo Library:</strong> requested only when you choose to attach a map or building photo to a territory card. Selected images are stored locally inside the App folder on your device.",
-      "<strong>Notifications:</strong> used exclusively for local on-device reminders (such as the 1st-of-the-month report reminder or return visit reminders)."
+      "<strong>Βιβλιοθήκη φωτογραφιών:</strong> ζητείται μόνο όταν επιλέγετε να επισυνάψετε έναν χάρτη ή μια φωτογραφία κτιρίου σε μια κάρτα περιοχής. Οι επιλεγμένες εικόνες αποθηκεύονται τοπικά μέσα στο φάκελο App στη συσκευή σας.",
+      "<strong>Ειδοποιήσεις:</strong> χρησιμοποιούνται αποκλειστικά για τοπικές υπενθυμίσεις στη συσκευή (όπως η υπενθύμιση αναφοράς της 1ης του μήνα ή οι υπενθυμίσεις επιστροφής επισκέψεων)."
     ],
-    "s4_t": "4. Backups & Data Deletion",
-    "s4_p": "You may export a complete backup file (including territory photos) at any time via the standard iOS share sheet (for example, saving to your personal iCloud Drive or Files app). Uninstalling the App from your device permanently deletes all local App data.",
-    "s5_t": "5. Contact",
-    "s5_p": "If you have any questions regarding this Privacy Policy or the App, please contact the developer at:"
+    "s4_t": "4. Δημιουργία αντιγράφων ασφαλείας & Διαγραφή δεδομένων",
+    "s4_p": "Μπορείτε να εξαγάγετε ένα πλήρες αρχείο αντιγράφου ασφαλείας (συμπεριλαμβανομένων των φωτογραφιών της περιοχής) ανά πάσα στιγμή μέσω του τυπικού φύλλου κοινής χρήσης iOS (για παράδειγμα, αποθήκευση στην προσωπική σας εφαρμογή iCloud Drive ή Files). Η απεγκατάσταση της εφαρμογής από τη συσκευή σας διαγράφει οριστικά όλα τα τοπικά δεδομένα της εφαρμογής.",
+    "s5_t": "5. Επικοινωνία",
+    "s5_p": "Εάν έχετε οποιεσδήποτε ερωτήσεις σχετικά με αυτήν την Πολιτική Απορρήτου ή την Εφαρμογή, επικοινωνήστε με τον προγραμματιστή στη διεύθυνση:"
+  },
+  "filter_duo": "iPhone Duo",
+  "wn_items_18": [
+    "Αυτόματο μηνιαίο σύνολο προγραμματισμένων ωρών στο Ημερολόγιο με διπλή γραμμή προόδου προγραμματισμένη έναντι πραγματικής.",
+    "Μετατροπή 1-σάρωση οποιασδήποτε προγραμματισμένης συνεδρίας υπηρεσίας Ημερολογίου απευθείας σε μηνιαία καταχώριση αναφοράς.",
+    "Άμεση αναζήτηση ανά διεύθυνση δρόμου ή όνομα κατοίκου σε όλες τις περιοχές, συν 10 έγχρωμα θέματα για κάρτες επικράτειας.",
+    "Υποστήριξη επερχόμενου έτους υπηρεσίας (2026–2027) στην καρτέλα Αναφορά με μια κομψή σύνοψη ετήσιου υπολοίπου.",
+    "Πλήρης βελτιστοποίηση για τις πιο πρόσφατες εκδόσεις iOS και iPadOS και βελτιωμένη προστασία αντιγράφων ασφαλείας στη συσκευή."
+  ],
+  "bible_page": {
+    "title": "5 προγράμματα ανάγνωσης Γραφής & πνευματικές συνήθειες | JW Ministry",
+    "desc": "Πρακτικό καθημερινό πρόγραμμα ανάγνωσης Γραφής για iPhone & iPad: και τα 66 βιβλία, 5 επιλογές (κλασικό, χρονολογικό κ.ά.), πρόβλεψη ολοκλήρωσης και JW Library.",
+    "h1": "5 προγράμματα ανάγνωσης Γραφής & πνευματικές συνήθειες",
+    "intro": "Πρακτικό καθημερινό πρόγραμμα ανάγνωσης Γραφής για iPhone & iPad: και τα 66 βιβλία, 5 επιλογές (κλασικό, χρονολογικό κ.ά.), πρόβλεψη ολοκλήρωσης και JW Library.",
+    "routes_title": "5 Ενσωματωμένα Σχέδια Ανάγνωσης Βίβλου",
+    "s1_t": "66 Βιβλία Διαδραστικό Πλέγμα",
+    "s1_d": "Ελέγξτε τα κεφάλαια και παρακολουθήστε την πρόοδο στις Εβραϊκές και Χριστιανικές Ελληνικές Γραφές.",
+    "s2_t": "Καθημερινές πνευματικές συνήθειες",
+    "s2_d": "Η πρόοδος κουδουνίζει για την Ημέρα, την Εβδομάδα και τον Μήνα συν 1 πάτημα Ημερήσιου κειμένου στη JW Library.",
+    "routes": [
+      [
+        "1. Κλασικό",
+        "Από τη Γένεση στην Αποκάλυψη — διαδοχική ανάγνωση ολόκληρης της Βίβλου."
+      ],
+      [
+        "2. Χρονολογικά",
+        "Βιβλία ταξινομημένα κατά σειρά ιστορικών γεγονότων και γραφής."
+      ],
+      [
+        "3. Ευαγγέλια Πρώτα",
+        "Ξεκινήστε με τις Χριστιανικές Ελληνικές Γραφές και μετά προχωρήστε στις Εβραϊκές Γραφές."
+      ],
+      [
+        "4. Ισορροπημένο μείγμα",
+        "Εναλλασσόμενη ιστορία, ποίηση και Ευαγγέλια για καθημερινή ποικιλία."
+      ],
+      [
+        "5. Πρώτα ο συντομότερος",
+        "Από τα πιο σύντομα βιβλία μέχρι τα μεγαλύτερα για μια γρήγορη αίσθηση προόδου."
+      ]
+    ]
+  },
+  "calc_page": {
+    "title": "Υπολογιστής προγράμματος Pioneer (15, 30, 50 & 600 ώρες) | JW Ministry",
+    "desc": "Δωρεάν ηλεκτρονικός υπολογιστής ωρών σκαπανέα για Μάρτυρες του Ιεχωβά. Υπολογίστε το εβδομαδιαίο και ημερήσιο πρόγραμμα υπηρεσίας αγρού σας για 15 ώρες, 30 ώρες βοηθητικό ή 50 ώρες τακτικό σκαπανέα (600 ώρες υπηρεσιακό έτος).",
+    "h1": "Υπολογιστής χρονοδιαγράμματος Pioneer",
+    "intro": "Προγραμματίστε τις ώρες υπηρεσίας αγρού σας για 15ωρο ή 30ωρο Auxiliary Pioneer, 50h Regular Pioneer (600 ώρες ανά έτος υπηρεσίας) ή έναν προσαρμοσμένο στόχο.",
+    "label_goal": "Μηνιαίος στόχος",
+    "opt_15": "Auxiliary Pioneer — 15 ώρες/μήνα",
+    "opt_30": "Auxiliary Pioneer — 30 ώρες/μήνα",
+    "opt_50": "Regular Pioneer — 50 ώρες/μήνα",
+    "opt_90": "Special Pioneer — 90 ώρες/μήνα",
+    "opt_100": "Special Pioneer — 100 ώρες/μήνα",
+    "label_days": "Ημέρες Υπουργείου την εβδομάδα",
+    "res_week": "Ώρες την εβδομάδα",
+    "res_day": "Ώρες ανά ημέρα διακονίας",
+    "res_year": "Ανά έτος υπηρεσίας",
+    "unit_h": "η",
+    "cta_app": "Πρόγραμμα παρακολούθησης στο JW Ministry",
+    "cta_bible": "Πρόγραμμα ανάγνωσης της Βίβλου"
   }
 }

@@ -1,0 +1,453 @@
+{
+  "shot_folder": "Afrikaans",
+  "html_lang": "af",
+  "og_locale": "af_ZA",
+  "name": "Afrikaans",
+  "flag": "🇿🇦",
+  "title": "JW Ministry — Toepassing vir Jehovah se Getuies: Velddiens, Verslag en Gebiede",
+  "description": "Gratis Jehovah se Getuies-toepassing vir iPhone en iPad: velddienstydhouer, maandelikse verslag, pionierure, kalender, Bybelleesskedule, geestelike gewoontes en gebiede.",
+  "keywords": "JW Ministry, jehovah, getuienis, velddiens, verslag, tydhouer, pionier, ure, bybel, studie, kalender, herbesoek, gebiede, geestelike gewoontes, bybelleesrooster, legstuk, beplanner, notas",
+  "nav_screens": "App skerms",
+  "nav_features": "Alle kenmerke",
+  "nav_languages": "35+ tale",
+  "nav_privacy": "Privaatheid",
+  "nav_donate": "Ondersteuningsprojek",
+  "nav_faq": "Gereelde vrae",
+  "badge": "Beskikbaar vir iPhone en iPad • Weergawe 2.0.1 • 35+ tale",
+  "hero_title": "Velddiens, Pionier-ure, Gebiede en Bybellees",
+  "hero_sub": "Gratis, 100% privaat toepassing vir Jehovah se Getuies op iPhone en iPad: regstreekse dienstydhouer met legstukke, maandelikse verslag, pionierkalender, huis-tot-huis-gebiede, herbesoeke, Bybelstudies, geestelike gewoontes en 'n Bybelleesskedule van 66 boeke.",
+  "cta_appstore": "Laai af op die App Store",
+  "cta_donate": "Ondersteun die ontwikkelaar",
+  "stat_1_val": "35+",
+  "stat_1_lbl": "Interface Tale",
+  "stat_2_val": "100%",
+  "stat_2_lbl": "Vanlyn en privaat data",
+  "stat_3_val": "iOS & iPad",
+  "stat_3_lbl": "Inheemse SwiftUI-ontwerp",
+  "stat_4_val": "0 Ads",
+  "stat_4_lbl": "Gratis, geen intekeninge nie",
+  "screens_title": "Verken elke skerm van JW Ministry",
+  "screens_sub": "Werklike skermkiekies vanaf die toepassing. Blaai deur al 8 skerms – van die regstreekse bedieningstydhouer en Bybelstudentelys tot baanbreker-kalenderdoelwitte, gebiedskaarte en OLED-donkermodus.",
+  "shots": [
+    [
+      "1.jpg",
+      "1. Begin Tab & Live Timer",
+      "Volg jou bedieningstyd tot by die tweede (08:04:08). Onderbreek, stoor om te rapporteer, of stel in een tik terug. Verhoog Bybelstudies tydens die sessie, heg spesifieke Bybelstudente aan (bv. Alex), skryf sessienotas (gebiednommer, metgesel) en sien die totale tyd wat vandag spandeer word."
+    ],
+    [
+      "1-1.jpg",
+      "Geestelike gewoontes en vordering lui",
+      "Volg daaglikse, weeklikse en maandelikse geestelike gewoontes (Daaglikse teks, Bybellees, vergaderingvoorbereiding, gesinsaanbidding), maak die daaglikse teks direk in JW Library oop en voeg pasgemaakte gewoontes by."
+    ],
+    [
+      "1-2.jpg",
+      "Bybelleesrooster",
+      "Interaktiewe rooster van al 66 Bybelboeke met 5 leesroetes (Klassiek, Chronologies, Evangelies Eerste, Gebalanseerd, Kortste Eerste), voltooiingsdatumvoorspelling, en 1-tik lees in JW Library."
+    ],
+    [
+      "2.jpg",
+      "2. Bybelstudentebestuurder",
+      "Hou 'n georganiseerde lys van jou Bybelstudente. Teken die presiese studiepublikasie, les en afdeling op (byvoorbeeld: 'Geniet die lewe vir altyd!, les 24, afdeling 3') en voeg nuwe studente binne sekondes by."
+    ],
+    [
+      "3.jpg",
+      "3. Diensjaar- en maandelikse verslae",
+      "Wissel tussen diensjare (2025–2026, 2026–2027), monitor totale diensjaarure en oorblywende ure, hersien elke maand met gedetailleerde sessielogboeke, studietellings, studentemerkers, en deel jou maandelikse verslag op die 1ste."
+    ],
+    [
+      "4.jpg",
+      "4. Pionier-kalender en doelwitvordering",
+      "Sien jou huidige rol (Gereelde pionier – 50 uur, Hulpdiens 15/30 uur, of Uitgewer) en persoonlike maandelikse teiken (bv. 55 uur). Visuele vorderingsbalk wys ure wat hierdie maand voltooi is, oorblywende maandelikse ure en volle diensjaarbalans saam met jou daaglikse skedule."
+    ],
+    [
+      "5.jpg",
+      "5. Gebiedskaarte en deur-tot-deur-logboek",
+      "Heg foto's van gebiedskaarte of geboue aan (bv. Gebied A-8), filtreer adresse en teken elke besoek aan met datum, besoekstatus ('Eerste besoek', 'Nie by die huis nie', 'weiering'), en deuropeningsnotas soos 'Geen interkom'."
+    ],
+    [
+      "6.jpg",
+      "6. Buigsame instellings en wolkrugsteun",
+      "Voer volledige JSON-rugsteun uit of voer dit in via die boonste wolkknoppies. Stel jou diensrol op, pasgemaakte maandelikse uurteiken, September-Augustus-diensjaar, 1ste-van-die-maand-verslagherinnerings om 20:00, en herbesoekkennisgewings na N dae."
+    ],
+    [
+      "7.jpg",
+      "7. Ware Swart OLED-donkermodus (Timer)",
+      "Ontwerp vir gemak tydens aandgetuienis en batterybesparing op OLED iPhones. Pers aksente met hoë kontras hou kontroles duidelik in enige beligting."
+    ],
+    [
+      "8.jpg",
+      "8. OLED-donkermodus (instellings en doelwitte)",
+      "Elke skerm, vel en legstuk pas moeiteloos aan by iOS-stelsel Lig en Donker voorkoms."
+    ]
+  ],
+  "feat_sec_title": "Alles wat jy nodig het vir georganiseerde bediening",
+  "feat_sec_sub": "Gebou spesifiek rondom die werklike werkstroom van verkondigers, hulppioniers, gewone pioniers en spesiale pioniers.",
+  "features": [
+    [
+      "⏱️",
+      "Slim timer, widgets en regstreekse aktiwiteite",
+      "Begin jou bedieningstydteller vanaf die toepassing, Tuisskermlegstuk of Sluitskerm. Jou aktiewe tydteller bly sigbaar op die Dynamic Island en sluitskerm selfs wanneer jou iPhone gesluit is."
+    ],
+    [
+      "📚",
+      "Bybelstudies en publikasievordering",
+      "Koppel Bybelstudies direk aan jou daaglikse verslaginskrywings. Volg elke student se naam en huidige les in 'Geniet die lewe vir altyd!' of enige ander studiehulpmiddel."
+    ],
+    [
+      "📊",
+      "Diensrolle en persoonlike uurteikens",
+      "Ondersteun uitgewer, hulppionier (15 of 30 uur), gewone pionier (50 uur), spesiale pionier / sendeling (90 / 100 uur), plus 'n pasgemaakte 'Persoonlike teiken'-oorskakeling (bv. 55 uur/maand)."
+    ],
+    [
+      "🗓️",
+      "Diensjaar (Sept–Aug) & Kalender",
+      "Beplan bedieningsvergaderings, herhalende skedules en Gesinsaanbidding in die Kalender. Vergelyk beplande vs werklike ure, omskep beplande sessies in verslaginskrywings met 'n veeg, en volg jou jaarlikse pionierdoelwit."
+    ],
+    [
+      "🗺️",
+      "Gebiede, woonstelle en besoekherinneringe",
+      "Skep kaarte vir gebiede, meerverdieping woonstelgeboue en private huise. Heg kaartfoto's, kleurkode-kaarte aan, soek volgens adres of inwonernaam, en ontvang outomatiese aanmanings om herbesoeke te doen."
+    ],
+    [
+      "🔒",
+      "100% privaatheid op die toestel en volledige rugsteun",
+      "Geen registrasie, geen rekeninge, geen eksterne bedieners en geen ontledings nie. Alle rekords en gebiedfoto's bly plaaslik op jou iPhone/iPad, met onmiddellike rugsteunuitvoer en herstel na iCloud Drive of lêers."
+    ]
+  ],
+  "lang_sec_title": "Ten volle gelokaliseer in 35+ tale",
+  "lang_sec_sub": "Die app-koppelvlak, legstukke en kennisgewings pas outomaties by jou toesteltaal:",
+  "donate_badge": "Onafhanklike en advertensievrye projek",
+  "donate_title": "Ondersteun die ontwikkeling van JW Ministry",
+  "donate_sub": "JW Ministry word geskep en onderhou deur 'n onafhanklike ontwikkelaar vir persoonlike gebruik. Daar is geen advertensies, geen betaalde vlakke en geen intekeninge nie. As die toepassing jou bediening makliker maak, kan jy toekomstige iOS-opdaterings en Apple-ontwikkelaarlisensie-hernuwing ondersteun:",
+  "card_fiat_title": "Ondersteuning per kaart (wêreldwyd)",
+  "card_fiat_desc": "Vinnige eenmalige wenk of maandelikse ondersteuning van enige land via Boosty of Patreon:",
+  "btn_boosty": "Ondersteuning op Boosty (kaarte / Apple Pay)",
+  "btn_patreon": "Ondersteuning op Patreon",
+  "card_crypto_title": "Direkte kripto-oordrag (0% platformfooi)",
+  "card_crypto_desc": "Onmiddellike oordrag direk na die ontwikkelaar se beursie:",
+  "usdt_label": "USDT (slegs TRC-20 / TRON-netwerk):",
+  "ton_label": "TON / USDT (TON-netwerk):",
+  "copy_btn": "Kopieer",
+  "copied_msg": "Gekopieer!",
+  "crypto_warn": "Vir USDT (TRC-20), stuur bates slegs via die TRON-netwerk.",
+  "faq_title": "Gereelde Vrae",
+  "faqs": [
+    [
+      "Hoe vul JW Ministry JW Library vir Jehovah se Getuies aan?",
+      "Terwyl JW Library gebruik word vir die lees van die Bybel, publikasies en gemeentelike vergaderinge, is JW Ministry doelgerig om jou persoonlike veldbediening op te spoor: aanteken van velddiensrapporture, beplanning van jou gereelde of hulppionierskedule (15, 30, 50 of 100 uur), bestuur van persoonlike gebiedsrekords en volg Bybelstudente."
+    ],
+    [
+      "Waar word my bedieningsrekords en gebiedsnotas gestoor?",
+      "Eksklusief op jou toestel (iPhone of iPad). Die toepassing het geen eksterne databasis of wolkbediener nie, wat volledige vertroulikheid van u persoonlike notas en adresse verseker."
+    ],
+    [
+      "Hoe dra ek my data oor na 'n nuwe iPhone of iPad?",
+      "Maak die Instellings-oortjie oop en tik die Wolk-oplaai-ikoon in die regter boonste hoek om 'n volledige rugsteunlêer (insluitend gebiedfoto's) na iCloud Drive of AirDrop uit te voer. Tik op jou nuwe toestel op die Wolk-aflaai-ikoon om alles in een tik te herstel."
+    ],
+    [
+      "Hoe werk outomatiese herbesoekaanmanings?",
+      "Aktiveer 'Herinner aan herbesoeke aan adresse' in Instellings → Kennisgewings en stel die interval in (byvoorbeeld 3 dae). As jy nie binne daardie tydperk 'n opvolgbesoek aan 'n adres aangeteken het nie, sal die toepassing jou sagkens daaraan herinner."
+    ],
+    [
+      "Ondersteun die toepassing die September-Augustus Diensjaar?",
+      "Ja! Beide die Verslag-oortjie en die Kalender-opsomming bereken maandelikse en jaarlikse ure oor die amptelike September-Augustus-diensjaar, insluitend oorblywende ure na jou jaarlikse pionierdoelwit."
+    ],
+    [
+      "Is JW Ministry 'n goeie plaasvervanger vir ServicePlanner of MyTime op iPhone?",
+      "Ja! JW Ministry word aktief onderhou vir die jongste iOS- en iPadOS-vrystellings, met regstreekse aktiwiteite op die sluitskerm en Dynamic Island, interaktiewe tuisskermlegstukke, 'n woonstelgebougenerator, beplande vs. werklike kalendernasporing en 1-tik iCloud Drive-rugsteun."
+    ],
+    [
+      "Werk die toepassing heeltemal vanlyn tydens deur-tot-deur bediening?",
+      "Absoluut. Alle tydtellers, gebiedskaarte, woonstelrekords en Bybelstudente-notas werk 100% vanlyn sonder dat mobiele data of Wi-Fi nodig is."
+    ],
+    [
+      "Kan ek 'n beplande bedieningsgeleentheid in die Jaarboek omskakel na 'n Verslaginskrywing?",
+      "Ja. Swiep eenvoudig op enige beplande bedieningsessie in die Kalender en tik 'Om aan te meld' — die tydsduur word outomaties by jou maandelikse verslag aangeteken en van jou oorblywende beplande ure afgetrek."
+    ],
+    [
+      "Sluit JW Ministry 'n Bybelleesrooster in wat geïntegreer is met JW Library?",
+      "Ja! Onder die Gewoontes-oortjie op die Begin-skerm kry jy 'n interaktiewe 66 boeke Bybelleesskedule met 5 leesroetes (Klassiek, Chronologies, Evangelies Eerste, Gebalanseerde Mengsel, Kortste Eerste), 'n voltooiingsdatumvoorspelling, en 1-tik 'Lees in JW Library'-skakels vir die volgende ongeleesde hoofstuk en Daaglikse teks."
+    ],
+    [
+      "Hoe werk die Spiritual Habits-spoorsnyer?",
+      "Dit laat jou daaglikse, weeklikse en maandelikse geestelike gewoontes (Daaglikse teks, Bybellees, vergaderingvoorbereiding, persoonlike studie, gesinsaanbidding, JW Broadcasting, en verslagvoorlegging) afmerk met visuele vorderingsringe en ondersteuning vir persoonlike gewoontes."
+    ]
+  ],
+  "footer_privacy": "Privaatheidsbeleid",
+  "footer_issues": "GitHub-ondersteuning en -terugvoer",
+  "footer_contact": "Kontak Ontwikkelaar",
+  "seo_sec_title": "Gebou vir velddiens van Jehovah se Getuies en pionierbediening",
+  "seo_sec_sub": "Hoe JW Ministry verkondigers, hulppioniers, gewone pioniers en spesiale pioniers help om hulle diensjaar te organiseer.",
+  "seo_pillars": [
+    [
+      "Gereelde en spesiale pioniers (50, 90 en 100 uur / 600-uur diensjaar)",
+      "Om as ’n gewone pionier te dien, vereis dat jy tred hou met jou 50-uur maandelikse teiken en jou 600-uur September-Augustus-diensjaardoelwit. JW Ministry bereken outomaties jou voltooide bedieningsure, oorblywende maandelikse balans en volle diensjaarvordering. Stel 'n persoonlike persoonlike maandelikse doelwit (bv. 55 uur), skeduleer bedieningsdae in die Kalender, en vergelyk jou beplande ure met jou werklike gerapporteerde tyd."
+    ],
+    [
+      "Hulppioniers (15 & 30 Uur) en Gemeentelike Uitgewers",
+      "Sluit jy aan by 'n spesiale veldtog, kringopsiener se besoek of Gedenkmaalseisoen as 'n hulppionier? Skakel jou rol binne sekondes na Hulppionier (15 uur of 30 uur). Gemeentelike verkondigers kan daaglikse bedieningsessies aanteken, Bybelstudies dophou en 'n outomatiese kennisgewing op die 1ste van elke maand om 20:00 aktiveer sodat jy nooit vergeet om jou velddiensverslag in te dien nie."
+    ],
+    [
+      "Huis-tot-huis-gebiede, woonstelgenerator en herbesoeke",
+      "Vervang papierstrokies met georganiseerde digitale gebiedskaarte. Heg foto's van gebiedskaarte, kleurkodekaarte met 10 stylvolle kleure aan, en genereer hele meerverdiepingwoonstelgeboue by ingange en vloere in een kraan. Teken 'Eerste besoek', 'Nie by die huis nie', of 'Weier'-status aan, soek deur alle gebiede volgens straatadres of inwonernaam, en ontvang outomatiese aanmanings wanneer dit tyd is om 'n herbesoek te maak."
+    ],
+    [
+      "Bybelstudente-vordering en moderne iOS-vervanging vir verouderde toepassings",
+      "Hou 'n gedetailleerde lys van jou Bybelstudente saam met hul huidige studiepublikasie (soos 'Geniet die lewe vir altyd!'), lesnommer en afdeling. Heg studente direk aan jou tydhouersessie sodat jou maandelikse studietelling altyd akkuraat is. JW Ministry is oorspronklik gebou met SwiftUI vir die nuutste iPhone- en iPad-modelle, en is die ideale moderne alternatief vir programme wat gestaak is soos ServicePlanner, MyTime, NW Publisher, My Service & Bible, Velddiensassistent en Ministerie-assistent."
+    ]
+  ],
+  "seo_tags_title": "Gewilde velddienssoektogte gedek deur JW Ministry:",
+  "seo_tags": [
+    "Jehovah se getuie velddiens-app",
+    "velddiensverslag van Jehovah se getuies",
+    "Jehovah se getuie pionier ure",
+    "jw gewone pionierure en skedule",
+    "jw hulppionier 15 & 30 uur",
+    "jw spesiale pionier ure spoorsnyer",
+    "Jehovah se getuies diensjaar 2026",
+    "jw & diensjaarbeplanner",
+    "jw velddiensverslag app laai gratis af",
+    "jw territory manager app iOS",
+    "diensbeplanner jw & my tyd jw alternatief",
+    "jw bybellees skedule-app",
+    "daaglikse Bybellees-spoorsnyer iPhone",
+    "jw geestelike gewoontes en roetine-spoorsnyer",
+    "chronologiese Bybelleesplan iOS"
+  ],
+  "qr_scan_title": "Skandeer met iPhone / iPad",
+  "qr_scan_sub": "Wys jou kamera om in die App Store oop te maak",
+  "shot_lang_label": "Koppelvlaktaal op skermkiekies:",
+  "comp_title": "Waarom uitgewers en pioniers na JW Ministry oorskakel",
+  "comp_sub": "Sy-aan-sy vergelyking vir velddiensopsporing, pionierskedulering en gebiedbestuur.",
+  "comp_headers": [
+    "Kenmerk",
+    "Papier notaboek",
+    "Ouderwetse toepassings",
+    "JW Ministry 2.0.1"
+  ],
+  "comp_rows": [
+    [
+      "Regstreekse bedieningstydopnemer op sluitskerm en Dynamic Island",
+      "No",
+      "No",
+      "Ja (regstreekse aktiwiteite)"
+    ],
+    [
+      "Pionier Doelwitrekenaar (15, 30, 50, 100h) & 600h Diensjaar",
+      "Handmatige berekening",
+      "Gedeeltelik",
+      "Outomatiese + pasgemaakte doelwit"
+    ],
+    [
+      "Beplande vs. werklike kalender- en swiep-na-verslag-omskakeling",
+      "No",
+      "No",
+      "Ingeboude 1-swipe-werkvloei"
+    ],
+    [
+      "Woonstelgebougenerator + Grondgebiedfoto's & 10 kleuretikette",
+      "Papierstrokies",
+      "Slegs teks",
+      "Volledige visuele kaarte + soektog"
+    ],
+    [
+      "Herbesoek-herinneringe en 1ste-van-die-maand-verslagkennisgewing",
+      "No",
+      "Basies",
+      "Slim iOS-kennisgewings"
+    ],
+    [
+      "100% privaatheid op die toestel en volledige iCloud Drive-rugsteun met foto's",
+      "Maklik om te verloor",
+      "Breek dikwels op nuwe iOS",
+      "Vanlyn en onmiddellike herstel"
+    ],
+    [
+      "Inheemse ondersteuning vir die nuutste iOS, iPad, OLED Dark Mode en 35+ tale",
+      "—",
+      "Gestop",
+      "Moderne SwiftUI-argitektuur"
+    ]
+  ],
+  "filter_all": "Almal (10)",
+  "filter_light": "Lig (8)",
+  "filter_dark": "Donker (2)",
+  "filter_ipad": "iPad",
+  "wn_title": "Wat is nuut in weergawe 2.0.1",
+  "wn_items": [
+    "Nuwe geestelike gewoontes-spoorsnyer op die Begin-oortjie: Daaglikse/weeklikse/maandelikse vordering lui, pasgemaakte gewoontes, Huwelikstatus-instelling vir gesinsaanbidding, en 'n dringende verslagherinnering op die 5de.",
+    "Bybelleesskedule: 5 leesroetes, hoofstuknasporing oor al 66 boeke, voltooiingsdatumvoorspelling, en 1-tik 'Lees in JW Library'-skakels.",
+    "Dubbeldoelnasporing in Kalender en Widgets: sien beide jou rolvereiste (bv. 30 uur / 50 uur) en 'n bykomende persoonlike maandelikse teiken in 'n dubbele vorderingsring.",
+    "Volle aanpasbare uitlegondersteuning vir opvoubare iPhone Duo-skerms en iPadOS.",
+    "Bygevoeg 'Deel App' en 'App Webwerf' skakels in Instellings."
+  ],
+  "howto_name": "Hoe om velddiensure en pionierskedule op iPhone na te spoor",
+  "howto_steps": [
+    [
+      "Stel jou diensrol en maandelikse teiken",
+      "Kies Publisher, Auxiliary Pioneer (15/30 uur), of Regular Pioneer (50 uur) in Instellings, of stel 'n pasgemaakte maandelikse uurteiken."
+    ],
+    [
+      "Begin die regstreekse timer of skedule in die kalender",
+      "Volg veldbediening op die sluitskerm en Dynamic Island, of vee geskeduleerde kalendergeleenthede direk na u verslag in."
+    ],
+    [
+      "Loggebiede en Bybelstudies",
+      "Teken huis-tot-huis besoeke, woonstelstatusse op en heg Bybelstudente aan met hul huidige les."
+    ],
+    [
+      "Deel jou maandelikse velddiensverslag",
+      "Op die 1ste van die maand, maak die Rapport-oortjie oop om jou voltooide ure en Bybelstudies te hersien en te deel."
+    ]
+  ],
+  "nav_comp": "Vergelyking",
+  "sticky_sub": "iPhone & iPad • Gratis",
+  "feature_badges": [
+    "Tydopsporing • Regstreekse aktiwiteite",
+    "Bybelstudies • Lesvordering",
+    "Diensrolle • 15 / 30 / 50 / 100 u",
+    "Diensjaar • Plan vs. Werklik",
+    "Gebiedlogboek • Soek en waarskuwings",
+    "Privaatheid op die toestel • iCloud-rugsteun"
+  ],
+  "pillar_badges": [
+    "Gereelde & Spesiale Pionierbediening",
+    "Hulppioniers en -uitgewers",
+    "Huis-tot-huis en persoonlike gebiede",
+    "Bybelstudies en moderne iOS-ontwerp"
+  ],
+  "pillar_Checklists": [
+    [
+      "Outomatiese 50 uur maandelikse & 600 uur September-Augustus diensjaar dop",
+      "Gepasmaakte maandelikse uurteiken-oortreding (bv. 55 uur/maand)",
+      "Dubbele vorderingsbalk wat geskeduleerde ure vergelyk met gerapporteerde ure"
+    ],
+    [
+      "Een-tik skakel oor na 15 uur of 30 uur Hulppionier-doelwitte",
+      "Onmiddellike maandelikse verslagformatering en -deel op die 1ste",
+      "Sagte herinnering kennisgewing op die 1ste van elke maand om 20:00"
+    ],
+    [
+      "Multi-verdieping woonstel kragopwekker deur ingange en vloere",
+      "Gebiedskaartfoto's, 10 kleurtemas en onmiddellike inwoner-/adressoektog",
+      "Outomatiese herbesoekaanmanings na jou gekose aantal dae"
+    ],
+    [
+      "Volg presiese lesse in 'Geniet die lewe vir altyd!' vir elke student",
+      "Inheems gebou vir iOS en iPadOS met Dynamic Island en OLED Dark Mode",
+      "Voltooi moderne vervanging vir verouderde ServicePlanner- en MyTime-toepassings"
+    ]
+  ],
+  "rev_title": "Geliefd deur Publishers & Pioneers Worldwide",
+  "rev_sub": "Werklike terugvoer van broers en susters wat JW Ministry in hul daaglikse velddiens gebruik.",
+  "reviews": [
+    [
+      "Alex, gewone pionier",
+      "Om die maandelikse beplande ure outomaties in die kalender saam te stel, saam met my werklike gerapporteerde ure, is 'n spelwisselaar om my 50-uur-skedule op koers te hou."
+    ],
+    [
+      "Sarah, hulppionier",
+      "Die sluitskerm regstreekse aktiwiteit-tydteller en 1-swiep-omskakeling van Kalender-planne om inskrywings aan te meld, maak die opsporing van 15 en 30 uur moeiteloos. Skoon, vinnig en 100% privaat."
+    ],
+    [
+      "David, Gemeente-uitgewer",
+      "Die woonstelgebougenerator en onmiddellike soektog oor grondgebied-notas het al my papierstrokies vervang. Herbesoek-herinneringe help my om nooit 'n opvolg te mis nie."
+    ]
+  ],
+  "privacy_page": {
+    "page_title": "Privaatheidsbeleid en gebruikersondersteuning — JW Ministry",
+    "meta_desc": "Amptelike privaatheidsbeleid en gebruikersondersteuning vir die JW Ministry iOS & iPadOS-toepassing. 100% plaaslike databerging op die toestel met geen eksterne bedieners nie.",
+    "back_home": "Terug na die huis",
+    "sup_title": "JW Ministry — Gebruikersondersteuning",
+    "sup_desc": "As jy vrae het, voorstelle vir nuwe kenmerke, of 'n fout in die toepassing gevind het, kontak gerus die ontwikkelaar:",
+    "sup_issues": "Rapporteer 'n kwessie (GitHub)",
+    "sup_store": " JW Ministry op App Store",
+    "updated": "Laas opgedateer: 5 Desember 2025",
+    "h1": "Privaatheidsbeleid vir “JW Ministry”",
+    "intro": "Hierdie Privaatheidsbeleid verduidelik hoe die <strong>“JW Ministry”</strong> mobiele toepassing (“die Toepassing”) gebruikersinligting hanteer. Ons kernbeginsel is <strong>100% privaatheid: alle rekords wat jy skep, word eksklusief op jou toestel gestoor</strong>.",
+    "s1_t": "1. Data geskep en gestoor in die toepassing",
+    "s1_p": "Alle data in die toepassing word vrywillig deur die gebruiker ingevoer vir persoonlike velddiensorganisasie en beplanning:",
+    "s1_ul": [
+      "<strong>Dienstydinskrywings en verslae:</strong> datums, duur, Bybelstudietellings en sessienotas.",
+      "<strong>Kalenderskedules:</strong> beplande bedieningsgeleenthede, datums, tye en herhalingsinstellings.",
+      "<strong>Bybelstudentelys:</strong> studentename/-etikette en studiepublikasie-vorderingsnotas.",
+      "<strong>Gebiede en adresse:</strong> gebiedsname, huis-/woonstellyste, besoekgeskiedenis, notas en gebiedkaartfoto's wat deur die gebruiker uit die Fotobiblioteek gekies is.",
+      "<strong>Programinstellings:</strong> geselekteerde diensrol, persoonlike maandelikse uurteiken en kennisgewingvoorkeure."
+    ],
+    "s2_t": "2. 100% Plaaslike berging op die toestel en geen deling deur derdepartye nie",
+    "s2_ul": [
+      "Alle data word <strong>slegs op jou iPhone of iPad</strong> in die veilige iOS / iPadOS-berginghouer gestoor.",
+      "Die toepassing vereis <strong>geen registrasie</strong> en geen gebruikersrekening nie.",
+      "Die ontwikkelaar het <strong>geen toegang</strong> tot jou rekords nie, samel geen ontleding of liggingdata in nie, en <strong>stuur of deel</strong> nooit enige data met eksterne bedieners of derde partye nie."
+    ],
+    "s3_t": "3. Toesteltoestemmings (Foto's en kennisgewings)",
+    "s3_ul": [
+      "<strong>Fotobiblioteek:</strong> word slegs versoek wanneer jy kies om 'n kaart of geboufoto aan 'n gebiedskaart te heg. Geselekteerde beelde word plaaslik in die App-lêergids op jou toestel gestoor.",
+      "<strong>Kennisgewings:</strong> word uitsluitlik gebruik vir plaaslike aanmanings op die toestel (soos die 1ste-van-die-maand-verslagherinnering of herbesoekherinnerings)."
+    ],
+    "s4_t": "4. Rugsteun en data-skrap",
+    "s4_p": "Jy kan enige tyd 'n volledige rugsteunlêer (insluitend gebiedfoto's) uitvoer via die standaard iOS-deelblad (byvoorbeeld stoor na jou persoonlike iCloud Drive of Files-toepassing). As u die toepassing van u toestel af deïnstalleer, word alle plaaslike toepassingdata permanent uitgevee.",
+    "s5_t": "5. Kontak",
+    "s5_p": "As jy enige vrae het oor hierdie privaatheidsbeleid of die toepassing, kontak asseblief die ontwikkelaar by:"
+  },
+  "filter_duo": "iPhone Duo",
+  "wn_items_18": [
+    "Outomatiese maandelikse beplande ure totaal in die Kalender met 'n dubbele Beplande vs. Werklike vorderingsbalk.",
+    "1-veeg omskakeling van enige geskeduleerde kalenderbedieningsessie direk na 'n maandelikse Verslaginskrywing.",
+    "Onmiddellike soektog volgens straatadres of inwonernaam oor gebiede, plus 10 kleurtemas vir gebiedskaarte.",
+    "Komende Diensjaar (2026–2027) ondersteuning in die Verslag-oortjie met 'n slanke jaarlikse balansopsomming.",
+    "Volledige optimalisering vir die nuutste iOS- en iPadOS-vrystellings en verbeterde rugsteunbeskerming op die toestel."
+  ],
+  "bible_page": {
+    "title": "5 Bybelleesskedule-planne en geestelike gewoontes Tracker | JW Ministry",
+    "desc": "Gerieflike daaglikse Bybelleesskedule vir iPhone en iPad: al 66 boeke, 5 planne (Klassiek, Chronologies en meer), voltooiingsvoorspelling en JW Library-integrasie.",
+    "h1": "Bybelleesskedule en geestelike gewoontes-spoorsnyer",
+    "intro": "Volg elke hoofstuk oor al 66 Bybelboeke, kies uit 5 leesplanne, sien jou geskatte voltooiingsdatum, en maak die volgende ongeleesde hoofstuk of Daaglikse teks direk in JW Library oop.",
+    "routes_title": "5 Ingeboude Bybelleesplanne",
+    "s1_t": "66 boeke interaktiewe rooster",
+    "s1_d": "Merk hoofstukke af en hou vordering oor Hebreeuse en Christelike Griekse Geskrifte na.",
+    "s2_t": "Daaglikse geestelike gewoontes",
+    "s2_d": "Vordering lui vir Dag, Week en Maand plus 1-tik Daaglikse teks in JW Library.",
+    "routes": [
+      [
+        "1. Klassiek",
+        "Van Genesis tot Openbaring — opeenvolgende lees van die hele Bybel."
+      ],
+      [
+        "2. Kronologies",
+        "Boeke gerangskik in die volgorde van historiese gebeure en skryfwerk."
+      ],
+      [
+        "3. Evangelies Eerste",
+        "Begin met die Christelike Griekse Geskrifte, beweeg dan na die Hebreeuse Geskrifte."
+      ],
+      [
+        "4. Gebalanseerde Mengsel",
+        "Wissel geskiedenis, poësie en Evangelies af vir daaglikse verskeidenheid."
+      ],
+      [
+        "5. Kortste Eerste",
+        "Van die kortste boeke tot die langste vir 'n vinnige gevoel van vordering."
+      ]
+    ]
+  },
+  "calc_page": {
+    "title": "Pioneer Skedule Sakrekenaar (15, 30, 50 & 600 ure) | JW Ministry",
+    "desc": "Gratis aanlyn pionier-ure sakrekenaar vir Jehovah se Getuies. Bereken jou weeklikse en daaglikse velddiensskedule vir 15 uur, 30 uur hulppionier of 50 uur gewone pionier (600 uur diensjaar).",
+    "h1": "Pioneer skedule sakrekenaar",
+    "intro": "Beplan jou velddiensure vir 15 uur of 30 uur Hulppionier, 50 uur Gereelde Pionier (600 uur per diensjaar), of 'n pasgemaakte doelwit.",
+    "label_goal": "Maandelikse doelwit",
+    "opt_15": "Hulppionier — 15 h/mnd",
+    "opt_30": "Hulppionier — 30 h/mnd",
+    "opt_50": "Gereelde Pionier — 50 h/mnd",
+    "opt_90": "Spesiale Pionier — 90 h/ma",
+    "opt_100": "Spesiale Pionier — 100 h/ma",
+    "label_days": "Bediening dae per week",
+    "res_week": "Ure per week",
+    "res_day": "Ure per bedieningsdag",
+    "res_year": "Per diensjaar",
+    "unit_h": "h",
+    "cta_app": "Baanrooster in JW Ministry",
+    "cta_bible": "Bybelleesrooster"
+  }
+}

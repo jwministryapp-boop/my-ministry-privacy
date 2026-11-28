@@ -1,0 +1,858 @@
+<!DOCTYPE html>
+<html lang="bg">
+<head>
+  <script>if(window.location.pathname.endsWith('/index.html')){window.history.replaceState(null,'',window.location.pathname.slice(0,-10)+window.location.search+window.location.hash);}</script>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>JW Ministry — Приложение за Свидетели на Йехова: Служба на терен, отчет и територии</title>
+  <meta name="description" content="Безплатно приложение на Свидетелите на Йехова за iPhone и iPad: таймер за проповедна служба, месечен отчет, часове за пионери, календар, график за четене на Библията, духовни навици и територии." />
+  <meta name="keywords" content="JW Ministry, Йехова, свидетел, проповедна служба, доклад, таймер, пионер, часове, библия, изучаване, календар, повторно посещение, територии, духовни навици, график за четене на Библията, джаджа, плановик, бележки" />
+  <meta name="robots" content="index, follow, max-image-preview:large" />
+  <meta name="apple-itunes-app" content="app-id=6756040136" />
+  <link rel="icon" type="image/png" href="../assets/logo.png" />
+  <link rel="apple-touch-icon" href="../assets/logo.png" />
+  <link rel="canonical" href="https://jwministry.org/bg/" />
+  <link rel="alternate" hreflang="x-default" href="https://jwministry.org/" />
+  <link rel="alternate" hreflang="af" href="https://jwministry.org/af/" />
+  <link rel="alternate" hreflang="id" href="https://jwministry.org/id/" />
+  <link rel="alternate" hreflang="da" href="https://jwministry.org/da/" />
+  <link rel="alternate" hreflang="de" href="https://jwministry.org/de/" />
+  <link rel="alternate" hreflang="en" href="https://jwministry.org/" />
+  <link rel="alternate" hreflang="es" href="https://jwministry.org/es/" />
+  <link rel="alternate" hreflang="fil" href="https://jwministry.org/fil/" />
+  <link rel="alternate" hreflang="fr" href="https://jwministry.org/fr/" />
+  <link rel="alternate" hreflang="hr" href="https://jwministry.org/hr/" />
+  <link rel="alternate" hreflang="rw" href="https://jwministry.org/rw/" />
+  <link rel="alternate" hreflang="it" href="https://jwministry.org/it/" />
+  <link rel="alternate" hreflang="lt" href="https://jwministry.org/lt/" />
+  <link rel="alternate" hreflang="hu" href="https://jwministry.org/hu/" />
+  <link rel="alternate" hreflang="nl" href="https://jwministry.org/nl/" />
+  <link rel="alternate" hreflang="nb" href="https://jwministry.org/nb/" />
+  <link rel="alternate" hreflang="pl" href="https://jwministry.org/pl/" />
+  <link rel="alternate" hreflang="pt" href="https://jwministry.org/pt/" />
+  <link rel="alternate" hreflang="ro" href="https://jwministry.org/ro/" />
+  <link rel="alternate" hreflang="sq" href="https://jwministry.org/sq/" />
+  <link rel="alternate" hreflang="sk" href="https://jwministry.org/sk/" />
+  <link rel="alternate" hreflang="sr" href="https://jwministry.org/sr/" />
+  <link rel="alternate" hreflang="fi" href="https://jwministry.org/fi/" />
+  <link rel="alternate" hreflang="sv" href="https://jwministry.org/sv/" />
+  <link rel="alternate" hreflang="tr" href="https://jwministry.org/tr/" />
+  <link rel="alternate" hreflang="cs" href="https://jwministry.org/cs/" />
+  <link rel="alternate" hreflang="el" href="https://jwministry.org/el/" />
+  <link rel="alternate" hreflang="bg" href="https://jwministry.org/bg/" />
+  <link rel="alternate" hreflang="ru" href="https://jwministry.org/ru/" />
+  <link rel="alternate" hreflang="uk" href="https://jwministry.org/uk/" />
+  <link rel="alternate" hreflang="hi" href="https://jwministry.org/hi/" />
+  <link rel="alternate" hreflang="th" href="https://jwministry.org/th/" />
+  <link rel="alternate" hreflang="ka" href="https://jwministry.org/ka/" />
+  <link rel="alternate" hreflang="ja" href="https://jwministry.org/ja/" />
+  <link rel="alternate" hreflang="zh" href="https://jwministry.org/zh/" />
+  <link rel="alternate" hreflang="ko" href="https://jwministry.org/ko/" />
+
+  <meta property="og:type" content="website" />
+  <meta property="og:locale" content="bg_BG" />
+  <meta property="og:site_name" content="JW Ministry" />
+  <meta property="og:title" content="JW Ministry — Приложение за Свидетели на Йехова: Служба на терен, отчет и територии" />
+  <meta property="og:description" content="Безплатно приложение на Свидетелите на Йехова за iPhone и iPad: таймер за проповедна служба, месечен отчет, часове за пионери, календар, график за четене на Библията, духовни навици и територии." />
+  <meta property="og:url" content="https://jwministry.org/bg/" />
+  <meta property="og:image" content="https://jwministry.org/screenshots/Bulgarian/1.jpg" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="JW Ministry — Приложение за Свидетели на Йехова: Служба на терен, отчет и територии" />
+  <meta name="twitter:description" content="Безплатно приложение на Свидетелите на Йехова за iPhone и iPad: таймер за проповедна служба, месечен отчет, часове за пионери, календар, график за четене на Библията, духовни навици и територии." />
+  <meta name="twitter:image" content="https://jwministry.org/screenshots/Bulgarian/1.jpg" />
+
+  <link rel="stylesheet" href="../assets/css/style.css" />
+  <script type="application/ld+json">
+[
+  {
+    "@context": "https://schema.org",
+    "@type": "MobileApplication",
+    "name": "JW Ministry",
+    "operatingSystem": "iOS 16.0 or later, iPadOS 16.0 or later",
+    "applicationCategory": "LifestyleApplication",
+    "url": "https://jwministry.org/bg/",
+    "downloadUrl": "https://apps.apple.com/us/app/jw-ministry/id6756040136",
+    "inLanguage": [
+      "af",
+      "id",
+      "da",
+      "de",
+      "en",
+      "es",
+      "fil",
+      "fr",
+      "hr",
+      "rw",
+      "it",
+      "lt",
+      "hu",
+      "nl",
+      "nb",
+      "pl",
+      "pt",
+      "ro",
+      "sq",
+      "sk",
+      "sr",
+      "fi",
+      "sv",
+      "tr",
+      "cs",
+      "el",
+      "bg",
+      "ru",
+      "uk",
+      "hi",
+      "th",
+      "ka",
+      "ja",
+      "zh",
+      "ko"
+    ],
+    "description": "Безплатно приложение на Свидетелите на Йехова за iPhone и iPad: таймер за проповедна служба, месечен отчет, часове за пионери, календар, график за четене на Библията, духовни навици и територии.",
+    "softwareVersion": "2.0.1",
+    "screenshot": [
+      "https://jwministry.org/screenshots/Bulgarian/1.jpg",
+      "https://jwministry.org/screenshots/Bulgarian/1-1.jpg",
+      "https://jwministry.org/screenshots/Bulgarian/1-2.jpg",
+      "https://jwministry.org/screenshots/Bulgarian/2.jpg",
+      "https://jwministry.org/screenshots/Bulgarian/3.jpg",
+      "https://jwministry.org/screenshots/Bulgarian/4.jpg",
+      "https://jwministry.org/screenshots/Bulgarian/5.jpg",
+      "https://jwministry.org/screenshots/Bulgarian/6.jpg",
+      "https://jwministry.org/screenshots/Bulgarian/7.jpg",
+      "https://jwministry.org/screenshots/Bulgarian/8.jpg",
+      "https://jwministry.org/screenshots/iPad/1.png",
+      "https://jwministry.org/screenshots/iPad/2.png",
+      "https://jwministry.org/screenshots/iPad/3.png",
+      "https://jwministry.org/screenshots/iPad/4.png",
+      "https://jwministry.org/screenshots/iPad/5.png",
+      "https://jwministry.org/screenshots/iPad/6.png",
+      "https://jwministry.org/screenshots/iPad/7.png",
+      "https://jwministry.org/screenshots/iPad/8.png",
+      "https://jwministry.org/screenshots/Duo/duo-1.jpg",
+      "https://jwministry.org/screenshots/Duo/duo-2.jpg",
+      "https://jwministry.org/screenshots/Duo/duo-3.jpg",
+      "https://jwministry.org/screenshots/Duo/duo-4.jpg"
+    ],
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "USD"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "5.0",
+      "bestRating": "5",
+      "ratingCount": "28"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "Как JW Ministry допълва JW Library за Свидетели на Йехова?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Докато JW Library се използва за четене на Библията, публикации и събрания на събранието, JW Ministry е специално създадено за проследяване на вашето лично проповедно служение: записване на часове за докладване на полевата служба, планиране на вашия редовен или помощен пионерски график (15, 30, 50 или 100 часа), управление на лични териториални записи и проследяване на учениците на Библията."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Къде се съхраняват моите архиви на министерството и териториални бележки?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Изключително на вашето устройство (iPhone или iPad). Приложението няма външна база данни или облачен сървър, което гарантира пълна поверителност на вашите лични бележки и адреси."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Как да прехвърля данните си на нов iPhone или iPad?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Отворете раздела Настройки и докоснете иконата за качване в облак в горния десен ъгъл, за да експортирате пълен архивен файл (включително снимки на територия) в iCloud Drive или AirDrop. На новото си устройство докоснете иконата за изтегляне в облак, за да възстановите всичко с едно докосване."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Как работят автоматичните напомняния за повторни посещения?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "В Настройки → Известия активирайте „Напомняне за повторни посещения на адреси“ и задайте интервала (например 3 дни). Ако не сте регистрирали последващо посещение на адрес в рамките на този период, приложението внимателно ще ви напомни."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Приложението поддържа ли служебната година септември–август?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "да Както разделът Отчет, така и резюмето на календара изчисляват месечните и годишните часове през официалната служебна година септември – август, включително оставащите часове към вашата годишна пионерска цел."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Дали JW Ministry е добър заместител на ServicePlanner или MyTime на iPhone?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "да JW Ministry се поддържа активно за най-новите версии на iOS и iPadOS, включващи дейности на живо на заключения екран и Dynamic Island, интерактивни уиджети на началния екран, генератор на жилищна сграда, проследяване на планирано спрямо действително календар и резервни копия на iCloud Drive с едно докосване."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Приложението работи ли напълно офлайн по време на служение от врата на врата?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Абсолютно. Всички таймери, карти на територията, записи на апартаменти и бележки на изучаващия Библията работят 100% офлайн, без да изискват мобилни данни или Wi-Fi."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Мога ли да конвертирам планирано събитие за служение в календара в запис на отчет?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "да Просто плъзнете върху която и да е планирана сесия на служение в календара и докоснете „За докладване“ — продължителността автоматично се регистрира в месечния ви отчет и се приспада от оставащите ви планирани часове."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "JW Ministry включва ли график за четене на Библията, интегриран с JW Library?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "да Под раздела Навици на началния екран получавате интерактивен график за четене на Библията от 66 книги с 5 маршрута за четене (класически, хронологичен, първо евангелия, балансиран микс, първо най-кратък), прогноза за дата на завършване и връзки с 1 докосване „Прочетете в JW Library“ за следващата непрочетена глава и ежедневен текст."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Как работи инструментът за проследяване на духовни навици?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Позволява ви да проверявате ежедневни, седмични и месечни духовни навици (ежедневен текст, четене на Библията, подготовка за срещи, лично изучаване, семейно поклонение, JW Broadcasting и изпращане на доклади) с визуални пръстени за напредък и поддръжка за персонализирани навици."
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "HowTo",
+    "name": "Как да проследявате часовете за полеви услуги и графика на Pioneer на iPhone",
+    "step": [
+      {
+        "@type": "HowToStep",
+        "position": 1,
+        "name": "Задайте своята обслужваща роля и месечна цел",
+        "text": "Изберете Издател, Помощен пионер (15/30 часа) или Редовен пионер (50 часа) в Настройки или задайте персонализирана месечна цел за час."
+      },
+      {
+        "@type": "HowToStep",
+        "position": 2,
+        "name": "Стартирайте таймера на живо или графика в календара",
+        "text": "Проследявайте полевото служение на заключения екран и Dynamic Island или плъзнете насрочени календарни събития директно във вашия отчет."
+      },
+      {
+        "@type": "HowToStep",
+        "position": 3,
+        "name": "Дървени територии и изучаване на Библията",
+        "text": "Записвайте посещения от къща на къща, състояния на апартаменти и прикачете учениците на Библията към текущия им урок."
+      },
+      {
+        "@type": "HowToStep",
+        "position": 4,
+        "name": "Споделете вашия месечен отчет за професионална служба",
+        "text": "На 1-во число от месеца отворете раздела Отчет, за да прегледате и споделите своите завършени часове и изучавания на Библията."
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "JW Ministry",
+        "item": "https://jwministry.org/"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Български",
+        "item": "https://jwministry.org/bg/"
+      }
+    ]
+  }
+]
+  </script>
+  
+  <!-- Google Tag Manager -->
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    window.dataLayer.push({'gtm.start': new Date().getTime(), event: 'gtm.js'});
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+  </script>
+  <script async src="https://www.googletagmanager.com/gtm.js?id=GTM-MLGW4TF3"></script>
+</head>
+<body data-prefix="..">
+
+  <header class="topbar">
+    <div class="container topbar-inner">
+      <a href="../index.html" class="brand">
+        <img src="../assets/logo.png" alt="JW Ministry App Icon" class="brand-logo" width="38" height="38" />
+        <span>JW Ministry</span>
+      </a>
+
+      <div class="nav-right">
+        <nav class="nav-links">
+          <a href="#screens">Екрани на приложения</a>
+          <a href="#features">Всички функции</a>
+          <a href="#comparison">Сравнение</a>
+          <a href="#languages">35+ езика</a>
+          <a href="#faq">ЧЗВ</a>
+          <a href="./privacy-policy.html">Поверителност</a>
+          <a href="#donate" class="nav-donate-pill">Проект за поддръжка</a>
+        </nav>
+
+        <div class="lang-dropdown" id="lang-dropdown">
+          <button class="lang-trigger" onclick="toggleLangDropdown(event)" aria-label="Select language">
+            <span>🇧🇬</span>
+            <span>Български</span>
+            <svg viewBox="0 0 12 12" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M2.5 4.5L6 8L9.5 4.5"/></svg>
+          </button>
+          <div class="lang-menu">
+            <a href="../af/index.html" class="lang-pill "><span>🇿🇦</span> Afrikaans</a>
+        <a href="../id/index.html" class="lang-pill "><span>🇮🇩</span> Bahasa Indonesia</a>
+        <a href="../da/index.html" class="lang-pill "><span>🇩🇰</span> Dansk</a>
+        <a href="../de/index.html" class="lang-pill "><span>🇩🇪</span> Deutsch</a>
+        <a href="../en/index.html" class="lang-pill "><span>🇺🇸</span> English</a>
+        <a href="../es/index.html" class="lang-pill "><span>🇪🇸</span> Español</a>
+        <a href="../fil/index.html" class="lang-pill "><span>🇵🇭</span> Filipino</a>
+        <a href="../fr/index.html" class="lang-pill "><span>🇫🇷</span> Français</a>
+        <a href="../hr/index.html" class="lang-pill "><span>🇭🇷</span> Hrvatski</a>
+        <a href="../rw/index.html" class="lang-pill "><span>🇷🇼</span> Ikinyarwanda</a>
+        <a href="../it/index.html" class="lang-pill "><span>🇮🇹</span> Italiano</a>
+        <a href="../lt/index.html" class="lang-pill "><span>🇱🇹</span> Lietuvių</a>
+        <a href="../hu/index.html" class="lang-pill "><span>🇭🇺</span> Magyar</a>
+        <a href="../nl/index.html" class="lang-pill "><span>🇳🇱</span> Nederlands</a>
+        <a href="../nb/index.html" class="lang-pill "><span>🇳🇴</span> Norsk Bokmål</a>
+        <a href="../pl/index.html" class="lang-pill "><span>🇵🇱</span> Polski</a>
+        <a href="../pt/index.html" class="lang-pill "><span>🇧🇷</span> Português</a>
+        <a href="../ro/index.html" class="lang-pill "><span>🇷🇴</span> Română</a>
+        <a href="../sq/index.html" class="lang-pill "><span>🇦🇱</span> Shqip</a>
+        <a href="../sk/index.html" class="lang-pill "><span>🇸🇰</span> Slovenčina</a>
+        <a href="../sr/index.html" class="lang-pill "><span>🇷🇸</span> Srpski</a>
+        <a href="../fi/index.html" class="lang-pill "><span>🇫🇮</span> Suomi</a>
+        <a href="../sv/index.html" class="lang-pill "><span>🇸🇪</span> Svenska</a>
+        <a href="../tr/index.html" class="lang-pill "><span>🇹🇷</span> Türkçe</a>
+        <a href="../cs/index.html" class="lang-pill "><span>🇨🇿</span> Čeština</a>
+        <a href="../el/index.html" class="lang-pill "><span>🇬🇷</span> Ελληνικά</a>
+        <a href="../bg/index.html" class="lang-pill active"><span>🇧🇬</span> Български</a>
+        <a href="../ru/index.html" class="lang-pill "><span>🇷🇺</span> Русский</a>
+        <a href="../uk/index.html" class="lang-pill "><span>🇺🇦</span> Українська</a>
+        <a href="../hi/index.html" class="lang-pill "><span>🇮🇳</span> हिन्दी</a>
+        <a href="../th/index.html" class="lang-pill "><span>🇹🇭</span> ไทย</a>
+        <a href="../ka/index.html" class="lang-pill "><span>🇬🇪</span> ქართული</a>
+        <a href="../ja/index.html" class="lang-pill "><span>🇯🇵</span> 日本語</a>
+        <a href="../zh/index.html" class="lang-pill "><span>🇹🇼</span> 繁體中文</a>
+        <a href="../ko/index.html" class="lang-pill "><span>🇰🇷</span> 한국어</a>
+          </div>
+        </div>
+
+        <button class="mobile-menu-btn" onclick="toggleMobileMenu()" aria-label="Menu">
+          <svg id="burger-icon-open" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"><line x1="4" y1="7" x2="20" y2="7"/><line x1="4" y1="12" x2="20" y2="12"/><line x1="4" y1="17" x2="20" y2="17"/></svg>
+          <svg id="burger-icon-close" style="display:none;" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"><line x1="6" y1="6" x2="18" y2="18"/><line x1="6" y1="18" x2="18" y2="6"/></svg>
+        </button>
+      </div>
+    </div>
+
+    <div class="mobile-drawer" id="mobile-drawer">
+      <nav class="mobile-nav-list">
+        <a href="#screens" onclick="closeMobileMenu()"><span>Екрани на приложения</span><span>›</span></a>
+        <a href="#features" onclick="closeMobileMenu()"><span>Всички функции</span><span>›</span></a>
+        <a href="#comparison" onclick="closeMobileMenu()"><span>Сравнение</span><span>›</span></a>
+        <a href="#languages" onclick="closeMobileMenu()"><span>35+ езика</span><span>›</span></a>
+        <a href="#faq" onclick="closeMobileMenu()"><span>ЧЗВ</span><span>›</span></a>
+        <a href="./privacy-policy.html" onclick="closeMobileMenu()"><span>Поверителност</span><span>›</span></a>
+        <a href="#donate" class="mobile-donate-highlight" onclick="closeMobileMenu()"><span>Проект за поддръжка</span><span>›</span></a>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    <section class="hero">
+      <div class="container hero-grid">
+        <div>
+          <span class="badge">Предлага се за iPhone и iPad • Версия 2.0.1 • 35+ езика</span>
+          <h1>Служба на терен, часове за пионери, територии и четене на Библията</h1>
+          <p class="lead">Безплатно, 100% частно приложение за Свидетели на Йехова на iPhone и iPad: таймер за услуги на живо с приспособления, месечен отчет, пионерски календар, територии от къща на къща, повторни посещения, изучаване на Библията, духовни навици и график за четене на Библията от 66 книги.</p>
+          <div class="cta-row">
+            <a href="https://apps.apple.com/us/app/jw-ministry/id6756040136" class="btn btn-primary" target="_blank" rel="noopener">
+               Изтеглете от App Store
+            </a>
+            <a href="#donate" class="btn btn-secondary">
+              Подкрепете Разработчика
+            </a>
+          </div>
+        </div>
+
+        <div class="hero-phones">
+          <div class="hero-phone"><img data-shot-file="4.jpg" src="../screenshots/Bulgarian/4.jpg" alt="Calendar & Pioneer Goal — JW Ministry" width="220" height="475" /></div>
+          <div class="hero-phone center"><img data-shot-file="1.jpg" src="../screenshots/Bulgarian/1.jpg" fetchpriority="high" alt="Ministry Timer — JW Ministry" width="240" height="518" /></div>
+          <div class="hero-phone"><img data-shot-file="3.jpg" src="../screenshots/Bulgarian/3.jpg" alt="Service Year Report — JW Ministry" width="220" height="475" /></div>
+        </div>
+      </div>
+
+      <div class="container">
+        <div class="stats-row">
+          <div class="stat-box"><div class="stat-val">35+</div><div class="stat-lbl">Интерфейсни езици</div></div>
+          <div class="stat-box"><div class="stat-val">100%</div><div class="stat-lbl">Офлайн и лични данни</div></div>
+          <div class="stat-box"><div class="stat-val">iOS & iPad</div><div class="stat-lbl">Роден SwiftUI дизайн</div></div>
+          <div class="stat-box"><div class="stat-val">0 Ads</div><div class="stat-lbl">Безплатно, без абонаменти</div></div>
+          <a href="https://apps.apple.com/us/app/jw-ministry/id6756040136" target="_blank" rel="noopener" class="stat-box stat-qr-box" title="Насочете камерата си, за да отворите в App Store">
+            <img src="../assets/img/qr-appstore.png" alt="QR Code App Store JW Ministry" width="80" height="80" loading="lazy" />
+            <div class="stat-qr-text">
+              <div class="stat-qr-title">QR App Store</div>
+              <div class="stat-lbl">Насочете камерата си, за да отворите в App Store</div>
+            </div>
+          </a>
+        </div>
+      </div>
+    </section>
+
+    <section id="screens">
+      <div class="container">
+        <div class="sec-head">
+          <h2>Разгледайте всеки екран на JW Ministry</h2>
+          <p>Действителни екранни снимки от приложението. Прегледайте всичките 8 екрана — от таймера за служение на живо и списъка с изучаващите Библията до целите на пионерския календар, картите за територията и OLED тъмния режим.</p>
+          <div>
+            <a href="#languages" class="shot-lang-bar">
+              <span>Език на интерфейса на екранните снимки:</span>
+              <strong id="active-shot-lang-name">Български</strong>
+            </a>
+          </div>
+        </div>
+        <div class="segmented-wrap">
+          <div class="filter-bar">
+            <button class="filter-btn active" onclick="filterScreenshots('all', this)">Всички (10)</button>
+            <button class="filter-btn" onclick="filterScreenshots('light', this)">Светлина (8)</button>
+            <button class="filter-btn" onclick="filterScreenshots('dark', this)">тъмно (2)</button>
+            <button class="filter-btn" onclick="filterScreenshots('ipad', this)">iPad (8)</button>
+            <button class="filter-btn" onclick="filterScreenshots('duo', this)">iPhone Duo (4)</button>
+          </div>
+        </div>
+        <div class="shots-grid">
+          <article class="shot-card" data-theme-shot="light">
+          <div class="iphone-frame"><img data-shot-file="1.jpg" src="../screenshots/Bulgarian/1.jpg" alt="1. Раздел Старт & Таймер на живо — JW Ministry" loading="lazy" width="320" height="690" /></div>
+          <div class="shot-meta"><h3>1. Раздел Старт & Таймер на живо</h3><p>Проследявайте времето си за служение до секунда (08:04:08). Поставете на пауза, запазете за докладване или нулирайте с едно докосване. Увеличете изучаването на Библията по време на сесията, прикачете конкретни ученици на Библията (напр. Алекс), напишете бележки за сесията (номер на територия, спътник) и вижте общото време, прекарано днес.</p></div>
+        </article>
+          <article class="shot-card" data-theme-shot="light">
+          <div class="iphone-frame"><img data-shot-file="1-1.jpg" src="../screenshots/Bulgarian/1-1.jpg" alt="Духовни навици и пръстени за напредък — JW Ministry" loading="lazy" width="320" height="690" /></div>
+          <div class="shot-meta"><h3>Духовни навици и пръстени за напредък</h3><p>Проследявайте ежедневни, седмични и месечни духовни навици (ежедневен текст, четене на Библия, подготовка за срещи, семейно поклонение), отворете ежедневния текст директно в JW Library и добавете персонализирани навици.</p></div>
+        </article>
+          <article class="shot-card" data-theme-shot="light">
+          <div class="iphone-frame"><img data-shot-file="1-2.jpg" src="../screenshots/Bulgarian/1-2.jpg" alt="График за четене на Библията — JW Ministry" loading="lazy" width="320" height="690" /></div>
+          <div class="shot-meta"><h3>График за четене на Библията</h3><p>Интерактивна мрежа от всички 66 библейски книги с 5 маршрута за четене (класически, хронологичен, първо евангелия, балансиран, първо най-кратък), прогноза за датата на завършване и четене с 1 докосване в JW Library.</p></div>
+        </article>
+          <article class="shot-card" data-theme-shot="light">
+          <div class="iphone-frame"><img data-shot-file="2.jpg" src="../screenshots/Bulgarian/2.jpg" alt="2. Мениджър Изследователи на Библията — JW Ministry" loading="lazy" width="320" height="690" /></div>
+          <div class="shot-meta"><h3>2. Мениджър Изследователи на Библията</h3><p>Съхранявайте организиран списък на вашите изучаващи Библията. Запишете точната учебна публикация, урок и раздел (например: „Насладете се на живота завинаги!, урок 24, раздел 3“) и добавете нови ученици за секунди.</p></div>
+        </article>
+          <article class="shot-card" data-theme-shot="light">
+          <div class="iphone-frame"><img data-shot-file="3.jpg" src="../screenshots/Bulgarian/3.jpg" alt="3. Години на обслужване и месечни отчети — JW Ministry" loading="lazy" width="320" height="690" /></div>
+          <div class="shot-meta"><h3>3. Години на обслужване и месечни отчети</h3><p>Превключвайте между години на служба (2025–2026, 2026–2027), наблюдавайте общите часове в годината на работа и оставащите часове, преглеждайте всеки месец с подробни регистрационни файлове на сесиите, броя на обучението, маркери на студенти и споделяйте месечния си отчет на 1-ви.</p></div>
+        </article>
+          <article class="shot-card" data-theme-shot="light">
+          <div class="iphone-frame"><img data-shot-file="4.jpg" src="../screenshots/Bulgarian/4.jpg" alt="4. Календар на Pioneer & Напредък на целта — JW Ministry" loading="lazy" width="320" height="690" /></div>
+          <div class="shot-meta"><h3>4. Календар на Pioneer & Напредък на целта</h3><p>Вижте текущата си роля (редовен пионер – 50 часа, спомагателен 15/30 часа или издател) и лична месечна цел (напр. 55 часа). Визуалната лента за напредъка показва часове, завършени този месец, оставащи месечни часове и пълен баланс за годината на обслужване заедно с дневния ви график.</p></div>
+        </article>
+          <article class="shot-card" data-theme-shot="light">
+          <div class="iphone-frame"><img data-shot-file="5.jpg" src="../screenshots/Bulgarian/5.jpg" alt="5. Териториални карти и дневник от врата до врата — JW Ministry" loading="lazy" width="320" height="690" /></div>
+          <div class="shot-meta"><h3>5. Териториални карти и дневник от врата до врата</h3><p>Прикачете снимки на карти на територии или сгради (напр. Територия A-8), филтрирайте адреси и регистрирайте всяко посещение с дата, статус на посещение („Първо посещение“, „Не у дома“, „Отказ“) и бележки на вратата като „Няма интерком“.</p></div>
+        </article>
+          <article class="shot-card" data-theme-shot="light">
+          <div class="iphone-frame"><img data-shot-file="6.jpg" src="../screenshots/Bulgarian/6.jpg" alt="6. Гъвкави настройки и архивиране в облак — JW Ministry" loading="lazy" width="320" height="690" /></div>
+          <div class="shot-meta"><h3>6. Гъвкави настройки и архивиране в облак</h3><p>Експортирайте или импортирайте пълни JSON резервни копия чрез горните бутони в облака. Конфигурирайте своята обслужваща роля, персонализирана месечна цел за часове, служебна година септември–август, напомняния за отчет за 1-во на месеца в 20:00 ч. и известия за повторно посещение след N дни.</p></div>
+        </article>
+          <article class="shot-card" data-theme-shot="dark">
+          <div class="iphone-frame"><img data-shot-file="7.jpg" src="../screenshots/Bulgarian/7.jpg" alt="7. Истински черен OLED тъмен режим (таймер) — JW Ministry" loading="lazy" width="320" height="690" /></div>
+          <div class="shot-meta"><h3>7. Истински черен OLED тъмен режим (таймер)</h3><p>Проектиран за комфорт по време на вечерно свидетелство и пестене на батерията на OLED iPhone. Лилавите акценти с висок контраст поддържат контролите ясни при всякакво осветление.</p></div>
+        </article>
+          <article class="shot-card" data-theme-shot="dark">
+          <div class="iphone-frame"><img data-shot-file="8.jpg" src="../screenshots/Bulgarian/8.jpg" alt="8. Тъмен OLED режим (Настройки и цели) — JW Ministry" loading="lazy" width="320" height="690" /></div>
+          <div class="shot-meta"><h3>8. Тъмен OLED режим (Настройки и цели)</h3><p>Всеки екран, лист и уиджет се адаптират безпроблемно към светлите и тъмните изяви на iOS системата.</p></div>
+        </article>
+          <article class="shot-card ipad-card" data-theme-shot="ipad">
+              <div class="ipad-frame"><img src="../screenshots/iPad/1.png" alt="iPad — #1 — iPad" loading="lazy" /></div>
+              <div class="shot-meta"><h3>iPad • iPad — #1</h3><p>JW Ministry — iPadOS</p></div>
+            </article>
+          <article class="shot-card ipad-card" data-theme-shot="ipad">
+              <div class="ipad-frame"><img src="../screenshots/iPad/2.png" alt="iPad — #2 — iPad" loading="lazy" /></div>
+              <div class="shot-meta"><h3>iPad • iPad — #2</h3><p>JW Ministry — iPadOS</p></div>
+            </article>
+          <article class="shot-card ipad-card" data-theme-shot="ipad">
+              <div class="ipad-frame"><img src="../screenshots/iPad/3.png" alt="iPad — #3 — iPad" loading="lazy" /></div>
+              <div class="shot-meta"><h3>iPad • iPad — #3</h3><p>JW Ministry — iPadOS</p></div>
+            </article>
+          <article class="shot-card ipad-card" data-theme-shot="ipad">
+              <div class="ipad-frame"><img src="../screenshots/iPad/4.png" alt="iPad — #4 — iPad" loading="lazy" /></div>
+              <div class="shot-meta"><h3>iPad • iPad — #4</h3><p>JW Ministry — iPadOS</p></div>
+            </article>
+          <article class="shot-card ipad-card" data-theme-shot="ipad">
+              <div class="ipad-frame"><img src="../screenshots/iPad/5.png" alt="iPad — #5 — iPad" loading="lazy" /></div>
+              <div class="shot-meta"><h3>iPad • iPad — #5</h3><p>JW Ministry — iPadOS</p></div>
+            </article>
+          <article class="shot-card ipad-card" data-theme-shot="ipad">
+              <div class="ipad-frame"><img src="../screenshots/iPad/6.png" alt="iPad — #6 — iPad" loading="lazy" /></div>
+              <div class="shot-meta"><h3>iPad • iPad — #6</h3><p>JW Ministry — iPadOS</p></div>
+            </article>
+          <article class="shot-card ipad-card" data-theme-shot="ipad">
+              <div class="ipad-frame"><img src="../screenshots/iPad/7.png" alt="iPad — #7 — iPad" loading="lazy" /></div>
+              <div class="shot-meta"><h3>iPad • iPad — #7</h3><p>JW Ministry — iPadOS</p></div>
+            </article>
+          <article class="shot-card ipad-card" data-theme-shot="ipad">
+              <div class="ipad-frame"><img src="../screenshots/iPad/8.png" alt="iPad — #8 — iPad" loading="lazy" /></div>
+              <div class="shot-meta"><h3>iPad • iPad — #8</h3><p>JW Ministry — iPadOS</p></div>
+            </article>
+          <article class="shot-card duo-card" data-theme-shot="duo">
+              <div class="duo-frame"><img src="../screenshots/Duo/duo-1.jpg" alt="iPhone Duo — #1 — JW Ministry" loading="lazy" /></div>
+              <div class="shot-meta"><h3>iPhone Duo • #1</h3><p>JW Ministry — Adaptive Foldable Layout</p></div>
+            </article>
+          <article class="shot-card duo-card" data-theme-shot="duo">
+              <div class="duo-frame"><img src="../screenshots/Duo/duo-2.jpg" alt="iPhone Duo — #2 — JW Ministry" loading="lazy" /></div>
+              <div class="shot-meta"><h3>iPhone Duo • #2</h3><p>JW Ministry — Adaptive Foldable Layout</p></div>
+            </article>
+          <article class="shot-card duo-card" data-theme-shot="duo">
+              <div class="duo-frame"><img src="../screenshots/Duo/duo-3.jpg" alt="iPhone Duo — #3 — JW Ministry" loading="lazy" /></div>
+              <div class="shot-meta"><h3>iPhone Duo • #3</h3><p>JW Ministry — Adaptive Foldable Layout</p></div>
+            </article>
+          <article class="shot-card duo-card" data-theme-shot="duo">
+              <div class="duo-frame"><img src="../screenshots/Duo/duo-4.jpg" alt="iPhone Duo — #4 — JW Ministry" loading="lazy" /></div>
+              <div class="shot-meta"><h3>iPhone Duo • #4</h3><p>JW Ministry — Adaptive Foldable Layout</p></div>
+            </article>
+        </div>
+      </div>
+    </section>
+
+    <section id="features">
+      <div class="container">
+        <div class="sec-head">
+          <h2>Всичко, от което се нуждаете за организирано служение</h2>
+          <p>Създаден специално около реалния работен процес на издатели, помощни пионери, редовни пионери и специални пионери.</p>
+        </div>
+        <div class="feat-grid">
+          <div class="feat-card">
+          <div class="feat-top">
+            <div class="feat-icon"><svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="13" r="8"/><path d="M12 9v4l2.5 2.5"/><path d="M9 2h6"/></svg></div>
+            <span class="feat-kicker">Проследяване на времето • Дейности на живо</span>
+          </div>
+          <h3>Интелигентен таймер, джаджи и дейности на живо</h3>
+          <p>Стартирайте своя таймер за служение от приложението, уиджета на началния екран или заключен екран. Вашият активен таймер остава видим на Dynamic Island и Lock Screen дори когато вашият iPhone е заключен.</p>
+        </div>
+          <div class="feat-card">
+          <div class="feat-top">
+            <div class="feat-icon"><svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg></div>
+            <span class="feat-kicker">Библейски изследвания • Напредък на урока</span>
+          </div>
+          <h3>Библейски изследвания и напредък в публикациите</h3>
+          <p>Свържете библейските изследвания директно към вашите ежедневни отчети. Проследявайте името на всеки ученик и текущия урок в „Насладете се на живота завинаги!“ или друго учебно помагало.</p>
+        </div>
+          <div class="feat-card">
+          <div class="feat-top">
+            <div class="feat-icon"><svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 20V10"/><path d="M12 20V4"/><path d="M6 20v-6"/></svg></div>
+            <span class="feat-kicker">Обслужващи роли • 15 / 30 / 50 / 100 часа</span>
+          </div>
+          <h3>Обслужващи роли и цели за лични часове</h3>
+          <p>Поддържа издател, помощен пионер (15 или 30 часа), редовен пионер (50 часа), специален пионер/мисионер (90/100 часа), плюс персонализирана отмяна на „Лична цел“ (напр. 55 часа/месец).</p>
+        </div>
+          <div class="feat-card">
+          <div class="feat-top">
+            <div class="feat-icon"><svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="4" width="18" height="18" rx="3"/><line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/></svg></div>
+            <span class="feat-kicker">Служебна година • План спрямо действителен</span>
+          </div>
+          <h3>Служебна година (септември–август) и календар</h3>
+          <p>Планирайте събрания на служение, повтарящи се графици и семейно поклонение в календара. Сравнете планираните с действителните часове, преобразувайте планираните сесии в записи на отчети с плъзгане и проследете годишната си пионерска цел.</p>
+        </div>
+          <div class="feat-card">
+          <div class="feat-top">
+            <div class="feat-icon"><svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polygon points="1 6 1 22 8 18 16 22 23 18 23 2 16 6 8 2 1 6"/><line x1="8" y1="2" x2="8" y2="18"/><line x1="16" y1="6" x2="16" y2="22"/></svg></div>
+            <span class="feat-kicker">Териториален дневник • Търсене и сигнали</span>
+          </div>
+          <h3>Напомняния за територии, апартаменти и посещения</h3>
+          <p>Създавайте карти за територии, многоетажни жилищни сгради и частни къщи. Прикачете снимки на карти, карти с цветни кодове, търсете по адрес или име на жител и получавайте автоматични напомняния за повторни посещения.</p>
+        </div>
+          <div class="feat-card">
+          <div class="feat-top">
+            <div class="feat-icon"><svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/><path d="M9 12l2 2 4-4"/></svg></div>
+            <span class="feat-kicker">Поверителност на устройството • Архивиране в iCloud</span>
+          </div>
+          <h3>100% поверителност на устройството и пълни резервни копия</h3>
+          <p>Без регистрация, без акаунти, без външни сървъри и нула анализи. Всички записи и териториални снимки остават локално на вашия iPhone/iPad, с незабавно експортиране и възстановяване на резервни копия в iCloud Drive или Files.</p>
+        </div>
+        </div>
+        <div class="changelog-box">
+          <div class="changelog-head">
+            <div>
+              <h3>Какво е новото във версия 2.0.1</h3>
+              <time class="changelog-date" datetime="2026-11">v2.0.1 • iOS, iPadOS & iPhone Duo</time>
+            </div>
+            <div class="changelog-tabs" role="tablist">
+              <button class="cl-tab active" onclick="switchChangelogTab('201', this)" role="tab">v2.0.1</button>
+              <button class="cl-tab" onclick="switchChangelogTab('18', this)" role="tab">v1.8</button>
+            </div>
+          </div>
+          <ul class="changelog-list" id="cl-panel-201">
+            <li>Нов инструмент за проследяване на духовни навици в раздела Старт: Ежедневни/седмични/месечни пръстени за напредък, персонализирани навици, настройка за семейно положение за семейно поклонение и спешно напомняне за доклад на 5-ти.</li>
+            <li>График за четене на Библията: 5 маршрута за четене, проследяване на глави във всичките 66 книги, прогноза за датата на завършване и връзки „Прочетете в JW Library“ с едно докосване.</li>
+            <li>Проследяване на двойна цел в Календар и Widgets: вижте както изискването за вашата роля (напр. 30 часа / 50 часа), така и допълнителна лична месечна цел в двоен кръг за напредък.</li>
+            <li>Пълна поддръжка на адаптивно оформление за сгъваеми екрани iPhone Duo и iPadOS.</li>
+            <li>Добавени са връзки „Споделяне на приложение“ и „Уебсайт на приложението“ в настройките.</li>
+          </ul>
+          <ul class="changelog-list" id="cl-panel-18" style="display:none;">
+            <li>Автоматичен месечен общ брой планирани часове в календара с двойна лента за планиран спрямо действителен напредък.</li>
+            <li>Преобразуване с 1 плъзгане на всяка насрочена календарна сесия на служение директно в запис в месечен отчет.</li>
+            <li>Незабавно търсене по адрес или име на жител в територии, плюс 10 цветови теми за картите на територията.</li>
+            <li>Поддръжка за предстоящата служебна година (2026–2027) в раздела Отчет с елегантно обобщение на годишния баланс.</li>
+            <li>Пълна оптимизация за най-новите версии на iOS и iPadOS и подобрена защита при архивиране на устройството.</li>
+          </ul>
+        </div>
+      </div>
+    </section>
+
+    <section id="comparison">
+      <div class="container">
+        <div class="sec-head">
+          <h2>Защо издателите и пионерите преминават към JW Ministry</h2>
+          <p>Сравнение рамо до рамо за проследяване на полеви услуги, пионерски график и управление на територията.</p>
+        </div>
+        <div class="comp-wrap">
+          <table class="comp-table"><thead><tr><th class="">Характеристика</th><th class="">Хартиен бележник</th><th class="">Наследени приложения</th><th class="highlight-col">JW Ministry 2.0.1</th></tr></thead><tbody><tr><td class="">Таймер на министерството на живо на заключен екран и Dynamic Island</td><td class="">No</td><td class="">No</td><td class="highlight-col">Да (активности на живо)</td></tr><tr><td class="">Калкулатор за цели на Pioneer (15, 30, 50, 100h) и 600h служебна година</td><td class="">Ръчно изчисление</td><td class="">Частичен</td><td class="highlight-col">Автоматична + персонализирана цел</td></tr><tr><td class="">Планирано спрямо действително преобразуване на календар и отчет с плъзгане</td><td class="">No</td><td class="">No</td><td class="highlight-col">Вграден работен процес с 1 плъзгане</td></tr><tr><td class="">Генератор на жилищна сграда + снимки на територия и 10 цветни етикета</td><td class="">Хартиени фишове</td><td class="">Само текст</td><td class="highlight-col">Пълни визуални карти + търсене</td></tr><tr><td class="">Напомняния за повторно посещение и известие за отчет за 1-ви на месеца</td><td class="">No</td><td class="">Основен</td><td class="highlight-col">Интелигентни iOS известия</td></tr><tr><td class="">100% поверителност на устройството и пълно архивиране на iCloud Drive със снимки</td><td class="">Лесно се губи</td><td class="">Често се поврежда на нов iOS</td><td class="highlight-col">Офлайн и незабавно възстановяване</td></tr><tr><td class="">Вградена поддръжка за най-новите iOS, iPad, OLED тъмен режим и 35+ езика</td><td class="">—</td><td class="">Прекратено</td><td class="highlight-col">Модерна SwiftUI архитектура</td></tr></tbody></table>
+        </div>
+      </div>
+    </section>
+
+    <section id="guide">
+      <div class="container">
+        <div class="sec-head">
+          <h2>Създаден за полевата служба и пионерското служение на Свидетелите на Йехова</h2>
+          <p>Как JW Ministry помага на вестителите, помощните пионери, редовните пионери и специалните пионери да организират служебната си година.</p>
+        </div>
+        <div class="seo-grid">
+          <article class="seo-card">
+          <span class="pillar-kicker">Редовно и специално пионерско служение</span>
+          <h3>Редовни и специални пионери (50, 90 и 100 часа / 600-часова служебна година)</h3>
+          <p>Служенето като редовен пионер изисква да следите както целта си от 50 часа месечно, така и целта си от 600 часа за служебна година септември–август. JW Ministry автоматично изчислява вашите завършени часове на служение, оставащия месечен баланс и напредъка на пълната служебна година. Задайте персонализирана лична месечна цел (напр. 55 часа), насрочете дни за служение в календара и сравнете планираните си часове с действително отчетеното време.</p>
+          <ul class="pillar-list"><li><svg viewBox="0 0 20 20" fill="currentColor"><path fill-rule="evenodd" d="M16.704 4.153a.75.75 0 01.143 1.052l-8 10.5a.75.75 0 01-1.127.075l-4.5-4.5a.75.75 0 011.06-1.06l3.894 3.893 7.48-9.817a.75.75 0 011.05-.143z" clip-rule="evenodd"/></svg><span>Автоматично проследяване на 50 часа месечно и 600 часа септември – август година на обслужване</span></li><li><svg viewBox="0 0 20 20" fill="currentColor"><path fill-rule="evenodd" d="M16.704 4.153a.75.75 0 01.143 1.052l-8 10.5a.75.75 0 01-1.127.075l-4.5-4.5a.75.75 0 011.06-1.06l3.894 3.893 7.48-9.817a.75.75 0 011.05-.143z" clip-rule="evenodd"/></svg><span>Персонализирана отмяна на целта за месечен час (напр. 55 часа/месец)</span></li><li><svg viewBox="0 0 20 20" fill="currentColor"><path fill-rule="evenodd" d="M16.704 4.153a.75.75 0 01.143 1.052l-8 10.5a.75.75 0 01-1.127.075l-4.5-4.5a.75.75 0 011.06-1.06l3.894 3.893 7.48-9.817a.75.75 0 011.05-.143z" clip-rule="evenodd"/></svg><span>Двойна лента за напредък, сравняваща планираните спрямо отчетените часове</span></li></ul>
+        </article>
+          <article class="seo-card">
+          <span class="pillar-kicker">Помощни пионери и издатели</span>
+          <h3>Помощни пионери (15 и 30 часа) и издатели на сбора</h3>
+          <p>Присъединявате се към специална кампания, посещение на окръжен надзорник или сезон на Възпоменанието като помощен пионер? Превключете ролята си на помощен пионер (15 часа или 30 часа) за секунди. Издателите на конгрегацията могат да регистрират ежедневни сесии на служение, да проследяват библейски изучавания и да активират автоматично известие на 1-во число на всеки месец в 20:00, така че никога да не забравяте да изпратите отчета си за проповедна служба.</p>
+          <ul class="pillar-list"><li><svg viewBox="0 0 20 20" fill="currentColor"><path fill-rule="evenodd" d="M16.704 4.153a.75.75 0 01.143 1.052l-8 10.5a.75.75 0 01-1.127.075l-4.5-4.5a.75.75 0 011.06-1.06l3.894 3.893 7.48-9.817a.75.75 0 011.05-.143z" clip-rule="evenodd"/></svg><span>Превключване с едно докосване към 15 часа или 30 часа помощни цели на Pioneer</span></li><li><svg viewBox="0 0 20 20" fill="currentColor"><path fill-rule="evenodd" d="M16.704 4.153a.75.75 0 01.143 1.052l-8 10.5a.75.75 0 01-1.127.075l-4.5-4.5a.75.75 0 011.06-1.06l3.894 3.893 7.48-9.817a.75.75 0 011.05-.143z" clip-rule="evenodd"/></svg><span>Незабавно форматиране и споделяне на месечен отчет на 1-ви</span></li><li><svg viewBox="0 0 20 20" fill="currentColor"><path fill-rule="evenodd" d="M16.704 4.153a.75.75 0 01.143 1.052l-8 10.5a.75.75 0 01-1.127.075l-4.5-4.5a.75.75 0 011.06-1.06l3.894 3.893 7.48-9.817a.75.75 0 011.05-.143z" clip-rule="evenodd"/></svg><span>Нежно известие за напомняне на 1-во число на всеки месец в 20:00 часа</span></li></ul>
+        </article>
+          <article class="seo-card">
+          <span class="pillar-kicker">От къща до къща и лични територии</span>
+          <h3>Територии от къща до къща, генератор на апартаменти и повторни посещения</h3>
+          <p>Заменете хартиените фишове с организирани цифрови териториални карти. Прикачете снимки на карти на територията, карти с цветен код с 10 стилни цвята и генерирайте цели многоетажни жилищни сгради по входове и етажи с едно докосване. Записвайте статуси „Първо посещение“, „Не у дома“ или „Отказ“, търсете във всички територии по адрес или име на жител и получавайте автоматични напомняния, когато е време да направите повторно посещение.</p>
+          <ul class="pillar-list"><li><svg viewBox="0 0 20 20" fill="currentColor"><path fill-rule="evenodd" d="M16.704 4.153a.75.75 0 01.143 1.052l-8 10.5a.75.75 0 01-1.127.075l-4.5-4.5a.75.75 0 011.06-1.06l3.894 3.893 7.48-9.817a.75.75 0 011.05-.143z" clip-rule="evenodd"/></svg><span>Многоетажен апартамент генератор по входове и етажи</span></li><li><svg viewBox="0 0 20 20" fill="currentColor"><path fill-rule="evenodd" d="M16.704 4.153a.75.75 0 01.143 1.052l-8 10.5a.75.75 0 01-1.127.075l-4.5-4.5a.75.75 0 011.06-1.06l3.894 3.893 7.48-9.817a.75.75 0 011.05-.143z" clip-rule="evenodd"/></svg><span>Снимки на териториална карта, 10 цветни теми и незабавно търсене на жител/адрес</span></li><li><svg viewBox="0 0 20 20" fill="currentColor"><path fill-rule="evenodd" d="M16.704 4.153a.75.75 0 01.143 1.052l-8 10.5a.75.75 0 01-1.127.075l-4.5-4.5a.75.75 0 011.06-1.06l3.894 3.893 7.48-9.817a.75.75 0 011.05-.143z" clip-rule="evenodd"/></svg><span>Автоматизирани напомняния за повторно посещение след избрания от вас брой дни</span></li></ul>
+        </article>
+          <article class="seo-card">
+          <span class="pillar-kicker">Библейски изследвания и модерен дизайн на iOS</span>
+          <h3>Bible Student Progress & Модерна замяна на iOS за стари приложения</h3>
+          <p>Поддържайте подробен списък на вашите изучаващи Библията заедно с текущата им публикация за изучаване (като „Наслаждавайте се на живота завинаги!“), номера на урока и раздела. Прикрепете студентите директно към вашата сесия с таймер, така че месечният ви брой на обучение да е винаги точен. Създаден със SwiftUI за най-новите модели iPhone и iPad, JW Ministry е идеалната модерна алтернатива на преустановени приложения като ServicePlanner, MyTime, NW Publisher, My Service & Bible, Field Service Assistant и Ministry Assistant.</p>
+          <ul class="pillar-list"><li><svg viewBox="0 0 20 20" fill="currentColor"><path fill-rule="evenodd" d="M16.704 4.153a.75.75 0 01.143 1.052l-8 10.5a.75.75 0 01-1.127.075l-4.5-4.5a.75.75 0 011.06-1.06l3.894 3.893 7.48-9.817a.75.75 0 011.05-.143z" clip-rule="evenodd"/></svg><span>Проследявайте точните уроци в „Насладете се на живота завинаги!“ за всеки ученик</span></li><li><svg viewBox="0 0 20 20" fill="currentColor"><path fill-rule="evenodd" d="M16.704 4.153a.75.75 0 01.143 1.052l-8 10.5a.75.75 0 01-1.127.075l-4.5-4.5a.75.75 0 011.06-1.06l3.894 3.893 7.48-9.817a.75.75 0 011.05-.143z" clip-rule="evenodd"/></svg><span>Създаден за iOS и iPadOS с Dynamic Island и OLED Dark Mode</span></li><li><svg viewBox="0 0 20 20" fill="currentColor"><path fill-rule="evenodd" d="M16.704 4.153a.75.75 0 01.143 1.052l-8 10.5a.75.75 0 01-1.127.075l-4.5-4.5a.75.75 0 011.06-1.06l3.894 3.893 7.48-9.817a.75.75 0 011.05-.143z" clip-rule="evenodd"/></svg><span>Пълен модерен заместител на наследени приложения ServicePlanner & MyTime</span></li></ul>
+        </article>
+        </div>
+        <div class="seo-tags-wrap">
+          <div class="seo-tags-title">Популярни търсения в Field Service, обхванати от JW Ministry:</div>
+          <div class="seo-tags-cloud">
+            <span class="seo-tag">приложение за теренна служба свидетел на Йехова</span>
+            <span class="seo-tag">доклад за полевата служба на свидетелите на Йехова</span>
+            <span class="seo-tag">пионерски часове на Свидетел на Йехова</span>
+            <span class="seo-tag">jw часове и график за редовни пионери</span>
+            <span class="seo-tag">jw помощен пионер 15 и 30 часа</span>
+            <span class="seo-tag">jw инструмент за проследяване на часове за специални пионери</span>
+            <span class="seo-tag">Свидетели на Йехова служба година 2026</span>
+            <span class="seo-tag">jw & плановик за служебна година</span>
+            <span class="seo-tag">Приложението за доклад на jw field service изтеглете безплатно</span>
+            <span class="seo-tag">jw териториален мениджър приложение iOS</span>
+            <span class="seo-tag">алтернатива за планиране на услуги jw & my time jw</span>
+            <span class="seo-tag">jw приложение за график за четене на Библията</span>
+            <span class="seo-tag">тракер за ежедневно четене на библия iPhone</span>
+            <span class="seo-tag">jw духовни навици и рутинно проследяване</span>
+            <span class="seo-tag">хронологичен план за четене на библията iOS</span>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section id="reviews">
+      <div class="container">
+        <div class="sec-head">
+          <h2>Обичан от издатели и пионери по целия свят</h2>
+          <p>Истинска обратна връзка от братя и сестри, използващи JW Ministry в ежедневната си проповедна служба.</p>
+        </div>
+        <div class="reviews-grid">
+          <article class="review-card"><div class="review-stars" aria-label="5 out of 5 stars">★★★★★</div><p class="review-text">“Наличието на месечните планирани часове автоматично сумирани в календара заедно с моите действително отчетени часове е промяна в играта за поддържане на 50-часовия ми график на път.”</p><div class="review-author">Алекс, редовен пионер</div></article>
+          <article class="review-card"><div class="review-stars" aria-label="5 out of 5 stars">★★★★★</div><p class="review-text">“Таймерът за активност на живо на заключения екран и преобразуването с 1 плъзгане от календарни планове към записи в отчети правят проследяването на 15 и 30 часа лесно. Чисто, бързо и 100% лично.”</p><div class="review-author">Сара, помощен пионер</div></article>
+          <article class="review-card"><div class="review-stars" aria-label="5 out of 5 stars">★★★★★</div><p class="review-text">“Генераторът на жилищна сграда и незабавното търсене в бележките по територията замениха всичките ми фишове. Напомнянията за повторни посещения ми помагат никога да не пропускам последващи действия.”</p><div class="review-author">Дейвид, издател на сбора</div></article>
+        </div>
+      </div>
+    </section>
+
+    <section id="languages">
+      <div class="container">
+        <div class="loc-box">
+          <h2>Напълно локализиран на 35+ езика</h2>
+          <p style="color: var(--muted); margin-top: 6px;">Интерфейсът на приложението, уиджетите и известията автоматично съответстват на езика на вашето устройство:</p>
+          <div class="loc-cloud">
+            <span class="loc-badge " onclick="switchScreenshotLanguage('English', 'English', this)" title="Preview English screenshots">English</span>
+            <span class="loc-badge " onclick="switchScreenshotLanguage('Russian', 'Русский', this)" title="Preview Русский screenshots">Русский</span>
+            <span class="loc-badge " onclick="switchScreenshotLanguage('Spanish', 'Español', this)" title="Preview Español screenshots">Español</span>
+            <span class="loc-badge " onclick="switchScreenshotLanguage('German', 'Deutsch', this)" title="Preview Deutsch screenshots">Deutsch</span>
+            <span class="loc-badge " onclick="switchScreenshotLanguage('Portuguese (Brazil)', 'Português (Brasil)', this)" title="Preview Português (Brasil) screenshots">Português (Brasil)</span>
+            <span class="loc-badge " onclick="switchScreenshotLanguage('French', 'Français', this)" title="Preview Français screenshots">Français</span>
+            <span class="loc-badge " onclick="switchScreenshotLanguage('Ukrainian', 'Українська', this)" title="Preview Українська screenshots">Українська</span>
+            <span class="loc-badge " onclick="switchScreenshotLanguage('Polish', 'Polski', this)" title="Preview Polski screenshots">Polski</span>
+            <span class="loc-badge " onclick="switchScreenshotLanguage('Italian', 'Italiano', this)" title="Preview Italiano screenshots">Italiano</span>
+            <span class="loc-badge " onclick="switchScreenshotLanguage('Dutch', 'Nederlands', this)" title="Preview Nederlands screenshots">Nederlands</span>
+            <span class="loc-badge " onclick="switchScreenshotLanguage('Czech', 'Čeština', this)" title="Preview Čeština screenshots">Čeština</span>
+            <span class="loc-badge " onclick="switchScreenshotLanguage('Slovak', 'Slovenčina', this)" title="Preview Slovenčina screenshots">Slovenčina</span>
+            <span class="loc-badge " onclick="switchScreenshotLanguage('Hungarian', 'Magyar', this)" title="Preview Magyar screenshots">Magyar</span>
+            <span class="loc-badge " onclick="switchScreenshotLanguage('Romanian', 'Română', this)" title="Preview Română screenshots">Română</span>
+            <span class="loc-badge active-shot-lang" onclick="switchScreenshotLanguage('Bulgarian', 'Български', this)" title="Preview Български screenshots">Български</span>
+            <span class="loc-badge " onclick="switchScreenshotLanguage('Greek', 'Ελληνικά', this)" title="Preview Ελληνικά screenshots">Ελληνικά</span>
+            <span class="loc-badge " onclick="switchScreenshotLanguage('Turkish', 'Türkçe', this)" title="Preview Türkçe screenshots">Türkçe</span>
+            <span class="loc-badge " onclick="switchScreenshotLanguage('Korean', '한국어', this)" title="Preview 한국어 screenshots">한국어</span>
+            <span class="loc-badge " onclick="switchScreenshotLanguage('Japanese', '日本語', this)" title="Preview 日本語 screenshots">日本語</span>
+            <span class="loc-badge " onclick="switchScreenshotLanguage('Chinese, Traditional', '繁體中文', this)" title="Preview 繁體中文 screenshots">繁體中文</span>
+            <span class="loc-badge " onclick="switchScreenshotLanguage('Thai', 'ไทย', this)" title="Preview ไทย screenshots">ไทย</span>
+            <span class="loc-badge " onclick="switchScreenshotLanguage('Indonesian', 'Bahasa Indonesia', this)" title="Preview Bahasa Indonesia screenshots">Bahasa Indonesia</span>
+            <span class="loc-badge " onclick="switchScreenshotLanguage('Filipino', 'Filipino', this)" title="Preview Filipino screenshots">Filipino</span>
+            <span class="loc-badge " onclick="switchScreenshotLanguage('Hindi', 'हिन्दी', this)" title="Preview हिन्दी screenshots">हिन्दी</span>
+            <span class="loc-badge " onclick="switchScreenshotLanguage('Georgian', 'ქართული', this)" title="Preview ქართული screenshots">ქართული</span>
+            <span class="loc-badge " onclick="switchScreenshotLanguage('Lithuanian', 'Lietuvių', this)" title="Preview Lietuvių screenshots">Lietuvių</span>
+            <span class="loc-badge " onclick="switchScreenshotLanguage('Croatian', 'Hrvatski', this)" title="Preview Hrvatski screenshots">Hrvatski</span>
+            <span class="loc-badge " onclick="switchScreenshotLanguage('Serbian (Latin)', 'Srpski', this)" title="Preview Srpski screenshots">Srpski</span>
+            <span class="loc-badge " onclick="switchScreenshotLanguage('Albanian', 'Shqip', this)" title="Preview Shqip screenshots">Shqip</span>
+            <span class="loc-badge " onclick="switchScreenshotLanguage('Danish', 'Dansk', this)" title="Preview Dansk screenshots">Dansk</span>
+            <span class="loc-badge " onclick="switchScreenshotLanguage('Swedish', 'Svenska', this)" title="Preview Svenska screenshots">Svenska</span>
+            <span class="loc-badge " onclick="switchScreenshotLanguage('Norwegian Bokmål', 'Norsk Bokmål', this)" title="Preview Norsk Bokmål screenshots">Norsk Bokmål</span>
+            <span class="loc-badge " onclick="switchScreenshotLanguage('Finnish', 'Suomi', this)" title="Preview Suomi screenshots">Suomi</span>
+            <span class="loc-badge " onclick="switchScreenshotLanguage('Afrikaans', 'Afrikaans', this)" title="Preview Afrikaans screenshots">Afrikaans</span>
+            <span class="loc-badge " onclick="switchScreenshotLanguage('Kinyarwanda', 'Ikinyarwanda', this)" title="Preview Ikinyarwanda screenshots">Ikinyarwanda</span>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section id="donate">
+      <div class="container">
+        <div class="donate-wrap">
+          <div class="donate-head">
+            <span class="donate-badge">Независим проект без реклами</span>
+            <h2>Подкрепете развитието на JW Ministry</h2>
+            <p>JW Ministry е създадено и поддържано от независим разработчик за лична употреба. Няма реклами, няма платени нива и няма абонаменти. Ако приложението улеснява служението ви, можете да поддържате бъдещи актуализации на iOS и подновяване на лиценза за разработчици на Apple:</p>
+          </div>
+          <div class="donate-grid">
+            <div class="donate-card">
+              <h3>Поддръжка чрез карта (по целия свят)</h3>
+              <p>Бърз еднократен съвет или месечна поддръжка от всяка страна чрез Boosty или Patreon:</p>
+              <div class="donate-btns">
+                <a href="https://boosty.to/jwministry" target="_blank" rel="noopener" class="btn btn-boosty">Поддръжка на Boosty (карти / Apple Pay)</a>
+                <a href="https://www.patreon.com/cw/JWMinistry" target="_blank" rel="noopener" class="btn btn-patreon">Поддръжка на Patreon</a>
+              </div>
+            </div>
+
+            <div class="donate-card">
+              <h3>Директен крипто трансфер (0% такса за платформа)</h3>
+              <p>Незабавно прехвърляне директно към портфейла на програмиста:</p>
+              <div class="wallet-box">
+                <span class="wallet-lbl">USDT (само за мрежата TRC-20 / TRON):</span>
+                <div class="wallet-row">
+                  <code class="wallet-code" id="usdt-addr">TQQxYhThQGngj887Lvq9TnKtyyYMcUDFNw</code>
+                  <div style="display:flex; gap:6px;">
+                    <button class="qr-toggle-btn" onclick="toggleWalletQR('qr-usdt')">QR</button>
+                    <button class="copy-btn" data-copied="Копирано!" onclick="copyWalletText('usdt-addr', this)">копие</button>
+                  </div>
+                </div>
+                <div class="wallet-qr-pop" id="qr-usdt">
+                  <img src="../assets/img/qr-usdt.png" alt="USDT TRC20 QR" loading="lazy" />
+                </div>
+              </div>
+              <div class="wallet-box">
+                <span class="wallet-lbl">TON / USDT (TON мрежа):</span>
+                <div class="wallet-row">
+                  <code class="wallet-code" id="ton-addr">UQBNBroTUyMG0YqgiHGXwVKO_rKe5d2y7gXqvICREjBwuKYk</code>
+                  <div style="display:flex; gap:6px;">
+                    <button class="qr-toggle-btn" onclick="toggleWalletQR('qr-ton')">QR</button>
+                    <button class="copy-btn" data-copied="Копирано!" onclick="copyWalletText('ton-addr', this)">копие</button>
+                  </div>
+                </div>
+                <div class="wallet-qr-pop" id="qr-ton">
+                  <img src="../assets/img/qr-ton.png" alt="TON QR" loading="lazy" />
+                </div>
+              </div>
+              <div class="crypto-warn">За USDT (TRC-20), изпращайте активи само през мрежата TRON.</div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section id="faq">
+      <div class="container">
+        <div class="sec-head">
+          <h2>Често задавани въпроси</h2>
+        </div>
+        <div class="faq-list">
+          <details class="faq-item"><summary>Как JW Ministry допълва JW Library за Свидетели на Йехова?</summary><p>Докато JW Library се използва за четене на Библията, публикации и събрания на събранието, JW Ministry е специално създадено за проследяване на вашето лично проповедно служение: записване на часове за докладване на полевата служба, планиране на вашия редовен или помощен пионерски график (15, 30, 50 или 100 часа), управление на лични териториални записи и проследяване на учениците на Библията.</p></details>
+          <details class="faq-item"><summary>Къде се съхраняват моите архиви на министерството и териториални бележки?</summary><p>Изключително на вашето устройство (iPhone или iPad). Приложението няма външна база данни или облачен сървър, което гарантира пълна поверителност на вашите лични бележки и адреси.</p></details>
+          <details class="faq-item"><summary>Как да прехвърля данните си на нов iPhone или iPad?</summary><p>Отворете раздела Настройки и докоснете иконата за качване в облак в горния десен ъгъл, за да експортирате пълен архивен файл (включително снимки на територия) в iCloud Drive или AirDrop. На новото си устройство докоснете иконата за изтегляне в облак, за да възстановите всичко с едно докосване.</p></details>
+          <details class="faq-item"><summary>Как работят автоматичните напомняния за повторни посещения?</summary><p>В Настройки → Известия активирайте „Напомняне за повторни посещения на адреси“ и задайте интервала (например 3 дни). Ако не сте регистрирали последващо посещение на адрес в рамките на този период, приложението внимателно ще ви напомни.</p></details>
+          <details class="faq-item"><summary>Приложението поддържа ли служебната година септември–август?</summary><p>да Както разделът Отчет, така и резюмето на календара изчисляват месечните и годишните часове през официалната служебна година септември – август, включително оставащите часове към вашата годишна пионерска цел.</p></details>
+          <details class="faq-item"><summary>Дали JW Ministry е добър заместител на ServicePlanner или MyTime на iPhone?</summary><p>да JW Ministry се поддържа активно за най-новите версии на iOS и iPadOS, включващи дейности на живо на заключения екран и Dynamic Island, интерактивни уиджети на началния екран, генератор на жилищна сграда, проследяване на планирано спрямо действително календар и резервни копия на iCloud Drive с едно докосване.</p></details>
+          <details class="faq-item"><summary>Приложението работи ли напълно офлайн по време на служение от врата на врата?</summary><p>Абсолютно. Всички таймери, карти на територията, записи на апартаменти и бележки на изучаващия Библията работят 100% офлайн, без да изискват мобилни данни или Wi-Fi.</p></details>
+          <details class="faq-item"><summary>Мога ли да конвертирам планирано събитие за служение в календара в запис на отчет?</summary><p>да Просто плъзнете върху която и да е планирана сесия на служение в календара и докоснете „За докладване“ — продължителността автоматично се регистрира в месечния ви отчет и се приспада от оставащите ви планирани часове.</p></details>
+          <details class="faq-item"><summary>JW Ministry включва ли график за четене на Библията, интегриран с JW Library?</summary><p>да Под раздела Навици на началния екран получавате интерактивен график за четене на Библията от 66 книги с 5 маршрута за четене (класически, хронологичен, първо евангелия, балансиран микс, първо най-кратък), прогноза за дата на завършване и връзки с 1 докосване „Прочетете в JW Library“ за следващата непрочетена глава и ежедневен текст.</p></details>
+          <details class="faq-item"><summary>Как работи инструментът за проследяване на духовни навици?</summary><p>Позволява ви да проверявате ежедневни, седмични и месечни духовни навици (ежедневен текст, четене на Библията, подготовка за срещи, лично изучаване, семейно поклонение, JW Broadcasting и изпращане на доклади) с визуални пръстени за напредък и поддръжка за персонализирани навици.</p></details>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  
+  <section class="jw-tools-bar" style="max-width:960px;margin:0 auto 36px;padding:0 20px;text-align:center;">
+    <div style="display:flex;flex-wrap:wrap;justify-content:center;gap:12px;">
+      <a href="/bg/bible-reading-schedule/" style="display:inline-flex;align-items:center;gap:8px;padding:12px 20px;border-radius:14px;background:rgba(107,66,176,0.08);border:1px solid rgba(107,66,176,0.22);color:#4A2588;font-weight:600;font-size:15px;text-decoration:none;transition:all .2s ease;">📖 График за четене на Библията →</a>
+      <a href="/bg/pioneer-calculator/" style="display:inline-flex;align-items:center;gap:8px;padding:12px 20px;border-radius:14px;background:rgba(107,66,176,0.08);border:1px solid rgba(107,66,176,0.22);color:#4A2588;font-weight:600;font-size:15px;text-decoration:none;transition:all .2s ease;">⏱ Калкулатор на график на Pioneer →</a>
+    </div>
+  </section>
+<footer>
+    <div class="container footer-inner">
+      <div>© 2025–2026 JW Ministry. All rights reserved.</div>
+      <div class="footer-links">
+        <a href="./privacy-policy.html">Политика за поверителност</a>
+        <a href="https://github.com/jwministryapp-boop/my-ministry-privacy/issues" target="_blank" rel="noopener">Поддръжка и обратна връзка на GitHub</a>
+        <a href="mailto:jwministry.app@outlook.com">Свържете се с разработчика (jwministry.app@outlook.com)</a>
+      </div>
+    </div>
+  </footer>
+
+  <!-- Mobile Sticky Bar -->
+  <div class="sticky-mobile-bar">
+    <div class="sticky-mobile-info">
+      <img src="../assets/logo.png" alt="JW Ministry" class="sticky-logo" width="36" height="36" />
+      <div class="sticky-mobile-text">
+        <div class="sticky-mobile-title">JW Ministry</div>
+        <div class="sticky-mobile-sub">iPhone и iPad • Безплатно</div>
+      </div>
+    </div>
+    <a href="https://apps.apple.com/us/app/jw-ministry/id6756040136" target="_blank" rel="noopener" class="sticky-mobile-btn">
+       App Store
+    </a>
+  </div>
+
+  <script src="../assets/js/main.js"></script>
+</body>
+</html>

@@ -1,0 +1,453 @@
+{
+  "shot_folder": "Filipino",
+  "html_lang": "fil",
+  "og_locale": "fil_PH",
+  "name": "Filipino",
+  "flag": "🇵🇭",
+  "title": "JW Ministry — App para sa mga Saksi ni Jehova: Field Service, Report at Teritoryo",
+  "description": "Libreng Jehovah's Witnesses app para sa iPhone at iPad: field service timer, buwanang ulat, oras ng pioneer, kalendaryo, iskedyul ng pagbabasa ng Bibliya, espirituwal na gawi at teritoryo.",
+  "keywords": "JW Ministry, jehova, saksi, paglilingkod sa larangan, ulat, timer, pioneer, oras, bibliya, pag-aaral, kalendaryo, pagbisita muli, teritoryo, espirituwal na gawi, iskedyul ng pagbabasa ng bibliya, widget, planner, mga tala",
+  "nav_screens": "Mga Screen ng App",
+  "nav_features": "Lahat ng Mga Tampok",
+  "nav_languages": "35+ Wika",
+  "nav_privacy": "Pagkapribado",
+  "nav_donate": "Proyekto ng Suporta",
+  "nav_faq": "FAQ",
+  "badge": "Available para sa iPhone at iPad • Bersyon 2.0.1 • 35+ Wika",
+  "hero_title": "Field Service, Pioneer Hours, Teritoryo at Pagbabasa ng Bibliya",
+  "hero_sub": "Libre, 100% pribadong app para sa mga Saksi ni Jehova sa iPhone at iPad: live service timer na may mga widget, buwanang ulat, kalendaryo ng mga pioneer, mga teritoryo sa bahay-bahay, mga pagdalaw-muli, pag-aaral sa Bibliya, espirituwal na mga gawi, at 66-aklat na iskedyul ng pagbabasa ng Bibliya.",
+  "cta_appstore": "I-download sa App Store",
+  "cta_donate": "Suportahan ang Developer",
+  "stat_1_val": "35+",
+  "stat_1_lbl": "Mga Wika sa Interface",
+  "stat_2_val": "100%",
+  "stat_2_lbl": "Offline at Pribadong Data",
+  "stat_3_val": "iOS & iPad",
+  "stat_3_lbl": "Native SwiftUI Design",
+  "stat_4_val": "0 Ads",
+  "stat_4_lbl": "Libre, Walang Subscription",
+  "screens_title": "Galugarin ang Bawat Screen ng JW Ministry",
+  "screens_sub": "Mga aktwal na screenshot mula sa app. I-browse ang lahat ng 8 screen — mula sa live ministry timer at listahan ng mga Bible students hanggang sa pioneer ang mga layunin sa kalendaryo, territory card, at OLED dark mode.",
+  "shots": [
+    [
+      "1.jpg",
+      "1. Simulan ang Tab at Live Timer",
+      "Subaybayan ang oras ng iyong ministeryo hanggang sa pangalawa (08:04:08). I-pause, i-save para mag-ulat, o i-reset sa isang tap. Dagdagan ang mga pag-aaral sa Bibliya sa panahon ng sesyon, ilakip ang mga partikular na estudyante sa Bibliya (hal., Alex), magsulat ng mga tala ng sesyon (numero ng teritoryo, kasama), at tingnan ang kabuuang oras na ginugol ngayon."
+    ],
+    [
+      "1-1.jpg",
+      "Mga Espirituwal na Gawi at Pag-unlad",
+      "Subaybayan ang pang-araw-araw, lingguhan, at buwanang espirituwal na mga gawi (Araw-araw na Teksto, pagbabasa ng Bibliya, paghahanda sa pulong, Pampamilyang Pagsamba), buksan ang Pang-araw-araw na Teksto sa JW Library, at magdagdag ng mga custom na gawi."
+    ],
+    [
+      "1-2.jpg",
+      "Iskedyul sa Pagbasa ng Bibliya",
+      "Interactive grid ng lahat ng 66 na aklat sa Bibliya na may 5 ruta ng pagbabasa (Classic, Chronological, Gospels First, Balanced, Shortest First), forecast ng petsa ng pagtatapos, at 1-tap na pagbabasa sa JW Library."
+    ],
+    [
+      "2.jpg",
+      "2. Tagapamahala ng mga Estudyante ng Bibliya",
+      "Panatilihin ang isang organisadong listahan ng iyong mga estudyante sa Bibliya. Itala ang eksaktong pag-aaral na publikasyon, aralin, at seksyon (halimbawa: 'Enjoy Life Forever!, lesson 24, section 3') at magdagdag ng mga bagong estudyante sa ilang segundo."
+    ],
+    [
+      "3.jpg",
+      "3. Taon ng Serbisyo at Buwanang Ulat",
+      "Lumipat sa pagitan ng mga taon ng serbisyo (2025–2026, 2026–2027), subaybayan ang kabuuang oras ng taon ng serbisyo at natitirang oras, suriin bawat buwan gamit ang mga detalyadong log ng session, mga bilang ng pag-aaral, mga tag ng mag-aaral, at ibahagi ang iyong buwanang ulat sa ika-1."
+    ],
+    [
+      "4.jpg",
+      "4. Pioneer Calendar at Pag-unlad ng Layunin",
+      "Tingnan ang iyong kasalukuyang tungkulin (Regular pioneer – 50 h, Auxiliary 15/30 h, o Publisher) at personal na buwanang target (hal., 55 h). Ipinapakita ng visual progress bar ang mga oras na nakumpleto ngayong buwan, mga natitirang buwanang oras, at balanse sa buong taon ng serbisyo kasama ng iyong pang-araw-araw na iskedyul."
+    ],
+    [
+      "5.jpg",
+      "5. Mga Territory Card at Door-to-Door Log",
+      "Maglakip ng mga larawan ng mga mapa o gusali ng teritoryo (hal., Teritoryo A-8), mga address ng filter, at i-log ang bawat pagbisita na may petsa, katayuan ng pagbisita ('Unang pagbisita', 'Wala sa bahay', 'Pagtanggi'), at mga tala sa pintuan tulad ng 'Walang intercom'."
+    ],
+    [
+      "6.jpg",
+      "6. Mga Flexible na Setting at Cloud Backup",
+      "I-export o i-import ang buong JSON backup sa pamamagitan ng mga nangungunang cloud button. I-configure ang iyong tungkulin sa serbisyo, custom na buwanang target na oras, Setyembre–Agosto ng taon ng serbisyo, mga paalala sa 1st-of-the-month na ulat sa 20:00, at mga notification sa pagbalik-bisita pagkatapos ng N araw."
+    ],
+    [
+      "7.jpg",
+      "7. True Black OLED Dark Mode (Timer)",
+      "Idinisenyo para sa kaginhawahan sa panahon ng pagsaksi sa gabi at pagtitipid ng baterya sa mga OLED na iPhone. Ang mga high-contrast na purple accent ay nagpapanatiling malinaw ang mga kontrol sa anumang liwanag."
+    ],
+    [
+      "8.jpg",
+      "8. OLED Dark Mode (Mga Setting at Layunin)",
+      "Ang bawat screen, sheet, at widget ay walang putol na umaangkop sa iOS system na Light at Dark appearances."
+    ]
+  ],
+  "feat_sec_title": "Lahat ng Kailangan Mo para sa Organisadong Ministeryo",
+  "feat_sec_sub": "Partikular na ginawa sa paligid ng tunay na daloy ng trabaho ng mga mamamahayag, auxiliary pioneer, regular pioneer, at special pioneer.",
+  "features": [
+    [
+      "⏱️",
+      "Smart Timer, Mga Widget at Live na Aktibidad",
+      "Simulan ang iyong ministry timer mula sa app, Home Screen widget, o Lock Screen. Nananatiling nakikita ang iyong aktibong timer sa Dynamic Island at Lock Screen kahit na naka-lock ang iyong iPhone."
+    ],
+    [
+      "📚",
+      "Pag-unlad ng Pag-aaral sa Bibliya at Paglalathala",
+      "Direktang iugnay ang mga pag-aaral sa Bibliya sa iyong mga entry sa pang-araw-araw na ulat. Subaybayan ang pangalan ng bawat mag-aaral at kasalukuyang aralin sa 'Enjoy Life Forever!' o anumang iba pang tulong sa pag-aaral."
+    ],
+    [
+      "📊",
+      "Mga Tungkulin sa Serbisyo at Mga Target na Personal na Oras",
+      "Sinusuportahan ang Publisher, Auxiliary Pioneer (15 o 30 oras), Regular Pioneer (50 oras), Special Pioneer / Missionary (90 / 100 oras), at isang custom na override na 'Personal na target' (hal., 55 oras/buwan)."
+    ],
+    [
+      "🗓️",
+      "Taon ng Serbisyo (Sept–Ago) at Kalendaryo",
+      "Magplano ng mga pulong sa ministeryo, umuulit na mga iskedyul, at Pampamilyang Pagsamba sa Kalendaryo. Ihambing ang binalak kumpara sa aktwal na mga oras, i-convert ang mga nakaplanong session sa mga entry ng ulat sa pamamagitan ng pag-swipe, at subaybayan ang iyong taunang layunin ng pioneer."
+    ],
+    [
+      "🗺️",
+      "Mga Teritoryo, Apartments, at Mga Paalala sa Pagbisita",
+      "Gumawa ng mga card para sa mga teritoryo, maraming palapag na apartment building, at pribadong bahay. Maglakip ng mga larawan sa mapa, mga color-code card, maghanap ayon sa address o pangalan ng residente, at makatanggap ng mga awtomatikong paalala upang gumawa ng mga pagbisitang muli."
+    ],
+    [
+      "🔒",
+      "100% On-Device na Privacy at Mga Buong Backup",
+      "Walang pagpaparehistro, walang account, walang panlabas na server, at zero analytics. Ang lahat ng mga talaan at mga larawan sa teritoryo ay nananatili nang lokal sa iyong iPhone/iPad, na may instant backup na pag-export at pag-restore sa iCloud Drive o Files."
+    ]
+  ],
+  "lang_sec_title": "Ganap na Na-localize sa 35+ Wika",
+  "lang_sec_sub": "Ang interface ng app, mga widget, at mga notification ay awtomatikong tumutugma sa wika ng iyong device:",
+  "donate_badge": "Independent at Ad-Free na Proyekto",
+  "donate_title": "Suportahan ang Pag-unlad ng JW Ministry",
+  "donate_sub": "Ang JW Ministry ay nilikha at pinananatili ng isang independiyenteng developer para sa personal na paggamit. Walang mga ad, walang bayad na tier, at walang mga subscription. Kung pinapadali ng app ang iyong ministeryo, maaari mong suportahan ang mga update sa iOS sa hinaharap at pag-renew ng lisensya ng Apple Developer:",
+  "card_fiat_title": "Suporta sa pamamagitan ng Card (Worldwide)",
+  "card_fiat_desc": "Mabilis na isang beses na tip o buwanang suporta mula sa anumang bansa sa pamamagitan ng Boosty o Patreon:",
+  "btn_boosty": "Suporta sa Boosty (Mga Card / Apple Pay)",
+  "btn_patreon": "Suporta sa Patreon",
+  "card_crypto_title": "Direktang Paglipat ng Crypto (0% Bayad sa Platform)",
+  "card_crypto_desc": "Agad na paglipat nang direkta sa wallet ng developer:",
+  "usdt_label": "USDT (TRC-20 / TRON Network lang):",
+  "ton_label": "TON / USDT (TON Network):",
+  "copy_btn": "Kopyahin",
+  "copied_msg": "Kinopya!",
+  "crypto_warn": "Para sa USDT (TRC-20), magpadala lamang ng mga asset sa pamamagitan ng TRON network.",
+  "faq_title": "Mga Madalas Itanong",
+  "faqs": [
+    [
+      "Paano tinutulungan ng JW Ministry ang JW Library para sa mga Saksi ni Jehova?",
+      "Bagaman ginagamit ang JW Library sa pagbabasa ng Bibliya, mga publikasyon, at mga pulong ng kongregasyon, ang JW Ministry ay sadyang binuo para sa pagsubaybay sa iyong personal na ministeryo sa larangan: pagtala ng mga oras ng ulat sa paglilingkod sa larangan, pagpaplano ng iyong iskedyul ng regular o auxiliary pioneer (15, 30, 50, o 100 oras), pamamahala ng mga personal na rekord ng teritoryo, at pagsubaybay sa mga estudyante sa Bibliya."
+    ],
+    [
+      "Saan nakaimbak ang aking mga tala sa ministeryo at mga tala sa teritoryo?",
+      "Eksklusibo sa iyong device (iPhone o iPad). Ang app ay walang panlabas na database o cloud server, na tinitiyak ang kumpletong pagiging kumpidensyal ng iyong mga personal na tala at address."
+    ],
+    [
+      "Paano ko ililipat ang aking data sa isang bagong iPhone o iPad?",
+      "Buksan ang tab na Mga Setting at i-tap ang icon ng Cloud Upload sa kanang sulok sa itaas para mag-export ng buong backup na file (kabilang ang mga larawan sa teritoryo) sa iCloud Drive o AirDrop. Sa iyong bagong device, i-tap ang icon ng Cloud Download para i-restore ang lahat sa isang tap."
+    ],
+    [
+      "Paano gumagana ang mga awtomatikong paalala sa pagbalik-bisita?",
+      "Sa Mga Setting → Mga Notification, paganahin ang 'Ipaalala ang tungkol sa mga pagbisitang muli sa mga address' at itakda ang pagitan (halimbawa, 3 araw). Kung hindi ka pa nakakapag-log ng follow-up na pagbisita sa isang address sa loob ng panahong iyon, malumanay na ipapaalala sa iyo ng app."
+    ],
+    [
+      "Sinusuportahan ba ng app ang Setyembre–Agosto ng Taon ng Serbisyo?",
+      "Oo! Parehong kinakalkula ng tab na Ulat at buod ng Kalendaryo ang buwanan at taunang oras sa opisyal na taon ng paglilingkod noong Setyembre–Agosto, kasama ang mga natitirang oras patungo sa iyong taunang layunin sa pagpapayunir."
+    ],
+    [
+      "Ang JW Ministry ba ay isang magandang kapalit para sa ServicePlanner o MyTime sa iPhone?",
+      "Oo! Aktibong pinapanatili ang JW Ministry para sa pinakabagong mga release ng iOS at iPadOS, na nagtatampok ng Mga Live na Aktibidad sa Lock Screen at Dynamic Island, mga interactive na widget ng Home Screen, generator ng gusali ng apartment, Planned vs. Aktwal na pagsubaybay sa kalendaryo, at 1-tap na mga backup ng iCloud Drive."
+    ],
+    [
+      "Ganap bang gumagana ang app nang offline sa panahon ng ministeryo sa pintuan-bahay?",
+      "Talagang. Lahat ng timer, mapa ng teritoryo, rekord ng apartment, at tala ng estudyante sa Bibliya ay gumagana nang 100% offline nang hindi nangangailangan ng mobile data o Wi-Fi."
+    ],
+    [
+      "Maaari ko bang i-convert ang isang nakaplanong kaganapan sa ministeryo sa Kalendaryo sa isang ulat na entry?",
+      "Oo. Mag-swipe lang sa anumang nakaplanong sesyon ng ministeryo sa Kalendaryo at i-tap ang 'Upang Mag-ulat' — ang tagal ay awtomatikong naka-log in sa iyong buwanang ulat at ibabawas sa iyong mga natitirang nakaplanong oras."
+    ],
+    [
+      "May kasama bang Bible Reading Schedule ang JW Ministry kasama ng JW Library?",
+      "Oo! Sa ilalim ng tab na Mga Habit sa Start screen, makakakuha ka ng interactive na 66-aklat na Iskedyul sa Pagbasa ng Bibliya na may 5 ruta sa pagbabasa (Classic, Chronological, Gospels First, Balanced Mix, Shortest First), isang hula sa petsa ng pagtatapos, at 1-tap na 'Read in JW Library' na mga link para sa susunod na hindi pa nababasang chapter at Daily Text."
+    ],
+    [
+      "Paano gumagana ang tagasubaybay ng Spiritual Habits?",
+      "Hinahayaan ka nitong suriin ang pang-araw-araw, lingguhan, at buwanang espirituwal na mga gawi (Araw-araw na Teksto, pagbabasa ng Bibliya, paghahanda sa pulong, Personal na Pag-aaral, Pampamilyang Pagsamba, JW Broadcasting, at pagsusumite ng ulat) gamit ang visual progress ring at suporta para sa custom na mga gawi."
+    ]
+  ],
+  "footer_privacy": "Patakaran sa Privacy",
+  "footer_issues": "Suporta at Feedback sa GitHub",
+  "footer_contact": "Makipag-ugnayan sa Developer",
+  "seo_sec_title": "Itinayo para sa Field Service at Pioneer Ministry ng mga Saksi ni Jehova",
+  "seo_sec_sub": "Kung paano tinutulungan ng JW Ministry ang mga mamamahayag, auxiliary pioneer, regular pioneer, at special pioneer na ayusin ang kanilang taon ng paglilingkod.",
+  "seo_pillars": [
+    [
+      "Mga Regular at Special Pioneer (50, 90 at 100 Oras / 600-Oras na Taon ng Serbisyo)",
+      "Ang paglilingkod bilang isang regular pioneer ay nangangailangan ng pagsubaybay kapuwa sa iyong 50-oras na buwanang target at sa iyong 600-oras na tunguhin sa Setyembre–Agosto taon ng paglilingkod. Awtomatikong kinakalkula ng JW Ministry ang iyong nakumpletong oras ng ministeryo, natitirang buwanang balanse, at buong taon ng paglilingkod. Magtakda ng pasadyang personal na buwanang layunin (hal., 55 oras), mag-iskedyul ng mga araw ng ministeryo sa Kalendaryo, at ihambing ang iyong mga nakaplanong oras sa iyong aktwal na naiulat na oras."
+    ],
+    [
+      "Auxiliary Pioneer (15 & 30 Oras) at Congregation Publishers",
+      "Sumali sa isang espesyal na kampanya, pagbisita ng tagapangasiwa ng sirkito, o panahon ng Memoryal bilang isang auxiliary pioneer? Ilipat ang iyong tungkulin sa Auxiliary Pioneer (15 h o 30 h) sa ilang segundo. Maaaring mag-log ang mga mamamahayag ng kongregasyon sa araw-araw na mga sesyon sa ministeryo, subaybayan ang mga pag-aaral sa Bibliya, at paganahin ang awtomatikong abiso sa ika-1 ng bawat buwan sa 20:00 upang hindi mo makalimutang isumite ang iyong ulat sa paglilingkod sa larangan."
+    ],
+    [
+      "Mga Bahay-Bahay na Teritoryo, Bumubuo ng Apartment, at Mga Pagbabalikang Pagbisita",
+      "Palitan ang mga papel na slip ng mga nakaayos na digital territory card. Maglakip ng mga larawan ng mga mapa ng teritoryo, mga color-code card na may 10 naka-istilong kulay, at bumuo ng buong multi-story na mga apartment building sa pamamagitan ng mga pasukan at sahig sa isang tap. Itala ang 'Unang pagbisita', 'Wala sa bahay', o 'Pagtanggi' na mga katayuan, maghanap sa lahat ng teritoryo sa pamamagitan ng address ng kalye o pangalan ng residente, at makatanggap ng mga awtomatikong paalala kapag oras na para magsagawa ng muling pagbisita."
+    ],
+    [
+      "Pag-unlad ng Estudyante ng Bibliya at Pagpapalit ng Modern iOS para sa Legacy Apps",
+      "Panatilihin ang isang detalyadong listahan ng iyong mga estudyante sa Bibliya kasama ng kanilang kasalukuyang publikasyong pang-aaral (gaya ng 'Enjoy Life Forever!'), numero ng aralin, at seksyon. Direktang ilakip ang mga mag-aaral sa iyong sesyon ng timer para palaging tumpak ang iyong buwanang bilang ng pag-aaral. Gawing native gamit ang SwiftUI para sa pinakabagong mga modelo ng iPhone at iPad, ang JW Ministry ay ang perpektong modernong alternatibo sa mga itinigil na app tulad ng ServicePlanner, MyTime, NW Publisher, My Service & Bible, Field Service Assistant, at Ministry Assistant."
+    ]
+  ],
+  "seo_tags_title": "Mga Popular na Paghahanap sa Field Service na Sinasaklaw ng JW Ministry:",
+  "seo_tags": [
+    "app ng paglilingkod sa larangan ng saksi ni Jehova",
+    "ulat ng paglilingkod sa larangan ng mga saksi ni Jehova",
+    "mga oras ng pagpapayunir ng saksi ni Jehova",
+    "jw mga oras at iskedyul ng regular pioneer",
+    "jw auxiliary pioneer 15 at 30 oras",
+    "jw tagasubaybay ng oras ng special pioneer",
+    "mga saksi ni Jehova taon ng paglilingkod 2026",
+    "jw at tagaplano ng taon ng paglilingkod",
+    "jw field service report app download nang libre",
+    "jw territory manager app iOS",
+    "service planner jw at my time jw alternative",
+    "jw app ng iskedyul ng pagbabasa ng Bibliya",
+    "pang-araw-araw na pagbabasa ng bibliya tracker iPhone",
+    "jw espirituwal na gawi at regular na tagasubaybay",
+    "kronolohikal na plano sa pagbabasa ng bibliya iOS"
+  ],
+  "qr_scan_title": "I-scan gamit ang iPhone / iPad",
+  "qr_scan_sub": "Ituro ang iyong camera para buksan sa App Store",
+  "shot_lang_label": "Wika ng interface sa mga screenshot:",
+  "comp_title": "Bakit Lumipat sa JW Ministry ang mga Publisher at Pioneer",
+  "comp_sub": "Magkatabi na paghahambing para sa pagsubaybay sa paglilingkod sa larangan, pag-iiskedyul ng pioneer, at pamamahala sa teritoryo.",
+  "comp_headers": [
+    "Tampok",
+    "Papel Notebook",
+    "Mga Legacy na App",
+    "JW Ministry 2.0.1"
+  ],
+  "comp_rows": [
+    [
+      "Live Ministry Timer sa Lock Screen at Dynamic Island",
+      "No",
+      "No",
+      "Oo (Mga Live na Aktibidad)"
+    ],
+    [
+      "Pioneer Goal Calculator (15, 30, 50, 100h) at 600h Taon ng Serbisyo",
+      "Manu-manong pagkalkula",
+      "Bahagyang",
+      "Awtomatiko + Custom na Layunin"
+    ],
+    [
+      "Binalak kumpara sa Aktwal na Kalendaryo at I-swipe-to-Report na Conversion",
+      "No",
+      "No",
+      "Built-in na 1-Swipe Workflow"
+    ],
+    [
+      "Tagabuo ng Apartment Building + Mga Larawan ng Teritoryo at 10 Tag na Kulay",
+      "Mga slip ng papel",
+      "Text lang",
+      "Mga Buong Visual Card + Paghahanap"
+    ],
+    [
+      "Mga Paalala sa Return Visit at Notification ng 1st-of-the-Month na Ulat",
+      "No",
+      "Basic",
+      "Mga Notification ng Smart iOS"
+    ],
+    [
+      "100% On-Device Privacy at Buong iCloud Drive Backup na may Mga Larawan",
+      "Madaling mawala",
+      "Madalas masira sa bagong iOS",
+      "Offline at Instant Restore"
+    ],
+    [
+      "Native Support para sa Pinakabagong iOS, iPad, OLED Dark Mode at 35+ na Wika",
+      "—",
+      "Itinigil",
+      "Modernong SwiftUI Architecture"
+    ]
+  ],
+  "filter_all": "Lahat (10)",
+  "filter_light": "Banayad (8)",
+  "filter_dark": "Madilim (2)",
+  "filter_ipad": "iPad",
+  "wn_title": "Ano ang Bago sa Bersyon 2.0.1",
+  "wn_items": [
+    "Bagong Spiritual Habits tracker sa Start tab: Araw-araw/Lingguhan/Buwanang pag-usad, custom na gawi, Marital Status setting para sa Pampamilyang Pagsamba, at isang apurahang paalala sa ulat sa ika-5.",
+    "Iskedyul sa Pagbasa ng Bibliya: 5 ruta ng pagbabasa, pagsubaybay sa kabanata sa lahat ng 66 na aklat, pagtataya sa petsa ng pagkakumpleto, at 1-tap na 'Basahin sa JW Library' na mga link.",
+    "Pagsubaybay sa Dalawahang Layunin sa Kalendaryo at Mga Widget: tingnan pareho ang iyong kinakailangan sa tungkulin (hal., 30 h / 50 h) at karagdagang personal na buwanang target sa isang dual progress ring.",
+    "Buong adaptive na suporta sa layout para sa mga foldable na iPhone Duo screen at iPadOS.",
+    "Nagdagdag ng mga link na 'Ibahagi ang App' at 'Website ng App' sa Mga Setting."
+  ],
+  "howto_name": "Paano Subaybayan ang Mga Oras ng Field Service at Iskedyul ng Pioneer sa iPhone",
+  "howto_steps": [
+    [
+      "Itakda ang iyong tungkulin sa serbisyo at buwanang target",
+      "Piliin ang Publisher, Auxiliary Pioneer (15/30 h), o Regular Pioneer (50 h) sa Mga Setting, o magtakda ng custom na buwanang target na oras."
+    ],
+    [
+      "Patakbuhin ang live na timer o iskedyul sa Calendar",
+      "Subaybayan ang field ministry sa Lock Screen at Dynamic Island, o direktang mag-swipe ng mga nakaiskedyul na kaganapan sa Kalendaryo sa iyong Ulat."
+    ],
+    [
+      "Mag-log ng mga teritoryo at pag-aaral sa Bibliya",
+      "Itala ang mga pagbisita sa bahay-bahay, mga status sa apartment, at ilakip ang mga estudyante sa Bibliya sa kanilang kasalukuyang aralin."
+    ],
+    [
+      "Ibahagi ang iyong buwanang ulat sa paglilingkod sa larangan",
+      "Sa ika-1 ng buwan, buksan ang tab na Ulat upang suriin at ibahagi ang iyong mga nakumpletong oras at pag-aaral sa Bibliya."
+    ]
+  ],
+  "nav_comp": "Paghahambing",
+  "sticky_sub": "iPhone at iPad • Libre",
+  "feature_badges": [
+    "Pagsubaybay sa Oras • Mga Live na Aktibidad",
+    "Pag-aaral sa Bibliya • Pag-unlad ng Aralin",
+    "Mga Tungkulin sa Serbisyo • 15 / 30 / 50 / 100 h",
+    "Taon ng Serbisyo • Plano kumpara sa Aktwal",
+    "Log ng Teritoryo • Paghahanap at Mga Alerto",
+    "On-Device Privacy • iCloud Backup"
+  ],
+  "pillar_badges": [
+    "Regular at Special Pioneer Ministry",
+    "Mga Auxiliary Pioneer at Publisher",
+    "Bahay-bahay at Personal na Teritoryo",
+    "Mga Pag-aaral sa Bibliya at Modernong Disenyo ng iOS"
+  ],
+  "pillar_Checklists": [
+    [
+      "Awtomatikong 50 h buwan-buwan at 600 h Setyembre–Agosto pagsubaybay sa taon ng serbisyo",
+      "Pasadyang buwanang pag-override sa target na oras (hal., 55 h/buwan)",
+      "Dual progress bar na naghahambing ng mga nakaiskedyul kumpara sa mga naiulat na oras"
+    ],
+    [
+      "One-tap switch sa 15 h o 30 h Auxiliary Pioneer na mga layunin",
+      "Instant na buwanang pag-format at pagbabahagi ng ulat sa ika-1",
+      "Magiliw na paalala na abiso sa ika-1 ng bawat buwan sa 20:00"
+    ],
+    [
+      "Multi-story apartment generator sa pamamagitan ng mga pasukan at sahig",
+      "Mga larawan sa mapa ng teritoryo, 10 tema ng kulay at paghahanap ng instant na residente/address",
+      "Mga paalala ng awtomatikong pagbisita sa pagbalik pagkatapos ng iyong napiling bilang ng mga araw"
+    ],
+    [
+      "Subaybayan ang mga eksaktong aralin sa 'Enjoy Life Forever!' para sa bawat mag-aaral",
+      "Built native para sa iOS at iPadOS na may Dynamic Island at OLED Dark Mode",
+      "Kumpletuhin ang modernong kapalit para sa legacy na ServicePlanner at MyTime app"
+    ]
+  ],
+  "rev_title": "Minamahal ng Mga Publisher at Pioneer sa Buong Mundo",
+  "rev_sub": "Tunay na feedback mula sa mga kapatid na gumagamit ng JW Ministry sa kanilang pang-araw-araw na paglilingkod sa larangan.",
+  "reviews": [
+    [
+      "Alex, Regular Pioneer",
+      "Ang pagkakaroon ng mga buwanang nakaplanong oras na awtomatikong sumama sa Kalendaryo kasama ng aking aktwal na naiulat na mga oras ay isang laro changer para sa pagpapanatili ng aking 50-oras na iskedyul sa track."
+    ],
+    [
+      "Sarah, Auxiliary Pioneer",
+      "Ang Lock Screen Live Activity timer at 1-swipe na conversion mula sa Calendar ay nagpaplanong Mag-ulat ng mga entry ay ginagawang 15 at 30 oras na walang hirap ang pagsubaybay. Malinis, mabilis, at 100% pribado."
+    ],
+    [
+      "David, Tagapaglathala ng Kongregasyon",
+      "Pinalitan ng generator ng apartment building at instant search sa buong teritoryo ang lahat ng papel ko. Ang mga paalala sa pagbalik-bisita ay nakakatulong sa akin na hindi makaligtaan ang isang follow-up."
+    ]
+  ],
+  "privacy_page": {
+    "page_title": "Patakaran sa Privacy at Suporta sa Gumagamit — JW Ministry",
+    "meta_desc": "Opisyal na Patakaran sa Privacy at Suporta ng User para sa JW Ministry iOS at iPadOS app. 100% lokal na on-device na imbakan ng data na walang mga panlabas na server.",
+    "back_home": "Bumalik sa Bahay",
+    "sup_title": "JW Ministry — Suporta sa Gumagamit",
+    "sup_desc": "Kung mayroon kang mga tanong, mungkahi para sa mga bagong feature, o nakakita ng bug sa app, huwag mag-atubiling makipag-ugnayan sa developer:",
+    "sup_issues": "Mag-ulat ng Isyu (GitHub)",
+    "sup_store": " JW Ministry sa App Store",
+    "updated": "Huling na-update: Disyembre 5, 2025",
+    "h1": "Patakaran sa Privacy para sa “JW Ministry”",
+    "intro": "Ipinapaliwanag ng Patakaran sa Privacy na ito kung paano pinangangasiwaan ng <strong>“JW Ministry”</strong> ang mobile application (“ang App”) ang impormasyon ng user. Ang aming pangunahing prinsipyo ay <strong>100% privacy: lahat ng mga record na nilikha mo ay eksklusibong nakaimbak sa iyong device</strong>.",
+    "s1_t": "1. Nilikha at Inimbak ang Data sa App",
+    "s1_p": "Ang lahat ng data sa App ay kusang-loob na ipinasok ng user para sa personal na field service organization at pagpaplano:",
+    "s1_ul": [
+      "<strong>Mga entry at ulat sa oras ng serbisyo:</strong> mga petsa, tagal, bilang ng pag-aaral sa Bibliya, at mga tala ng session.",
+      "<strong>Mga iskedyul ng kalendaryo:</strong> mga nakaplanong kaganapan sa ministeryo, petsa, oras, at mga setting ng pag-ulit.",
+      "<strong>Listahan ng mga mag-aaral sa Bibliya:</strong> mga pangalan/label ng mag-aaral at mga tala sa pag-unlad ng publikasyon sa pag-aaral.",
+      "<strong>Mga teritoryo at address:</strong> mga pangalan ng teritoryo, listahan ng bahay/apartment, kasaysayan ng pagbisita, mga tala, at mga larawan sa card ng teritoryo na pinili ng user mula sa Photo Library.",
+      "<strong>Mga setting ng app:</strong> napiling tungkulin sa serbisyo, personal na buwanang target na oras, at mga kagustuhan sa notification."
+    ],
+    "s2_t": "2. 100% Lokal na On-Device na Storage at Walang Third-Party na Pagbabahagi",
+    "s2_ul": [
+      "Ang lahat ng data ay naka-store <strong>sa iyong iPhone o iPad lamang</strong> sa loob ng secure na iOS / iPadOS storage container.",
+      "Ang App ay nangangailangan ng <strong>walang pagpaparehistro</strong> at walang user account.",
+      "Ang developer ay <strong>walang access</strong> sa iyong mga talaan, walang nangongolekta ng analytics o data ng lokasyon, at <strong>hindi kailanman nagpapadala o nagbabahagi</strong> ng anumang data sa mga panlabas na server o mga third party."
+    ],
+    "s3_t": "3. Mga Pahintulot sa Device (Mga Larawan at Notification)",
+    "s3_ul": [
+      "<strong>Photo Library:</strong> hiniling lamang kapag pinili mong mag-attach ng mapa o larawan ng gusali sa isang territory card. Ang mga napiling larawan ay lokal na iniimbak sa loob ng folder ng App sa iyong device.",
+      "<strong>Mga Notification:</strong> eksklusibong ginagamit para sa mga lokal na paalala sa device (tulad ng paalala ng ulat sa ika-1 ng buwan o mga paalala sa pagbalik-bisita)."
+    ],
+    "s4_t": "4. Mga Backup at Pagtanggal ng Data",
+    "s4_p": "Maaari kang mag-export ng kumpletong backup na file (kabilang ang mga larawan ng teritoryo) anumang oras sa pamamagitan ng karaniwang iOS share sheet (halimbawa, pag-save sa iyong personal na iCloud Drive o Files app). Ang pag-uninstall ng App mula sa iyong device ay permanenteng dine-delete ang lahat ng lokal na data ng App.",
+    "s5_t": "5. Makipag-ugnayan",
+    "s5_p": "Kung mayroon kang anumang mga katanungan tungkol sa Patakaran sa Privacy na ito o sa App, mangyaring makipag-ugnayan sa developer sa:"
+  },
+  "filter_duo": "iPhone Duo",
+  "wn_items_18": [
+    "Kabuuan ng mga awtomatikong buwanang nakaplanong oras sa Calendar na may dalawahang Planned vs. Actual progress bar.",
+    "1-swipe na conversion ng anumang naka-iskedyul na sesyon ng ministeryo sa Kalendaryo nang direkta sa isang buwanang entry sa Ulat.",
+    "Instant na paghahanap ayon sa address ng kalye o pangalan ng residente sa buong Teritoryo, kasama ang 10 kulay na tema para sa mga card ng teritoryo.",
+    "Suporta sa Paparating na Taon ng Serbisyo (2026–2027) sa tab na Ulat na may magandang taunang buod ng balanse.",
+    "Buong pag-optimize para sa pinakabagong mga release ng iOS at iPadOS at pinahusay na proteksyon sa pag-backup sa device."
+  ],
+  "bible_page": {
+    "title": "5 Mga Plano sa Iskedyul ng Pagbasa ng Bibliya at Espirituwal na Gawi Tracker | JW Ministry",
+    "desc": "Maginhawang iskedyul ng pagbabasa ng Bibliya araw-araw para sa iPhone at iPad: lahat ng 66 na aklat, 5 mga plano (Classic, Chronological, at higit pa), pagtataya ng pagtatapos, at integrasyon ng JW Library.",
+    "h1": "Iskedyul sa Pagbasa ng Bibliya at Tagasubaybay ng Espirituwal na Gawi",
+    "intro": "Subaybayan ang bawat kabanata sa lahat ng 66 na aklat sa Bibliya, pumili mula sa 5 plano sa pagbasa, tingnan ang iyong tinatayang petsa ng pagkakumpleto, at buksan ang susunod na hindi pa nababasang kabanata o Daily Text nang direkta sa JW Library.",
+    "routes_title": "5 Built-in na Plano sa Pagbasa ng Bibliya",
+    "s1_t": "66 Books Interactive Grid",
+    "s1_d": "Suriin ang mga kabanata at subaybayan ang pag-unlad sa Hebrew at Christian Greek Scriptures.",
+    "s2_t": "Pang-araw-araw na Espirituwal na Gawi",
+    "s2_d": "Tumutunog ang progress para sa Araw, Linggo, at Buwan at 1-tap na Pang-araw-araw na Teksto sa JW Library.",
+    "routes": [
+      [
+        "1. Klasiko",
+        "Mula sa Genesis hanggang Pahayag — sunod-sunod na pagbasa ng buong Bibliya."
+      ],
+      [
+        "2. Kronolohikal",
+        "Nakaayos ang mga aklat sa pagkakasunud-sunod ng mga makasaysayang pangyayari at pagsulat."
+      ],
+      [
+        "3. Mga Ebanghelyo Una",
+        "Magsimula sa Kristiyanong Griegong Kasulatan, pagkatapos ay lumipat sa Hebreong Kasulatan."
+      ],
+      [
+        "4. Balanseng Mix",
+        "Paghahalili ng kasaysayan, tula, at Ebanghelyo para sa pang-araw-araw na pagkakaiba-iba."
+      ],
+      [
+        "5. Pinakamaikling Una",
+        "Mula sa pinakamaikling aklat hanggang sa pinakamahaba para sa mabilis na pag-unlad."
+      ]
+    ]
+  },
+  "calc_page": {
+    "title": "Pioneer Schedule Calculator (15, 30, 50 & 600 Oras) | JW Ministry",
+    "desc": "Libreng online na pioneer hours calculator para sa mga Saksi ni Jehova. Kalkulahin ang iyong lingguhan at pang-araw-araw na iskedyul ng paglilingkod sa larangan para sa 15h, 30h auxiliary o 50h regular pioneer (600h taon ng paglilingkod).",
+    "h1": "Calculator ng Iskedyul ng Pioneer",
+    "intro": "Planuhin ang iyong mga oras ng paglilingkod sa larangan para sa 15h o 30h Auxiliary Pioneer, 50h Regular Pioneer (600 oras bawat taon ng serbisyo), o isang pasadyang layunin.",
+    "label_goal": "Buwanang layunin",
+    "opt_15": "Auxiliary Pioneer — 15 h/mo",
+    "opt_30": "Auxiliary Pioneer — 30 h/mo",
+    "opt_50": "Regular Pioneer — 50 h/mo",
+    "opt_90": "Special Pioneer — 90 h/mo",
+    "opt_100": "Special Pioneer — 100 h/mo",
+    "label_days": "Mga araw ng ministeryo kada linggo",
+    "res_week": "Mga oras bawat linggo",
+    "res_day": "Mga oras bawat araw ng ministeryo",
+    "res_year": "Bawat taon ng serbisyo",
+    "unit_h": "h",
+    "cta_app": "Track Schedule sa JW Ministry",
+    "cta_bible": "Iskedyul sa Pagbasa ng Bibliya"
+  }
+}

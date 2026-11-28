@@ -4,18 +4,18 @@
   "og_locale": "da_DK",
   "name": "Dansk",
   "flag": "🇩🇰",
-  "title": "JW Ministry — Jehovas Vidner: Tjenesterapport, Almindelig pioner (50 timer), Personlige distrikter og genbesøg (iPhone & iPad)",
-  "description": "JW Ministry er en felttjeneste-app til Jehovas Vidner på iPhone og iPad: stopur med Live Activities, oversigt over bibelstudieelever, tjenesteårsrapporter, timemål for pionerer og distriktskort. almindelig pioner (50 timer), hjælpepioner (15 og 30 timer), tjenesteår (september–august), personlige distrikter og genbesøg, bibelstudier (”Et håb om en lys fremtid“).",
-  "keywords": "JW Ministry, Jehovas Vidner, forkyndelsen og felttjenesten, tjenesterapport, almindelig pioner (50 timer), hjælpepioner (15 og 30 timer), tjenesteår (september–august), personlige distrikter og genbesøg, bibelstudier (”Et håb om en lys fremtid“), iPhone, iPad, iOS",
+  "title": "JW Ministry — App til Jehovas Vidner: forkyndelse, rapport og distrikter",
+  "description": "Gratis app til Jehovas Vidner på iPhone og iPad: timer, tjenesterapport, pionertimer, kalender, bibellæseplan, åndelige vaner, distriktskort og bibelstudier.",
+  "keywords": "JW Ministry, jehovas, vidner, forkyndelse, distrikter, rapport, pioner, timer, bibel, studium, genbesøg, kalender, ur, planlægger, noter, widget",
   "nav_screens": "Skærmbilleder",
   "nav_features": "Funktioner",
   "nav_languages": "35+ Sprog",
   "nav_privacy": "Privatliv",
   "nav_donate": "Støt",
   "nav_faq": "FAQ",
-  "badge": "Til iPhone & iPad • Version 1.8 • 35+ Sprog",
-  "hero_title": "Din komplette hjælper til felttjenesten og pionertjenesten",
-  "hero_sub": "JW Ministry er en felttjeneste-app til Jehovas Vidner på iPhone og iPad: stopur med Live Activities, oversigt over bibelstudieelever, tjenesteårsrapporter, timemål for pionerer og distriktskort.",
+  "badge": "Til iPhone & iPad • Version 2.0.1 • 35+ Sprog",
+  "hero_title": "Forkyndelse, rapport, pionertimer, distrikter og bibellæseplan",
+  "hero_sub": "Gratis og privat app til Jehovas Vidner på iPhone og iPad: timer med widgets, tjenesterapport, pionerkalender, distriktskort, genbesøg, bibelstudier, åndelige vaner og bibellæseplan.",
   "cta_appstore": "Hent i App Store",
   "cta_donate": "Støt udvikleren",
   "stat_1_val": "35+",
@@ -33,6 +33,16 @@
       "1.jpg",
       "1. Start-fanen & Tjenestetimer",
       "Mål din tjenestetid ned til sekundet, tilføj bibelstudier, vælg elev og skriv distriktsnoter."
+    ],
+    [
+      "1-1.jpg",
+      "Åndelige vaner & fremskridtsringe",
+      "Hold styr på daglige, ugentlige og månedlige vaner (dagstekst, bibellæsning, mødeforberedelse, Teokratisk Familieaften), åbn dagsteksten direkte i JW Library og tilføj egne vaner."
+    ],
+    [
+      "1-2.jpg",
+      "Bibellæseplan",
+      "Interaktiv oversigt over alle 66 bibelbøger med 5 læseruter (Klassisk, Kronologisk, Evangelierne først, Afbalanceret, Korte først), forventet slutdato og direkte link til JW Library."
     ],
     [
       "2.jpg",
@@ -119,7 +129,7 @@
   "ton_label": "TON / USDT (TON-netværk):",
   "copy_btn": "Kopiér",
   "copied_msg": "Kopieret!",
-  "crypto_warn": "Send kun aktiver via TRON-netværket (TRC-20) til adressen TQQx...",
+  "crypto_warn": "For USDT (TRC-20), send kun aktiver via TRON-netværket.",
   "faq_title": "Ofte stillede spørgsmål (FAQ)",
   "faqs": [
     [
@@ -182,7 +192,7 @@
     "Funktion",
     "Papirnoter",
     "Ældre Apps",
-    "JW Ministry 1.8"
+    "JW Ministry 2.0.1"
   ],
   "comp_rows": [
     [
@@ -228,35 +238,35 @@
       "Moderne SwiftUI-design"
     ]
   ],
-  "filter_all": "Alle (8)",
-  "filter_light": "Lys (6)",
+  "filter_all": "Alle (10)",
+  "filter_light": "Lys (8)",
   "filter_dark": "Mørk (2)",
   "filter_ipad": "iPad",
-  "wn_title": "Nyheder i version 1.8",
+  "wn_title": "Nyheder i version 2.0.1",
   "wn_items": [
-    "Automatisk sammentælling af planlagte timer i Kalenderen med dobbelt statuslinje (Planlagt vs. Faktisk).",
-    "Konverter en planlagt tjenesteaftale i Kalenderen direkte til rapporten med ét swipe.",
-    "Lynhurtig søgning efter adresse eller navn i alle distrikter samt 10 farvetemaer til distriktskort.",
-    "Understøttelse af det kommende tjenesteår (2026–2027) under fanen Rapport.",
-    "Fuld optimering til nyeste iOS & iPadOS og forbedret backup-sikkerhed."
+    "Ny sektion «Åndelige vaner» under Start: fremskridtsringe (Dag / Uge / Måned), egne vaner, civilstand-indstilling til Familieaften og vigtig påmindelse den 5. i måneden.",
+    "Bibellæseplan: 5 læseruter, kapitelsporing i alle 66 bøger, forventet færdiggørelsesdato og knappen «Læs i JW Library».",
+    "Dobbelt mål i Kalender & widgets: se både dit pionermål (30 eller 50 t.) og et ekstra personligt månedsmål i en dobbeltring.",
+    "Fuld layout-tilpasning til foldbar iPhone Duo-skærm og iPadOS.",
+    "Tilføjet knapperne «Del app» og «Hjemmeside» i Indstillinger."
   ],
-  "howto_name": "How to Track Field Service Hours & Pioneer Schedule on iPhone",
+  "howto_name": "Sådan sporer du feltservicetider og Pioneer-tidsplan på iPhone",
   "howto_steps": [
     [
-      "Set your service role and monthly target",
-      "Choose Publisher, Auxiliary Pioneer (15/30 h), or Regular Pioneer (50 h) in Settings, or set a custom monthly hour target."
+      "Indstil din servicerolle og månedlige mål",
+      "Vælg Publisher, Auxiliary Pioneer (15/30 timer) eller Regular Pioneer (50 timer) i Indstillinger, eller indstil et brugerdefineret månedligt timemål."
     ],
     [
-      "Run the live timer or schedule in the Calendar",
-      "Track field ministry on the Lock Screen & Dynamic Island, or swipe scheduled Calendar events directly into your Report."
+      "Kør live timeren eller tidsplanen i kalenderen",
+      "Spor feltministeriet på låseskærmen og Dynamic Island, eller swip planlagte kalenderbegivenheder direkte ind i din rapport."
     ],
     [
-      "Log territories and Bible studies",
-      "Record house-to-house visits, apartment statuses, and attach Bible students with their current lesson."
+      "Log territorier og bibelstudier",
+      "Optag hus-til-hus-besøg, lejlighedsstatus, og vedhæft bibelstuderende deres aktuelle lektion."
     ],
     [
-      "Share your monthly field service report",
-      "On the 1st of the month, open the Report tab to review and share your completed hours and Bible studies."
+      "Del din månedlige felttjenesterapport",
+      "Den 1. i måneden skal du åbne fanen Rapport for at gennemgå og dele dine afsluttede timer og bibelstudier."
     ]
   ],
   "nav_comp": "Sammenligning",
@@ -315,38 +325,98 @@
   ],
   "privacy_page": {
     "page_title": "Privatlivspolitik for “JW Ministry” — JW Ministry",
-    "meta_desc": "Official Privacy Policy and User Support for the JW Ministry iOS & iPadOS app. 100% local on-device data storage with zero external servers.",
+    "meta_desc": "Officiel privatlivspolitik og brugersupport til JW Ministry iOS & iPadOS app. 100 % lokal datalagring på enheden med nul eksterne servere.",
     "back_home": "Til forsiden",
     "sup_title": "JW Ministry — Brugersupport",
     "sup_desc": "Hvis du har spørgsmål, forslag eller har fundet en fejl i appen, kan du kontakte udvikleren:",
-    "sup_issues": "Report an Issue (GitHub)",
-    "sup_store": " JW Ministry on App Store",
-    "updated": "Last updated: December 5, 2025",
+    "sup_issues": "Rapporter et problem (GitHub)",
+    "sup_store": " JW Ministry på App Store",
+    "updated": "Sidst opdateret: 5. december 2025",
     "h1": "Privatlivspolitik for “JW Ministry”",
-    "intro": "This Privacy Policy explains how the <strong>“JW Ministry”</strong> mobile application (“the App”) handles user information. Our core principle is <strong>100% privacy: all records you create are stored exclusively on your device</strong>.",
-    "s1_t": "1. Data Created and Stored in the App",
-    "s1_p": "All data in the App is entered voluntarily by the user for personal field service organization and planning:",
+    "intro": "Denne privatlivspolitik forklarer, hvordan <strong>\"JW Ministry\"</strong>-mobilapplikationen (\"appen\") håndterer brugeroplysninger. Vores kerneprincip er <strong>100 % privatliv: alle registreringer, du opretter, gemmes udelukkende på din enhed</strong>.",
+    "s1_t": "1. Data oprettet og gemt i appen",
+    "s1_p": "Alle data i appen indtastes frivilligt af brugeren til personlig feltserviceorganisering og planlægning:",
     "s1_ul": [
-      "<strong>Service time entries & reports:</strong> dates, duration, Bible study counts, and session notes.",
-      "<strong>Calendar schedules:</strong> planned ministry events, dates, times, and recurrence settings.",
-      "<strong>Bible students list:</strong> student names/labels and study publication progress notes.",
-      "<strong>Territories & addresses:</strong> territory names, house/apartment lists, visit history, notes, and territory card photos selected by the user from the Photo Library.",
-      "<strong>App settings:</strong> selected service role, personal monthly hour target, and notification preferences."
+      "<strong>Tidsposter og -rapporter for tjenesten:</strong> datoer, varighed, bibelstudietæller og sessionsnotater.",
+      "<strong>Kalenderplaner:</strong> planlagte ministerielle begivenheder, datoer, klokkeslæt og gentagelsesindstillinger.",
+      "<strong>Liste over bibelstuderende:</strong> elevernes navne/etiketter og statusnotater for studiepublikationer.",
+      "<strong>Territorier og adresser:</strong> områdenavne, hus-/lejlighedslister, besøgshistorik, noter og områdekortbilleder valgt af brugeren fra fotobiblioteket.",
+      "<strong>Appindstillinger:</strong> valgt tjenesterolle, personligt månedligt timemål og meddelelsespræferencer."
     ],
-    "s2_t": "2. 100% Local On-Device Storage & No Third-Party Sharing",
+    "s2_t": "2. 100 % lokal lagring på enheden og ingen tredjepartsdeling",
     "s2_ul": [
-      "All data is stored <strong>solely on your iPhone or iPad</strong> within the secure iOS / iPadOS storage container.",
-      "The App requires <strong>no registration</strong> and no user account.",
-      "The developer has <strong>no access</strong> to your records, collects no analytics or location data, and <strong>never transmits or shares</strong> any data with external servers or third parties."
+      "Alle data gemmes <strong>kun på din iPhone eller iPad</strong> i den sikre iOS/iPadOS-lagerbeholder.",
+      "Appen kræver <strong>ingen registrering</strong> og ingen brugerkonto.",
+      "Udvikleren har <strong>ingen adgang</strong> til dine optegnelser, indsamler ingen analyse- eller placeringsdata og <strong>sender eller deler aldrig</strong> nogen data med eksterne servere eller tredjeparter."
     ],
-    "s3_t": "3. Device Permissions (Photos & Notifications)",
+    "s3_t": "3. Enhedstilladelser (fotos og meddelelser)",
     "s3_ul": [
-      "<strong>Photo Library:</strong> requested only when you choose to attach a map or building photo to a territory card. Selected images are stored locally inside the App folder on your device.",
-      "<strong>Notifications:</strong> used exclusively for local on-device reminders (such as the 1st-of-the-month report reminder or return visit reminders)."
+      "<strong>Fotobibliotek:</strong> anmodes kun om, når du vælger at vedhæfte et kort eller bygningsfoto til et områdekort. Udvalgte billeder gemmes lokalt i App-mappen på din enhed.",
+      "<strong>Underretninger:</strong> bruges udelukkende til lokale påmindelser på enheden (såsom påmindelsen om den første i måneden rapport eller påmindelser om genbesøg)."
     ],
-    "s4_t": "4. Backups & Data Deletion",
-    "s4_p": "You may export a complete backup file (including territory photos) at any time via the standard iOS share sheet (for example, saving to your personal iCloud Drive or Files app). Uninstalling the App from your device permanently deletes all local App data.",
-    "s5_t": "5. Contact",
-    "s5_p": "If you have any questions regarding this Privacy Policy or the App, please contact the developer at:"
+    "s4_t": "4. Sikkerhedskopier og datasletning",
+    "s4_p": "Du kan til enhver tid eksportere en komplet sikkerhedskopifil (inklusive områdebilleder) via standard iOS-delingsarket (for eksempel ved at gemme på dit personlige iCloud Drive eller Files-app). Afinstallation af appen fra din enhed sletter permanent alle lokale appdata.",
+    "s5_t": "5. Kontakt",
+    "s5_p": "Hvis du har spørgsmål vedrørende denne privatlivspolitik eller appen, bedes du kontakte udvikleren på:"
+  },
+  "filter_duo": "iPhone Duo",
+  "wn_items_18": [
+    "Automatisk sammentælling af planlagte timer i Kalenderen med dobbelt statuslinje (Planlagt vs. Faktisk).",
+    "Konverter en planlagt tjenesteaftale i Kalenderen direkte til rapporten med ét swipe.",
+    "Lynhurtig søgning efter adresse eller navn i alle distrikter samt 10 farvetemaer til distriktskort.",
+    "Understøttelse af det kommende tjenesteår (2026–2027) under fanen Rapport.",
+    "Fuld optimering til nyeste iOS & iPadOS og forbedret backup-sikkerhed."
+  ],
+  "bible_page": {
+    "title": "5 bibellæseplaner & tracker til åndelige vaner | JW Ministry",
+    "desc": "Praktisk daglig bibellæseplan til iPhone & iPad: alle 66 bøger, 5 varianter (klassisk, kronologisk m.fl.), slutdatoprognose og JW Library-integration.",
+    "h1": "5 bibellæseplaner & tracker til åndelige vaner",
+    "intro": "Praktisk daglig bibellæseplan til iPhone & iPad: alle 66 bøger, 5 varianter (klassisk, kronologisk m.fl.), slutdatoprognose og JW Library-integration.",
+    "routes_title": "5 indbyggede bibellæsningsplaner",
+    "s1_t": "66 bøger Interaktivt gitter",
+    "s1_d": "Sæt kryds ved kapitler og følg fremskridt på tværs af hebraiske og kristne græske skrifter.",
+    "s2_t": "Daglige åndelige vaner",
+    "s2_d": "Fremskridt ringer for dag, uge og måned plus 1-tryks daglig tekst i JW Library.",
+    "routes": [
+      [
+        "1. Klassisk",
+        "Fra Første Mosebog til Åbenbaringen - sekventiel læsning af hele Bibelen."
+      ],
+      [
+        "2. Kronologisk",
+        "Bøger arrangeret i rækkefølgen af historiske begivenheder og skrift."
+      ],
+      [
+        "3. Evangelier først",
+        "Start med De Kristne Græske Skrifter, og flyt derefter til De Hebraiske Skrifter."
+      ],
+      [
+        "4. Balanceret blanding",
+        "Skiftende historie, poesi og evangelier til daglig variation."
+      ],
+      [
+        "5. Korteste først",
+        "Fra de korteste bøger til de længste for en hurtig følelse af fremskridt."
+      ]
+    ]
+  },
+  "calc_page": {
+    "title": "Pioneer skemaberegner (15, 30, 50 og 600 timer) | JW Ministry",
+    "desc": "Gratis online kalkulator for pionertimer til Jehovas Vidner. Beregn din ugentlige og daglige felttjenesteplan for 15 timer, 30 timers hjælpepioner eller 50 timers almindelig pioner (600 timers tjenesteår).",
+    "h1": "Pioneer skemaberegner",
+    "intro": "Planlæg dine feltservicetimer til 15 eller 30 timers Auxiliary Pioneer, 50h Regular Pioneer (600 timer pr. serviceår) eller et tilpasset mål.",
+    "label_goal": "Månedligt mål",
+    "opt_15": "Auxiliary Pioneer — 15 t/md",
+    "opt_30": "Auxiliary Pioneer — 30 t/md",
+    "opt_50": "Regular Pioneer — 50 t/md",
+    "opt_90": "Special Pioneer — 90 t/md",
+    "opt_100": "Special Pioneer — 100 t/md",
+    "label_days": "Ministerdage om ugen",
+    "res_week": "Timer om ugen",
+    "res_day": "Timer pr tjenestedag",
+    "res_year": "Per tjenesteår",
+    "unit_h": "h",
+    "cta_app": "Sporplan i JW Ministry",
+    "cta_bible": "Bibellæsningsskema"
   }
 }

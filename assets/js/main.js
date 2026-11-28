@@ -2,7 +2,7 @@ function copyWalletText(id, btn) {
   var el = document.getElementById(id);
   if (!el) return;
   var copiedLabel = btn.getAttribute('data-copied') || 'Copied!';
-  navigator.clipboard.writeText(el.innerText).then(function() {
+  navigator.clipboard.writeText((el.textContent || el.innerText).trim()).then(function() {
     var old = btn.innerText;
     btn.innerText = copiedLabel;
     setTimeout(function() { btn.innerText = old; }, 2000);
@@ -53,8 +53,10 @@ function filterScreenshots(mode, btn) {
     var theme = card.getAttribute('data-theme-shot');
     if (mode === 'ipad') {
       card.style.display = (theme === 'ipad') ? 'flex' : 'none';
+    } else if (mode === 'duo') {
+      card.style.display = (theme === 'duo') ? 'flex' : 'none';
     } else if (mode === 'all') {
-      card.style.display = (theme === 'ipad') ? 'none' : 'flex';
+      card.style.display = (theme === 'ipad' || theme === 'duo') ? 'none' : 'flex';
     } else {
       card.style.display = (theme === mode) ? 'flex' : 'none';
     }
@@ -108,3 +110,14 @@ document.addEventListener('DOMContentLoaded', function() {
     }, { passive: true });
   }
 });
+
+function switchChangelogTab(ver, btn) {
+  document.querySelectorAll('.cl-tab').forEach(function(b) {
+    b.classList.remove('active');
+  });
+  if (btn) btn.classList.add('active');
+  var p201 = document.getElementById('cl-panel-201');
+  var p18 = document.getElementById('cl-panel-18');
+  if (p201) p201.style.display = (ver === '201') ? 'grid' : 'none';
+  if (p18) p18.style.display = (ver === '18') ? 'grid' : 'none';
+}
