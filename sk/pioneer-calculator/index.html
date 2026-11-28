@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="{{LANG}}">
+<html lang="sk">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -10,8 +10,8 @@
   <link rel="alternate" hreflang="en" href="https://jwministry.org/pioneer-calculator/" />
   <link rel="alternate" hreflang="ru" href="https://jwministry.org/ru/pioneer-calculator/" />
   <link rel="alternate" hreflang="x-default" href="https://jwministry.org/pioneer-calculator/" />
-  <link rel="icon" type="image/png" href="{{PREFIX}}/assets/logo.png" />
-  <link rel="stylesheet" href="{{PREFIX}}/assets/css/style.css" />
+  <link rel="icon" type="image/png" href="../..//assets/logo.png" />
+  <link rel="stylesheet" href="../..//assets/css/style.css" />
   <style>
     .calc-card { background: var(--card); border: 1px solid var(--border); border-radius: 22px; padding: 30px; box-shadow: var(--shadow); margin-bottom: 28px; }
     .calc-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 18px; margin-bottom: 24px; }
@@ -55,12 +55,12 @@
 <body>
   <header class="topbar">
     <div class="container topbar-inner">
-      <a href="{{HOME_LINK}}" class="brand">
-        <img src="{{PREFIX}}/assets/logo.png" alt="JW Ministry" class="brand-logo" width="38" height="38" />
+      <a href="/sk/" class="brand">
+        <img src="../..//assets/logo.png" alt="JW Ministry" class="brand-logo" width="38" height="38" />
         <span>JW Ministry</span>
       </a>
       <div class="nav-right">
-        <a href="{{HOME_LINK}}" class="back-pill" style="padding:7px 14px;border-radius:999px;background:var(--accent-soft);color:var(--accent-dark);font-weight:700;font-size:0.85rem;">{{BACK_HOME}}</a>
+        <a href="/sk/" class="back-pill" style="padding:7px 14px;border-radius:999px;background:var(--accent-soft);color:var(--accent-dark);font-weight:700;font-size:0.85rem;">← Home</a>
         
       </div>
     </div>
@@ -109,29 +109,29 @@
   </header>
 
   <main class="container" style="max-width:880px;padding:42px 20px 64px;">
-    <span class="badge">{{BADGE}}</span>
+    <span class="badge">JW Ministry • v2.0.1</span>
     <h1 style="font-size:clamp(1.8rem,4vw,2.5rem);line-height:1.18;margin-bottom:14px;">Kalkulačka rozvrhu Pioneer</h1>
     <p style="font-size:1.05rem;color:var(--muted);margin-bottom:28px;">Naplánujte si hodiny terénnej služby na 15 hodín alebo 30 hodín pomocného priekopníka, 50 hodín pravidelného priekopníka (600 hodín za služobný rok) alebo vlastný cieľ.</p>
 
     <div class="calc-card">
       <div class="calc-grid">
         <div class="calc-field">
-          <label for="goal-select">{{LBL_GOAL}}</label>
+          <label for="goal-select">Mesačný cieľ</label>
           <select id="goal-select" onchange="calcPioneer()">
             <option value="50" selected>Pravidelný Pioneer – 50 h/mes</option>
             <option value="30">Pomocný priekopník – 30 h/mes</option>
             <option value="15">Pomocný priekopník – 15 h/mes</option>
             <option value="90">Special Pioneer – 90 h/mes</option>
             <option value="100">Special Pioneer – 100 h/mes</option>
-            <option value="custom">{{OPT_CUSTOM}}</option>
+            <option value="custom">Custom goal</option>
           </select>
         </div>
         <div class="calc-field" id="custom-wrap" style="display:none;">
-          <label for="custom-hours">{{LBL_CUSTOM}}</label>
+          <label for="custom-hours">Custom monthly goal (hours)</label>
           <input type="number" id="custom-hours" min="1" max="200" value="55" oninput="calcPioneer()" />
         </div>
         <div class="calc-field">
-          <label for="days-select">{{LBL_DAYS}}</label>
+          <label for="days-select">Ministerstvo dní v týždni</label>
           <select id="days-select" onchange="calcPioneer()">
             <option value="2">2</option>
             <option value="3">3</option>
@@ -160,8 +160,8 @@
     </div>
 
     <div class="cta-row">
-      <a href="https://apps.apple.com/us/app/jw-ministry/id6756040136" class="btn btn-primary" target="_blank" rel="noopener"> {{CTA}}</a>
-      <a href="{{BIBLE_LINK}}" class="btn btn-secondary">{{BIBLE_BTN}}</a>
+      <a href="https://apps.apple.com/us/app/jw-ministry/id6756040136" class="btn btn-primary" target="_blank" rel="noopener"> Rozpis tratí v JW Ministry</a>
+      <a href="/sk/bible-reading-schedule/" class="btn btn-secondary">Rozpis čítania Biblie</a>
     </div>
   </main>
 
@@ -169,8 +169,8 @@
     <div class="container footer-inner">
       <div>© 2025–2026 JW Ministry. All rights reserved.</div>
       <div class="footer-links">
-        <a href="{{HOME_LINK}}">{{BACK_HOME}}</a>
-        <a href="{{PRIV_LINK}}">{{PRIV_LABEL}}</a>
+        <a href="/sk/">← Home</a>
+        <a href="/sk/privacy-policy.html">Zásady ochrany súkromia</a>
       </div>
     </div>
   </footer>

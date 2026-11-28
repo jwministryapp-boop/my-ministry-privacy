@@ -460,58 +460,86 @@ if os.path.exists(calc_tpl_file):
     with open(calc_tpl_file, "r", encoding="utf-8") as f:
         calc_tpl = f.read()
     for code in CFG["supported_langs"]:
-        with open(os.path.join(BASE, f"locales/{code}.json"), "r", encoding="utf-8") as _f: d = json.load(_f)
+        with open(os.path.join(BASE, f"locales/{code}.json"), "r", encoding="utf-8") as _f:
+            d = json.load(_f)
         cp = d.get("calc_page")
         if not cp:
             continue
         is_root = (code == "en")
         out_dir = os.path.join(BASE, "pioneer-calculator" if is_root else f"{code}/pioneer-calculator")
         os.makedirs(out_dir, exist_ok=True)
+        asset_prefix = "../" if is_root else "../../"
         canonical = f"{SITE_URL}/pioneer-calculator/" if is_root else f"{SITE_URL}/{code}/pioneer-calculator/"
         home_url = "/" if is_root else f"/{code}/"
         bible_url = "/bible-reading-schedule/" if is_root else f"/{code}/bible-reading-schedule/"
+        priv_url = "/privacy-policy.html" if is_root else f"/{code}/privacy-policy.html"
         hreflangs = [f'<link rel="alternate" hreflang="x-default" href="{SITE_URL}/pioneer-calculator/">']
         lang_links = []
         for lc in CFG["supported_langs"]:
-            with open(os.path.join(BASE, f"locales/{lc}.json"), "r", encoding="utf-8") as _lf: ld = json.load(_lf)
+            with open(os.path.join(BASE, f"locales/{lc}.json"), "r", encoding="utf-8") as _lf:
+                ld = json.load(_lf)
             lurl = f"{SITE_URL}/pioneer-calculator/" if lc == "en" else f"{SITE_URL}/{lc}/pioneer-calculator/"
             lhref = "/pioneer-calculator/" if lc == "en" else f"/{lc}/pioneer-calculator/"
             hreflangs.append(f'<link rel="alternate" hreflang="{ld.get("html_lang", lc)}" href="{lurl}">')
             active_style = 'background:#f3ecff;font-weight:700;' if lc == code else ''
             lang_links.append(f'<a href="{lhref}" style="text-decoration:none;color:#1f2937;padding:6px 8px;border-radius:8px;font-size:13px;white-space:nowrap;{active_style}">{ld.get("flag","")} {ld.get("name", lc)}</a>')
         page_html = calc_tpl
+        back_home = "← На главную" if code == "ru" else "← Home"
+        opt_custom = "Своя цель" if code == "ru" else "Custom goal"
+        lbl_custom = "Своя цель (часов в месяц)" if code == "ru" else "Custom monthly goal (hours)"
         repl = {
+            "{{LANG}}": d.get("html_lang", code),
             "{{HTML_LANG}}": d.get("html_lang", code),
+            "{{OG_LOCALE}}": d.get("og_locale", "en_US"),
+            "{{PREFIX}}": asset_prefix,
+            "{{ASSET_PREFIX}}": asset_prefix,
             "{{TITLE}}": cp["title"],
             "{{DESC}}": cp["desc"],
             "{{CANONICAL}}": canonical,
             "{{HREFLANGS}}": "\n  ".join(hreflangs),
             "{{GA_SCRIPT}}": get_ga_script() if "get_ga_script" in globals() else "",
+            "{{HOME_LINK}}": home_url,
             "{{HOME_URL}}": home_url,
+            "{{BACK_HOME}}": back_home,
+            "{{ALT_URL}}": home_url,
+            "{{ALT_LABEL}}": "",
+            "{{BIBLE_LINK}}": bible_url,
             "{{BIBLE_URL}}": bible_url,
+            "{{PRIV_LINK}}": priv_url,
+            "{{PRIV_URL}}": priv_url,
+            "{{PRIV_LABEL}}": d.get("footer_privacy", "Privacy Policy"),
             "{{APP_STORE_URL}}": CFG.get("app_store_url", "https://apps.apple.com/us/app/jw-ministry/id6756040136"),
             "{{CURRENT_LANG_LABEL}}": f'{d.get("flag","")} {d.get("name", code)}',
             "{{LANG_LINKS}}": "\n".join(lang_links),
+            "{{BADGE}}": "JW Ministry • v2.0.1",
             "{{H1}}": cp["h1"],
             "{{INTRO}}": cp["intro"],
+            "{{LBL_GOAL}}": cp["label_goal"],
             "{{LABEL_GOAL}}": cp["label_goal"],
             "{{OPT_15}}": cp["opt_15"],
             "{{OPT_30}}": cp["opt_30"],
             "{{OPT_50}}": cp["opt_50"],
             "{{OPT_90}}": cp["opt_90"],
             "{{OPT_100}}": cp["opt_100"],
+            "{{OPT_CUSTOM}}": opt_custom,
+            "{{LBL_CUSTOM}}": lbl_custom,
+            "{{LBL_DAYS}}": cp["label_days"],
             "{{LABEL_DAYS}}": cp["label_days"],
             "{{RES_WEEK}}": cp["res_week"],
             "{{RES_DAY}}": cp["res_day"],
             "{{RES_YEAR}}": cp["res_year"],
             "{{UNIT_H}}": cp["unit_h"],
+            "{{CTA}}": cp["cta_app"],
             "{{CTA_APP}}": cp["cta_app"],
+            "{{BIBLE_BTN}}": cp["cta_bible"],
             "{{CTA_BIBLE}}": cp["cta_bible"],
         }
         for k, v in repl.items():
             page_html = page_html.replace(k, str(v))
         with open(os.path.join(out_dir, "index.html"), "w", encoding="utf-8") as f:
             f.write(page_html)
+print(f"✅ Калькулятор пионера сгенерирован на всех {len(CFG['supported_langs'])} языках!")
+# === End Pioneer Calculator ===
 
 # === Internal Linking Bar (Tools) ===
 for code in CFG["supported_langs"]:

@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="{{LANG}}">
+<html lang="hi">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -10,8 +10,8 @@
   <link rel="alternate" hreflang="en" href="https://jwministry.org/pioneer-calculator/" />
   <link rel="alternate" hreflang="ru" href="https://jwministry.org/ru/pioneer-calculator/" />
   <link rel="alternate" hreflang="x-default" href="https://jwministry.org/pioneer-calculator/" />
-  <link rel="icon" type="image/png" href="{{PREFIX}}/assets/logo.png" />
-  <link rel="stylesheet" href="{{PREFIX}}/assets/css/style.css" />
+  <link rel="icon" type="image/png" href="../..//assets/logo.png" />
+  <link rel="stylesheet" href="../..//assets/css/style.css" />
   <style>
     .calc-card { background: var(--card); border: 1px solid var(--border); border-radius: 22px; padding: 30px; box-shadow: var(--shadow); margin-bottom: 28px; }
     .calc-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 18px; margin-bottom: 24px; }
@@ -55,12 +55,12 @@
 <body>
   <header class="topbar">
     <div class="container topbar-inner">
-      <a href="{{HOME_LINK}}" class="brand">
-        <img src="{{PREFIX}}/assets/logo.png" alt="JW Ministry" class="brand-logo" width="38" height="38" />
+      <a href="/hi/" class="brand">
+        <img src="../..//assets/logo.png" alt="JW Ministry" class="brand-logo" width="38" height="38" />
         <span>JW Ministry</span>
       </a>
       <div class="nav-right">
-        <a href="{{HOME_LINK}}" class="back-pill" style="padding:7px 14px;border-radius:999px;background:var(--accent-soft);color:var(--accent-dark);font-weight:700;font-size:0.85rem;">{{BACK_HOME}}</a>
+        <a href="/hi/" class="back-pill" style="padding:7px 14px;border-radius:999px;background:var(--accent-soft);color:var(--accent-dark);font-weight:700;font-size:0.85rem;">← Home</a>
         
       </div>
     </div>
@@ -109,29 +109,29 @@
   </header>
 
   <main class="container" style="max-width:880px;padding:42px 20px 64px;">
-    <span class="badge">{{BADGE}}</span>
+    <span class="badge">JW Ministry • v2.0.1</span>
     <h1 style="font-size:clamp(1.8rem,4vw,2.5rem);line-height:1.18;margin-bottom:14px;">पायनियर शेड्यूल कैलकुलेटर</h1>
     <p style="font-size:1.05rem;color:var(--muted);margin-bottom:28px;">15 घंटे या 30 घंटे सहायक पायनियर, 50 घंटे नियमित पायनियर (प्रति सेवा वर्ष 600 घंटे), या एक कस्टम लक्ष्य के लिए अपने क्षेत्र सेवा घंटों की योजना बनाएं।</p>
 
     <div class="calc-card">
       <div class="calc-grid">
         <div class="calc-field">
-          <label for="goal-select">{{LBL_GOAL}}</label>
+          <label for="goal-select">मासिक लक्ष्य</label>
           <select id="goal-select" onchange="calcPioneer()">
             <option value="50" selected>नियमित पायनियर - 50 घंटे/महीना</option>
             <option value="30">सहायक पायनियर - 30 घंटे/महीना</option>
             <option value="15">सहायक पायनियर - 15 घंटे/महीना</option>
             <option value="90">विशेष पायनियर - 90 घंटे/महीना</option>
             <option value="100">विशेष पायनियर - 100 घंटे/महीना</option>
-            <option value="custom">{{OPT_CUSTOM}}</option>
+            <option value="custom">Custom goal</option>
           </select>
         </div>
         <div class="calc-field" id="custom-wrap" style="display:none;">
-          <label for="custom-hours">{{LBL_CUSTOM}}</label>
+          <label for="custom-hours">Custom monthly goal (hours)</label>
           <input type="number" id="custom-hours" min="1" max="200" value="55" oninput="calcPioneer()" />
         </div>
         <div class="calc-field">
-          <label for="days-select">{{LBL_DAYS}}</label>
+          <label for="days-select">प्रति सप्ताह मंत्रालय दिवस</label>
           <select id="days-select" onchange="calcPioneer()">
             <option value="2">2</option>
             <option value="3">3</option>
@@ -160,8 +160,8 @@
     </div>
 
     <div class="cta-row">
-      <a href="https://apps.apple.com/us/app/jw-ministry/id6756040136" class="btn btn-primary" target="_blank" rel="noopener"> {{CTA}}</a>
-      <a href="{{BIBLE_LINK}}" class="btn btn-secondary">{{BIBLE_BTN}}</a>
+      <a href="https://apps.apple.com/us/app/jw-ministry/id6756040136" class="btn btn-primary" target="_blank" rel="noopener"> JW Ministry में ट्रैक शेड्यूल</a>
+      <a href="/hi/bible-reading-schedule/" class="btn btn-secondary">बाइबिल पढ़ने का कार्यक्रम</a>
     </div>
   </main>
 
@@ -169,8 +169,8 @@
     <div class="container footer-inner">
       <div>© 2025–2026 JW Ministry. All rights reserved.</div>
       <div class="footer-links">
-        <a href="{{HOME_LINK}}">{{BACK_HOME}}</a>
-        <a href="{{PRIV_LINK}}">{{PRIV_LABEL}}</a>
+        <a href="/hi/">← Home</a>
+        <a href="/hi/privacy-policy.html">गोपनीयता नीति</a>
       </div>
     </div>
   </footer>
